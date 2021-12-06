@@ -1778,50 +1778,58 @@ function createSlot(slot, content){
 	ret.innerHTML = content;
 	return ret;
 }
-function defineThings(input){
-	return input
+function defineTags(input){
+	const tags = {
 		// run tags
-		.replaceAll('[WR]', '<abbr title="New World Record!!!">[WR]</abbr>')
-		.replaceAll('[PB]', '<abbr title="New Personal Best!">[PB]</abbr>')
-		.replaceAll('[NF]', '<abbr title="Did Not Finish">[NF]</abbr>')
-		.replaceAll('[NV]', '<abbr title="Run Invalid">[NV]</abbr>')
+		'[WR]':		'New World Record!!!',
+		'[PB]':		'New Personal Best!',
+		'[NF]':		'Did Not Finish',
+		'[NV]':		'Run Not Valid',
+		
 		// runner tags
-		.replaceAll('[WRH]', '<abbr title="World Record Holder">[WRH]</abbr>')
-		.replaceAll('[2RH]', '<abbr title="2nd Place Record Holder">[2RH]</abbr>')
-		.replaceAll('[3RH]', '<abbr title="3rd Place Record Holder">[3RH]</abbr>')
-		.replaceAll('[ORH]', '<abbr title="Only Record Holder">[ORH]</abbr>')
-		.replaceAll('[NR]', '<abbr title="Not Ranked">[NR]</abbr>')
+		'[WRH]':	'World Record Holder',
+		'[2RH]':	'2nd Place Record Holder',
+		'[3RH]':	'3rd Place Record Holder',
+		'[ORH]':	'Only Record Holder',
+		
 		// couch tags
-		.replaceAll('[VA]', '<abbr title="Voice Actor">[VA]</abbr>')
-		.replaceAll('[DEV]', '<abbr title="Game Developer">[DEV]</abbr>')
-		.replaceAll('[CM]', '<abbr title="Community Manager">[CM]</abbr>')
-	;
+		'[VA]':		'Voice Actor',
+		'[DEV]':	'Game Developer',
+		'[CM]':		'Community Manager',
+	};
+	for (var tag in tags){
+		input = input.replaceAll(tag, '<abbr title="' + tags[tag] + '">' + tag + '</abbr>');
+	}
+	return input;
 }
 function definePlatforms(input){
-	return input
-		.replaceAll(/(?<!S)NES/g, '<abbr title="Nintendo Entertainment System">NES</abbr>')
-		.replaceAll('SNES', '<abbr title="Super Nintendo Entertainment System">SNES</abbr>')
-		.replaceAll('N64', '<abbr title="Nintendo 64">N64</abbr>')
-		.replaceAll('GC', '<abbr title="Nintendo GameCube">GC</abbr>')
-		.replaceAll(/GB(?!A|C)/g, '<abbr title="Nintendo Game Boy">GB</abbr>')
-		.replaceAll('GBC', '<abbr title="Nintendo Game Boy Color">GBC</abbr>')
-		.replaceAll('GBA', '<abbr title="Nintendo Game Boy Advance">GBA</abbr>')
-		.replaceAll(/(?<!3)DS/g, '<abbr title="Nintendo DS">DS</abbr>')
-		.replaceAll(/3DS/g, '<abbr title="Nintendo 3DS">3DS</abbr>')
-		.replaceAll('PS1', '<abbr title="Sony PlayStation">PS1</abbr>')
-		.replaceAll('PS2', '<abbr title="Sony PlayStation 2">PS2</abbr>')
-		.replaceAll('PS3', '<abbr title="Sony PlayStation 3">PS3</abbr>')
-		.replaceAll('PS4', '<abbr title="Sony PlayStation 4">PS4</abbr>')
-		.replaceAll('PS5', '<abbr title="Sony PlayStation 5">PS5</abbr>')
-		.replaceAll('PSP', '<abbr title="Sony PlayStation Portable">PSP</abbr>')
-		.replaceAll('PSTV', '<abbr title="Sony PlayStation TV">PSTV</abbr>')
-		.replaceAll('XbC', '<abbr title="Microsoft Xbox (the first one)">XbC</abbr>')
-		.replaceAll('Xb360', '<abbr title="Microsoft Xbox 360">Xb360</abbr>')
-		.replaceAll('Xb1', '<abbr title="Microsoft Xbox One (the third one)">Xb1</abbr>')
-		.replaceAll('XSX', '<abbr title="Microsoft Xbox Series X">XSX</abbr>')
-		.replaceAll('PCE', '<abbr title="NEC PC Engine/TurboGrafx-16">PCE</abbr>')
-		.replaceAll('VC', '<abbr title="Virtual Console">VC</abbr>')
-	;
+	return input.split(/\s+/).map(function(w){
+		const platforms = {
+			'NES':		'Nintendo Entertainment System',
+			'SNES': 	'Super Nintendo Entertainment System',
+			'N64':		'Nintendo 64',
+			'GC':		'Nintendo GameCube',
+			'GB':		'Nintendo Game Boy',
+			'GBC':		'Nintendo Game Boy Color',
+			'GBA':		'Nintendo Game Boy Advance',
+			'DS':		'Nintendo DS',
+			'3DS':		'Nintendo 3DS',
+			'VC': 		'Virtual Console',
+			'PS1':		'Sony PlayStation 1',
+			'PS2':		'Sony PlayStation 2',
+			'PS3':		'Sony PlayStation 3',
+			'PS4':		'Sony PlayStation 4',
+			'PS5':		'Sony PlayStation 5',
+			'PSP':		'Sony PlayStation Portable',
+			'PSTV':		'Sony PlayStation TV',
+			'XbC':		'Microsoft Xbox (the first one)',
+			'Xb360':	'Microsoft Xbox 360 (the second one)',
+			'Xb1':		'Microsoft Xbox One (the third one)',
+			'XSX':		'Microsoft Xbox Series X (the fourth and newest one)',
+			'PCE':		'NEC PC Engine/TurboGrafx-16',
+		};
+		return platforms.hasOwnProperty(w) ? '<abbr title="' + platforms[w] + '">' + w + '</abbr>' : w;
+	}).join(' ');
 }
 
 customElements.define('gdq-run',
@@ -1902,12 +1910,12 @@ for (run of input.trim().split("\n\n")){
 	run_element.appendChild(createSlot("dev",  title_re[3]));
 	run_element.appendChild(createSlot("year", title_re[4]));
 	run_element.appendChild(createSlot("category", lines[1]));
-	run_element.appendChild(createSlot("runner", defineThings(lines[2])));
-	run_element.appendChild(createSlot("crew", defineThings(lines[3])));
+	run_element.appendChild(createSlot("runner", defineTags(lines[2])));
+	run_element.appendChild(createSlot("crew", defineTags(lines[3])));
 	run_element.appendChild(createSlot("time", time_re[1]));
 	run_element.appendChild(createSlot("estimate", time_re[2]));
 	run_element.appendChild(createSlot("wr", time_re[3].replaceAll('igt', '<abbr title="In-Game Time">igt</abbr>')));
-	run_element.appendChild(createSlot("time-tags", defineThings(time_re[4])));
+	run_element.appendChild(createSlot("time-tags", defineTags(time_re[4])));
 	run_element.appendChild(createSlot("overall", lines[5].substring(8)));
 	run_element.appendChild(createSlot("skill", lines[6].substring(8)));
 	run_element.appendChild(createSlot("fun", lines[7].substring(8)));
