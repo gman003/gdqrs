@@ -5,7 +5,15 @@
 * {
 	box-sizing: border-box;
 }
-body {
+.agdq {
+	--color-fg-main: #2d6665;
+	--color-fg-h1:   #FFF;
+	--color-fg-h2:   #FFF;
+	--color-bg-main: #000;
+	--color-bg-h1:   #339999;
+	--color-bg-h2:   #003232;
+}
+.sgdq {
 	--color-fg-main: #2d6665;
 	--color-fg-h1:   #FFF;
 	--color-fg-h2:   #FFF;
@@ -27,13 +35,7 @@ body {
 	overflow-y: scroll;
 	scrollbar-width: thin;
 }
-#runs::-webkit-scrollbar {
-	width: 8px;
-}
-#runs::-webkit-scrollbar-thumb {
-	background: #424242;
-}
-#runs h1,h2 {
+#runs h1, #runs h2 {
 	width: 100%;
 	padding: 4px 24px;
 	font-size: 24px;
@@ -45,11 +47,22 @@ body {
 	background: var(--color-bg-h1);
 	color: var(--color-fg-h1);
 }
+#runs h1 span {
+	display: block;
+	font-size: 12px;
+}
 #runs h2 {
 	background: var(--color-bg-h2);
 	color: var(--color-fg-h2);
 }
-#player {
+#runs::-webkit-scrollbar {
+	width: 8px;
+}
+#runs::-webkit-scrollbar-thumb {
+	background: #424242;
+}
+
+#main {
 	position: absolute;
 	top: 0;
 	left: calc(100% - var(--player-width));
@@ -59,15 +72,56 @@ body {
 	color: white;
 	text-align: center;
 }
-#info {
+#main div {
+	width: 100%;
+}
+#main #player {
+	width: 100%;
+	height: 100%;
+}
+#main .container {
+	height: calc(var(--player-height) - 128px);
+}
+#main .container::-webkit-scrollbar {
+	width: 8px;
+}
+#main .container::-webkit-scrollbar-thumb {
+	background: #424242;
+}
+
+#navbar {
 	position: absolute;
 	bottom: 0;
 	left: calc(100% - var(--player-width));
 	width: var(--player-width);
 	height: calc(100% - var(--player-height));
 	vertical-align: bottom;
+	overflow: hidden;
+	background: black;
 }
-#info #days {
+#navbar #days {
+	width: 100%;
+	bottom: 0;
+	position: absolute;
+	padding: 0 24px;
+	display: flex;
+	column-gap: 24px;
+}
+#navbar #days a {
+	flex: 1;
+	border-width: 4px 4px 0 4px;
+	border-color: var(--color-bg-h2);
+	border-style: solid;
+	color: var(--color-fg-h2);
+	padding: 4px 24px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+}
+#navbar #days a:hover {
+	background: var(--color-bg-h2);
+}
+#navbar #content {
 	width: 100%;
 	top: 0;
 	position: absolute;
@@ -75,7 +129,7 @@ body {
 	display: flex;
 	column-gap: 24px;
 }
-#info #days a {
+#navbar #content a {
 	flex: 1;
 	border-width: 0 4px 4px 4px;
 	border-color: var(--color-bg-h2);
@@ -86,35 +140,8 @@ body {
 	text-decoration: none;
 	text-align: center;
 }
-#info #days a:hover {
+#navbar #content a:hover {
 	background: var(--color-bg-h2);
-}
-#info #blurb {
-	position: absolute;
-	bottom: 0;
-	right: 0;
-	margin: 8px;
-	text-align: right;
-}
-
-#ratings-key {
-	position: fixed;
-	left: calc(50% - 300px);
-	top: calc(50% - 150px);
-	width: 600px;
-	height: 300px;
-	background: var(--color-bg-h2);
-	color: var(--color-fg-h2);
-}
-
-#ratings-key h2 {
-	background: var(--color-bg-h1);
-	color: var(--color-fg-h1);
-}
-
-#ratings-key .rating {
-	padding-left: 16px; padding-right: 32px;
-	color: #ffb900;
 }
 
 #raw {
@@ -127,7 +154,13 @@ body {
 		--player-width: 1920px;
 		--player-height: 1080px;
 	}
-	#info #days a {
+	#main #browser {
+		--eventlist-size: 48px;
+	}
+	#main #info .container {
+		columns: 3 auto;
+	}
+	#navbar a {
 		font-size: 24px;
 	}
 }
@@ -136,7 +169,13 @@ body {
 		--player-width: 1280px;
 		--player-height: 720px;
 	}
-	#info #days a {
+	#main #browser {
+		--eventlist-size: 48px;
+	}
+	#main #info .container {
+		columns: 2 auto;
+	}
+	#navbar  a {
 		font-size: 16px;
 	}
 }
@@ -145,12 +184,30 @@ body {
 		--player-width: 854px;
 		--player-height: 480px;
 	}
-	#info #days {
-		column-gap: 12px;
+	#main #browser {
+		--eventlist-size: 36px;
 	}
-	#info #days a {
+	#main #info .container {
+		overflow-y: scroll;
+	}
+	#main #filters .container {
+		overflow-y: scroll;
+	}
+	#main #info .container div {
+		height: auto;
+	}
+	#navbar #days {
+		column-gap: 72px;
+	}
+	#navbar a {
 		font-size: 16px;
 		padding: 4px;
+	}
+	#navbar #days a {
+		writing-mode: vertical-rl;
+		text-orientation: upright;
+		padding: 12px;
+		vertical-align: top;
 	}
 }
 @media (max-width: 1200px) {
@@ -158,33 +215,52 @@ body {
 		--player-width: 640px;
 		--player-height: 360px;
 	}
-	#info #days {
+	#main #browser {
+		--eventlist-size: 36px;
+	}
+	#main #info .container {
+		overflow-y: scroll;
+	}
+	#main #info .container div {
+		height: auto;
+	}
+	#navbar #content {
 		column-gap: 2px;
 	}
-	#info #days a {
+	#navbar #days {
+		column-gap: 18px;
+	}
+	#navbar a {
 		font-size: 12px;
-		padding: 4px;
+		padding: 2px;
+	}
+	#navbar #days a {
+		writing-mode: vertical-rl;
+		text-orientation: upright;
 	}
 }
 </style>
 <style media="all and (orientation: portrait)">
-#player {
+#main {
 	left: calc((100% - var(--player-width)) / 2);
 }
 #runs {
 	position: absolute;
-	top: calc(var(--player-height) + 40px);
+	top: calc(var(--player-height) + 72px);
 	width: 100%;
-	height: calc(100% - var(--player-height));
+	height: calc(100% - var(--player-height) - 72px);
 }
-#info {
+#navbar {
 	width: 100%;
-	height: 24px;
+	height: 72px;
 	top: var(--player-height);
 	left: 0;
 }
-#info #blurb {
-	display: none;
+#navbar div {
+	height: 50%;
+}
+#navbar #days a {
+	border-width: 0 4px 4px 4px;
 }
 
 @media (min-width: 2560px){
@@ -192,12 +268,15 @@ body {
 		--player-width: 2560px;
 		--player-height: 1440px;
 	}
-	#info #days a {
+	#main #browser {
+		--eventlist-size: 48px;
+	}
+	#main #info .container {
+		columns: 2 auto;
+	}
+	#navbar a {
 		font-size: 24px;
 		padding: 8px;
-	}
-	#runs {
-		top: calc(var(--player-height) + 80px);
 	}
 }
 @media (min-width: 1920px) and (max-width: 2560px){
@@ -205,12 +284,15 @@ body {
 		--player-width: 1920px;
 		--player-height: 1080px;
 	}
-	#info #days a {
+	#main #browser {
+		--eventlist-size: 48px;
+	}
+	#main #info .container {
+		columns: 2 auto;
+	}
+	#navbar a {
 		font-size: 24px;
 		padding: 8px;
-	}
-	#runs {
-		top: calc(var(--player-height) + 80px);
 	}
 }
 @media (min-width: 1280px) and (max-width: 1920px){
@@ -218,12 +300,15 @@ body {
 		--player-width: 1280px;
 		--player-height: 720px;
 	}
-	#info #days a {
+	#main #browser {
+		--eventlist-size: 48px;
+	}
+	#main #info .container {
+		columns: 2 auto;
+	}
+	#navbar a {
 		font-size: 24px;
 		padding: 8px;
-	}
-	#runs {
-		top: calc(var(--player-height) + 80px);
 	}
 }
 @media (min-width: 854px) and (max-width: 1280px){
@@ -231,7 +316,16 @@ body {
 		--player-width: 854px;
 		--player-height: 480px;
 	}
-	#info #days a {
+	#main #browser {
+		--eventlist-size: 36px;
+	}
+	#main #info .container {
+		overflow-y: scroll;
+	}
+	#main #info .container div {
+		height: auto;
+	}
+	#navbar a {
 		font-size: 16px;
 		padding: 4px;
 	}
@@ -241,29 +335,51 @@ body {
 		--player-width: 640px;
 		--player-height: 360px;
 	}
-	#info #days a {
+	#main #browser {
+		--eventlist-size: 24px;
+	}
+	#main #info .container {
+		overflow-y: scroll;
+	}
+	#main #info .container div {
+		height: auto;
+	}
+	#navbar a {
 		font-size: 12px;
 		padding: 4px;
 	}
 }
 </style>
-<body>
+<body class="sgdq">
 <template id="gdq-run">
 	<style>
 		* {
 			box-sizing: border-box;
 		}
-		.run {
+
+		:host(.agdq) {
 			--color-fg-head: #ffb900;
 			--color-fg-fade: #65662f;
-			--color-fg-main: #5dc2c0;
+			--color-fg-cont: #e10189;
 			--color-bg-head: #424242;
-			--color-bg-main: #2c2c2c;
+			--color-bg-cont: #2c2c2c;
 		}
+		:host(.sgdq) {
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #65662f;
+			--color-fg-cont: #5dc2c0;
+			--color-bg-head: #424242;
+			--color-bg-cont: #2c2c2c;
+		}
+		
+		:host([rating="5"]) .run {
+			border: 1px solid var(--color-fg-fade);
+		}
+		
 		.run {
 			width: 100%;
-			color: var(--color-fg-main);
-			background: var(--color-bg-main);
+			color: var(--color-fg-cont);
+			background: var(--color-bg-cont);
 			margin-bottom: 16px;
 			padding-bottom: 16px;
 		}
@@ -327,1665 +443,214 @@ body {
 	</div>
 </template>
 
-<div id="runs">
-	<h1>SGDQ 2021</h1>
+<div id="runs"></div>
+
+<div id="main">
+	<div id="browser" hidden="true">
+		<h1>Select Marathon</h1>
+		<div class="container">
+			<a class="agdq" onclick="loadMarathon('agdq2019')">AGDQ 2019<span>(99% - 139/140)</span></a>
+			<a class="sgdq" onclick="loadMarathon('sgdq2019')">SGDQ 2019<span>(98% - 145/148)</span></a>
+			<a class="agdq" onclick="loadMarathon('agdq2020')">AGDQ 2020<span>(99% - 145/146)</span></a>
+			<a class="sgdq" onclick="loadMarathon('sgdq2020')">SGDQ 2020<span>(59% - 87/147)</span></a>
+			<a class="agdq" onclick="loadMarathon('agdq2021')">AGDQ 2021<span>(89% - 136/153)</span></a>
+			<a class="sgdq" onclick="loadMarathon('sgdq2021')">SGDQ 2021<span>(100% - 150/150)</span></a>
+			<a class="agdq" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>Coming January</span></a>
+		</div>
+		<script>
+			function loadMarathon(marathon, reset = true){
+				var title = marathon.substring(0, 4).toUpperCase() + ' ' + marathon.substring(4);
+				
+				// set global style
+				if (marathon.startsWith('a')){
+					document.body.className = "agdq";
+				} else {
+					document.body.className = "sgdq";
+				}
+				
+				if (reset){
+					// scroll back to top and clear day link, unless this is an initial page load
+					window.location.hash = "";
+					document.getElementById("runs").scrollTo(0,0);
+				}
+				
+				hideAllContentBut('player');
+				
+				loadReviewsForMarathon(marathon);
+				
+				// set URL
+				
+				if (reset && window.location.protocol != "file:"){
+					var url = new URL(window.location.origin + window.location.pathname); // clear that obnoxious #
+				} else {
+					var url = new URL(window.location);
+				}
+				url.searchParams.set('m', marathon);
+				window.history.pushState({"html":document.body.innerHTML},title, url);
+			}
+		</script>
+		<style>
+			#main #browser h1 {
+				font-size: var(--eventlist-size);
+				font-weight: bold;
+				font-family: sans-serif;
+				margin: 0;
+				padding: calc(var(--eventlist-size)/2) 0 var(--eventlist-size) 0;
+			}
+			#main #browser .container {
+				--eventlist-button-width: calc(var(--eventlist-size) * 20 / 3) /*320px*/;
+				--eventlist-button-height: calc(var(--eventlist-size) * 5 / 2) /*120px*/;
+				display: grid;
+				grid-template-columns: repeat(auto-fill, minmax(var(--eventlist-button-width), 1fr));
+				padding: var(--eventlist-size);
+			}
+			#main #browser a {
+				font-size: var(--eventlist-size);
+				font-weight: bold;
+				font-family: sans-serif;
+				text-align: center;
+				width: var(--eventlist-button-width);
+				height: var(--eventlist-button-height);
+				padding: calc(var(--eventlist-size)/2);
+				margin: auto;
+				border: 2px solid var(--color-bg-h1);
+				background: var(--color-bg-h2);
+			}
+			#main #browser a span {
+				display: block;
+				font-size: 12px;
+			}
+		</style>
+	</div>
+	<div id="player" hidden="true">Youtube Player - If you see this, either you've disabled Javascript, or Youtube's messed up.</div>
+	<div id="filters" hidden="true">
+		<h1>Filters</h1>
+		<div class="container">
+			<div>
+				<h3>By Ratings</h3>
+				<label><input type="checkbox" name="rating"         rating="N"/>Not Rated</label>
+				<label><input type="checkbox" name="rating" checked rating="0"/>☆☆☆☆☆</label>
+				<label><input type="checkbox" name="rating" checked rating="1"/>★☆☆☆☆</label>
+				<label><input type="checkbox" name="rating" checked rating="2"/>★★☆☆☆</label>
+				<label><input type="checkbox" name="rating" checked rating="3"/>★★★☆☆</label>
+				<label><input type="checkbox" name="rating" checked rating="4"/>★★★★☆</label>
+				<label><input type="checkbox" name="rating" checked rating="5"/>★★★★★</label>
+				<label><input type="checkbox" name="rating" checked rating="S"/>Special</label>
+			</div>
+			<div>
+				<h3>By People</h3>
+				<label><input type="text" name="runner" placeholder="(eg. TheMexicanRunner)" />Runner(s)</label>
+				<label><input type="text" name="crew" placeholder="(eg. SpikeVegeta)" />Crew</label>
+				<p>Tip: Search "[WRH]" to find only runs by world record holders, or "race" to find competitive races.</p>
+			</div>
+			<div>
+				<h3>By Game</h3>
+				<label><input type="text" name="game" placeholder="(eg. Mario)" />Game Title</label>
+				<label><input type="text" name="category" placeholder="(eg. Any%)" />Run Category</label>
+				<label><input type="text" name="platform" placeholder="(eg. NES)" />Platform</label>
+			</div>
+		</div>
+		
+		<style>
+		#filters .container {
+			columns: 2 auto;
+			gap: 8px;
+		}
+		#filters .container div {
+			display: inline-block;
+		}
+		#filters h3 {
+			width: 100%;
+			background: var(--color-fg-main);
+			color: black;
+		}
+		#filters label {
+			display: block;
+			text-align: left;
+		}
+		#filters input {
+			margin: 8px 8px 8px 24px;
+		}
+		</style>
+	</div>
+	<div id="info" hidden="true">
+		<h1>Information</h1>
+		<div class="container">
+			<div>
+				<h3>Timing</h3>
+				<p>Run times given are RTA/with loads. When possible, WR is given as RTA/with loads, even when rankings are determined IGT/loadless - so the IGT-based record holder is maintained, but I list the WR's RTA timing, for easiest comparison to the run length. Exceptions to this standard (eg. where the leaderboards do not list RTA timings) are noted.</p>
+				<p>Run times generally follow the on-screen timer, except when that is significantly mistimed. Exhibition and showcase runs generally give a rough time, as they have no record to compare to.</p>
+				<p>Leaderboards are generally checked a few days before the event begins, so last-minute record snags may be missed.</p>
+			</div>
+			<div>
+				<h3>Ratings Guide</h3>
+				<p>I am in the habit of using the full range of ratings, which may seem harsh to those used to seeing nothing lower than a 7/10. For reference, I expect to give only a few five-star ratings in each event, and even a single-star run is worth watching if it's a game or runner you particularly enjoy.</p>
+				<table>
+				<tr><th>☆☆☆☆☆</th><td>Don't bother watching</td></tr>
+				<tr><th>★☆☆☆☆</th><td>A weak run, can still be fun if it's a game you love but otherwise skippable</td></tr>
+				<tr><th>★★☆☆☆</th><td>A solid but unremarkable run</td></tr>
+				<tr><th>★★★☆☆</th><td>A good run, not a highlight but worth watching eventually</td></tr>
+				<tr><th>★★★★☆</th><td>A great run, only avoid if it's a game or runner you just can't stand</td></tr>
+				<tr><th>★★★★★</th><td>One of the best runs of all time</td></tr>
+				</table>
+			</div>
+			<div>
+				<h3>Corrections &amp; Contributions</h3>
+				<p>If any information is factually incorrect (eg. wrong developer name, misspelled couch member), please feel free to <a href="https://github.com/gman003/gdqrs/issues">file a bug on the GitHub page</a>.</p>
+				<p>If you wish to contribute to this project, <a href="https://github.com/gman003/gdqrs">check out the GitHub</a>. While I do not accept outside reviews, I'm more than happy to include fixes or improvements.</p>
+			</div>
+			<div>
+				<h3>Legal Blurb</h3>
+				<p>Games Done Quick: Reviewed Slow is by GMan003. The above reviews are my personal and subjective opinion.</p>
+				<p>Games Done Quick and Awesome Games Done Quick are registered trademarks of Games Done Quick LLC, used here under nominative fair use. GDQ is an awesome event for good causes, and you should be watching it and giving them money.</p>
+			</div>
+		</div>
+		<style>
+			#main #info .container {
+				gap: 8px;
+			}
+			#main #info .container div {
+				display: inline-block;
+			}
+			#main #info h3 {
+				width: 100%;
+				background: var(--color-fg-main);
+				color: black;
+			}
+			#main #info p {
+				text-align: left;
+			}
+
+			#main #info table {
+				width: 100%;
+			}
+			#main #info table th {
+				color: #ffb900;
+				padding: 2px;
+			}
+			#main #info table tr td {
+				color: var(--color-fg-h1);
+			}
+		</style>
+	</div>
 </div>
 
-<div id="player">TODO - Youtube player</div>
-<div id="info">
+<div id="navbar">
 	<div id="days"></div>
-	<div id="blurb">Games Done Quick: Reviewed Slow is by GMan003. The above reviews are my personal and subjective opinion. Games Done Quick and Awesome Games Done Quick are registered trademarks of Games Done Quick LLC, used here under nominative fair use. GDQ is an awesome event for good causes, and you should be watching it and giving them money. To report bugs, request features, or submit code yourself, please use the <a href="https://github.com/gman003/gdqrs">Github page</a>.</div>
-</div>
-
-<div id="ratings-key" hidden="true">
-	<h2>Ratings Guide</h2>
-	<p><span class="rating">☆☆☆☆☆</span>Don't bother watching</p>
-	<p><span class="rating">★☆☆☆☆</span>A weak run, can still be fun if it's a game you love but otherwise skippable</p>
-	<p><span class="rating">★★☆☆☆</span>A solid but unremarkable run</p>
-	<p><span class="rating">★★★☆☆</span>A good run, not a highlight but worth watching eventually</p>
-	<p><span class="rating">★★★★☆</span>A great run, only avoid if it's a game or runner you just can't stand</p>
-	<p><span class="rating">★★★★★</span>One of the best runs of all time</p>
-</div>
-
-<div id="raw">
--------------------------------SUNDAY--------------------------------
-
-Dragon Age: Inquisition (PC - Bioware 2014)
-Any%
-by Lemuura [2RH]
-host ateatree, couch AKC12, Naegleria, Valyssa
-38m59s (est 50m, wr 31m39s)
-Overall ★★★★☆
-Skill   ★★★☆☆
-Fun     ★★★★☆
-Youtube BTO8ArCIocE+5
-Review: A solid start to the marathon. Lots of stupid-fun tricks, great chemistry, but brought down by having to repeatedly retry a few tricks.
-NB: I did catch some of this live, but rewatched completely a month later for fairness.
-
-Psychonauts (PC - Double Fine 2005)
-Any%
-by yoshipro [WRH]
-host SuperJamoose, couch MellowMikal, RagingRedneck
-36m17s (est 40m, wr 31m55s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube DDlExHbDiuE+20
-Review: The only problem with speedrunning this game is that you miss out on all the great writing. Lots of busted platforming, a few skips that cut out like 90% of the game, and some good couch banter.
-
-F-Zero GX (GC - Amusement Vision 2003)
-Snaking All Tracks
-by 1davidj
-host SuperJamoose, couch AKC12, Naegleria, Valyssa
-1h06m35s (est 1h20m, no wr?)
-Overall ★★☆☆☆
-Skill   ★★★★☆
-Fun     ★☆☆☆☆
-Youtube WLq4NWzbnNM+12
-Review: This game has absolutely brilliant ILs - blindingly fast, impressively twitchy while also requiring precision - but a full-game run? It got tiresome and repetitive less than halfway through. They can't really go into enough depth on explanations while the run is ongoing, but that means the commentary was a long string of near-identical tricks. And there were significant problems with stream hitching from 1davidj, which is a problem in a game where things can move this quickly. A good run to watch until you get bored of it, not something you need to sit through in its entirety.
-
-Mega Man X (SNES - Capcom 1993)
-100%
-race Tiki vs darrenville vs Luiz Miguel vs Clipper
-host SuperJamoose, couch ColonelFatso, zam
-35m26s, 35m35s, 35m42s, 36m22s (est 40m, wr 30m54s)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★★☆
-Youtube 5H-P8p_duT0+35
-Review: One of the best races of the Covid era. Close throughout, never had the leader more than one mistake from falling behind, often trading places just off execution. Commentary was fast-paced but not as detailed as I'd have liked, had to go to the YT comments to understand one of the basic tricks.
-
-Spyro the Dragon (PS1 - Insomniac 1998)
-Any%
-by Dayoman [WRH]
-host Xenadir, no couch
-45m03s (est 45m, wr 37m57s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube WKzwEFviq4k+8
-Review: A solid run of a classic PS1 platformer, very enthusiastic self-commentary, but not particularly technical.
-
-Kirby Super Star (SNES - Hal Lab 1996)
-Any%
-by Nippo
-host YoBGS, couch Celabeat, SniperSR, TheTerrificTracy
-37m39s (est 1h00m, wr 33m46s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube CViiDXOLDJ8+29
-Review: There's just not enough to this game. A few abilities are so clearly stronger than the others that it gets very samey, and there's only a few actual glitches. Maybe the execution is tricky, but it didn't manage to look like it, to someone who's played the game but briefly. Not a bad run but nothing special.
-
-007: Nightfire (GC - Eurocom 2002)
-Any%
-by Callmeliam [WRH]
-host YoBGS, couch Exiled_Prince, FitterSpace, Matimbre
-57m37s (est 1h00m, wr 36m43s) [NV]
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube Gd_kqLIdj9U
-Review: A game with far too many autoscrollers to be a great speed game. The levels that had actual gameplay were great, lots of interesting tricks, but that seemed like a minority of the run. Couch and runner tried their best to keep it interesting but couldn't. Invalidated by tech issues.
-
-K-Shoot Mania (PC - m4saka 2013)
-Exhibition
-by silentblackcat
-host Asuka424, couch Karu
-~45m (est 40m, no wr)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube mZ6TZW9uXRo
-Review: Yet another ridiculously difficult rhythm game. But it's more obscure than Guitar Hero, at least over here, and unlike PIU it isn't obvious how difficult it is. With better camera and presentation, I feel it could have impressed further, but as it is, it's probably one of the weaker exhibition games. And the bitrate and knocking into the camera didn't help. Still cool though.
-NM: Might be wrong on release year, couldn't find anything official. The 2013 figure came from a blog reviewing it.
-
-Metal Wolf Chaos XD (PC - From 2004, 2019)
-Any%
-by BlueMetal [WRH]
-host Asuka424, couch LCC
-41m12s (est 50m, wr 25m55s igt)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube oijCztFJ97M
-Review: Look. It's a meme game. The main reason for this run was the cutscenes, and BlueMetal did a great job selecting the good ones while not dragging things on too much. The gameplay had some tricks but too much was just running around blowing things up... which sounds cool but was actually kinda tedious.
-
-The Legend of Zelda: Oracle of Ages (GBC - Flagship 2001)
-Any%
-by GlyphDX
-host SporadicErratic, couch mashy
-1h31m13s (est 1h40m, wr 1h22m28s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube P0C3wBtWpuc
-Review: A bit of a start-stop sort of run. There were bursts of interesting RNG manips, cool jumps, outright glitching, but also long periods of downtime that couldn't quite be filled. And it ended with a sudden credits warp, which felt anticlimactic.
-
-Metal Gear Solid: Portable Ops (PSP via PSTV - Kojima 2006)
-NG Tsuchinoko
-by Pythonicus [WRH]
-host SporadicErratic, couch MiniOmegaKing
-1h01m07s (est 1h00m, wr 59m13s) [NV]
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube w9OTcLdxhQ8
-Review: A run that spends a lot of time in the doldrums. Long loading screens, made worse by some mechanics that, if RNG is unfavorable, require you to enter and immediately exit a level. And even during actual gameplay, much of it is simply running through surprisingly empty levels, with not too much interesting tech involved. It feels like an MGS1 run, but worse in every meaningful way. Invalidated by not actually getting Tsuchinoko rank, due to a few deaths.
-
--------------------------------MONDAY--------------------------------
-
-Max Payne 2: The Fall of Max Payne (PC - Remedy 2003)
-Any% Dead on Arrival
-by Mattmatt
-host SporadicErratic, no couch
-31m54s (est 40m, wr 27m54s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube 8hH0DAhAiwE
-Review: Kind of just a lethargic run. The self-commentary was lackluster, the execution was frequently sloppy (by runner's own admission), and it was thrown over to donations far more often than you'd expect in half an hour.
-
-Sundered (PC - Thunder Lotus 2017)
-Resist%
-by JeviLevee
-host Char_bunny, couch Denezen, dyindude, Medlife [DEV]
-1h08m35s (est 1h28m, wr 1h07m58s)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube Hhv7u7II8jg+321
-Review: Nothing particularly cool about the run - standard melee-heavy 2D metroidvania - but there was some good commentary from the couch, and a lot of laughing at how good the RNG was.
-
-Pikmin 3 Deluxe (Switch - Nintendo EAD 2013, 2020)
-Any% Normal
-by Claris [2RH]
-host Char_bunny, couch Joselle_A, ShiningEspeon
-40m51s (est 45m, wr 38m30s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube TuIbIyofIL0+35
-Review: Look, gamers are nerds. I don't have particularly high standards for public speaking abilities in these reviews. But if you're bringing someone in to be on your couch, and relying on them to explain tech or glitches, it would be nice if they could make it through a sentence without multiple pauses or restarts. I'm a die-hard Pikmin player and I've actually tried to speedrun the first game, and even I got confused by some of the explanations because of poor delivery.
-
-Styx: Shards of Darkness (PC - Cyanide 2017)
-Any%
-by Tohelot [2RH]
-host Char_bunny, couch Fezkoe, MazkuD
-50m16s (est 51m, wr 38m46s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube eOx5IHEDMR8+49
-Review: It's a stealth game, but at Easy and with speed strats, it doesn't even look like one. It's mostly clipping out of bounds or hopping around levels, including some very odd "find the level logic flowchart and just trigger the end" tricks. Fun, but it did get repetitive.
-
-Nintendogs (DS - Nintendo EAD 2005)
-All Beginner Contest Golds
-by ZooKetra [3RH]
-host Bobby Blackwolf, couch A_Pizza
-16m56s (est 25m, wr 11m15s)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube sDruF69gztA+26
-Review: The game is heavy on RNG and jank voice controls, so don't expect a super serious speedrun, but there was a surprising amount of actual tech. 14/10 they're all good dogs, bront.
-
-Zoda's Revenge: Startropics II (NES - Nintendo R&D3 1994)
-Any%
-by thetantalus [WRH]
-host Bobby Blackwolf, couch DarkTerrex, ZeroCounts
-1h00m54s (est 1h05m, wr 58m59s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube lnqUXbnYFl0+29
-Review: A good run for people who like 2D Zeldas but wish they were less glitchy, while still not glitchless. There's an unfortunately large amount of cutscenes and other downtime, but it's good when it's actually doing things.
-
-Tiny Toon Adventures (NES - Konami 1991)
-Any%
-by junkyard_dave
-host Bobby Blackwolf, couch Kat_
-14m00s (est 15m, wr 12m31s)
-Overall ★☆☆☆☆
-Skill   ★★☆☆☆
-Fun     ★☆☆☆☆
-Youtube 6KXoo6Z6A-U+13
-Review: A good speedrun, but with almost none of the accompaniment that makes a GDQ performance good. Story explanation? He can't even name all the characters. Tech explanations? Barely present, other than stating the obvious. No glitches. No really flashy tricks. Not even any good gags. This is like something from a decade ago, a very barebones "guy plays game fast" performance.
-
-Batman: The Video Game (NES - Sunsoft 1989)
-Any%
-by junkyard_dave
-host Bobby Blackwolf, couch Kat_
-11m16s (est 12m, wr 9m49s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★☆☆☆☆
-Youtube 8WYnSznr94A+489
-Review: Slightly better than the last run, but sharing all the same flaws.
-
-Ninja Gaiden (NES - Tecmo 1988)
-Pacifist
-by Edo_87 [WRH]
-host Bobby Blackwolf, no couch
-15m26s (est 20m, wr 14m29s)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★☆☆☆☆
-Youtube FiEQK5UwrEc+18
-Review: Because that's what this game needed, a challenge to make it even harder. Props for crushing this ridiculously difficult run, but Edo had nowhere near the energy needed to go couchless, and didn't go too in-depth with the tech.
-
-Amagon (NES - Aicom 1988)
-Any%
-by stone_clive [WRH]
-host Lego, couch AcidicIV, Teleo 1
-19m40s (est 30m, wr 18m49s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★☆☆☆☆
-Youtube 9wVl9t10Cf0+25
-Review: This run did one thing, and did it well - played an old run-and-gun platformer with precision and skill. The commentary was capable but not very interesting, there were almost no glitches, the route is almost entirely fixed, and they did far less with the absurdity of the game than they could have. But if you want to see an 8-bit platformer get wrecked, this will do that for you.
-
-Gimmick! (NES - Sunsoft 1992)
-Any% Glitchless
-by Ryan Ford
-host Lego, couch Aquas
-13m17s (est 14m, wr 6m55s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube NfAZiKeOhd0+22
-Review: The runner choked a few times, but the level of skill needed for this run is just kind of insane. I think messing up a few times actually did a better job showing just how tough some of those tricks are. Informative commentary, if a bit dull, and not too long of a run.
-
-Ghosts 'N Goblins Resurrection (Switch - Capcom 2021)
-1 Loop Squire
-by TheMexicanRunner [WRH]
-host Lego, couch jc583
-36m06s (est 30m, wr 21m36s)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube mwwmEdjxQEY+40
-Review: A brutal game, and a rare sighting of a dejected TMR. Not many tricks, just execution. Seems like a game to keep an eye on - with some more polish, it could be a much better run.
-
-Super Smash Bros. Brawl (Wii - Sora 2008)
-All Star [NM: assuming All-Star Easy]
-by Dragolina [WRH]
-host Skybilz, no couch
-8m59s (est 15m, wr 2m48s igt)
-Overall ★☆☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★☆☆☆☆
-Youtube 6SFfaOENGAQ+20
-Review: An unfortunately dull run. On low difficulties, it's just charging smash attacks to one-shot enemies - and it spends more time on loading screens than on the actual matches.
-
-LEGO Star Wars: The Complete Saga (DS - Traveller's Tales 2007)
-Any%
-by LaserTrap_ [WRH]
-host Skybilz, couch RebelDragon95, Shemcat
-28m31s (est 34m, wr 26m25s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube iaLm1y5hnK4+7
-Review: There's a good bit of tech to this game, but still a lot of downtime, and it's not challenging enough to impress on that front either. It's not bad in any sense of the word but it's kind of a filler run.
-
-Record of Lodoss War: Deedlit in Wonder Labyrinth (PC - Team Ladybug 2021)
-Any% No OoB
-by BOWIEtheHERO
-host Skybilz, couch Sabera
-41m52s (est 52m, wr 39m46s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★★☆
-Youtube R-WZlSLFKeM+19
-Review: This had no right to be as good as it was. Brilliant commentary, very polished gameplay for a current-year game... I'm even surprised how good the game looks, because "tie-in game for an anime based on a book based on a D&D homebrew campaign" isn't typically a recipe for quality, but this was actually properly good.
-
-Cave Story 3D (3DS - Nicalis 2011)
-Reverse Boss Adventure
-by Supreme Dirt aka Sierra [WRH][ORH]
-host Edobean, no couch
-1h16m34s (est 1h22m, wr 1h12m20s) [NV]
-Overall ★☆☆☆☆
-Skill   ★★☆☆☆
-Fun     ★☆☆☆☆
-Youtube rB6NClurRiI+19
-Review: I was hype for this run, but it was a huge letdown. It was beset by technical issues - stream hitches and an absolutely awful microphone - but even if it hadn't been, it wouldn't have made for a great run. Sierra gave a lot of commentary but very little of it was good commentary. It was disordered, halting, mostly just confusing. And while the knowledge of the inner workings of the game was impressive, it didn't even require much in way of execution. Great work routing, no work needed for running.
-
-Metroid Prime 2: Echoes (GC - Retro 2004)
-Any%
-by MrMiguel [WRH]
-host THEKyleThomas, couch BashPrime, Draconif 
-1h09m37s (est 1h25m, wr 1h05m00s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube AwTq1lcVXP0+22
-Review: It's a Metroid Prime run. Lots of out-of-bounds, lots of skips. It was good but I've seen better, and the stream did seem to hitch a lot more than most other runs.
-
-Shadow of the Colossus (PS4 - Bluepoint 2018)
-Any% Hard
-by TikTak [WRH]
-host THEKyleThomas, couch FoxyZilla, gooperman, RUBIEHART
-1h41m11s (est 2h00m, wr 1h36m06s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube Zm3Ol9-rSQk+17
-Review: The game is a bit heavy on downtime for a speedrun, but it makes up for it with some ridiculous boss strats. No glitches, per se, but some very, very unintended gameplay.
-
-Kirby: Nightmare in Dream Land (GBA - HAL Labs 1993, 2002)
-Meta Knightmare
-race Mr_Shasta vs Rox
-host Edobean, couch Marche9th
-31m34s, 32m02s (est 40m, wr 28m52s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★★☆
-Youtube eIe6ucCkaWg
-Review: Not the closest race - one runner was on PB pace going into the final boss - but good chemistry between runners and commentary, very casual vibes. A bit screaming-youtubery, but not egregiously.
-
-Kirby's Dream Collection (WiiU - Hal Labs 2012)
-All Challenges
-by Darksol188
-host Edobean, couch Rox
-21m52s (est 25m, wr 20m30s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube yAkq2F1YE8k
-Review: The only real flaw with this is that it didn't do anything to stand out. I can't think of a single complaint, but I also already can't remember anything really interesting that happened. Probably cool if you know the game, probably skippable if you don't.
-
-Super Mario Odyssey (Switch - Nintendo EPD 2017)
-Talkatoo%
-by Dangers [2RH]
-host SuperJamoose, couch Fir_, Timpani
-1h46m02s (est 1h50m, wr 1h37m59s)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube fKQV-ashVrM
-Review: A good pseudo-randomizer category, sort of like Any% but with a lot more improv and game knowledge, less ultra-polished execution.
-
-Paper Mario (N64 - Intelligent Systems 2000) [BONUS GAME 1]
-Stop'n'Swop
-by JCog [NR]
-host SuperJamoose, couch iyce, Rainchus
-26m12s (est 50m, wr 25m14s)
-Overall ★★★★★
-Skill   ★☆★☆★
-Fun     ★★★★★
-Youtube HhH-UsSz69M+16
-Review: A ridiculous, near-TAS-like breaking of the game. Or rather, *games* - exploits in Ocarina of Time are used to set up for a credits warp in Paper Mario. They could only give a high-level explanation, but it's a good explanation of the tricks. Definitely stick around for the glitch exhibition afterwards.
-
-Devil May Cry 5: Special Edition (PS5 - Capcom 2019, 2020)
-NG Vergil Devil Hunter
-by TheScruffington [WRH]
-host TempestMask1000, couch DECosmic
-1h05m38s (est 1h10m, wr 1h02m44s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★☆☆☆☆
-Youtube JxfJTDmgK6Q
-Review: Perhaps if you've played this game, you could better appreciate the skill involved. But to an outsider, it kind of just looks like spamming the same busted move over and over. It's effectively glitchless, and the route is pretty linear, so this run comes down purely to execution. Which it did well, but still hard to hold your interest for a full hour.
-
-Bayonetta (PC - Platinum 2009, 2017)
-Any% NG Normal No Infinite Flute Glitch
-by Galasrinie [2RH]
-host musical_daredevil, couch enthess
-1h43m17s (est 1h55m, wr 1h37m53s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube Yhl85c9bDns+21
-Review: Another play-game-good sort of run. There's a decent number of skipping over sections via aerial movement, and one boss quick kill, but there's also a lot of downtime and some very long autoscrollers.
-
--------------------------------TUESDAY-------------------------------
-
-Penumbra Trilogy (PC - Frictional 2007, 2008)
-Any%
-by bloodthunder
-host Nichole Goodnight, no couch
-49m32s (est 1h05m, no wr)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube 8XUJmDwTjm0+82
-Review: The good type of chill late-night run. Bloodthunder does a great job on self-commentary, I think it was half an hour in before he even had a breather for donations. The games aren't too super technical, but there's a lot of tricks and he explained them well, while also describing the story without spoiling too much. The run itself is super glitchy - if there's a wall, he's going to clip through it - but entertainingly so.
-
-FAITH (PC - Airdorf 2017)
-Any%
-by Vynn [3RH]
-host Nichole Goodnight, no couch
-5m44s (est 15m, wr 5m26s)
-Overall ★☆☆☆☆
-Skill   ☆☆☆☆☆
-Fun     ★☆☆☆☆
-Youtube BMls30ESTWg+74
-Review: I don't think a single piece of tech got explained during the entire run - Vynn focused purely on the story, making this more of a brief Let's Play than a speedrun. I could understand if it was obvious how one was going fast, but... unless you've played this game, you're going to have no idea whether this run was tediously slow or blazingly fast. Vynn did an excellent job at running a game that really is not suited for speed marathons.
-
-Gone Golfing (PC - Icehelm 2020)
-True Ending
-by teddyras [WRH][ORH]
-host Nichole Goodnight, couch Jeff: in 3D!
-13m06s (est 20m, wr 9m12s)
-Overall ★★★★☆
-Skill   ★☆☆☆☆
-Fun     ★★★★☆
-Youtube isV1v-TGTjo+56
-Review: I think describing this one in too much detail would be spoilers? Let's just say that the run wasn't super interesting but they made up for it with some brilliant couch gags.
-
-Teardown (PC - Tuxedo 2020)
-Any%
-by thewaffleman
-host Nichole Goodnight, no couch
-25m45s (est 30m, wr 18m54s)
-Overall ★★★☆☆
-Skill   ★☆☆☆☆
-Fun     ★★★☆☆
-Youtube UrQ_tFJ2cEA+40
-Review: It's a slightly-janky physics sandbox game. You can guess where it goes from there. Pretty good for self-commentary, but not the smoothest actual run, and not too much diversity within it.
-
-Resogun (PS4 via PS5 - Housemarque 2013)
-Any% Experienced Acis-Mefitis
-by Asuka424 [WRH]
-host Nichole Goodnight, no couch
-25m15s (est 33m, wr 23m18s)
-Overall ★★☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★★★☆☆
-Youtube nr7YDc8TmqE+52
-Review: Another enjoyably chill run. It's a much less twitchy take on the shmup genre, with some great self-commentary (that unfortunately seemed to come at the cost of a few mistakes, but a worthy trade IMO)
-
-Vectronom (PC - Arte 2019)
-All Pickups [INCENTIVE]
-by badBlackShark [WRH]
-host LLK, couch Zet
-20m02s (est 20m, wr 20m52s) [WR]
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube US7X2YHZIuk+13
-Review: I suppose I'd class this game as a rhythm platformer. Unlike pure rhythm games, it is an actual speedrun, and some of the tricks in use are crazy. But it does still suffer from some autoscroller sections, and the run is rather unpolished - even when setting a world record, there were many deaths.
-
-Blast Corps (N64 - Rare 1997)
-Any% NTSC-1.0
-by niedle [2RH]
-host LLK, couch Sandsh8rk
-26m00s (est 30m, wr 24m34s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube NdfdqWFExTs+8
-Review: Not the most technical or polished run, but very informative commentary from the couch, and a solid display by the runner.
-
-Chameleon Twist (N64 - Japan System Supply 1997)
-Any%
-by Kefka14 [WRH]
-host LLK, couch Qwillinallthefish
-11m27s (est 15m, wr 10m23s)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube og50a5RWp9c+22
-Review: One of the rare runs that I think was actually shorter than I'd have liked. This game has some very funky movement mechanics, and Kefka uses them to just blaze through levels. There are a few skips, but much of the run is just novel uses of movement tech, and polished execution of boss kills.
-
-Yoshi's Story (N64 - Nintendo EAD 1997)
-Any% JP
-by LoveBot [3RH]
-host LLK, no couch
-15m01s (est 18m, wr 14m18s)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★★☆☆☆
-Youtube PVO9UFdXMtc
-Review: A good fun-sized run. Some of the execution is insane, just how fast things are going by. There's not too much variety but at fifteen minutes, it doesn't need it.
-
-Indiana Jones' Greatest Adventures (SNES - Factor 5 1994)
-Any% Easy
-by janglestorm [2RH]
-host LLK, couch anthole, Farrak Kilhn
-28m28s (est 33m, wr 27m57s)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube LDN20PJj7gs
-Review: Perhaps it just does a poor job of showing itself, but this feels like a very straightforward run. Only one outright glitch, not too much movement tech, and plenty of autoscrollers. Janglestorm does a good job keeping it entertaining, but mostly by comparing the game to the films.
-
-Bloodstained: Ritual of the Night (PC - Artplay 2019)
-Any% Miriam Major Glitches
-by bane [WRH]
-host LLK, couch Chenoh
-15m18s (est 25m, wr 16m45s)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube hsGiRRSTZl4
-Review: An excellent glitchy run. Some of the tech isn't quite well enough explained for my tastes, but at fifteen minutes, that can be excused. A good bite-size run to kick of Castlevania block with.
-
-Castlevania: Dawn of Sorrow (DS - Konami 2005)
-Soma All Bosses
-by Diagon [2RH]
-host LattMackey, couch Brooke, Romscout
-39m32s (est 46m, wr 32m55s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube HFwFtwki4uw
-Review: A weird but enjoyable combination - movement between bosses is very glitchy, and the order of bosses is nowhere near intended, but the actual fights are mostly done normally, save for using an overpowered post-game weapon. About the only drag is a few RNG grinds, but in this case, those were quite short.
-
-Castlevania 64 (N64 - KCE Kobe 1999)
-Reinhardt [BIDWAR - Reinhardt vs Carrie]
-by ty2358
-host LattMackey, no couch
-43m59s (est 47m, wr 41m03s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube Qr3ZQc5JuB0
-Review: I was expecting this to feel like an Awful Block run, but it really didn't. A bit chill, not super technical, but still a proper speedrun. A good one to wake up to.
-
-Castlevania: Bloodlines (Genesis - Konami 1994)
-Any% Eric Normal
-by Mannix86 [WRH]
-host Skybilz, couch TheBlacktastic
-30m20s (est 35m, wr 29m25s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube 6QvhaWJp5G0+12
-Review: A perfectly fine run of a perfectly fine Castlevania game. Good execution, no serious errors, but also not much in the way of tech beyond "play game good".
-
-Castlevania: Rondo of Blood (PCE via Wii VC - Konami 1993)
-Any%
-by AgentWyvern [WRH]
-host Skybilz, couch Inubito
-21m57s (est 25m, wr 20m46s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube Lu35Sp-NRb0+12
-Review: Another play-game-good sort of run, but at this level of execution, I think that's all it needed. Some good couch work, and the shorter length, kept it clicking right along.
-
-Castlevania (NES - Konami 1986)
-Any%
-race 2snek vs freeland vs shockra_tease
-host Skybilz, couch Aphotic_Ktulu, Crunan
-11m57s, 12m05s, 12m13s (est 14m, wr 11m05s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube uCk_VBW0ItA+20
-Review: A nice, competitive race. A bit too short to explain some of the tech, but it's otherwise fairly easy to follow.
-
-Battletoads (NES - Rare 1991)
-100%
-by TheMexicanRunner [WRH]
-host Skybilz, couch jc583
-35m43s (est 36m, wr 28m34s)
-Overall ★★★★☆
-Skill   ★★★★★
-Fun     ★★★★☆
-Youtube 0yQLiSDpEPc+23
-Review: Blind. Folded. Turbo. Tunnel. I can't even beat that shit with my eyes open, TMR beat it without even looking, and then went on to crush the rest of the brutal game like it was nothing.
-
-La-Mulana Remake (PC - Nigoro 2012)
-Any% No Pointer Manip
-by Timopy [WRH]
-host THEKyleThomas, couch halgorithm, authorblues, SeerSkye
-1h22m10s (est 1h35m, wr 1h15m56s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube qVoZnq5E1Jg+49
-Review: A peak game-breaking bullshit run. The game is completely busted in so many different ways that the speedrun only occasionally looks like the casual gameplay. I didn't understand half of it, but I don't think that's quite the point.
-
-Dishonored (PC - Arkane 2012)
-Any% Yes
-by lurven [WRH]
-host THEKyleThomas, couch Som1Lse
-34m33s (est 40m, wr 33m47s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube 4HpuST4mK18+24
-Review: It's half an hour of out-of-bounds platforming and blinking from elixir to elixir. If that sounds like a good time, you're in for a treat.
-
-Dishonored (PC - Arkane 2012)
-Brigmore Witches Any%
-by lurven [3RH]
-host THEKyleThomas, couch Som1Lse
-7m39s (est 10m, wr 6m29s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★☆☆☆☆
-Youtube 4HpuST4mK18+2148
-Review: Was the last run not enough for you? Here's a bit of dessert.
-
-Horizon Zero Dawn (PS4 - Guerrila 2017)
-NG+ Ultra Hard
-by Elkjaer [WRH]
-host Mr. Game and Shout, no couch
-1h57m48s (est 2h00m, wr 1h54m55s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube 2ViKw74KlbM
-Review: This run would have been fine if it were thirty minutes. Two hours is a bit much, for a lightly-glitched run like HZD - there's a lot of tech but almost none of it is interesting, just memorizing enemy locations and routing exactly how to best defeat them. And somehow, despite being on the highest difficulty, NG+ weapons are OP even up to the final boss and you can run through half the stealth sections. It could maybe have worked as a backdrop to couch shenanigans (Elkjaer ran solo) or in-depth discussion of the broader game (Elkjaer spent enough time saying "I can't cover the game's lore in two hours" to probably have covered the game's lore)
-
-Grand Theft Auto III (PC - DMA 2001) [BONUS GAME 2]
-Any%
-by KZ_FREW
-host matishek, couch anti
-1h16m29s (est 1h14m, wr 1h00m20s)
-Overall ★★★☆☆
-Skill   ★☆☆☆☆
-Fun     ★★★★☆
-Youtube gpp5aih-r0M
-Review: Shenanigans? Shenanigans. An excellent remedy for the last run, this brings the silly nonsense, and brings it in spades.
-
-Metal Gear Solid 3: Snake Eater HD (PS3 - KCE Japan 2004, 2011)
-European Extreme Tuxedo
-by ApacheSmash [3RH]
-host briesbe, couch Jaguar_King, miniomegaking  
-1h13m23s (est 1h18m, wr 1h16m10s igt non-tux)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★★☆☆☆
-Youtube C5g1j0WPPKI
-Review: And if you want an actual quality speedrun instead, you've got this. The most demanding category in the game, done quite well.
-
-Resident Evil 7: Biohazard (PC - Capcom 2017)
-Any% NG Easy
-race KatLink [3RH] vs CaptainEzekiel [WRH]
-host briesbe, couch marphoria
-1h30m34s, 1h31m48s (est 1h37m, wr 1h29m16s) [NV]
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube uNaj-gQki_c+26
-Review: We've seen several RE7 runs before. A race is a good way to shake it up, but it doesn't completely fix the problems with it as a speed game. Expect a lot of down time and cutscenes. As a race, it started strong - they were almost in sync for the first half-hour - but once one fell behind by a minute, from a small mistake, the positions never changed again.
-
-Dead Space (PC - EA Redwood 2008)
-Any%
-by LivingLooneyBin [3RH]
-host AnEternalEnigma, couch sharkhat87, Waifu
-1h28m38s (est 1h40m, wr 1h15m02s)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube bMhnbyWEV8Y+90
-Review: The game might be Resident Evil In Space, but the run certainly isn't. The main movement mechanic is a glitch, there's frequent out-of-bounds, a few entire chapters are skipped almost entirely. The run is not quite as polished as many other games, but it seems like it's evolving quickly. This might be a new classic speed game.
-
-------------------------------WEDNESDAY------------------------------
-
-Little Nightmares II (PC - Tarsier 2021)
-Any%
-by Kenhie
-host AnEternalEnigma, couch distortion2, larxa
-1h25m18s (est 1h25m, wr 1h11m59s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube PvKzExLjTog+70
-Review: I was pleasantly surprised by just how well-commentated this run was. They were calling out little tricks *everywhere*, more than you'd see in even much more technically-polished runs. There was rarely time for more than one donation, across a ninety-minute run, which is quite impressive. Kenhie's execution wasn't perfect, but I can hardly blame him, when he was going for almost every known trick.
-
-Star Wars: Republic Commando (PC - LucasArts 2005)
-Any% Easy
-by Utsu [WRH]
-host Prolix, couch bryonato, kram
-1h44m34s (est 1h50m, wr 1h41m22s) [NV]
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube ze1s95m14xw+23
-Review: A bit of a mixed bag. On the one hand, there's lot of OoB, messing with level loading, and unintended platforming. On the other hand, a lot of the run was just "run past enemies, completely ignoring them", and that gets real old when you're pushing two hours. The thing that tipped me over into liking it was the couch - mixing "former recordholder" with "guy who used to casual this game" made for some great interaction.
-
-Kororinpa: Marble Mania (Wii - Hudson 2006)
-NG+ All Normal Levels
-by callumbal [2RH]
-host LLK, couch yoda Cage
-27m37s (est 32m, wr 26m38s)
-Overall ★★★★☆
-Skill   ★★★★★
-Fun     ★★★★☆
-Youtube gkIkCbkFJfU+163
-Review: You know how crazy Super Monkey Ball speedruns are? Imagine if they were even more busted, and then imagine doing it with motion controls. Yeah. This shit was bonkers.
-
-Coca-Cola Kid (Game Gear - Aspect 1994)
-Any%
-race, sharif [2RH] vs Grumpmeister [3RH]
-host LLK, couch callumbal, janglestorm
-10m59s, 11m41s (est 15m, wr 9m54s)
-Overall ★☆☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★☆☆☆☆
-Youtube rSje_fH4cDE+23
-Review: This just fell flat on so many levels. Not much tech, too much RNG, too hard to follow, too little tension.
-
-Twinkle Star Sprites (Dreamcast - ADK 1996)
-LEVEL8 GAME SPEED: DREAMCAST
-by r_parenthesis [WRH][ORH]
-host LLK, couch Zil
-8m45s (est 15m, wr 5m48s)
-Overall ★★☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★★☆☆☆
-Youtube YOhNtM1A3FI
-Review: A very interesting game, and a rare shmup that can actually be speedrun. But it seems to be heavily RNG, and Zil's couch commentary doesn't have the energy to compensate for the runner's voice's absence. Worth a watch just to see this weird game, but unfortunately not a great speedrun.
-
-Mischief Makers (N64 - Treasure 1997)
-Any%
-by JoeyBaby69
-host LLK, couch peaches
-58m31s (est 1h05m, wr 54m27s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube 9FYAsrVFwG0
-Review: Outside the story/aesthetic, it's a pretty standard action-platformer, with a lengthy autoscroller section and plenty of cutscenes. Gets some points for meme-worthy voiceacting, loses them for being just too long for what this run actually does. Fans of the game will enjoy it, surely, but others, not so much.
-
-Earthworm Jim (SNES - Shiny 1994)
-Any% Normal
-by RIFT20XX [WRH]
-host LLK, couch Gargon100
-26m16s (est 30m, wr 24m28s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★☆☆☆☆
-Youtube nGNCyHATgQg
-Review: I haven't seen this many autoscroller stages since Pepsiman. The actual running parts of the speedrun are fine, if not super technical, but jfc those space stages just drag on.
-
-Golden Sun: The Lost Age (GBA via Wii U VC - Camelot 2002)
-Any% NoSave+Quit
-by Plexa [WRH]
-hosts Argick, Edobean, couch BOWIEtheHERO, CriticalCyd
-5h57m42s (est 6h06m, wr 5h29m17s)
-Overall ☆☆☆☆☆
-Skill   ☆☆☆☆☆
-Fun     ☆☆☆☆☆
-Youtube V5s1ugWeXh4+5
-Review: (Have not yet watched, it's six hours long)
-
-GeoGuessr (PC - Anton Wallén 2013)
-Perfect Score
-by havrd
-host Xenadir, couch Chuckorita, Janmumrik
-31m31s (est 35m, no wr?)
-Overall ★★★★☆
-Skill   ★★★★★
-Fun     ★★★★☆
-Youtube fxBcdmExUyc
-Review: Not a normal game to speedrun, is it? In ways, it felt more like an exhibition than a speedrun - the focus was more on perfect play than blindingly-fast play. But the sheer depth of knowledge on display, how he had mastered the UI, those speak to speedrunning skills.
-
-Ratchet & Clank: Into the Nexus (PS3 - Insomniac 2013)
-NG+
-by mobius [WRH]
-host Xenadir, couch Skritler
-21m44s (est 25m, wr 20m44s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube IzHrfZRntsE+37
-Review: Another "walls are more of a suggestion" sort of run. With NG+ weapons, combat is a breeze, and barely any of the platforming is done as intended, but if you like OoB, this is a good run for you.
-
-Crash Bandicoot 4: Its About Time (PC - Toys for Bob 2020)
-Any%
-by Jordy925 [WRH]
-host Xenadir, couch CrispyTacoz, Murcaz, Abdul
-1h26m23s (est 1h35m, wr 1h23m59s)
-Overall ★☆☆☆☆
-Skill   ★★☆☆☆
-Fun     ★☆☆☆☆
-Youtube ST8AXTSgLiQ
-Review: I just do not get the appeal of Crash runs. This run would have been tedious even if it were only a third the length. There's not much tech, only a few glitches, but the execution looks less polished than most other platformers. If you like Crash runs, this didn't seem like it was any worse than the others I've watched, but I don't get it.
-
-Hitman 3 (PC - IO 2021) [BONUS GAME 3]
-Trilogy Campaign SA/SO Professional 
-by Yannini [2RH]
-host NerdyExcursions, couch Frote7, KOats
-1h03m46s (est 1h00m, wr 27m11s)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube _BA_irQ3vXk
-Review: Run got derailed a few times by RNG, but it was still fascinating to watch. It felt more like a Rube Goldberg machine than a conventional run, at times.
-
-Ghostrunner (PC - One More Level 2020)
-Any% Inbounds
-by Blaidan [WRH]
-host NerdyExcursions, couch Blade, bryonato, DragonTears0
-38m33s (est 45m, wr 35m04s)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube mTsYYJJQxyY+73
-Review: Never seen it before, but this is clearly a great speed game. A ton of movement tech, great mix of gameplay, high skill ceiling, and just long enough to feel complete. It even *looks* fast. Blaidan put on a powerful run, and was backed by one of the best couches of the Covid era.
-
-Mass Effect 2 (PC - Bioware 2010)
-No One Left Behind NG+ w/DLC
-by MikeWave [WRH]
-host NerdyExcursions, couch LettersWords, Strife the Historian
-1h17m53s (est 1h36m, wr 1h16m05s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube RNi4AL3i9j8+62
-Review: A nice mix of "play game as intended with OP DLC weapons" and "clip OOB and walk straight to the end". But even with a mod to skip cutscenes, there was a lot of downtime, not the most energetic run.
-
-The Legend of Zelda: Majora's Mask (N64 - Nintendo EAD 2000)
-100% No Source Requirement
-by ClaireLynnD [WRH]
-host SuperJamoose, couch Rylie
-1h51m25s (est 1h50m, wr 1h31m26s) [NV]
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube ju7s0mnRXxU
-Review: If this isn't the most busted game on the schedule, I will be very surprised. She literally hacks the game to turn on the debug menu, and beats the game 100% without doing a single dungeon - but that still left over an hour of collecting the last items and upgrades. And it was all explained about as well as you could ask for, during a run.
-
-Untitled Goose Game (PC - House House 2019)
-100%
-coop by Tasselfoot [2RH], Thundar001 [3RH] [COOP WRHs]
-host iggyzig, couch Ritzblues
-21m47s (est 32m, wr 21m22s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube zsJVoM0Q1aA
-Review: It's a GDQ meme at this point, but it's a good one, when it's not completely oversaturated. Tech consists mostly of clipping and some good coop routing. Both runners and couch did a great job explaining everything, including some great on-the-fly thinking.
-
-------------------------------THURSDAY-------------------------------
-
-Fight Crab (PC - Calappa 2020)
-All Main Stages NG+ Multi-Crab
-by teddyras [WRH]
-host marphoria, couch Bullets, LennonFree
-25m52s (est 30m, wr 20m10s)
-Overall ★★★☆☆
-Skill   ☆☆☆☆☆
-Fun     ★★★☆☆
-Youtube Cyk4Q57zM4E+51
-Review: I still have no idea what this game is, but I'm not sure that was the point.
-
-I Am Fish (PC - Bossa 2021)
-Any%
-by Biglaw
-host marphoria, couch Amyrlinn, Bullets
-25m45s (est 30m, no wr?)
-Overall ★★★☆☆
-Skill   ★☆☆☆☆
-Fun     ★★★☆☆
-Youtube La_rfvmKjzw+59
-Review: The run is basically a knows-what-they're-doing casual run, but that's probably just due to how new it is. And it makes up for it by being entertainingly weird, without being broken. Good reaction couch, and a surprisingly informative set of donations.
-
-Link: The Faces of Evil (CDi - Animation Magic 1993)
-All Cutscenes
-by Grumpmeister [WRH]
-host marphoria, couch PDT1060, Flurry, Biskit
-54m46s (est 1h00m, wr 52m10s)
-Overall ★★☆☆☆
-Skill   ☆☆☆☆☆
-Fun     ★★☆☆☆
-Youtube 97CI144Ovqw+72
-Review: Wow, this was a lot less fun than Grumpmeister's run of Wand of Gamelon, back in AGDQ. I don't know what's different this time around, but it just wasn't nearly as funny. 
-
-Jazzpunk (PC - Necrophone 2014)
-Special Agent
-by KatLink
-host marphoria, couch Captain Ezekiel
-41m37s (est 45m, wr 34m29s igt)
-Overall ★★★☆☆
-Skill   ★☆☆☆☆
-Fun     ★★★☆☆
-Youtube F8lPwE1Wcks+52
-Review: See this game? This is what surrealism *actually* is. Like most of silly block, the run is more about the game than the run, but a) this is a good silly game, and b) the run is actually pretty decent too. It's levels dense with objectives, so lots of tight routing, and just enough glitches to feel like a speedrun instead of a fast Let's Play.
-
-Arabian Nights (PC - Silmarils 2001)
-Any% w/Dialogue
-by Goost [WRH]
-host SporadicErratic, no couch
-43m11s (est 40m, wr 32m59s)
-Overall ★☆☆☆☆
-Skill   ☆☆☆☆☆
-Fun     ★☆☆☆☆
-Youtube EsDU2pln-QU+30
-Review: I have rarely seen a run that so completely misses its own point. The category exists solely to show off the hilariously bad cutscenes? Go ahead and talk over them. Mix the audio so the music overrides everything else. Give self-commentary that's as muffled, meandering, and stilted as the game itself.
-
-Jelly Drift (PC - Dani 2021)
-Any%
-by Konasumi
-host SporadicErratic, no couch
-5m11s (est 8m, wr 4m16s igt)
-Overall ★★☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★★☆☆☆
-Youtube I0FVVsV9RjA
-Review: It's a racing game but the speedrun absolutely isn't. Konasumi runs through checkpoints completely out of order, hopping every corner that he doesn't bypass completely by bouncing off geometry. Yet somehow that gets boring in just ten minutes?
-
-Paris Chase (PC - Team6 2006)
-Any%
-by Martinz [2RH]
-host SporadicErratic, couch Chazoshtare
-19m35s (est 25m, wr 15m58s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube 5_KyApzW0Xw
-Review: Keeping with the theme, this is only occasionally a racing game speedrun. Mostly, it's a wrecking game speedrun - tricking the AI, somehow, into destroying itself and handing you the win. On the rare occasion racing is actually needed, a glitch with drifting makes it almost trivial. Being AI manips, they're not super consistent, but it's funny enough for this hybrid Racing/Silly block.
-Critique: Okay, since I know the runner will actually be reading this, a constructive critique as well as a review are in order. Everyone other than Martinz, you can stop reading, this won't be relevant to you. The biggest problem I had was just that you and Chazoshtare kept talking over each other. I don't know how much lag you had on the voice chat, but it was definitely disruptive. You repeated your explanations enough that I eventually got it all, but it took longer than needed. This has been a problem for a lot of runs since they started going online-only, but others have figured out how to minimize it - I'd suggest asking around, see how they've been doing it. Secondly, I'd suggest working on your delivery - there were a lot of funny things going on, and you were telling some jokes that could have been funny, but your timing was off and your delivery lacked confidence. You probably just need practice here. You were also let down quite a bit by Chaz's commentary - he didn't seem to add much that was interesting, and he stumbled over his words quite often (which strangely, he didn't do in his self-commentated IWBTKISA run). I think this was more him than you talking about it, but I also question the choice to focus on explaining the story - yes, it's a bonkers story with a lot of things to laugh at, but I think the story explanations overshadowed the actual speedrun explanations. Every other complaint I have is more about the game than your run, it's not like you can change the fact that most of the run is AI manips to force them to wreck, which did start to feel repetitive towards the end.
-
-Racing Pitch (PC - Jetro Lauha 2006)
-All Tracks
-by Chazoshtare
-host cartridgeblowers, couch Martinz
-13m29s (est 17m, no wr?)
-Overall ★★★☆☆
-Skill   ★☆☆☆☆
-Fun     ★★★★☆
-Youtube chtaCU1UqOo
-Review: I am disappointed that the MMMMMMMMMM meme didn't seem to last past Racing Game Block. I'm sure if this had been a live event, we'd have gotten the crowd doing it for the next three days. As for the actual run... it's a ridiculous gimmick of a game that makes it absolutely hilarious to watch. There's no speed tech beyond "play game well", and I'm not entirely sure Chaz *did*, but the game is so unlike everything else that I can't really tell.
-Critique: And this run is why I pin most of the blame for the bad commentary for Paris Chase on Chaz, not Martinz - because when Chaz wasn't able to talk, things went incredibly well. As far as commentary went, I have nothing bad to say, it did everything it needed to and did it well - it explained everything worth explaining, told every joke that was worth telling, but never got in the way. I'm sure you still have room to improve but fuck if I can tell you how. Should I ever somehow put on a run at GDQ, I'd be glad to have you on my couch.
-
-Need For Speed: Porsche Unleashed (GBA - Pocketeers 2000)
-All Tracks (Moby Dick)
-by CosmykTheDolfyn [2RH]
-host cartridgeblowers, couch Brossentia, fGeorgjje
-13m05s (est 14m, wr 11m00s)
-Overall ★★☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★★★☆☆
-Youtube E8xLKJ1o5rA
-Review: This is a game that really shouldn't exist, not on the GBA. The controls are bad enough that races are won by pingponging off walls, and the Moby Dick is overpowered enough that Cosmyk could lose nearly a minute to dicking around with a DDR pad and still come in first. Which is to say, it's a pretty fun speedrun to watch.
-
-Evolution Skateboarding (PS2 - KCE Osaka 2002)
-Arcade All Missions Solid Snake
-by PARTY MAN X [WRH][ORH]
-host cartridgeblowers, couch SecksWrecks
-21m43s (est 23m, wr 18m22s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube VAqE-rORq2g+69
-Review: I'll be honest, skateboarding games never really appealed to me, and speedruns don't change that opinion. This run is less polished than most others I've seen, but it does have the weird factor going for it.
-
-Wheels! (PC - RJ Cooper 1998)
-Hard/Fast
-by tbcr [WRH]
-host cartridgeblowers, no couch
-3m22s (est 5m, wr 2m52s)
-Overall ★★☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★★☆☆☆
-Youtube ga9HbRs6G1c+20
-Review: It's like the distaff counterpart to Chex Quest - a freeware kid-targeted FPS on the Marathon engine. It's about as good as a sub-five-minute run can get. PS: Can anyone tell me the dev and year of publication?
-
-ALTF4 (PC - Autosavegame 2021)
-Any%
-by ChirpingMatt
-host cartridgeblowers, no couch
-9m15s (est 10m, wr 8m00s)
-Overall ★★☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★★☆☆☆
-Youtube hTVXLJgTRK8
-Review: Another bite-size run, this time of a janky gotcha platformer. A rather sloppy-looking run, but it looks like it has awful controls, so it might just be the nature of the beast.
-
-Time Gate: Knight's Chase (PC - Infogrames 1996)
-Any%
-by arnaud33200 [WRH]
-host cartridgeblowers, couch flyingtoaster0
-21m59s (est 25m, wr 19m46s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube DaOmvdZdVoY
-Review: A DOS-era game on the Alone in the Dark engine, but with more of a puzzle-adventure design. There's nothing flashy going on, but some nifty glitches and informative commentary make it an okay run.
-
-Tomb Raider Anniversary (PC - Crystal Dynamics 2007)
-Any% No Bug Jump
-by Pursky [2RH]
-host frozenflygone, no couch
-26m25s (est 30m, wr 21m46s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube nMWBgnLdHWc+14
-Review: Wow, this game is busted. Even in a category excluding the most broken glitch, every level involves OoB movement, and many are bypassed entirely. Pursky does an okay job explaining it all, but he does throw over to donations quite a bit more than most runners do, which is a sign of how much of the run is the same trick being repeated in new places.
-
-Ristar (Genesis - Sega 1995)
-Any%
-race chronoon vs Lizstar vs ShimeGabriel vs Haram_Scaram
-host frozenflygone, couch Chubbus, dagronSR
-28m02s, 28m06s, 28m37s, 29m07s (est 35m, wr 27m04s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube QW5y42-Hf14+19
-Review: I don't know why this race felt as dull as it did. Other than one trick, it seemed to come down to mostly RNG, and the game doesn't seem super technical. And it was often hard to tell how far apart the runners were.
-
-X-Men 2: Clone Wars (Genesis - Headgames 1995)
-Any%
-by A-Frame [WRH]
-host frozenflygone, couch BaconOmelette
-22m09s (est 32m, wr 20m51s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★☆☆☆☆
-Youtube v8DJam1v4aM
-Review: A pretty good speedrun, but muddled commentary and frequent dead air made it a chore to get through.
-
-Tempest of the Heavens and Earth (PC - LION HEART 2018)
-Boss Attack
-by Naro [WRH][ORH]
-host Argick, couch Mrglrgl
-10m03s (est 13m, wr 8m58s)
-Overall ★☆☆☆☆
-Skill   ★★☆☆☆
-Fun     ★☆☆☆☆
-Youtube hlRca5VWckM
-Review: Another run where things were just really hard to follow and understand. A lot of that was the game trying to be flashy and showy, instead of readable, but the commentary here was just not very good. We got a lot of info - there's a multi-minute gameplay primer before the run starts - but didn't actually learn much.
-
-Sonic Colors (DS - Sega 2010)
-All Red Rings
-by speedbreaker55 [WRH][ORH]
-host Argick, couch KirbyMastah, Diamond
-54m06 (est 1h00m, wr 54m18s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube Lmhdp6OopqE+16
-Review: A pretty good 2D Sonic run. Not too much in the way of glitches, but very tightly routed, and masterfully executed.
-
-Sonic 3D Blast (Genesis via Wii VC - Traveller's Tales 1996)
-Beat the Game
-2P1C by TGH [WRH], AmberCyprian
-host Argick, couch Keizaron
-29m33s (est 35m, wr 1p1c 25m17s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube CTzkEILXZYI+46
-Review: I usually enjoy 2P1C controllers, but this one didn't live up to the rest. I think it's the game - Sonic 3D Blast looks deceptively easy, if you play it well, and Amber and TGH played seamlessly enough that it barely felt like a 2P1C run most of the time.
-
-Sonic Adventure 2: Battle (PC - Sonic Team USA 2001)
-Hero Story [BIDWAR - Hero Story vs Dark Story]
-by Dage4 [WRH]
-host Argick, couch Drakodan, Seraphim1313
-32m04s (est 40m, wr 31m12s)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube 1otm2S74lAE+26
-Review: We've seen a lot of SA2 runs, but this is probably the best. Dage went for basically every trick and got them, while his couch explained all the tech and popped off whenever he first-tried a hard trick.
-
-Super Mario Bros. 2 (SNES - Nintendo R&D4 1988, 1993)
-All Levels All-Stars
-by coolkid [WRH]
-host Argick, couch Mithical9
-22m25s (est 25m, wr 20m33s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube 9o_hMiyc3Cc+22
-Review: A well-executed run with excellent commentary. It's not the flashiest speed game but it's not a bad one - some useful tech, some nifty glitches, but still mostly playing as intended.
-NM: Was originally scheduled between Wizard of Legend and Streets of Rage 4, moved back to here, presumably some swap with Sonic CD
-
-Outer Wilds (PC - Mobius 2019)
-100%
-by thestrangepie [WRH]
-host LattMackey, couch Beef
-1h00m06s (est 1h00m, wr 45m41s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube 7O4Li10COk8+91
-Review: A tour de force of routing, paired with some good commentary. A few punishing deaths pushed it over estimate, but overall the runner did quite well.
-
-Destiny 2 (PC - Bungie 2017)
-Deep Stone Crypt
-coop by Shockwve, MunchaKoopas, Tokeegee, Traderkirk, Scoobyfoo, BystanderTim
-host Prolix, couch CammyCakes, Datto
-~16m14s (est 30m, wr 12m25s loadless)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube VaHMkXMVEWU+42
-Review: MMOFPS runs are always a bit weird. A lot of the commentary went right over my head, especially the combat strats. And with six runners, everything on screen was chaotic. But there's just enough traditional speed tech to ground everything. A good run to watch if you're getting bored by "normal" speedruns.
-
-Vanquish (PC - Platinum 2010)
-Any% Casual w/DLC
-by DECosmic [2RH]
-host Prolix, couch bryonato, Demonic, VashTSB
-1h25m08s (est 1h35m, wr 1h20m11s) [PB]
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube M3MDo9HmUMY+43
-Review: The run is nothing remarkable, but the all-star couch is what elevates this run above the rest. Good commentary, lots of jokes, great chemistry, never gets boring or cringey.
-
-Doom Eternal (PC - id 2020)
-Ancient Gods 1 NMG Nightmare
-by BloodShot9001 [2RH]
-host Prolix, couch bryonato, DrakePHOSE, Xiae
-33m03s (est 30m, wr 21m48s loadless)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube 1EmAQ1BdRAk+0
-Review: It's like Celeste with machine guns, chainsaws, and barehanded decapitations. No Major Glitches mostly just contains the ridiculous movement to in-bounds. And on top of the solid run, you once again get some great couch work.
-
-Doom Eternal (PC - id 2020)
-Ancient Gods 2 NMG Nightmare
-by BloodShot9001 [WRH]
-host Prolix, couch bryonato, DrakePHOSE, Xiae
-29m40s (est 30m, wr 23m43s)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube 1EmAQ1BdRAk+2858
-Review: It's the run from before, except with occasional appearances of BloodShot's cat.
-
-Pokemon Black/White (DS - Game Freak 2010)
-Any%
-race, PulseEffects [PKMN BLACK] vs Swiftalu [PKMN WHITE]
-host Nichole Goodnight, couch etchy, Keizaron 
-3h19m18s, 3h19m23s (est 3h30m, wr 3h11m55s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★★☆
-Youtube XXVZKJOzGY0+36
-Review: Long RPG runs tend to devolve into memes and running gags with the couch, because there's only so much you can do with a three-hour run when the game itself doesn't shake things up too much. This was no exception - except it also managed to be a tight race for literally the entire game.
-
-Halo 2 (XbC via Xb360 - Bungie 2004) [BONUS GAME 4]
-Any% Easy
-by Monopoli
-host TempestMask1000, no couch
-1h21m00s (est 1h17m, wr 1h12m54s)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube SqZeIVOivXw+42
-Review: A run dense with ridiculous tricks - and rarely was one repeated. Paired with some of the best solo commentary of the marathon, it had the ingredients for greatness. Some unfortunate technical issues, and one trick that Monopoli really struggled with, dragged it down, but it's still a highlight of the event.
-
--------------------------------FRIDAY--------------------------------
-
-Manifold Garden (PC - William Chyr 2019)
-All God Cubes
-by Nerd_Squared [2RH]
-host TempestMask1000, couch Forb
-28m10s (est 30m, wr 22m23s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube HHD07Tw-7MU+24
-Review: The last run of this game was already mind-blowing. This? Nigh incomprehensible, even with some good couch work from Forb. It's a hard game to wrap your head around even casually, adding clips and glitches only widen the disconnect. It didn't help that it made me a bit motion-sick at times.
-
-Return to Castle Wolfenstein (PC - Gray Matter 2001)
-Any% Full Game - I am Death Incarnate!
-by Heros5k [2RH]
-host Prolix, no couch
-48m12s (est 50m, wr 40m58s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★☆☆☆☆
-Youtube vIiZrDqks-Y+71
-Review: This feels a lot like a GoldSrc run, but not quite. The precision of shooting, and the difficulty of some of the route, make it a very skill-focused run. It's not very glitchy, other than saveloading to speed up some animations and a few clips, but it does use a lot of bhopping. Unfortunately, it just drags on a lot longer than Heros was able to talk about it - I think the back half was more donations than commentary.
-
-Heads Run (PC - Ditch Dog 2018)
-Normal 50
-by killingpepsi [WRH]
-host briesbe, couch FatBeanzoop
-12m56s (est 17m, wr 11m09s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube liTQ1ripgUY+302
-Review: It's a platformer very much in the vein of N++ or Super Meat Boy, just with an ostentatiously 8-bit-micro aesthetic that very much earns its epilepsy warning. But those visuals also make it very hard to follow what's actually going on - the player is tiny, easily lost amidst the massive enemies and the visual noise.
-
-Charlie Murder (PC - Ska 2013, 2017)
-100% Chaos
-by MortimerNova [3RH]
-host briesbe, couch 1-800-POOP-NOW
-30m56s (est 38m, wr 39m58s)
-Overall ★★★☆☆
-Skill   ★☆☆☆☆
-Fun     ★★★★☆
-Youtube bDkqnI-yKPE+85
-Review: The game is pretty normal, but it's commentated more like a Silly Block run. Runner and couch playing characters, doing little comedy bits, very much not serious. I found it entertaining enough, but it might not be everybody's cup of tea.
-NM: Leaderboard doesn't say anything about 100%, but they mention the same WR as just "Chaos" so I'm going with it
-
-Contrast (PC - Compulsion 2013)
-Any%
-by NallyQ
-host briesbe, couch Zic3
-14m09s (est 18m, wr 12m22s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube XYMjLybMdUU+155
-Review: I actually played Contrast relatively recently. Sank triple the run's time into it, and didn't even make it past the first act. So I can confirm the run is exactly as busted as it looks, with constant clips, OoB, and sequence breaking. Zic's commentary near the start was good, but later on Nally took over, but her audio mix was incredibly bad. I could barely hear her over the game audio. It would have been a good run to wake up to - chill vibes but still lots of in-game shenanigans - but it fell short of its potential.
-
-Mega Man II (GB - Japan System House 1991)
-Any%
-race, KLM1187 vs KaiserKrister
-host briesbe, couch EndySWE, Mannix
-19m09s, 21m23s (est 22m, wr 18m12s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube 0vMCN4fEiZI+12
-Review: The risk you always run with races, especially of less-popular games, is that they might be uncompetitive, one racer clearly ahead for the entire run. That's what happened here - I think it would have been better as a solo run. Commentary was good but drowned out by game audio - I know Game Boy audio is highly compressed, hard to balance well with regular audio, but this was extremely hard to listen to at times.
-
-Evergate (PC - Stone Lantern 2020)
-Any% Unrestricted
-by Sunnymuffin [2RH]
-host briesbe, couch GhostKumo
-32m43s (est 40m, wr 30m57s)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★★☆☆☆
-Youtube -o5bifODdeM+21
-Review: A nice-looking puzzle-platformer, with lots of very tricky execution. Not many outright glitches, but lots of unintended paths taken. An interesting but chill sort of run. It's worth sticking around for the bonus levels run afterward.
-
-I Wanna be the Knight in Shining Armor (PC - MattinJ 2017)
-Any%
-by Chazoshtare [WRH]
-host Char_bunny, no couch
-16m02s (est 20m, wr 15m47s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube 2ClrPurfy7A+32
-Review: This style of fangame is notoriously hard, but this one doesn't seem like it. Not easy, but if it's as brutally hard as the ones from previous years, it doesn't show it. Not a bad run of an indie metroidvania, but not what I expected.
-
-Ponpu (PC - Purple Tree 2020)
-Story Mode No Level Swap
-by Bullets [WRH]
-host Char_bunny, no couch
-26m27s (est 30m, wr 24m06s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★★☆☆
-Youtube paevFKq_fGw
-Review: Nominally a Bomberman clone, but the speedrun plays more like a regular action game. Not the most interesting of runs - lots of repeated fights, little variety in tech - but Bullets pulls it off as well as could be expected.
-
-Wizard of Legend (PC - Contingent99 2018)
-Any% Glitchless
-by spacebrojakob [3RH]
-host Char_bunny, no couch
-10m02s (est 15m, wr 5m47s igt)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube iMCLHggWxTg
-Review: A short roguelike, with all that entails. Lots of RNG, no fixed routing, and a lot of gameplay options that just can't be explained during a run. Still, at ten minutes it's an easy watch.
-
-Sonic CD (Sega CD - Sega 1993)
-Beat the Game
-by JoeyBaby69 [2RH]
-host Argick, couch Guy 2308, Xandre69
-21m06s (est 25m, wr 10m56s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★☆☆☆☆
-Youtube jUB1r4dq6aQ+36
-Review: This run died a death of a thousand cuts, not any one flaw. The stream seemed to hitch frequently. Joey did not participate in commentary much, leaving it to a couch that seemed unready for remote work. The game itself does nothing that other 2D Sonic games don't do, and those runs seem far more polished. It just was not as fun as I feel it should have been.
-NM: Was originally scheduled between Sonic 3D Blast and Sonic Adventure 2, moved into Super Mario Bros 2's original slot for some reason.
-
-Streets of Rage 4 (PC - Dotemu 2020)
-Arcade Cherry Mania
-by themightybill [WRH]
-host ateatree, no couch
-45m46s (est 50m, wr 41m31s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube fdk_XOYV7Jg+38
-Review: A nice, tightly-routed bmup. Very little in the way of glitches, and there's not too much variety in the tech, but it has a good tension running through it. The fastest way to play is to use special moves excessively, but that leaves you just a hit away from death, and whenever things start to go off-script, it's nail-biting. The combo exhibition afterward is purely for SoR4 fans, though - Bill gives very little commentary, and messes up a lot more than in his main run.
-
-Astro's Playroom (PS5 - Team Asobi 2020)
-Any%
-by Xeilius [2RH]
-host ateatree, couch LeKcEy, MotoNickelz
-23m22s (est 26m, wr 22m07s)
-Overall ★★☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★★☆☆☆
-Youtube rzC5PKC7XVM+14
-Review: It's a Mario clone for the Playstation fanboys - movement is like a hybrid of Sunshine and Odyssey, but the level design seems a lot more linear and less challenging. And I was amazed how much of the speed tech revolved around minimizing load times, on a PS5 tech reel game. Probably fun to watch if you have history with Sony systems, but to outsiders, it just looks like a humdrum platformer run.
-
-Factorio (PC - Wube 2020)
-Any% Set Seed
-by Franqly [WRH]
-host THEKyleThomas, couch AntiElitz, Thue, Xenocyber
-1h31m20s (est 1h45m, wr 1h29m43s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube mlEVneHpRas+5
-Review: Exponential growth: the speedrun. Gather resources to start building a factory to build factories. Commentary did a good job with explaining what was going on, but the run did get slow at some points.
-
-Timeline (PC - Timeline 2000)
-Any%
-by havrd [WRH][ORH]
-host ateatree, couch Janmumrik
-24m41s (est 30m, wr 19m52s loadless)
-Overall ★★☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★★★☆☆
-Youtube sO-LpM7_28c+39
-Review: It's a two-decades-old tie-in game to a forgotten movie, you know what to expect. Bad design, bad story, glitchy, easily broken in amusing ways, but not a super-polished speedrun. That's about what you get. There's a lot to laugh at, but not much to marvel at - years ago, this could easily have been in Awful Block, but the bar for that's been raised over time.
-
-Black Mesa (PC - Crowbar Collective 2012, 2020)
-No Void
-by JohannVonVorst [WRH]
-host iggyzig, couch 2838, Shvok, the_kovic, xCape
-1h54m45s (est 2h04m, wr 1h34m05s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube t6XU7wEuyHw+163
-Review: The obligatory Source run of the marathon, and one I'm glad to see. Lots of bhopping, explosive boosting, some prop clipping and NPC teleporting. It's actually more solid against speed tech than official Valve games, which helps distinguish it from the HL2 runs we've seen before.
-
-Half-Life: Opposing Force (PC - Gearbox 1999)
-WON Scriptless
-by Muty [WRH]
-host iggyzig, couch EddWardG, qckdth, waezone
-22m47s (est 30m, wr 20m52s)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube ROZcrwSNttg+25
-Review: The couch is what let this run down. It's just as good a speedrun as any GoldSrc game, they just failed to do more than the bare minimum. It wasn't tedious to watch but it somehow was less engaging than the previous run, that was four times as long.
-
-Celeste (PC - Extremely OK 2018; Marshall H 2020)
-Custom Maps - Glyph All A-Sides
-by frozenflygone [WRH]
-host Mr. Game and Shout, couch Comet
-38m43s (est 45m, wr 35m28s igt)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube _zon5vP6qIo+80
-Review: Speaking of things every GDQ needs, here's Celeste. Which has a modding scene, apparently, and if this is anything to judge by, quite a good one. The run wasn't quite as mirror-polished as past Celeste runs, but there's a reason it's one of the dominant speed games, and both runner and couch showed nothing but love for the game.
-
-Sonic Heroes (GC - Sonic Team USA 2003)
-Team Sonic
-tas by Malleo, Tales98
-host Mr. Game and Shout, couch CriticalCyd, JustLemres
-36m01s23ms (est 40m, human wr 46m16s)
-Overall ★☆★☆★
-Skill   ☆★☆★☆
-Fun     ★☆★☆★
-Youtube YxI5PfTxIoQ
-Review: Gotta say, this was the most disappointing TAS exhibition in years. It's not actually bad, just... I've seen humans play this game, at SGDQ2020. This was beyond what humans could do... but not that far beyond what humans could do. The game is pretty busted, and this didn't push things too much farther. Nor is there much tech to talk about, for a TAS of this length - there is a shocking amount of time spent doing nothing.
-
-DANCERUSH STARDOM (Arcade - Konami 2018)
-Exhibition
-by Eijiken
-host Mr. Game and Shout, couch (too many to list)
-~1h (est 1h00m, no wr - showcase)
-Overall ★★★★☆
-Skill   ★☆☆☆☆
-Fun     ★★★★★
-Youtube v3AJkGdSt4Q
-Review: We've seen a lot of rhythm games showcased at GDQs, but this did something very different. Eijiken put on a show, and actually fucking danced, instead of tapping buttons with his feet at 600apm. It's perhaps the farthest from "speedrunning" ever shown at a GDQ, but I at least don't particularly mind that.
-
-The Legend of Zelda: Breath of the Wild (Switch - Nintendo EPD 2017)
-All Dungeons
-by Johnnyboomr [WRH]
-host Brutal_Melo, couch SlyZuora, Vivoxe, Wolhaiksong
-1h41m46s (est 2h00m, wr 1h38m42s)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★★☆☆☆
-Youtube 7iWTYIVOXOo+58
-Review: The game with a million fucking categories makes its obligatory return. All Dungeons is a good one, and Johnnyboomr put down an impressive time, but his couch kind of let him down. Just because a game's been shown twenty bajillion times, doesn't mean you can skimp on commentary, or act this bored by it.
-
-maimai FiNALE (Arcade - Sega 2018) [BONUS GAME 5]
-Exhibition
-by Starrodkirby86
-host marphoria, couch Raveille, Keizaron
-~1h30m (est 1h18m, no wr - showcase)
-Overall ★★★★☆
-Skill   ★★★★★
-Fun     ★★★☆☆
-Youtube X2ogX44s5Cs+87
-Review: Now this is what I've come to expect from rhythm game exhibitions - absolute insanity. Even the camera had trouble keeping up with how fast his hands were moving. The commentary was occasionally hard to parse, and the audio quality left much to be desired, but... just wow. I can't imagine how hard it is to get that good at this game.
-
-Fire Emblem: Three Houses (Switch - Intelligent Systems 2019)
-Black Eagles [BIDWAR]
-race Kirbymastah [WRH] vs Claris
-host NerdyExcursions, couch AeonFrodo
-1h13m53s, 1h16m49s (est 1h35m, wr 1h10m59s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★☆☆
-Youtube KSgZib0Z4LE
-Review: This was not the run I expected. The strats all sound dumb, but they work - most of the army gets suicided at the first possible chance, just to cut down on menuing; the sole survivor is kept deliberately underleveled until the timeskip, to take advantage of free level-ups; somehow *Sylvain* is the linchpin of the Crimson Flowers run, which is why fem!Byleth is somehow speed tech. But there's a lot more RNG, and far fewer memes in commentary, than I expected. The race was tighter than the end times make it look (last-minute RNG screwed one over), the commentary did a good job explaining all the strats, and just watching the menuing was kind of crazy.
-Original Review: Look, I put a hundred hours into this game last year and obsessively refreshed the screen all day, hoping Crimson Flower would win the bidwar (Edelgard von Hresvelg did nothing wrong!). My opinion here is *not* going to be unbiased. I was torn between giving it an ironic negative twenty stars for killing off all my favorite characters but then saving some of my most hated, and giving it five stars ahead of time for being the run I was most looking forward to. But if I'm going to pretend to be objective... it's a turn-based strategy run with blindingly-fast menuing, some dumb-but-they-work strats, a heap of RNG, and nowhere near as many memes as I had expected, given this fandom. The race was tighter than the final times make it look (one runner got screwed on literally the last turn of the last map), and some of the strategies in play were interesting and explained as well as possible in the brief moment they had.
-
-The*Bishi Bashi (Arcade - Konami 2009)
-100%
-by billyjr82
-host NerdyExcursions, couch JimTheEternal, Poochy.EXE
-21m32s (est 25m, no wr)
-Overall ★★☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★★☆☆☆
-Youtube 1-yrXguxnmI+39
-Review: I'm not really sure what they thought they were doing with this run. It's a collection of silly minigames, with a heavy emphasis on mashing, but they commentated as if it were a serious, technical run. Yet I was still frequently confused - why were some minigames repeated? Why weren't others that didn't get an SSS rank, which they had said was the definition of 100%? This run feels like it called for more casual commentary, silly-block energy, but that's not what they went for, and I think the run suffered for it.
-
-------------------------------SATURDAY-------------------------------
-
-Spongebob's Truth or Square (Xb360 - Heavy Iron 2009)
-Any%
-race, Jaxler [2RH] vs BubbleBass [WRH]
-host NerdyExcursions, couch Jackalacka
-25m28s, 26m27s (est 30m, wr 22m33s)
-Overall ★☆☆☆☆
-Skill   ★☆☆☆☆
-Fun     ★☆☆☆☆
-Youtube n2CVGN4F3_8+112
-Review: Where to start with this one? Once again, we got the wrong sort of commentary - stiff, sportsy, technical explanations, that this run doesn't seem to justify. It was a weak race - that minute spread was caused by repeatedly failing a trick in the first stage, and Jaxler actually gave better commentary than the Jackalacka on the couch. And the any% category involves repeating one relatively boring trick several times in a row, to skip multiple levels - it would have been slower, but more interesting, to actually play those levels. They had already deviated from the WR Any% route, playing through one level rather than using a risky skip, so why not just play the All Stages category?
-
-Storks and Apes and Crocodiles (SNES - Nintendo EAD 1990; Morsel 2017)
-100%
-by SuperBen [2RH]
-host Doctor No, couch AmythestRocks, ThirdWall
-40m25s (est 50m, wr 28m48s)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube _Q_-Smg6gcM+143
-Review: The first of this little late-night Kaizo Block. Obviously, that means a ridiculously challenging game - very little distinguishes this speedrun from a well-executed casual run, the only speed tech is "don't die". But it came with some very insightful commentary, and the occasional bout of frustration was more interesting than a deathless run would have been.
-
-Let's Give Up (SNES - Nintendo EAD 1990; BeeKaay 2020)
-6 Exit
-by MrMightyMouse [WRH]
-host Doctor No, couch AmethystRocks, ThirdWall
-25m05s (est 35m, wr 25m10s)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★★☆☆☆
-Youtube Ui3q6Ze_75c+116
-Review: The second, and weirder, half of Kaizo Block. All cape levels? Sure, that could work, and did. Half the run being boss fights? A risk, and when they were all effectively autoscrollers, one that I don't think paid off. The couch was still great, and Mouse was a good runner, I just don't think this game was the best one for a marathon.
-
-Mega Man X2 (SNES - Capcom 1994)
-100%
-by Luiz Miguel [2RH]
-host AnEternalEnigma, couch Teemu, The_sid
-37m11s (est 40m, wr 34m59s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube 1W-WMDNujA4+258
-Review: We've seen plenty of Mega Man X runs. This is not the best, but still not bad. The couch was good when they weren't talking over each other, and Luiz pulled off a few impressive-looking tricks.
-
-Batman: The Video Game (Genesis - Sunsoft 1990)
-Normal
-by tako [WRH]
-host AnEternalEnigma, no couch
-16m41s (est 18m, wr 13m59s)
-Overall ★☆☆☆☆
-Skill   ★☆☆☆☆
-Fun     ☆☆☆☆☆
-Youtube aG_tssfdYlQ
-Review: One of the roughest runs of this event. Tako seemed unable to both play the game and commentate at the same time, and ended up doing badly at both. Lots of mistakes, he seemed to barely scrape past the finish line, and even when it went well, the speedrun didn't seem that interesting or polished. His commentary was frequently pointless, just describing the things that were happening on screen, without adding any insight or explanation, and his ceaseless monotone made him seem as bored as I was.
-
-QuackShot Starring Donald Duck (Genesis - Sega 1991)
-Any%
-by tako [WRH]
-host AnEternalEnigma, couch Drakodan
-24m57s (est 28m, wr 23m47s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube MExbP25hS4U+18
-Review: A substantially better run - maybe Tako is more experienced with it, or maybe he just needed someone to commentate and let him focus on gameplay, but either way, this one was actually decent. Aside from some horrendous audio mixing at the start - the first minute or so of explanations were absolutely inaudible over the game music, but it's fixed shortly.
-
-Rayman (PS1 - Ubi Studios 1995)
-Any%
-by Thextera [WRH]
-host cartridgeblowers, no couch
-1h21m01s (est 1h22m, wr 1h16m59s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube Untff3yV0H0+85
-Review: This run distinguished itself on commentary. It's not a super technical game, it didn't *need* much explanation, but Thextera delves into every little trick, even the ones that he couldn't or didn't go for.
-
-Donkey Kong Country 3: Dixie Kong's Double Trouble (SNES - Rare 1996)
-No Major Skips
-by Anankoz [2RH]
-host cartridgeblowers, couch Silent Wolf, V0oid
-58m29s (est 1h03m, wr 56m31s)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★☆☆☆
-Youtube _NSl8aOdH7c
-Review: A category focused on tight execution and mastery of diverse movement mechanics. Excellent commentary from two of the other top runners - informative but never dry - and some truly impressive gameplay from Anankoz.
-
-Super Meat Boy Forever (PC - Team Meat 2020)
-Any% Random Seed
-race, Ins_sane [WRH] vs Arfinde
-host cartridgeblowers, couch Sandsh8rk, Chonny24
-20m49s, 22m32s (est 28m, wr 17m27s igt)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★☆☆
-Youtube QNOLSoiCyfQ
-Review: A quality race - it was neck-and-neck for half the run, and still fifteen seconds away going into the final boss. I don't think there was a dull moment in the entire run.
-
-Pokemon Emerald (GBA - Game Freak 2004)
-Any% Glitchless
-by AmoebaUK
-host Edobean, couch kurddt, Shiru 
-2h44m10s (est 2h55m, wr 2h30m25s) [NV?]
-Overall ☆☆☆☆☆
-Skill   ☆☆☆☆☆
-Fun     ☆☆☆☆☆
-Youtube ssIVZV1eDFM+26
-Review: (Have not yet watched)
-
-Bowser's Fury (Switch - Nintendo EPD 2021)
-Any% No Amiibo
-by fir_
-host YoBGS, couch Dangers
-31m59s (est 38m, wr 26m53s)
-Overall ★★★☆☆
-Skill   ★★☆☆☆
-Fun     ★★★★☆
-Youtube enDKdZRGrwI+105
-Review: A surprisingly good speedrun, considering how new the game is. Fir's execution wasn't the greatest but the route and tech already looks quite interesting, and he gave an absolutely hilarious explanation of some of the mechanics - perhaps the greatest use of props since Tomato's Fallout Anthology run back in AGDQ2020. Definitely a game to keep an eye on.
-
-Mario Kart 64 (N64 - Nintendo EAD 1996)
-150cc All Cups Skips
-by abney317 [WRH]
-host YoBGS, couch dntn31, Weatherton
-27m11s (est 35m, wr 23m52s)
-Overall ★★★☆☆
-Skill   ★★★★☆
-Fun     ★★☆☆☆
-Youtube 0QXj_N5jU-8+25
-Review: One of the kings of MK64 does as well as the RNG lets him. The game is just too inconsistent to see everything, but we still get to see plenty, with quality commentary.
-
-Super Metroid (SNES - Nintendo R&D1 1994)
-100%
-race, Oatsngoats vs Behemoth87 [3RH] vs ShinyZeni [2RH]
-host YoBGS, couch TheHockeyTowner, Antinomy
-1h14m50s, 1h15m39s, 1h17m14s (est 1h20m, wr 1h12m55s)
-Overall ★★★★☆
-Skill   ★★★★☆
-Fun     ★★★★★
-Youtube ucwaN2bbwLU+36
-Review: There is a reason Super Metroid races used to be the traditional GDQ grand finale - it's a great speed game, with a community that can give absolutely top-notch commentary. Antinomy and Hockey put in possibly the best couch work of the Covid era, backing three of the best SM runners.
-
-Super Mario 64 (N64 via Wii VC - Nintendo EAD 1996)
-70 Star Blindfolded
-by Bubzia [2RH]
-host Mr. Game and Shout, couch charliebrown64
-1h49m59s (est 2h15m, wr 1h26m20s blindfolded, 47m58s sighted) [PB]
-Overall ★★★★★
-Skill   ★★★★★
-Fun     ★★★★★
-Youtube rKnDj3wMNik+57
-Review: I have no words.
-
-Dark Souls III (PC - From 2016)
-Any% glitchless
-by MattApocaalypse
-host Brutal_Melo, couch distortion2, Fudge Cow
-55m00s (est 1h05m, wr 44m00s igt)
-Overall ★★☆☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube kQJOl72vJGQ+84
-Review: If you're a fan of the genre and want to see DS3 get wrecked, this will probably entertain. If you're more an outsider to the series, or even unfamiliar entirely, this probably won't do much for you. Commentary kind of explains what's going on but doesn't do a good job selling the difficulty, nor does the game itself.
-
-Demon's Souls (PS5 - From 2009; Bluepoint 2020) [BONUS GAME 6]
-Any% Current Patch PS+ Warps
-by BertoPlease [3RH]
-host Brutal_Melo, couch Ashewyn
-53m57s (est 1h00m, wr 42m28s)
-Overall ★★☆☆☆
-Skill   ★★☆☆☆
-Fun     ★★☆☆☆
-Youtube i9MpspBiCX0+25
-Review: Ashewyn makes the interesting choice to focus on explaining the lore as much as explaining the speed tech or strats. This could maybe have paid off, if it hadn't fairly quickly started to blur together. So instead we're left with a run that's not super polished (as expected of a game this new), with commentary that doesn't do enough to hold interest on its own. If you're a From Software fan, you'll probably still enjoy it, but for everyone else, this will probably feel like late-night filler.
-
-Super Mario Bros. 3 (NES - Nintendo R&D4 1988)
-100% Warpless
-coop mitchflowerpower [SOLO 2RH], TheHaxor [COOP WRHs]
-host Skybilz, no couch
-1h20m39s (est 1h25m, wr 1h19m54s coop, 1h09m58s solo)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★★★☆
-Youtube XrAiLTK2-Bc
-Review: Coop is about the only way this game, and especially category, is watchable. There's just too many autoscrollers. It needs the vocal on-the-fly rerouting and the bromantic tension to actually be a good speed game. But Mitch and Haxor deliver on both fronts, putting on an entertaining - and powerful - performance.
-
-Super Mario Bros. 3 (NES - Nintendo R&D4 1988)
-Any% No Wrong Warp
-by mitchflowerpower [2RH]
-host Skybilz, couch TheHaxor
-11m51s (est 13m, wr 10m44s)
-Overall ★★★☆☆
-Skill   ★★★☆☆
-Fun     ★★☆☆☆
-Youtube XrAiLTK2-Bc+4980
-Review: Mitch goes for almost all the ridiculous marathon-unsafe strats, and gets some of them. At twelve minutes, it doesn't grate too much that eight of them were spent on autoscrollers, but it's definitely a step down from the coop run.
-
-Kingdom Hearts II Final Mix (PS4 - Square Enix Div 1 2005, 2014, 2017)
-Any% Critical Mode
-by ninten866 [2RH]
-host Bobby Blackwolf, couch JHobz, SpikeVegeta
-3h13m12s (est 3h15m, wr 2h47m55s)
-Overall ☆☆☆☆☆
-Skill   ☆☆☆☆☆
-Fun     ☆☆☆☆☆
-Youtube 5tQB6_T6Wfk
-Review: (Have not yet watched)
+	<div id="content">
+		<a onclick="hideAllContentBut('player')">Video</a>
+		<a onclick="hideAllContentBut('filters')">Filters</a>
+		<a onclick="hideAllContentBut('info')">About / Ratings Guide</a>
+		<a onclick="hideAllContentBut('browser')">Event Browser</a>
+	</div>
+	<script>
+		function hideAllContentBut(exception){
+			console.log(`hiding all but ${exception}`);
+			for (var element of ['browser', 'player', 'filters', 'info']){
+				document.getElementById(element).hidden = element != exception;
+			}
+		}
+	</script>
 </div>
 
 <script>
@@ -2044,9 +709,198 @@ function definePlatforms(input){
 			'Xb1':		'Microsoft Xbox One (the third one)',
 			'XSX':		'Microsoft Xbox Series X (the fourth and newest one)',
 			'PCE':		'NEC PC Engine/TurboGrafx-16',
+			'TG16':		'NEC TurboGrafx-16/PC Engine',
 		};
 		return platforms.hasOwnProperty(w) ? '<abbr title="' + platforms[w] + '">' + w + '</abbr>' : w;
 	}).join(' ');
+}
+function simplifyRatingString(input){
+	const ratings = {
+		'N/R':   'N',
+		'☆☆☆☆☆': '0',
+		'★☆☆☆☆': '1',
+		'★★☆☆☆': '2',
+		'★★★☆☆': '3',
+		'★★★★☆': '4',
+		'★★★★★': '5',
+		'★☆★☆★': 'S',
+		'☆★☆★☆': 'S',
+	};
+	
+	return ratings[input] ?? 'N';
+}
+
+function loadReviewsForMarathon(event, reset = true){
+	fetch(`${event}.txt`, { cache: 'reload' })
+	.then(response => response.text())
+	.then(loadReviews);
+}
+
+function loadReviews(input){
+	
+	var run_container = document.getElementById("runs");
+	var navbar_container = document.getElementById("days");
+	
+	// clear out runs table and daily navbar
+	run_container.replaceChildren();
+	navbar_container.replaceChildren();
+	
+	for (run of input.trim().split("\n\n")){
+		var lines = run.split("\n");
+		
+		if (lines.length == 3 && lines[0].startsWith('===')){
+			// looks like a starter header
+			var name = lines[0].replaceAll('=', '');
+			
+			var header_element = document.createElement('h1');
+			header_element.innerHTML = name + "<span>" + lines[1].replaceAll('=', '') + "</span><span>" + lines[2].replaceAll('=', '') + "</span>";
+			run_container.appendChild(header_element);
+			
+			continue;
+		} else if (lines.length == 1 && lines[0].startsWith('---')){
+			// looks like a section header
+			var name = lines[0].replaceAll('-', '');
+			
+			var header_element = document.createElement('h2');
+			header_element.innerHTML = header_element.id = name;
+			run_container.appendChild(header_element);
+			
+			var link_element = document.createElement('a');
+			link_element.innerHTML = name;
+			link_element.href = "#" + name;
+			navbar_container.appendChild(link_element);
+			
+			continue;
+		} else if (lines.length == 1 && lines[0].startsWith('[[[')){
+			// looks like a block header
+			var name = lines[0].replaceAll('[', '').replaceAll(']', '');
+			
+			// TODO: set some kind of block flag to style runs within it? Not actually sure how I want to display these
+			
+			continue;
+		}
+		
+		// for safety, ignore all other insufficiently-long runs
+		if (lines.length < 10){
+			console.log("Skipping entry: " + run);
+			continue;
+		}
+		
+		var run_element = document.createElement("gdq-run");
+		run_element.className = document.body.className;
+		
+		var title_re = lines[0].match(/([^\(\)]+) \((.+) - ([^\(\)]+) ((YEAR)|[0-9,; ]+)\)/);
+		var time_re = lines[4].match(/(~?[^\(\)]+) \(([A-Za-z0-9 ?]+), ([A-Za-z0-9% ,?-]+)\)([\[\] A-Z0-9]*)/);
+		var youtube_re = lines[8].match(/Youtube ([A-Za-z0-9_-]+)\+?([0-9]*)/);
+		
+		if (title_re == null){
+			console.log("Error parsing title: " + lines[0]);
+			continue;
+		}
+		if (time_re == null){
+			console.log("Error parsing time: " + lines[4]);
+			continue;
+		}
+		if (youtube_re == null){
+			console.log("Error parsing video link: " + lines[4]);
+			continue;
+		}
+		
+		run_element.appendChild(createSlot("game", title_re[1]));
+		run_element.appendChild(createSlot("plat", definePlatforms(title_re[2])));
+		run_element.appendChild(createSlot("dev",  title_re[3]));
+		run_element.appendChild(createSlot("year", title_re[4]));
+		run_element.appendChild(createSlot("category", lines[1]));
+		run_element.appendChild(createSlot("runner", defineTags(lines[2])));
+		run_element.appendChild(createSlot("crew", defineTags(lines[3])));
+		run_element.appendChild(createSlot("time", time_re[1]));
+		run_element.appendChild(createSlot("estimate", time_re[2]));
+		run_element.appendChild(createSlot("wr", time_re[3].replaceAll('igt', '<abbr title="In-Game Time">igt</abbr>')));
+		run_element.appendChild(createSlot("time-tags", defineTags(time_re[4])));
+		run_element.appendChild(createSlot("overall", lines[5].substring(8)));
+		run_element.appendChild(createSlot("skill", lines[6].substring(8)));
+		run_element.appendChild(createSlot("fun", lines[7].substring(8)));
+		run_element.appendChild(createSlot("review", lines[9].substring(8)));
+		
+		run_element.setAttribute("yt-url", youtube_re[1]);
+		run_element.setAttribute("yt-offset", youtube_re[2]);
+		run_element.setAttribute("rating", simplifyRatingString(lines[5].substring(8)));
+		run_element.setAttribute("game", title_re[1].toLowerCase());
+		run_element.setAttribute("platform", title_re[2].toLowerCase());
+		run_element.setAttribute("category", lines[1].toLowerCase());
+		run_element.setAttribute("runner", lines[2].toLowerCase());
+		run_element.setAttribute("crew", lines[3].toLowerCase());
+		// TODO: NBs, NMs, etc?
+		
+		run_container.appendChild(run_element);
+	}
+
+	for (element of document.getElementsByTagName("gdq-run")){
+		element.onclick = function(ev){
+			if (ev.target.slot == "overall" || ev.target.slot == "skill" || ev.target.slot == "fun") {
+				// clicked on a rating, pop up the ratings guide
+				var key = document.getElementById("ratings-key");
+				key.hidden = !key.hidden;
+			} else {
+				// clicked on something else, set the current video
+				console.log("Setting player to " + this.getAttribute("yt-url") + " +" + this.getAttribute("yt-offset"));
+				if (player.getPlayerState() == 1){
+					// currently playing, start instantly
+					player.loadVideoById(this.getAttribute("yt-url"), this.getAttribute("yt-offset"));
+				} else {
+					// currently cued/paused/buffering/stopped, just cue it up
+					player.cueVideoById(this.getAttribute("yt-url"), this.getAttribute("yt-offset"));
+				}
+				hideAllContentBut('player');
+			}
+		}
+	}
+	
+	refreshFilters();
+}
+
+function refreshFilters(){
+	var allowedRatings = [];
+	for (element of document.querySelectorAll("input[rating]").values()){
+		if (element.checked){
+			allowedRatings.push(element.attributes.rating.value);
+		}
+	}
+	
+	var allowedRunner = document.getElementsByName("runner")[0].value.toLowerCase();
+	var allowedCrew = document.getElementsByName("crew")[0].value.toLowerCase();
+	var allowedGame = document.getElementsByName("game")[0].value.toLowerCase();
+	var allowedCategory = document.getElementsByName("category")[0].value.toLowerCase();
+	var allowedPlatform = document.getElementsByName("platform")[0].value.toLowerCase();
+	
+	for (element of document.getElementsByTagName("gdq-run")){
+		var passed = true;
+		
+		if (allowedRatings.length){
+			passed = passed && allowedRatings.includes(element.attributes.rating.value);
+		}
+		if (allowedRunner){
+			passed = passed && element.attributes.runner.value.includes(allowedRunner);
+		}
+		if (allowedCrew){
+			passed = passed && element.attributes.crew.value.includes(allowedCrew);
+		}
+		if (allowedGame){
+			passed = passed && element.attributes.game.value.includes(allowedGame);
+		}
+		if (allowedCategory){
+			passed = passed && element.attributes.category.value.includes(allowedCategory);
+		}
+		if (allowedPlatform){
+			passed = passed && element.attributes.platform.value.split(" ").includes(allowedPlatform);
+		}
+		
+		element.hidden = !passed;
+	}
+}
+
+for (element of document.getElementsByTagName("input")){
+	element.oninput = refreshFilters;
 }
 
 customElements.define('gdq-run',
@@ -2071,101 +925,30 @@ function onYouTubeIframeAPIReady() {
 	player = new YT.Player('player', {
 		height: getComputedStyle(document.getElementById("player")).getPropertyValue("--player-height").replace('px', ''),
 		width: getComputedStyle(document.getElementById("player")).getPropertyValue("--player-width").replace('px', ''),
-		videoId: '', // TODO: do we need to set this right off the bat?
+		videoId: '',
 		playerVars: {
 			'playsinline': 1
 		},
 		events: {}
 	});
+	
+	// check URL params, see if we should shortcut into a marathon
+	let params = new URLSearchParams(document.location.search);
+	let marathon = params.get("m");
+	if (marathon != null){
+		loadMarathon(marathon, false);
+	} else {
+		hideAllContentBut('browser');
+	}
 }
 
-// my own code
-var run_container = document.getElementById("runs");
-var navbar_container = document.getElementById("days");
-var input = document.getElementById("raw").textContent;
-for (run of input.trim().split("\n\n")){
-	var lines = run.split("\n");
-	
-	if (lines.length == 1 && lines[0].startsWith('---')){
-		// looks like a header
-		var name = lines[0].replaceAll('-', '');
-		
-		var header_element = document.createElement('h2');
-		header_element.innerHTML = header_element.id = name;
-		run_container.appendChild(header_element);
-		
-		var link_element = document.createElement('a');
-		link_element.innerHTML = name;
-		link_element.href = "#" + name;
-		navbar_container.appendChild(link_element);
-		
-		continue;
-	}
-	
-	// for safety, ignore all other insufficiently-long runs
-	if (lines.length < 10){
-		console.log("Skipping entry: " + run);
-		continue;
-	}
-	
-	var run_element = document.createElement("gdq-run");
-	
-	var title_re = lines[0].match(/([^\(\)]+) \(([^\(\)]+) - ([^\(\)]+) ([0-9, ]+)\)/);
-	var time_re = lines[4].match(/(~?[0-9hms, ]+) \(([A-Za-z0-9 ?]+), ([A-Za-z0-9 ,?-]+)\)([\[\] A-Z0-9]*)/);
-	var youtube_re = lines[8].match(/Youtube ([A-Za-z0-9_-]+)\+?([0-9]*)/);
-	
-	if (title_re == null){
-		console.log("Error parsing title: " + lines[0]);
-		continue;
-	}
-	if (time_re == null){
-		console.log("Error parsing time: " + lines[4]);
-		continue;
-	}
-	
-	run_element.appendChild(createSlot("game", title_re[1]));
-	run_element.appendChild(createSlot("plat", definePlatforms(title_re[2])));
-	run_element.appendChild(createSlot("dev",  title_re[3]));
-	run_element.appendChild(createSlot("year", title_re[4]));
-	run_element.appendChild(createSlot("category", lines[1]));
-	run_element.appendChild(createSlot("runner", defineTags(lines[2])));
-	run_element.appendChild(createSlot("crew", defineTags(lines[3])));
-	run_element.appendChild(createSlot("time", time_re[1]));
-	run_element.appendChild(createSlot("estimate", time_re[2]));
-	run_element.appendChild(createSlot("wr", time_re[3].replaceAll('igt', '<abbr title="In-Game Time">igt</abbr>')));
-	run_element.appendChild(createSlot("time-tags", defineTags(time_re[4])));
-	run_element.appendChild(createSlot("overall", lines[5].substring(8)));
-	run_element.appendChild(createSlot("skill", lines[6].substring(8)));
-	run_element.appendChild(createSlot("fun", lines[7].substring(8)));
-	run_element.setAttribute("yt-url", youtube_re[1]);
-	run_element.setAttribute("yt-offset", youtube_re[2]);
-	run_element.appendChild(createSlot("review", lines[9].substring(8)));
-	// TODO: NBs, NMs, etc?
-	
-	run_container.appendChild(run_element);
-}
-
-for (element of document.getElementsByTagName("gdq-run")){
-	element.onclick = function(ev){
-		if (ev.target.slot == "overall" || ev.target.slot == "skill" || ev.target.slot == "fun") {
-			// clicked on a rating, pop up the ratings guide
-			var key = document.getElementById("ratings-key");
-			key.hidden = !key.hidden;
-		} else {
-			// clicked on something else, set the current video
-			console.log("Setting player to " + this.getAttribute("yt-url") + " +" + this.getAttribute("yt-offset"));
-			if (player.getPlayerState() == 1){
-				// currently playing, start instantly
-				player.loadVideoById(this.getAttribute("yt-url"), this.getAttribute("yt-offset"));
-			} else {
-				// currently cued/paused/buffering/stopped, just cue it up
-				player.cueVideoById(this.getAttribute("yt-url"), this.getAttribute("yt-offset"));
-			}
-		}
-	}
-}
-document.getElementById("ratings-key").onclick = function(){
-	document.getElementById("ratings-key").hidden = true;
+// check URL params, see if we should shortcut into a marathon
+let params = new URLSearchParams(document.location.search);
+let marathon = params.get("m");
+if (marathon != null){
+	loadMarathon(marathon, false);
+} else {
+	hideAllContentBut('browser');
 }
 </script>
 </body>
