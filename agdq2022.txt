@@ -1,95 +1,108 @@
 ====================AWESOME GAMES DONE QUICK 2021====================
-========Raising $0,000,000 for the Prevent Cancer Foundation=========
+========Raising $0,448,059 for the Prevent Cancer Foundation=========
 =========================January 9-15, 2021==========================
 
 -------------------------------SUNDAY--------------------------------
 
 Nioh 2 (PS5 - Team Ninja 2020, 2021)
 Any% Featherless
-by AxelSanGo
-host PurpleGhostKasper, couch COUCH
-HhMMmSSs (est 1h35m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube PENDING
-Review: (Not yet watched)
+by AxelSanGo [WRH][ORH]
+host PurpleGhostKasper, no couch
+1h27m15s (est 1h35m, wr 1h19m54s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
+Youtube BShG5Si8xAY+275
+Review: A dubious choice to start the marathon with. This feels more like late-night filler than a triumphant show-starter, not bad but not as good as I was expecting. The run isn't super polished (as expected from a game this new), and could have benefitted from a good couch to explain things better. Axel's self-commentary was rather stilted, low-energy, and sometimes hard to understand. It's a jargon-heavy game and not all of it is obvious just from watching.
 
 Metroid Prime Hunters (DS - Nintendo Software Technology 2006)
 All Items
+by Mr_Shasta [3RH]
+host PurpleGhostKasper, no couch
+1h20m12s (est 1h30m, wr 1h09m55s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube uv9Y_-HkDW4+20
+Review: Much like other Metroid Prime runs, but with some unique twists. It still has a lot of sequence breaking and out-of-bounds, but it adds some unique movement breaks like rocket-jumping. 
+
+Metroid Prime Hunters (DS - Nintendo Software Technology 2006)
+First Hunt
 by Mr_Shasta
-host PurpleGhostKasper, couch COUCH
-HhMMmSSs (est 1h30m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube PENDING
-Review: (Not yet watched)
+host PurpleGhostKasper, no couch
+2m01s igt (no est, wr 1m31s igt)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube uv9Y_-HkDW4+5041
+Review: Just a tiny dessert after the main run. Mostly just fast shooting, with one clip and some clever movement to spice things up.
+NM: Retime this
 
 Donkey Kong Country 2: Diddy's Kong Quest (SNES - Rare 1995)
 Any%
-race Eazinn vs V0oid vs SBDWolf vs Tonkotsu
-host Skybilz, couch COUCH
-HhMMmSSs (est 48m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube PENDING
-Review: (Not yet watched)
+race Eazinn vs V0oid [WRH] vs SBDWolf [2RH] vs Tonkotsu
+host Skybilz, couch SpikeVegeta, SilentWolf
+39m39s, 39m40s, 40m44s, 41m00s (est 48m, wr 38m13s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
+Youtube LcSbzqq2gk4+21
+Review: I was worried this was going to be a dull race, after the early splits just kept growing, ultimately spreading the runners across three levels, but it pulled around into a nail-biting finish. We had excellent commentary throughout, SilentWolf giving tech primers and SpikeVegeta giving a rainbow of color commentary.
 
 DEATHLOOP (PC - Arkane 2021)
 Any%
 by CreeperHntr
-host Skybilz, couch COUCH
-HhMMmSSs (est 25m, wr HhMMmSSs)
+host Skybilz, couch BloodThunder, Meta, Thud Rogers
+26m46s (est 25m, wr 17m13s loadless)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube eds2jAhP6T0+0
 Review: (Not yet watched)
 
 Axiom Verge 2 (PC - Thomas Happ 2021)
 Any% Major Glitches
-by SeraphinEveles
-host Skybilz, couch COUCH
-HhMMmSSs (est 13m, wr HhMMmSSs)
+by SeraphinEveles [WRH]
+host Skybilz, couch Bullets, foxyjira
+11m54s (est 13m, wr 10m50s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube -EFqkI-fHSg+0
 Review: (Not yet watched)
 
 Mega Man 2 (NES - Capcom 1988)
 Any% Difficult
-by coolkid
-host Skybilz, couch COUCH
-HhMMmSSs (est 32m, wr HhMMmSSs)
+by coolkid [2RH]
+host Skybilz, couch Mithical9
+27m02s (est 32m, wr 26m34s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube hlQaRTDvthA+0
 Review: (Not yet watched)
 
 Metal Gear Solid 2: Substance (PC - Konami 2001, 2002) [BONUS]
 Tanker Blindfolded
 by ApacheSmash
-host Skybilz, couch COUCH
-HhMMmSSs (est 15m, wr HhMMmSSs)
+host Skybilz, couch MackMcD
+10m26s (est 15m, wr sighted 5m38s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube BvW52GiO6jM+85
 Review: (Not yet watched)
+NM: for WR, assumed Very Easy
 
 Death's Door (PC - Acid Nerve 2021)
 Current Patch Any%
-by Scrublord
-host Mr. Game and Shout, couch COUCH
-HhMMmSSs (est 1h15m, wr HhMMmSSs)
+by Scrublord [2RH]
+host Mr. Game and Shout, couch Bullets, foxyjira [3RH]
+HhMMmSSs (est 1h15m, wr 56m02s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube yhMSDU6Xvfo+215
 Review: (Not yet watched)
 
 Marvel's Spider-Man Remastered (PS5 - Insomniac 2018, 2020)
@@ -261,69 +274,70 @@ Review: (Not yet watched)
 
 Kirby's Dream Land 3 (SNES via Switch - HAL Lab 1997)
 Any% No 2P
-by Darksol188
-host frozenflygone, couch COUCH
-HhMMmSSs (est 1h10m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Darksol188 [3RH]
+host frozenflygone, couch DarkRiolu27, GlitchAston
+1h05m35s (est 1h10m, wr 1h01m10s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: Not the most skill-heavy game, but a very clean run of it. Good couch work too - a good mix of info and jokes. A bit heavy on autoscrollers and flyover levels, though. Is this the SMB3 of the Kirby series?
 
 Kena: Bridge of Spirits (PC - Ember Lab 2021)
-Toshi's Relics (Easy)
-by InsertLogic
+Any% NMG Hard
+by InsertLogic [WRH][ORH]
 host frozenflygone, couch COUCH
-HhMMmSSs (est 35m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+28m35s (est 35m, wr 29m20s) [WR]
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: A very busted run, even for such a new game. Lots of out-of-bounds, in numerous ways, and no lack of other skips. I'm not sure Hard mode added all that much to the difficulty - it only ups the combat, which was mostly skipped - but a great run nonetheless.
 
 Chicory: A Colorful Tale (PC - Greg Lobanov 2021)
 All Bosses And Trials
-by Punchy
-host frozenflygone, couch COUCH
-HhMMmSSs (est 35m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Punchy [WRH]
+host frozenflygone, couch COUCH, Greg Lobanov [DEV]
+33m13s (est 35m, wr 32m40s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: An artsy pixely indie adventure game. The boss fights are a bit too autoscrolly, and the commentary is a bit heavy on "gushing about how good the game is" (from everyone except the dev), but it's still a good speedrun.
 
-Crash Team Racing (PS1 - Naughty Dog 1999)
+Crash Team Racing (PS1 via PS2 - Naughty Dog 1999)
 Any% NMG
-by hypnoshark
-host Edobean, couch COUCH
-HhMMmSSs (est 1h05m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by hypnoshark [WRH]
+host Edobean, no couch
+50m47s (est 1h05m, wr 48m56s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: Like many kart racers, this is a run with a lot of tech to shave seconds. Good self-commentary and clean execution. The glitch exhibition afterward is interesting but not as well-explained as I'd have liked.
 
 Webbed (PC - Sbug 2021)
 Any%
-by ShadowthePast
-host Edobean, couch COUCH
-HhMMmSSs (est 25m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by ShadowthePast [3RH]
+host Edobean, couch Torqqes [2RH], SteelOsprei, Noah [DEV]
+17m21s (est 25m, wr 17m39s) [WR]
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: A new speed game, but one you might want to keep an eye on. The movement tech is very powerful, and gives you all your options from the start. It's already kind of nuts, and could get crazier as runners solidify their skills. About the only problem with this run is that it was too short to really explain everything that was going on.
+NM: confirm wr
 
 Mega Man X4 (PS1 - Capcom 1997)
-100% Zero vs X [BIDWAR]
-by Luiz Miguel
-host Edobean, couch COUCH
-HhMMmSSs (est 50m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+100% Zero [BIDWAR]
+by Luiz Miguel [WRH]
+host Edobean, couch Hetfield90, The_Sid
+44m54s (est 50m, wr 41m56s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: One of the marks of a good speedrunner is being able to execute well even on bad RNG. The game didn't want to cooperate, but Luiz performed well anyways, and the couch put on some informative (if low-energy) commentary.
 
 Psychonauts 2 (PC - Double Fine 2021)
 Any%
@@ -338,36 +352,47 @@ Review: (Not yet watched)
 
 Super Monkey Ball: Banana Mania (PC - Ryu Ga Gotoku 2021) [BONUS]
 Story Mode All Worlds
-race Helix vs PetresInc
-host ateatree, couch COUCH
-HhMMmSSs (est 48m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+race Helix [2RH] vs PetresInc [WRH]
+host ateatree, no couch
+38m30s, 39m20s (est 48m, wr 31m49s loadless)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: Monkey Ball is always a good game to watch, and this was one of the better races. Very competitive, well-commentated, ridiculous strats that fail just enough to let you grok how hard it is.
 
-Ori and the Blind Forest (PC - Moon 2015)
+Super Monkey Ball: Banana Mania (PC - Ryu Ga Gotoku 2021) [INCENTIVE]
+Dark Banana
+race Helix [2RH] vs PetresInc [WRH]
+host ateatree, no couch
+4m43s, 5m55s (est 8m, wr 3m07s loadless)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube PENDING
+Review: An added challenge mode, as a traditional victory lap for Monkey Ball runs. Nothing too special but if you watched the All Worlds run, you'll want to see this too.
+
+Ori and the Blind Forest: Definitive Edition (PC - Moon 2015, 2016)
 All Cells (No OOB/TA)
 by rinSR
 host ateatree, couch COUCH
-HhMMmSSs (est 50m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+48m40s (est 50m, wr 43m13s) [NV]
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: There's a million indie-ish metroidvanias out there now, but Ori still ranks highly as a speed game. There's just so much movement tech, by the end, Rin was just blazing, and they had a good couch to handle their commentary. Invalidated by timer issues fairly early into the run.
 
 Super Mario Galaxy (Wii via Wii U - Nintendo EAD 2007)
 Any% Luigi
-race Tibs vs HardcoreGaming vs Jhay vs Mr. Cloud Kirby
+race Tibs vs HardcoreGaming [2RH] vs Jhay [WRH] vs Mr. Cloud Kirby [3RH]
 host Char_bunny, couch COUCH
-HhMMmSSs (est 2h35m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+2h19m17s, 2h19m31s, 2h20m56s, 2h21m30s (est 2h35m, wr 2h18m15s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★★
 Youtube PENDING
-Review: (Not yet watched)
+Review: The reigning champ versus the up-and-coming underdog, with two other top contenders nipping at their heels... easily one of the most competitive races we've seen in years, and in a game with no end of speed tech.
 
 Pumpkin Jack (PC - DEV YEAR)
 NG+ No OOB
