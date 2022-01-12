@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2022====================
-========Raising $0,690,013 for the Prevent Cancer Foundation=========
+========Raising $0,758,894 for the Prevent Cancer Foundation=========
 =========================January 9-15, 2021==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -151,7 +151,7 @@ Fun     N/R
 Youtube emLFqgjdycQ+28
 Review: (Not yet watched)
 
-RITE (PC - DEV 2020)
+RITE (PC - Pond Games 2020)
 Any%
 by Lincher [WRH]
 host Brutal_Melo, no couch
@@ -162,7 +162,7 @@ Fun     N/R
 Youtube 32zjUtl9XWA+40
 Review: (Not yet watched)
 
-Mail Mole (PC - DEV YEAR)
+Mail Mole (PC - Talpa 2021)
 Any%
 by headstrong1290 [WRH]
 host Brutal_Melo, couch isbullets [2RH]
@@ -324,7 +324,7 @@ host Edobean, couch Torqqes [2RH], SteelOsprei, Noah [DEV]
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★★☆
-Youtube PENDING
+Youtube Fa0xZoqcXs4+20
 Review: A new speed game, but one you might want to keep an eye on. The movement tech is very powerful, and gives you all your options from the start. It's already kind of nuts, and could get crazier as runners solidify their skills. About the only problem with this run is that it was too short to really explain everything that was going on.
 NM: confirm wr
 
@@ -336,18 +336,18 @@ host Edobean, couch Hetfield90, The_Sid
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube Qgf5nkH_pqs+15
 Review: One of the marks of a good speedrunner is being able to execute well even on bad RNG. The game didn't want to cooperate, but Luiz performed well anyways, and the couch put on some informative (if low-energy) commentary.
 
 Psychonauts 2 (PC - Double Fine 2021)
 Any%
-by ItzBytez
-host ateatree, couch COUCH
-HhMMmSSs (est 1h45m, wr HhMMmSSs)
+by ItzBytez [WRH]
+host ateatree, couch DemonicRobots, KinkyCadence [2RH], Milkydere
+1h30m56s (est 1h45m, wr 1h32m07s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube kh4PGF0auE4+15
 Review: (Not yet watched)
 
 Super Monkey Ball: Banana Mania (PC - Ryu Ga Gotoku 2021) [BONUS]
@@ -358,7 +358,7 @@ host ateatree, no couch
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★★☆
-Youtube PENDING
+Youtube 9yxB4Sbog4E+130
 Review: Monkey Ball is always a good game to watch, and this was one of the better races. Very competitive, well-commentated, ridiculous strats that fail just enough to let you grok how hard it is.
 
 Super Monkey Ball: Banana Mania (PC - Ryu Ga Gotoku 2021) [INCENTIVE]
@@ -369,185 +369,196 @@ host ateatree, no couch
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube 9yxB4Sbog4E+2760
 Review: An added challenge mode, as a traditional victory lap for Monkey Ball runs. Nothing too special but if you watched the All Worlds run, you'll want to see this too.
 
 Ori and the Blind Forest: Definitive Edition (PC - Moon 2015, 2016)
 All Cells (No OOB/TA)
-by rinSR
-host ateatree, couch COUCH
+by rinSR [WRH]
+host ateatree, couch Shayfe, Grimelios
 48m40s (est 50m, wr 43m13s) [NV]
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube NOQoKZlyvlc+0
 Review: There's a million indie-ish metroidvanias out there now, but Ori still ranks highly as a speed game. There's just so much movement tech, by the end, Rin was just blazing, and they had a good couch to handle their commentary. Invalidated by timer issues fairly early into the run.
 
 Super Mario Galaxy (Wii via Wii U - Nintendo EAD 2007)
 Any% Luigi
 race Tibs vs HardcoreGaming [2RH] vs Jhay [WRH] vs Mr. Cloud Kirby [3RH]
-host Char_bunny, couch COUCH
+host Char_bunny, couch Sailo, Rox
 2h19m17s, 2h19m31s, 2h20m56s, 2h21m30s (est 2h35m, wr 2h18m15s)
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★★★
-Youtube PENDING
+Youtube vUeQK2CXvLs+0
 Review: The reigning champ versus the up-and-coming underdog, with two other top contenders nipping at their heels... easily one of the most competitive races we've seen in years, and in a game with no end of speed tech.
 
-Pumpkin Jack (PC - DEV YEAR)
+Pumpkin Jack (PC - Nicolas Meyssonnier 2020)
 NG+ No OOB
-by Jaxler
-host Char_bunny, couch COUCH
-HhMMmSSs (est 1h15m, wr HhMMmSSs)
+by Jaxler [RH]
+host Char_bunny, couch Bryonato, CorundumCore
+53m17s (est 1h15m, wr 47m16s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube n8sDx2IG5PU+15
 Review: (Not yet watched)
 
 -------------------------------TUESDAY-------------------------------
 
 Hitman: Codename 47 (PC - IO Interactive 2000)
 All Missions
-by valdemarka
-host Prolix, couch COUCH
-HhMMmSSs (est 40m, wr HhMMmSSs)
+by valdemarka [WRH]
+host Prolix, couch Mekarazium
+39m49s (est 40m, wr 26m47s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube gzfDzyFEBN8+0
 Review: (Not yet watched)
 
 Serious Sam 4 (PC - Croteam 2020)
 All Levels
-by Tezur0
-host Prolix, couch COUCH
-HhMMmSSs (est 1h13m, wr HhMMmSSs)
+by Tezur0 [WRH]
+host Prolix, couch Apple1417, THE LAW
+1h06m40s (est 1h13m, wr 58m28s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube bt1SON__CYc+0
 Review: (Not yet watched)
 
 Marathon 2: Durandal (MacOS via Xb360 via Xb1 - Bungie 1995, Freeverse 2007)
 Kindergarten
-by tbcr
-host Prolix, couch COUCH
-HhMMmSSs (est 43m, wr HhMMmSSs)
+by tbcr [3RH]
+host Prolix, no couch
+35m35s (est 43m, wr 31m31s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube NB11jl35oLE+0
 Review: (Not yet watched)
 
 Beast Wars: Transformers (PS1 - SCE Cambridge 1997)
 Predacon Campaign
-by AilisNoon
-host Prolix, couch COUCH
-HhMMmSSs (est 27m, wr HhMMmSSs)
+by AilisNoon [WRH][ORH]
+host Prolix, no couch
+24m38s (est 27m, wr 18m55s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube _EtYQjJN9bE+0
 Review: (Not yet watched)
 
 Metal Warriors (SNES - LucasArts 1995)
 Any%
-by Omnigamer
-host Sandsh8rk, couch COUCH
-HhMMmSSs (est 22m, wr HhMMmSSs)
+by Omnigamer [WRH]
+host Sandsh8rk, no couch
+16m00s (est 22m, wr 19m24s) [NF]
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube B4_0TrAmagE+0
 Review: (Not yet watched)
 
-Astalon: Tears of the Earth (PC - DEV YEAR)
+Astalon: Tears of the Earth (PC - LABS Works 2021)
 Any%
-by strizer86
-host Sandsh8rk, couch COUCH
-HhMMmSSs (est 57m, wr HhMMmSSs)
+by strizer86 [WRH]
+host Sandsh8rk, couch Coltaho [3RH]
+52m31s (est 57m, wr 49m47s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube 6DQJjeNUg9c+0
 Review: (Not yet watched)
 
 Willow (NES - Capcom 1989)
 Any%
-by Sathdresh
-host Sandsh8rk, couch COUCH
-HhMMmSSs (est 1h00m, wr HhMMmSSs)
+by Sathdresh [WRH]
+host Sandsh8rk, couch vanni_van, brottster [2RH]
+1h03m19s (est 1h00m, wr 55m13s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube 6dstvQrT_0A+19
+Review: (Not yet watched)
+
+Willow (NES - Capcom 1989)
+Debug%
+by Sathdresh
+host Sandsh8rk, couch vanni_van [3RH], brottster
+2m12s (est 2m, wr 1m15s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube 6dstvQrT_0A+3944
 Review: (Not yet watched)
 
 Kyoryu Sentai Zyuranger (NES - Angel 1992)
 Easy Mode
 by KLM1187
-host SuperJamoose, couch COUCH
-HhMMmSSs (est 8m, wr HhMMmSSs)
+host SuperJamoose, couch Apollo
+7m20s (est 8m, wr 6m37s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube BCDonqtKYaY+124
 Review: (Not yet watched)
 
 Bucky O'Hare (NES - Konami 1992)
 Normal Mode
 by KLM1187
-host SuperJamoose, couch COUCH
-HhMMmSSs (est 28m, wr HhMMmSSs)
+host SuperJamoose, couch Nick-HardMadeEZ, DanTheVP
+26m21s (est 28m, wr 23m23s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube tfwCFAG-Ujs+13
 Review: (Not yet watched)
 
 Gargoyle's Quest II (NES - Capcom 1992)
 Any%
-by vanni_van
-host SuperJamoose, couch COUCH
-HhMMmSSs (est 32m, wr HhMMmSSs)
+by vanni_van [2RH]
+host SuperJamoose, couch FlannelKat, NME
+26m49s (est 32m, wr 25m28s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube RzfwI5CZ-AQ+36
 Review: (Not yet watched)
 
-Spacegulls (NES - DEV YEAR)
+Spacegulls (NES - Morphcat 2021)
 100% v1.1
-by Oopla
-host SuperJamoose, couch COUCH
-HhMMmSSs (est 9m, wr HhMMmSSs)
+by Oopla [WRH]
+host SuperJamoose, no couch
+8m16s (est 9m, wr 7m48s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube b0oElGesbb0+36
 Review: (Not yet watched)
 
 The Krion Conquest (NES - Vic Tokai 1990)
 Any% JP
-race KLM1187 vs stone_clive
-host SuperJamoose, couch COUCH
-HhMMmSSs (est 20m, wr HhMMmSSs)
+race KLM1187 [3RH] vs stone_clive [2RH]
+host SuperJamoose, couch EndySWE, Nick-HardMadeEZ
+19m28s, 21m37s (est 20m, wr 17m36s)
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube 2eujCe5uohA+23
 Review: A curious little Mega Man clone, complete with clips, boss quick-kills, and rush jets. The race was tighter than the final times might indicate, due to an unfortunate death on the final boss rush.
 
 Final Fantasy XIII (PC - Square Enix PD1 2009, 2014)
 Any%
 by Kayarune
-host Bobby Blackwolf, SaberaMesia, couch COUCH
-4h42m37s (est 5h00m, wr HhMMmSSs)
+host Bobby Blackwolf, SaberaMesia, couch Roosta, Mr. Zwanzig, Z3r01337 [2RH]
+4h42m37s (est 5h00m, wr 4h29m13s)
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube tlcmBG2FrDA+22
 Review: Long JRPG runs are divisive - their focus on deep knowledge rather than mechanical execution, and their length, makes them a different beast than most other speedruns. This was one of the better ones, but that doesn't mean it isn't still a long JRPG run. The commentary was good but inevitably jargon-heavy, the execution was pretty clean, and fortunately this game allow you to skip cutscenes. The focus on evading overworld encounters and highly-scripted boss fights reminds me more of Pokemon runs than other Final Fantasy runs I've seen, but it was enjoyable at that.
 
 Nier: Automata (PC - PlatinumGames 2017)
@@ -766,23 +777,23 @@ Review: (Not yet watched)
 
 Sonic the Hedgehog 4: Episode II (PC - Dimps 2012)
 Any%
-coop Argick, AmberCyprian
-host Edobean, couch COUCH
-HhMMmSSs (est 55m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+coop Argick, AmberCyprian [COOP WRHs]
+host Edobean, no couch
+43m47s (est 55m, wr 47m08s) [WR]
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: Who needs a couch when you have Argick and his mile-a-minute mouth? Hilarious and yet still informative commentary, punctuated with co-op chatter. And then they got a world record while cosplaying and vtubing, respectively.
 
 Sonic Adventure DX (PC - Sonic Team 2001)
 Sonic's Story
 by AFWagers
-host Edobean, couch COUCH
-HhMMmSSs (est 34m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Edobean, couch Argick, COUCH
+31m46s (est 34m, wr HhMMmSSs)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube PENDING
 Review: (Not yet watched)
 
