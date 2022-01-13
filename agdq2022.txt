@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2022====================
-========Raising $0,758,894 for the Prevent Cancer Foundation=========
+========Raising $1,029,032 for the Prevent Cancer Foundation=========
 =========================January 9-15, 2021==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -563,46 +563,46 @@ Review: Long JRPG runs are divisive - their focus on deep knowledge rather than 
 
 Nier: Automata (PC - PlatinumGames 2017)
 [A]ny% VC3 Mod
-race BlueMetal vs Ameiii
-host Xenadir, couch COUCH
-HhMMmSSs (est 1h30m, wr HhMMmSSs)
+race BlueMetal [2RH] vs Ameiii
+host Xenadir, couch Shabu Shabu, Mytherium, RodG
+1h24m39s, 1h25m26s (est 1h30m, wr 1h20m12s)
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube TYxVC7Aoepg+0
 Review: A very different experience than my casual run. Lots and lots of clipping, and some major damage glitches for the obligatory boss fights. Commentary could have been better - even having played the game, I didn't always know what was going on - but it was a fun race.
 
 Ratchet & Clank (PS3 - Insomniac 2002)
 NG+
 by deltadoid
-host Xenadir, couch COUCH
-22m10s (est 23m, wr HhMMmSSs)
+host Xenadir, couch Jishkared, Xem92, Hank9399
+22m10s (est 23m, wr 18m30s)
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube -E5sVCA7LxU+0
 Review: I'm not sure what was more busted, this run, or this couch. Lots of levels skipped almost entirely, lots of out-of-bounds, lots of joking around.
 
 Ratchet & Clank: Rift Apart (PS5 - Insomniac 2021)
 NG+
 by mobius
-host Xenadir, couch COUCH
-1h30m43s (est 1h35m, wr HhMMmSSs)
+host Xenadir, couch NauticalTurtle [3RH], Syn [WRH]
+1h30m43s (est 1h35m, wr 1h19m41s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube A1VuRdDSO-k+0
 Review: A less busted run than the last, though whether that's down to coding or the release date remains to be seen. There's still lots of small clips and tricks, and I still question why NG+ is the norm for this series, when it makes combat downright trivial and doesn't seem to open up movement options. Be aware there's some major bitrate issues - I don't know if it's just the game, or lingering tech issues, but it was a pretty blocky image much of the time.
 
 Final Fantasy 7 Remake Intergrade (PS5 - Square Enix BD1 2021)
 INTERmission Normal Any%
-by GenericallyNamed, DutchPotato
-host TheCrankMachine, couch COUCH
-HhMMmSSs (est 52m, wr HhMMmSSs)
+by GenericallyNamed [3RH], DutchPotato [2RH]
+host TheCrankMachine, couch steamed_hams_with_cheese, WoadyB
+48m35s, 50m34s (est 52m, wr 47m37s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube ZmqFfj3y0vo+0
 Review: (Not yet watched)
 
 Returnal (PS5 - Housemarque 2021)
@@ -613,19 +613,19 @@ host TheCrankMachine, couch xenwall, MentalToast
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube DY9ZT8wLBWA+0
 Review: Nominally a roguelite, but this beats it in one straight shot, so it's more like a regular shooter, just with more RNG and a heavy bullet-hell influence. As a very new game, it was basically glitchless, with only an anim-cancel for movement tech, but as a near-glitchless run, it's not bad.
 Invalidated by stream issues.
 
-Returnal (PS5 - Housemarque 2021) [INCENTIVE]
-NG+ Any%
+Returnal (PS5 - Housemarque 2021)
+NG+ Any% [INCENTIVE]
 by cavecavecave [WRH]
 host TheCrankMachine, couch xenwall [3RH], MentalToast
 HhMMmSSs (est 1h06m, wr 4m08s)
 Overall ★☆☆☆☆
 Skill   ★☆☆☆☆
 Fun     ★☆☆☆☆
-Youtube PENDING
+Youtube DY9ZT8wLBWA+3175
 Review: A quick bonus run. Two runs, nearly - due to a first attempt dying halfway through. That, heavy RNG, and a poor explanation of what the rules were or what was going on, makes this a skippable run for anyone that isn't a devotee of Returnal.
 
 Dead Rising (PC - Capcom PS1 2006)
@@ -636,10 +636,10 @@ host AnEternalEnigma, no couch
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube R_M1_5Nh-W0+0
 Review: There's not too much in the way of tech - this is a very play-game-good run, but Ecdycis makes it a fun experience. The bonus boss fight afterward is a good way to cap it off.
 
-Tormented Souls (PC - DEV YEAR)
+Tormented Souls (PC - Dual Effect 2021)
 Full Game Any%
 by RebeccaRE
 host AnEternalEnigma, couch COUCH
@@ -795,81 +795,92 @@ Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: Early 3D Sonic runs are infamously busted, and this was no exception. Fast-paced (save all the autoscrollers) and with some good couch banter.
 
 [[[/SONIC BLOCK]]]
 
-Pokemon Crystal Key Item Randomizer (GBC - Game Freak 2000, DEV YEAR)
+Pokemon Crystal Key Item Randomizer (GBC - Game Freak 2000, DEV Erudnick Cohen 2018)
 Beat Red
-race Keizaron vs 360Chrism vs Shenanagans
-host Skybilz, couch COUCH
-HhMMmSSs (est 2h45m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+race Keizaron vs 360Chrism vs Shenanagans (vs Chat)
+host Skybilz, no couch
+2h12m39s, 2h17m04s, 2h34m41s (est 2h45m, no wr)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★★
 Youtube PENDING
-Review: (Not yet watched)
+Review: Keizaron giving more material for the Jynx compilation, Shenanagans getting a Canceled% wr, and oh yeah, a speedrun happened. There wasn't all that much discussion of the game or strats, but it was an excellent madness run.
 
 Slay the Spire (PC - MegaCrit 2019)
 4 Character Unseeded
-by SpeedFrog
-host Xenadir, couch COUCH
-HhMMmSSs (est 50m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by SpeedFrog [2RH]
+host Xenadir, couch OohBleh, COUCH
+38m04s (est 50m, wr 24m46s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: Unfortunately, too fast-paced and too complex to explain well enough for outsiders to follow. I could appreciate the skill on display but I admit, I did not understand most of it.
+
+Slay the Spire (PC - MegaCrit 2019)
+The Silent Seeded [INCENTIVE]
+by SpeedFrog
+host Xenadir, couch OohBleh [WRH], COUCH
+2m09s (est 4m, wr 1m48s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★☆☆☆☆
+Youtube PENDING
+Review: A tour de force of menuing, but not much more. If you've not played the game, start here, and maybe continue to the main run if you liked it.
 
 GeoGuessr (PC - Anton Wallen 2013)
 Perfect Score
 coop havrd, Janmumrik
-host Xenadir, couch COUCH
-HhMMmSSs (est 1h00m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Xenadir, no couch
+40m19s (est 1h00m, no wr)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: Are you ready to watch two geographical geniuses instantly recognize what country they're in, but then spend twenty minutes trying to pin down a street intersection? This is the run for you. It might not involve as much twitchy platforming or out-of-bounds glitching as most speedruns, but the menuing is blinding-fast and the depth of knowledge is absurd.
 
 ShootMania Storm (PC - Nadeo 2013)
 Hard Map Showcase
 by SBVille
-host iggyzig, couch COUCH
-HhMMmSSs (est 50m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host iggyzig, no couch
+~25m (est 29m, no wr - showcase)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: I've never seen this game before, but it's an interesting sort of parkour platformer. Not too much variety in tech, and the levels stretch on a bit too long, but overall, an interesting watch.
 
-Trackmania (PC - Nadeo 2003 or maybe 2020)
+Trackmania (PC - Nadeo 2020)
 Community Maps Showcase
 by Rastats
-host iggyzig, couch COUCH
-HhMMmSSs (est 1h00m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host iggyzig, no couch
+~1h15m (est 1h00m, no wr - showcase)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: The best of this little showcase block. Each level is short, so we get plenty of variety, and as someone who played a lot of TM Nations Forever, it was fascinating to see the new options from the latest release.
 
 Rocket League (PC - Psyonix 2015) [BONUS]
 Workshop Showcase
 by BoneyPlatypus, blaku, Jimingo, ThundaSurge
-host iggyzig, couch COUCH
-HhMMmSSs (est 58m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host iggyzig, couch Plumato, Liefx
+~1h05m (est 58m, no wr - showcase)
+Overall ★☆☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: This was a bonus run? Everything felt stretched - I was literally yawning by the halfway point. Sure, it's amazing to see those long hovers and precise dribbles, but the pacing on this was far, far too slow. There was perhaps enough variety for a half hour - there was nothing that seven minutes of hovering through rings gave us, that the first minute did not, and for all their talk of specialization and unique levels, I think half of them were Superman 64 solve-my-maze tedium. Commentators spent as long shilling the game and the workshop as they did explaining tech, because there fundamentally isn't that much tech to this game.
 
 Risk of Rain 2 (PC - Hopoo 2020)
 Any%
 by Gothrand
-host iggyzig, couch COUCH
-HhMMmSSs (est 12m, wr HhMMmSSs)
+host iggyzig, no couch
+10m00s (est 12m, wr 7m45s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -878,14 +889,14 @@ Review: (Not yet watched)
 
 Halo 5: Guardians (Xb1 - 343 Industries 2015)
 Full Game Legendary
-by Distro
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 1h37m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Distro [2RH]
+host cartridgeblowers, couch Phobic
+1h32m54s (est 1h37m, wr 1h14m51s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: This had more OoB and glitching than most Halo runs I've seen. There's still plenty of good shooting, but it felt more like a Doom 2016 run than an MCC run. Not that I'm complaining.
 
 Diddy Kong Racing (N64 - Rare 1997)
 All Trophy Races
