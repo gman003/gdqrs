@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2022====================
-========Raising $1,805,673 for the Prevent Cancer Foundation=========
+========Raising $3,416,780 for the Prevent Cancer Foundation=========
 =========================January 9-15, 2021==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -621,7 +621,7 @@ Returnal (PS5 - Housemarque 2021)
 NG+ Any% [INCENTIVE]
 by cavecavecave [WRH]
 host TheCrankMachine, couch xenwall [3RH], MentalToast
-HhMMmSSs (est 1h06m, wr 4m08s)
+8m10s (est 6m, wr 4m08s)
 Overall ★☆☆☆☆
 Skill   ★☆☆☆☆
 Fun     ★☆☆☆☆
@@ -650,7 +650,7 @@ Fun     N/R
 Youtube ldNy1B1Poro+0
 Review: (Not yet watched)
 
-FAITH: Chapter II (PC - DEV 2019)
+FAITH: Chapter II (PC - Airdorf 2019)
 Ending III: Initiation
 by Vynn [2RH]
 host Nichole Goodnight, couch Vysetra [WRH]
@@ -663,7 +663,7 @@ Review: (Not yet watched)
 
 ------------------------------WEDNESDAY------------------------------
 
-PAON-ぱおん- BEYOND THE PIEN (PC - DEV 2021)
+PAON-ぱおん- BEYOND THE PIEN (PC - Tadasumen 2021)
 Any%
 by Swordfish4649
 host Nichole Goodnight, no couch
@@ -673,6 +673,7 @@ Skill   N/R
 Fun     N/R
 Youtube mFNL0eretAo+197
 Review: (Not yet watched)
+NM: Very unsure on dev name, hard to find any info on this game besides Let's Plays
 
 Eternal Darkness: Sanity's Requiem (GC via Wii - Silicon Knights 2002)
 Any% No Cutscene Storage
@@ -742,7 +743,7 @@ Review: (Not yet watched)
 
 [[[SONIC BLOCK]]]
 
-SNOLF 0 (Genesis - DEV 2019)
+SNOLF 0 (Genesis - DrMelon 2019)
 Any%
 by dowolf [WRH]
 host NerdyExcursions, couch Brossentia
@@ -752,7 +753,6 @@ Skill   N/R
 Fun     N/R
 Youtube EWGQTghURh4+0
 Review: (Not yet watched)
-NM: "Dr Melon" as dev?
 
 Sonic R (GC via Wii - Traveller's Tales 1997, 2005)
 100% No OOB
@@ -765,7 +765,7 @@ Fun     N/R
 Youtube xoNc3MNcsII+0
 Review: (Not yet watched)
 
-Sonic Robo Blast 2 (PC - DEV 1998)
+Sonic Robo Blast 2 (PC - Sonic Team Junior 1998)
 Sonic Any%
 by Lemin [WRH]
 host NerdyExcursions, couch Refrag [2RH]
@@ -791,7 +791,7 @@ Sonic Adventure DX (PC - Sonic Team 2001)
 Sonic's Story
 by AFWagers
 host Edobean, couch Argick, Badlex
-31m46s (est 34m, wr HhMMmSSs)
+31m46s (est 34m, wr 28m51s)
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
@@ -800,7 +800,7 @@ Review: Early 3D Sonic runs are infamously busted, and this was no exception. Fa
 
 [[[/SONIC BLOCK]]]
 
-Pokemon Crystal Key Item Randomizer (GBC - Game Freak 2000, DEV Erudnick Cohen 2018)
+Pokemon Crystal Key Item Randomizer (GBC - Game Freak 2000, Erudnick Cohen 2018)
 Beat Red
 race Keizaron vs 360Chrism vs Shenanagans (vs Chat)
 host Skybilz, no couch
@@ -969,7 +969,7 @@ Youtube yMDxrBecBgg+0
 Review: (Not yet watched)
 NM: names of doggos? also no leaderboard for Game Gear version?
 
-Meegah Mem II (PC - DEV YEAR)
+Meegah Mem II (PC - Crapcom 2019)
 Any%
 by LV Creed
 host SporadicErratic, no couch
@@ -1139,7 +1139,7 @@ Fun     ★★★★☆
 Youtube XG2jgs2rWSo+68
 Review: This is basically a glitchless speedrun, and has little in the way of large-scale tech. As such, it could have been endless tedium. But Froob spent the run giving a running commentary not on the gameplay, but on the story, dragging us through every twist and turn of the murder mystery plot (and incidentally, spoiling Lost Judgement, the original game, and about half the Yakuza series).
 
-Kingdom Hearts 2 Final Mix HD (PC - Square Enix PD1 2005, 2007, 2014; DEV YEAR)
+Kingdom Hearts 2 Final Mix HD (PC - Square Enix PD1 2005, 2007, 2014; Alvaro 2020)
 Randomizer
 coop race spikevegeta, JHobz vs RoseCurel, Violin
 host Nukkular_Reaction, couch Alios, ZackTheRobot
@@ -1162,160 +1162,160 @@ Fun     ★★★☆☆
 Youtube tdLezZIdwB8+125
 Review: A solid run of a hard category. Like a lot of horror games, the speedrun has a lot of downtime and a lot of just running around enemies, but it seems like this is one of the more fun Resident Evil games to speed through.
 
-crossbeats REV. Sunrise (Arcade - DEV YEAR)
+crossbeats REV. Sunrise (Arcade - Capcom 2016)
 Showcase
 by jammitch!
-host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 1h12m, wr HhMMmSSs)
+host AnEternalEnigma, couch KindaNerdyHousewife, Shinji16, dotphase
+~1h20m (est 1h12m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube U8R7UDgDt60+22
 Review: (Not yet watched)
 
 -------------------------------FRIDAY--------------------------------
 
 Ynglet (PC - Nifflas 2021)
 100% (Challenging)
-by warm_ham
-host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 22m, wr HhMMmSSs)
+by warm_ham [2RH]
+host AnEternalEnigma, no couch
+18m53s (est 22m, wr 17m45s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube 0u06RWTA3SU+70
 Review: (Not yet watched)
 
 It Takes Two (PC - Hazelight 2021)
 Any%
-coop ItzBytez, whoishyper
-host PurpleGhostKasper, couch COUCH
-HhMMmSSs (est 2h00m, wr HhMMmSSs)
+coop ItzBytez, whoishyper [2RHs]
+host PurpleGhostKasper, couch papaYANN and AlienGod
+1h45m26s (est 2h00m, wr 1h36m03s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube W5FgX90Z490+55
 Review: (Not yet watched)
 
 Marble It Up! (PC - Blueteak 2018)
 Full Game Classic
-by Hatchet302
-host SuperJamoose, couch COUCH
-HhMMmSSs (est 38m, wr HhMMmSSs)
+by Hatchet302 [WRH]
+host SuperJamoose, couch Agedude
+34m25s (est 38m, wr 31m36s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube H6ff054Yf-Q+59
 Review: (Not yet watched)
 
 The Elder Scrolls IV: Oblivion (PC - Bethesda 2006)
 No DFS
-by DizzySplits
-host SuperJamoose, couch COUCH
-HhMMmSSs (est 35m, wr HhMMmSSs)
+by DizzySplits [3RH]
+host SuperJamoose, couch Elongated_Musketgun
+34m25s (est 35m, wr 26m07s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube ISFYmP_KMB0+163
 Review: (Not yet watched)
 
 Stardew Valley (PC - ConcernedApe 2016)
 Glitched Community Center Restoration
-by Olenoname
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 20m, wr HhMMmSSs)
+by Olenoname [2RH]
+host SporadicErratic, couch blackheartwings, Primatis, LaChance
+17m13s (est 20m, wr 13m44s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube 7rsysLNOP6U+0
 Review: (Not yet watched)
 
 I Am Bread (PC - Bossa 2015)
 Any%
-by PootLoops
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 10m, wr HhMMmSSs)
+by PootLoops [WRH]
+host SporadicErratic, no couch
+6m14s (est 10m, wr 5m07s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube RjJjUu0WjFg+10
 Review: (Not yet watched)
 
 Oatmeal (PC - Tim Kashani 2021)
 50%
-by Konasumi
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 10m, wr HhMMmSSs)
+by Konasumi [WRH]
+host SporadicErratic, no couch
+4m28s (est 10m, wr 5m35s igt) [WR?]
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube 1FYqAnwDbnk+16
 Review: (Not yet watched)
 
 Ultraman Ball (GB - DEV YEAR)
 Any%
-by giygasblues
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 15m, wr HhMMmSSs)
+by giygasblues [3RH]
+host SporadicErratic, no couch
+8m30s (est 15m, wr 6m52s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube jAEYUovocoU+20
 Review: (Not yet watched)
 
 Wave Break (PC - Funktronic 2021)
 Any%
-by Biglaw
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 20m, wr HhMMmSSs)
+by Biglaw [WRH]
+host SporadicErratic, couch PostCubie
+14m07s (est 20m, wr 12m25s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube FOgYLVkQmHI+0
 Review: (Not yet watched)
 
-SYNTHETIK (PC - Flow Fire 2018)
+SYNTHETIK: Legion Rising (PC - Flow Fire 2018)
 220% Coop v26
 coop PhoenyxBird, badzx
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 15m, wr HhMMmSSs)
+host SporadicErratic, no couch
+9m50s (est 15m, wr 14m06s) [WR?]
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube w8RVXV3qjdw+26
 Review: (Not yet watched)
 
 Rockman & Forte (SNES - Capcom 1998)
 Any% Rockman
-by Amad
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 38m, wr HhMMmSSs)
+by Amad [2RH]
+host SporadicErratic, couch Werking34 [WRH], pjdicesare
+36m07s (est 38m, wr 34m18s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube 4UnRzNgqWm8+13
 Review: (Not yet watched)
 
 Journey (PC - Thatgamecompany 2012, 2019)
 Any% White Robe Glitched
-by nathanj
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 19m, wr HhMMmSSs)
+by nathanj [WRH]
+host SporadicErratic, couch stoicmom, Peksa [2RH]
+18m09s (est 19m, wr 17m14s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube ZB2-79vKmjs+17
 Review: (Not yet watched)
 
 Yu-Gi-Oh! Forbidden Memories (PS2 - Konami 1999)
 Any% w/ 15 Card Drop Mod
 race Keizaron vs skybilz
-host Nukkular_Reaction, couch COUCH
-HhMMmSSs (est 3h10m, wr HhMMmSSs)
+host Nukkular_Reaction, couch Spikevegeta
+2h19m12s, DNF (est 3h10m, wr 1h12m39s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube Tvlc8KEIV50+15
 Review: (Not yet watched)
 
 Portal Reloaded (PC - Valve 2011, PORTANIS 2021)
@@ -1326,18 +1326,18 @@ host Brutal_Melo, no couch
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube dHSDskspUIQ+27
 Review: A fun-looking Portal 2 mod. There's no glitches that actually break the game, but plenty of puzzles solved in completely the wrong way. Not the most polished run, but pretty fun, especially for a self-commentated run.
 
 Dark Souls (PC - From 2011)
 All Bosses
 race Regole vs Danflesh
-host Brutal_Melo, couch COUCH
-1h17m15s, 1h20m02s (est 1h25m, wr HhMMmSSs)
+host Brutal_Melo, couch Ducksual
+1h17m15s, 1h20m02s (est 1h25m, wr 1h00m53s igt)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube fFt9h2fgTuU+34
 Review: Dark Souls is a hard run to follow at the best of times. A run using many technical glitches, and runners using widely diverging routes, made it even harder. Probably a good one for the fans, but I was unimpressed.
 
 Super Mario 3D Land (3DS - Nintendo EAD Tokyo 2011)
@@ -1348,271 +1348,304 @@ host Brutal_Melo, couch Siver [3RH], Loganus, DKSC4Life
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★★☆
-Youtube PENDING
+Youtube MjPqwklxk9U+24
 Review: This was a shameless couch antics run. Like yes, there was some talk about tech and tricks, but it was mostly banter and gags. It was a riot at first, but some of the schtick wore thin by the end of it, and I think even the runner was getting annoyed by the end.
 
 Pokemon Omega Ruby/Alpha Sapphire (3DS - Game Freak 2002, 2014)
 Any%
-race wartab [ΑS] vs truely [ΩR][NV]
-host frozenflygone, couch COUCH
-3h05m17s, 3h08m10s (est 3h15m, wr HhMMmSSs)
+race wartab [ΑS] vs truely [ΩR][3RH]
+host frozenflygone, couch eddaket, Shenanagans_
+3h05m17s [NV], 3h08m10s (est 3h15m, wr 3h03m07s)
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube uljK3CVcBZU+46
 Review: A much, much drier run than the last Pokemon game we saw. Upside is that we got much more technical commentary, but the downside is that this just isn't interesting enough to hold interest for three hours off gameplay alone. Truely's run invalidated, used a backup save because of bad starter RNG.
 
-StepMania/NotITG (PC - DEV YEAR) [BONUS]
+StepMania/NotITG (PC - NotI.TG 2018) [BONUS]
 Mods Boot Camp 3 Exhibition
 by SpootyBiscuit
-host Lanaruse, couch COUCH
+host Lanaruse, couch TaroNuke, Daikyi, halcyoniix
 ~1h30m (est 1h50m, no wr - showcase)
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube sBP8MxQhEVM+113
 Review: Past rhythm game exhibitions have sometimes featured one or two gimmick songs - like the Megalovania track in the Clone Hero showcase. This game appears to be nothing *but* ridiculous gimmicks - making it hard to see what the track even is, rather than being hard to perform. It's a very sadistic sort of difficulty - much more IWBTG than Kaizo. While the gimmicks kept changing, the fact that every single track was a gimmick track, made it wear out its welcome.
 
-StepMania/NotITG (PC - DEV YEAR) [INCENTIVE]
+StepMania/NotITG (PC - NotI.TG 2018) [INCENTIVE]
 Extra Extra Hard Charts
 by SpootyBiscuit
-host Lanaruse, couch COUCH
+host Lanaruse, couch TaroNuke, Daikyi, halcyoniix
 ~25m (est 15m, no wr - showcase)
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube sBP8MxQhEVM+5678
 Review: Things were hard before, this is where all hell breaks loose. Even the commentators talked about how they couldn't actually parse the notes on the screen. It is absolutely ridiculous, exactly as it intended to be.
 
 Hades (PC - Supergiant 2020)
 All Weapons
-race tounis vs cgull
-host Lanaruse, couch COUCH
-HhMMmSSs (est 2h07m, wr HhMMmSSs)
+race tounis [WRH] vs cgull
+host Lanaruse, couch Vorime, Latt Millard
+1h38m43s, 1h41m42s (est 2h07m, wr 1h33m47s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube YwhQE5k1nLo+393
 Review: (Not yet watched)
 
 Uncharted 2: Among Thieves (PS5 - Naughty Dog 2009)
 Any%
-by Mattmatt
-host iggyzig, couch COUCH
-HhMMmSSs (est 1h30m, wr HhMMmSSs)
+by Mattmatt [2RH]
+host iggyzig, couch wildfire011 [3RH], heyfrench, Hutchtee
+1h22m20s (est 1h30m, wr 1h08m45s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube ZQ9dqN2E_D4+0
 Review: (Not yet watched)
 
 ------------------------------SATURDAY-------------------------------
 
 Wario Land: Shake It! (Wii via WiiU - Good-Feel 2008)
 Beat The Game
-by Kirbymastah
-host iggyzig, couch COUCH
-HhMMmSSs (est 1h30m, wr HhMMmSSs)
+by Kirbymastah [WRH]
+host iggyzig, couch TheMcRaezy [2RH]
+1h23m43s (est 1h30m, wr 1h23m06s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube CdOTqo2qvU0+70
 Review: (Not yet watched)
 
 Spider-Man 2 (XbC - Treyarch 2004)
 Any%
-by Slyfincleton
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 1h01m, wr HhMMmSSs)
+by Slyfincleton [WRH]
+host THEKyleThomas, no couch
+57m23s (est 1h01m, wr 54m44s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube Og8EpzpObo4+71
 Review: (Not yet watched)
 
 Donut County (PC - Ben Esposito 2018)
 Beat The Game
-by GreenSnowDog
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 35m, wr HhMMmSSs)
+by GreenSnowDog [WRH]
+host THEKyleThomas, couch Nathew
+34m07s (est 35m, wr 32m31s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube ESSB_UKYV5E+161
 Review: (Not yet watched)
 
 Tetris Attack (SNES - Intelligent Systems 1995)
 VS Mode (Very Hard)
-by FFR Pro 21
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 12m, wr HhMMmSSs)
+by FFR Pro 21 [2RH]
+host THEKyleThomas, couch TaymanND, tetrisattakr, foxyman [3RH]
+9m45s (est 12m, wr 6m57s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube d0Scj02xwDg+17
 Review: (Not yet watched)
 
 Blazing Chrome (PC - JoyMasher 2019)
 Arcade Mode (Normal) - Gun
-by Kirthar
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 30m, wr HhMMmSSs)
+by Kirthar [2RH]
+host Nichole Goodnight, couch Jimmy_Diamonds, ThePoloKing
+27m14s (est 30m, wr 21m13s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube O8nC7DJS130+14
 Review: (Not yet watched)
 
 Bishoujo Senshi Sailor Moon R (SNES - Angel 1993)
 Chibi% Normal
-by Norishige710
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 38m, wr HhMMmSSs)
+by Norishige710 [WRH]
+host Nichole Goodnight, couch Octopilion
+21m00s (est 38m, wr 19m22s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube dVdN3SDpsps+11
 Review: (Not yet watched)
 
 TMNT: Out of the Shadows (PC - Red Fly 2013)
 NG+
-coop havrd, Timopy, epicdudeguy, Kainalo
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 1h00m, wr HhMMmSSs)
+coop havrd, Timopy, epicdudeguy, Kainalo [WRHs]
+host Nichole Goodnight, no couch
+54m06s (est 1h00m, wr 52m46s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube UzYeaGe7luo+17
 Review: (Not yet watched)
 
 The Legend of Spyro: The Eternal Night (GBA via DS - Amaze 2007)
 Any% Dark
-by CDRomatron
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 28m, wr HhMMmSSs)
+by CDRomatron [WRH]
+host Nichole Goodnight, couch Breadghost
+27m55s (est 28m, wr 42m53s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube YoQCEaZpYGc+19
 Review: (Not yet watched)
 
-Casio Mario World (SNES - DEV YEAR)
+Casio Mario World (SNES - Nintendo EAD 1990, Wyatt 2020)
 Any%
-by kezcade
-host Skybilz, couch COUCH
-HhMMmSSs (est 40m, wr HhMMmSSs)
+by kezcade [WRH]
+host Skybilz, couch ThirdWall, Amethyst_Rocks
+35m59s (est 40m, wr 18m36s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube WjGEelSWvXM+10
 Review: (Not yet watched)
 
 SpongeBob SquarePants: Battle for Bikini Bottom (XbC - Heavy Iron 2003)
 Any%
-by SHiFT
-host Skybilz, couch COUCH
-HhMMmSSs (est 55m, wr HhMMmSSs)
+by SHiFT [WRH]
+host Skybilz, couch Jared, Shoyhi
+47m31s (est 55m, wr 43m59s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube PENDING
+Youtube 02bwlFW6tv4+29
 Review: (Not yet watched)
 
 Subnautica (PC - Unknown Worlds 2018)
 Survival Any%
-by salvner
-host Skybilz, couch COUCH
-HhMMmSSs (est 55m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube PENDING
-Review: (Not yet watched)
+by salvner [2RH]
+host Skybilz, no couch
+42m22s (est 55m, wr 31m14s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube JBrw0TtJSgA+0
+Review: A solid run of a survival game. If you've ever wished Minecraft runs were less about exploiting level-generator knowledge, and more about quickly spotting resources and occasionally clipping out of bounds, this is probably a good run to watch.
 
 EarthBound (SNES - Ape 1994)
 Any%
 by octopuscal
 host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 1h00m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+48m54s (est 1h00m, wr HhMMmSSs)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: To beat a game like this in under an hour, you need a lot of glitches and a lot of RNG manipulation, which is exactly what you get. Not the most riveting run, unless you're into coding-type stuff, but I think it would be a decent intro into that sort of thing.
 
 Fallout: New Vegas (PC - Obsidian 2010)
 All Unique Weapons
 by BananaPegasus
 host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 55m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+56m07s (est 55m, wr HhMMmSSs)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: They keep coming up with new categories for this game, don't they? It's an interesting one, decently long, but the fastest movement in this game is unfortunately reliant on quicksave abuse, which is kind of hard to watch.
 
 Halo: Combat Evolved (PC - Bungie 2001, Gearbox 2003)
 Legendary
 by Chronos_R
 host cartridgeblowers, couch COUCH
-HhMMmSSs (est 1h17m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h17m38s (est 1h17m, wr HhMMmSSs)
+Overall ★★☆☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube PENDING
 Review: (Not yet watched)
 
 The Legend of Zelda: A Link to the Past (SNES - Nintendo EAD 1991)
 All Bosses (No Exploration Glitch)
+by hotarubi_ta [WRH]
+host cartridgeblowers, couch vZakat
+54m02s (est 58m, wr 48m13s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
+Youtube PENDING
+Review: A super technical run. The commentary had to do a lot of heavy lifting, explaining everything going on - it was incredibly informative, but unfortunately that made it kind of dry. Not necessarily a problem, but don't head into this expecting a lot of laughs.
+
+The Legend of Zelda: A Link to the Past (SNES - Nintendo EAD 1991)
+Any% [INCENTIVE]
 by hotarubi_ta
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 58m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host cartridgeblowers, couch vZakat
+2m58s (est 5m, wr 1m31s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube PENDING
 Review: (Not yet watched)
 
 Tetris: The Grand Master (Arcade - Arika 1998)
 Grandmaster
 race JBroms vs PARTY MAN X vs PiePusher11 vs spc
-host Mr. Game and Shout, couch COUCH
-HhMMmSSs (est 15m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Mr. Game and Shout, couch Colour_Thief, Kitaru
+9m55s igt, DNF, DNF, DNF (est 15m, wr HhMMmSSs)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: An extremely difficult run, as shown by the fact that one runner failed out and two failed to meet the Grandmaster requirements. But that unfortunately makes for a weak showcase, as it instead just looks like the runners are bad. And why was there a bonus incentive for something none of the runners have done before? This should have been a master class in Tetris, but it really did not connect well.
 
 Sekiro: Shadows Die Twice (PC - From 2019)
 Blindfolded Any%
-by Mitchriz
-host Mr. Game and Shout, couch COUCH
-HhMMmSSs (est 2h45m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Mitchriz [2RH]
+host Mr. Game and Shout, couch LilAggy [3RH], SpikeVegeta
+2h00m35s (est 2h45m, wr 1h42m47s)
+Overall ★★★★★
+Skill   ★★★★★
+Fun     ★★★★☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: Well that was a roller coaster. This is a tough game to start with, but gamers have been mastering Soulsbornes for a while. Blindfolded adds an entirely new sort of challenge, and shows just how easy it is for this game to get away from you. 
+
+Portal 2 (PC - Valve 2011)
+Inbounds
+by Msushi
+host Mr. Game and Shout, no couch
+1h01m20s (est 1h05m, wr 57m55s)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube PENDING
+Review: Msushi makes a surprise second appearance. We've seen Portal before, but Inbounds is IMO the best category - glitchy as hell, so fun, but not just a parade of skipping straight to the next level trigger. And Msushi keeps up the high-energy self-commentary.
 
 Deltarune (PC - Toby Fox 2018, 2021) [BONUS]
 Chapter 2 Main Route
 by Shayy
-host ateatree, couch COUCH
-HhMMmSSs (est 1h10m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host ateatree, no couch
+30m37s (est 35m, wr 27m07s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: I get the vibes that this run was a lot more fun if you actually have played Deltarune, because I think most of the chatter was jokes about the story that flew completely over my head. It wasn't unbearable as an outsider, but the target demo was clearly not "guy who has a half-finished Undertale save from six years ago". It's still a decent speedrun, and Shayy's enthusiasm was infectious, but the appeal was not meant to be universal.
+
+Deltarune (PC - Toby Fox 2018, 2021) [DOUBLE BONUS]
+Chapter 2 Snowgrave Route
+by Shayy [2RH]
+host ateatree, no couch
+32m26s (est 35m, wr 29m31s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube PENDING
+Review: A route that, I gather, most players were also unaware of, so it was a slight improvement on the last.
 
 Metal Gear Solid (PS1 via PSTV - Konami 1998)
 All Bosses, Extreme
 by dlimes13
 host ateatree, couch COUCH
 HhMMmSSs (est 1h29m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube PENDING
-Review: (Not yet watched)
+Review: A somewhat strange choice to end the marathon with. A perfectly solid run - especially with some of the new glitches on display - but it's not exactly a speed game on the level of Super Metroid. 
