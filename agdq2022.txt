@@ -1252,7 +1252,7 @@ Fun     N/R
 Youtube 1FYqAnwDbnk+16
 Review: (Not yet watched)
 
-Ultraman Ball (GB - DEV YEAR)
+Ultraman Ball (GB - Bec 1994)
 Any%
 by giygasblues [3RH]
 host SporadicErratic, no couch
@@ -1531,35 +1531,35 @@ Review: A solid run of a survival game. If you've ever wished Minecraft runs wer
 
 EarthBound (SNES - Ape 1994)
 Any%
-by octopuscal
-host Bobby Blackwolf, couch COUCH
-48m54s (est 1h00m, wr HhMMmSSs)
+by octopuscal [WRH]
+host Bobby Blackwolf, couch AndyPerfect
+48m54s (est 1h00m, wr 44m12s)
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube YnxqRACPmdo+25
 Review: To beat a game like this in under an hour, you need a lot of glitches and a lot of RNG manipulation, which is exactly what you get. Not the most riveting run, unless you're into coding-type stuff, but I think it would be a decent intro into that sort of thing.
 
 Fallout: New Vegas (PC - Obsidian 2010)
 All Unique Weapons
-by BananaPegasus
-host Bobby Blackwolf, couch COUCH
-56m07s (est 55m, wr HhMMmSSs)
+by BananaPegasus [WRH]
+host Bobby Blackwolf, couch Radioactiv03, NoobSalmon
+56m07s (est 55m, wr 53m24s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube MvZysCgZGCs+36
 Review: They keep coming up with new categories for this game, don't they? It's an interesting one, decently long, but the fastest movement in this game is unfortunately reliant on quicksave abuse, which is kind of hard to watch.
 
 Halo: Combat Evolved (PC - Bungie 2001, Gearbox 2003)
 Legendary
 by Chronos_R
-host cartridgeblowers, couch COUCH
-1h17m38s (est 1h17m, wr HhMMmSSs)
+host cartridgeblowers, couch Goatrope
+1h17m38s (est 1h17m, wr 1h05m41s)
 Overall ★★☆☆☆
 Skill   ★★★★☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube 2S-Yb_iVWzg+83
 Review: (Not yet watched)
 
 The Legend of Zelda: A Link to the Past (SNES - Nintendo EAD 1991)
@@ -1570,7 +1570,7 @@ host cartridgeblowers, couch vZakat
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★☆☆☆
-Youtube PENDING
+Youtube Pn6GCfkwPvE+145
 Review: A super technical run. The commentary had to do a lot of heavy lifting, explaining everything going on - it was incredibly informative, but unfortunately that made it kind of dry. Not necessarily a problem, but don't head into this expecting a lot of laughs.
 
 The Legend of Zelda: A Link to the Past (SNES - Nintendo EAD 1991)
@@ -1581,29 +1581,29 @@ host cartridgeblowers, couch vZakat
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube PENDING
-Review: (Not yet watched)
+Youtube Pn6GCfkwPvE+3548
+Review: A quick extension of the previous, allowing the glitch that breaks the run into basically a credits warp. Nifty, but reliant on the previous run to do the heavy lifting on explanation, and not that interesting a run in itself.
 
 Tetris: The Grand Master (Arcade - Arika 1998)
 Grandmaster
 race JBroms vs PARTY MAN X vs PiePusher11 vs spc
 host Mr. Game and Shout, couch Colour_Thief, Kitaru
-9m55s igt, DNF, DNF, DNF (est 15m, wr HhMMmSSs)
+9m55s, DNF, DNF, DNF (est 15m, no wr)
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube sklI0NlQVpU+262
 Review: An extremely difficult run, as shown by the fact that one runner failed out and two failed to meet the Grandmaster requirements. But that unfortunately makes for a weak showcase, as it instead just looks like the runners are bad. And why was there a bonus incentive for something none of the runners have done before? This should have been a master class in Tetris, but it really did not connect well.
 
 Sekiro: Shadows Die Twice (PC - From 2019)
 Blindfolded Any%
 by Mitchriz [2RH]
 host Mr. Game and Shout, couch LilAggy [3RH], SpikeVegeta
-2h00m35s (est 2h45m, wr 1h42m47s)
+2h00m35s (est 2h45m, wr 1h42m47s, sighted wr 29m31s)
 Overall ★★★★★
 Skill   ★★★★★
 Fun     ★★★★☆
-Youtube PENDING
+Youtube FQeeRBtQgzE+13
 Review: Well that was a roller coaster. This is a tough game to start with, but gamers have been mastering Soulsbornes for a while. Blindfolded adds an entirely new sort of challenge, and shows just how easy it is for this game to get away from you. 
 
 Portal 2 (PC - Valve 2011)
@@ -1614,7 +1614,7 @@ host Mr. Game and Shout, no couch
 Overall ★★★★☆
 Skill   ★★★☆☆
 Fun     ★★★★☆
-Youtube PENDING
+Youtube vh8l3TB_BWc+163
 Review: Msushi makes a surprise second appearance. We've seen Portal before, but Inbounds is IMO the best category - glitchy as hell, so fun, but not just a parade of skipping straight to the next level trigger. And Msushi keeps up the high-energy self-commentary.
 
 Deltarune (PC - Toby Fox 2018, 2021) [BONUS]
@@ -1625,7 +1625,7 @@ host ateatree, no couch
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube ak2w8nZs42E+158
 Review: I get the vibes that this run was a lot more fun if you actually have played Deltarune, because I think most of the chatter was jokes about the story that flew completely over my head. It wasn't unbearable as an outsider, but the target demo was clearly not "guy who has a half-finished Undertale save from six years ago". It's still a decent speedrun, and Shayy's enthusiasm was infectious, but the appeal was not meant to be universal.
 
 Deltarune (PC - Toby Fox 2018, 2021) [DOUBLE BONUS]
@@ -1636,16 +1636,16 @@ host ateatree, no couch
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube ak2w8nZs42E+4110
 Review: A route that, I gather, most players were also unaware of, so it was a slight improvement on the last.
 
 Metal Gear Solid (PS1 via PSTV - Konami 1998)
 All Bosses, Extreme
-by dlimes13
-host ateatree, couch COUCH
-HhMMmSSs (est 1h29m, wr HhMMmSSs)
+by dlimes13 [WRH]
+host ateatree, couch ApacheSmash, Plywood_
+1h21m20s (est 1h29m, wr 1h27m53s)
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube PENDING
+Youtube eo4d0OGfnU0+98
 Review: A somewhat strange choice to end the marathon with. A perfectly solid run - especially with some of the new glitches on display - but it's not exactly a speed game on the level of Super Metroid. 
