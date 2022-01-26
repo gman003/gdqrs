@@ -52,47 +52,48 @@ Review: I was worried this was going to be a dull race, after the early splits j
 DEATHLOOP (PC - Arkane 2021)
 Any%
 by CreeperHntr
-host Skybilz, couch BloodThunder, Meta, Thud Rogers
+host Skybilz, couch BloodThunder, Meta, Joe [DEV]
 26m46s (est 25m, wr 17m13s loadless)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube eds2jAhP6T0+0
-Review: (Not yet watched)
+Review: Not the most polished run, as expected of something so new. A bit hard to follow - they explain low-level tech but not the high-level objectives, so it's a freefloating sort of run, but better than you'd expect of such a new game.
+NM: Overlay listed "Thud Rogers" as third couch member, but introduced as "Joe", not sure how exactly to credit.
 
 Axiom Verge 2 (PC - Thomas Happ 2021)
 Any% Major Glitches
 by SeraphinEveles [WRH]
 host Skybilz, couch Bullets, foxyjira
 11m54s (est 13m, wr 10m50s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube -EFqkI-fHSg+0
-Review: (Not yet watched)
+Review: Another 2021 game being run, this one so broken that it bears almost no resemblance to the normal game flow. It's just movement, cutscene skips, and a few glitches to completely break the intended pathing. I don't think a single bit of combat happened. But that got it down to twelve minutes, and Seraphin kept a very good pace.
 
 Mega Man 2 (NES - Capcom 1988)
 Any% Difficult
 by coolkid [2RH]
 host Skybilz, couch Mithical9
 27m02s (est 32m, wr 26m34s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube hlQaRTDvthA+0
-Review: (Not yet watched)
+Review: It's a classic of the speedrunning scene, and coolkid is one of the best. You've probably seen Mega Man runs before, so it's the expected series of wall-clips, boss quick-kills, and i-frame abuse... but it's a good performance, with just a few minor mistakes that keep things interesting. Mithical9 put some serious effort in on commentary, a bit scripted but very informative, without being too dry.
 
 Metal Gear Solid 2: Substance (PC - Konami 2001, 2002) [BONUS]
 Tanker Blindfolded
 by ApacheSmash
 host Skybilz, couch MackMcD
 10m26s (est 15m, wr sighted 5m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube BvW52GiO6jM+85
-Review: (Not yet watched)
-NM: for WR, assumed Very Easy
+Review: Not the flashiest or most difficult blindfolded run, but not an uninteresting one. Movement is actually much faster, because precise distances can be counted by footsteps. I would be interested in seeing a full-game run of this.
+NM: for WR, assumed Very Easy, could not actually confirm
 
 Death's Door (PC - Acid Nerve 2021)
 Current Patch Any%
@@ -121,11 +122,11 @@ All Essences
 by TGH [WRH]
 host Char_bunny, couch AstrasEvolution, xIceblue
 1h42m04s (est 1h45m, wr 1h35m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube uE8Khfcxvac+40
-Review: (Not yet watched)
+Review: It's a run that mostly mirrors the standard route, but manages to skip almost every single bit of dead time, has constant minor skips, and is executed with ridiculous precision. Commentary is a good mix of informative and entertaining - so long as you like groanworthy puns.
 
 Dead Space 2 (PC - Visceral 2011)
 Any%
@@ -177,12 +178,23 @@ Antichamber (PC - Demruth 2013)
 "100%"
 by Ozmourn [WRH]
 host Sandsh8rk, couch Voetiem
-21m43s (est 30m, wr 18m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+21m39s (est 30m, wr 18m58s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube _Og4I3t6ix0+39
-Review: (Not yet watched)
+Review: This is a hard game to figure out even playing as intended, so the speedrun only adds to the confusion. The commentary tries to keep up with the speed tech but this is probably not a great run if you want to understand things but have not played the game. If you have, or if you don't care, it's a nice fast-moving puzzle speedrun, with very little downtime.
+
+Antichamber (PC - Demruth 2013)
+Any%
+by Ozmourn
+host Sandsh8rk, couch Voetiem [WRH]
+1m11s (est 5m, wr 43s)
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
+Youtube _Og4I3t6ix0+1503
+Review: Literally just glitching to get to the end, using the same trick the above run did, just without doing anything else. So if you watched the 100% run, this adds nothing.
 
 Judge Dredd (SNES - Probe 1995)
 Any%
@@ -743,16 +755,17 @@ Review: (Not yet watched)
 
 [[[SONIC BLOCK]]]
 
-SNOLF 0 (Genesis - DrMelon 2019)
+SNOLF 0 (Genesis - Sonic Team 1991, DrMelon 2019)
 Any%
-by dowolf [WRH]
+by dowolf
 host NerdyExcursions, couch Brossentia
-27m05s (est 40m, wr 35m55s) [WR?]
-Overall N/R
-Skill   N/R
-Fun     N/R
+27m05s (est 40m, no wr)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube EWGQTghURh4+0
-Review: (Not yet watched)
+Review: A ridiculous run of a ridiculous hack. Sonic played as a golf game seems to work surprisingly well, and it's an even better speedrun. There's a nice mix of skipping over massive sections by driving over them, and some easy parts that became quite challenging under the new controls, and it's all accompanied by entertaining commentary.
+NM: Could not find a leaderboard for this, only for the original SNOLF
 
 Sonic R (GC via Wii - Traveller's Tales 1997, 2005)
 100% No OOB
@@ -929,22 +942,24 @@ Any%
 by gymnast86 [2RH]
 host TheCrankMachine, couch joaish, BenStephens56
 38m50s (est 40m, wr 33m23s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube pJ4Lw7I0fgI+25
-Review: (Not yet watched)
+Review: This is kind of an awkward speedrun. The first half is stuffed with cutscenes, and the first cycle is played almost entirely as intended. Then it's a trek over to the Deku Palace and a very glitchy wrong-warp straight to end of the final dungeon. It's very well-explained for something so technical - Gymnast and couch could probably teach a comp sci class better than my actual college professors did - but it's unfortunate that so much time is spent on the fixed-length intro.
+
+[[[AWFUL BLOCK]]]
 
 Zelda's Adventure (CD-i - Viridis 1995)
 Any%
 by Douggernaught [WRH]
 host Lanaruse, couch 0rganics, MC
 1h16m11s (est 1h24m, wr 1h09m25s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube fLC6pa3T7m4+120
-Review: (Not yet watched)
+Review: The game is much more like conventional Zelda games, at least in the top-down perspective, clear dungeons and bosses, and the very bouncy level design. And the cutscenes, though still not good, are at least less memetastically awful. But that makes it not quite awful enough to be a good Awful Block run, while still not being good enough to be outside Awful Block. It's mostly just tedious loading times, opaque quest design, and some killing bosses with chip damage because going a few screens over to grab the intended weapon would take longer.
 
 Garshasp: The Monster Slayer (PC - Fanafzar Sharif 2011)
 No Void Rolling
@@ -960,25 +975,25 @@ Review: (Not yet watched)
 Taz-Mania (Game Gear - NuFX 1992)
 Any%
 by Grumpmeister
-host SporadicErratic, couch brossentia, Raelcun
+host SporadicErratic, couch brossentia, Raelcun, Biscuit (🐶), Furry (🐶)
 8m09s (est 11m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube yMDxrBecBgg+0
-Review: (Not yet watched)
-NM: names of doggos? also no leaderboard for Game Gear version?
+Review: The fun part of Awful Game speedruns is making fun of them, but Grumpmeister doesn't really do any of that. He's just playing a game with awful music and a lot of lag, but trying to sing its praises regardless. There's very limited tech - the game is mostly autoscrollers - so it's not a good speed game, but if you're not riffing on it, where's the fun?
+NM: no leaderboard for Game Gear version?
 
 Meegah Mem II (PC - Crapcom 2019)
 Any%
 by LV Creed
 host SporadicErratic, no couch
 28m19s (est 33m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube ctR79y1O5bg+120
-Review: (Not yet watched)
+Review: Now this is some proper Awful Block material. Perhaps it's a deliberately bad game, but between the kazoo soundtrack, the mspaint sprites, and the glitchy everything, this is what Awful Block should be. LV Creed might need some more practice at speaking, he was frequently disjointed and meandering, but he did well enough.
 
 Captain Novolin (SNES - Sculptured Software 1992)
 Any%
@@ -1018,11 +1033,11 @@ All Games
 by Finalflame [WRH]
 host AmberCyprian, couch CrankThatSNES
 16m27s (est 26m, wr 15m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube hd8WeV2B598+27
-Review: (Not yet watched)
+Review: Frame-perfect is a lot easier with a single-digit framerate. There's some novelty from being a Game.Com title, but that mostly just makes it not that great of a game. Commentary was informative but very unenthused - with Awful Block, I've come to expect excitement, either hyping up a game that does not deserve it, or unreservedly hating a game that does. This was more "yeah, it's a Game.Com game, the framerate is awful, we don't know how all these glitches happen, most of them aren't useful, I can't tell which level I'm on because they all look the same".
 
 Zadette (PC - Le Club des Sacs 2021)
 Gamer%
@@ -1056,6 +1071,8 @@ Skill   N/R
 Fun     N/R
 Youtube JsiC7mx1kzw+30
 Review: (Not yet watched)
+
+[[[/AWFUL BLOCK]]]
 
 [[[CASTLEVANIA BLOCK]]]
 
