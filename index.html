@@ -455,7 +455,7 @@ body {
 			<a class="sgdq" onclick="loadMarathon('sgdq2020')">SGDQ 2020<span>(59% - 87/147)</span></a>
 			<a class="agdq" onclick="loadMarathon('agdq2021')">AGDQ 2021<span>(89% - 136/153)</span></a>
 			<a class="sgdq" onclick="loadMarathon('sgdq2021')">SGDQ 2021<span>(100% - 150/150)</span></a>
-			<a class="agdq" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(47% - 69/148)</span></a>
+			<a class="agdq" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(67% - 99/148)</span></a>
 		</div>
 		<script>
 			function loadMarathon(marathon, reset = true){
@@ -667,6 +667,7 @@ function defineTags(input){
 		'[PB]':		'New Personal Best!',
 		'[NF]':		'Did Not Finish',
 		'[NV]':		'Run Not Valid',
+		'[WR?]':	'Possible World Record?',
 		
 		// runner tags
 		'[WRH]':	'World Record Holder',
@@ -790,7 +791,7 @@ function loadReviews(input){
 		run_element.className = document.body.className;
 		
 		var title_re = lines[0].match(/([^\(\)]+) \((.+) - ([^\(\)]+) ((YEAR)|[0-9,; ]+)\)/);
-		var time_re = lines[4].match(/(~?[^\(\)]+) \(([A-Za-z0-9 ?]+), ([A-Za-z0-9% ,?-]+)\)([\[\] A-Z0-9]*)/);
+		var time_re = lines[4].match(/(~?[^\(\)]+) \(([A-Za-z0-9 ?]+), ([A-Za-z0-9% ,?-]+)\)([\[\] A-Z0-9?]*)/);
 		var youtube_re = lines[8].match(/Youtube ([A-Za-z0-9_-]+)\+?([0-9]*)/);
 		
 		if (title_re == null){
