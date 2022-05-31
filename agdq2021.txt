@@ -1152,7 +1152,7 @@ Star Wars Jedi: Fallen Order (PC - Respawn 2019)
 Any% No PBC
 by Pnash [3RH]
 host AnEternalEnigma, couch BANGUPJOBASUSUAL, VesperOne
-MMmSSs (est 2h00m, wr 1h42m08s)
+1h45m49s (est 2h00m, wr 1h42m08s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1540,12 +1540,11 @@ Alucard [BIDWAR]
 by freeland
 host Nichole Goodnight, couch Kutsu Shita, disdonn
 27m57s (est 35m, wr 25m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube WPspKYWdBig+20
-Review: (Have not yet watched)
-NM: if Trevor: [3RH] wr 28m59s; if Alucard: 25m43s
+Review: If you've seen a retrovania run, this will offer few surprises, but if you've enjoyed retrovania runs, this will offer more enjoyment. A pretty linear path, precise boss strats, occasional clipping that saves far less time than in most games.
 
 Castlevania: Order of Ecclesia (NDS - Konami 2008)
 Albus any%

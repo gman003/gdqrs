@@ -373,7 +373,7 @@ Review: It's a pretty well-made, fairly difficult, Doom mod. That happens to hav
 AMID EVIL (PC - Indefatigable 2019)
 any% OoB
 by Psych0sis
-host iggyzig, couch Doc Ill, ripchip_, phone commentary Dave Oshry (sp?), Leon Zawada, Simon Rance, Andrew Hulshult
+host iggyzig, couch Doc Ill, ripchip_, phone commentary Dave Oshry [DEV], Leon Zawada [DEV], Simon Rance [DEV], Andrew Hulshult [DEV]
 26m37s (est 35m, wr 23m13s)
 Overall ★★★☆☆
 Skill   ★★☆☆☆
@@ -995,7 +995,7 @@ Review: It's described as survival horror, but honestly? It looks more like a pr
 
 [[[/AWFUL BLOCK]]]
 
-[[[HORROR BLOCK]]]
+[[[SPOOKY BLOCK]]]
 
 Nightcry (PC - Nude Maker 2016)
 Two Survivors
@@ -1041,7 +1041,7 @@ Fun     ★★☆☆☆
 Youtube JvE2mHDHYz4+18
 Review: If nine hours was far too long for a speedrun, five minutes is far too short. It's cool and all but it didn't even have time to get into a groove before it was over.
 
-[[[/HORROR BLOCK]]]
+[[[/SPOOKY BLOCK]]]
 
 Jak 2 (PS2 - Naughty Dog 2003)
 Any%

@@ -904,6 +904,8 @@ Review: (Not Yet Reviewed)
 
 ------------------------------THURSDAY-------------------------------
 
+[[[SILLY BLOCK]]]
+
 Pacify (PC - Shawn Hitchcock 2019)
 2 Player 100%
 by Metro72, YourAverageWhiteChick
@@ -972,6 +974,8 @@ Skill   N/R
 Fun     N/R
 Youtube aEDLC3d3HpU+13
 Review: (Not Yet Reviewed)
+
+[[[/SILLY BLOCK]]]
 
 Streets of Fury EX (PC - Guard Crush 2015)
 Any% Ruby Diamonds

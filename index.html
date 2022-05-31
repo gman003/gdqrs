@@ -21,6 +21,14 @@
 	--color-bg-h1:   #e10189;
 	--color-bg-h2:   #34002c;
 }
+.spec {
+	--color-fg-main: #2d6665;
+	--color-fg-h1:   #FFF;
+	--color-fg-h2:   #FFF;
+	--color-bg-main: #000;
+	--color-bg-h1:   #ffb900;
+	--color-bg-h2:   #403200;
+}
 body {
 	box-sizing: border-box;
 	background: var(--color-bg-main);
@@ -376,6 +384,63 @@ body {
 			border: 1px solid var(--color-fg-fade);
 		}
 		
+		
+		:host(.awful_block) {
+			--color-fg-head: #1fff77;
+			--color-fg-fade: #1fff77;
+			--color-fg-cont: #1fff77;
+			--color-bg-head: #c00177;
+			--color-bg-cont: #660133;
+			font-family: "Comic Sans MS", sans; /* because I am a monster and I cannot be stopped */
+		}
+		:host(.silly_block) {
+			/* TODO: find some silly colors */
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #55afa7;
+			--color-fg-cont: #66e4e0;
+			--color-bg-head: #5f005f;
+			--color-bg-cont: #3f003f;
+		}
+		:host(.spooky_block) {
+			--color-fg-head: #ffffff;
+			--color-fg-fade: #aaaaaa;
+			--color-fg-cont: #ff0000;
+			--color-bg-head: #550000;
+			--color-bg-cont: #110000;
+		}
+		:host(.sonic_block) {
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #65662f;
+			--color-fg-cont: #5dc2c0;
+			--color-bg-head: #222266;
+			--color-bg-cont: #111155;
+		}
+		:host(.castlevania_block) {
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #ffffff;
+			--color-fg-cont: #ffb999;
+			--color-bg-head: #502000;
+			--color-bg-cont: #301000;
+		}
+		:host(.megaman_block) {
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #ffb900;
+			--color-fg-cont: #5dc2c0;
+			--color-bg-head: #4da2a0;
+			--color-bg-cont: #111155;
+		}
+		:host(.myst_block) {
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #ffd9a9;
+			--color-fg-cont: #201000;
+			--color-bg-head: #503000;
+			--color-bg-cont: #ffe9b9;
+			font-family: "MagicMedieval", "Papyrus", "Segoe Print", cursive;
+		}
+		:host(.myst_block) .run .score-stars {
+			color: var(--color-fg-cont);
+		}
+		
 		.run {
 			width: 100%;
 			color: var(--color-fg-cont);
@@ -455,10 +520,12 @@ body {
 			<a class="sgdq" onclick="loadMarathon('sgdq2020')">SGDQ 2020<span>(59% - 87/147)</span></a>
 			<a class="agdq" onclick="loadMarathon('agdq2021')">AGDQ 2021<span>(89% - 136/153)</span></a>
 			<a class="sgdq" onclick="loadMarathon('sgdq2021')">SGDQ 2021<span>(100% - 150/150)</span></a>
-			<a class="agdq" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(67% - 99/148)</span></a>
+			<a class="agdq" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
+			<a class="sgdq" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>Hasn't happened yet!</span></a>
+			<a class="spec" onclick="loadMarathon('everything');">Everything<span>(Still a bit buggy)</span></a>
 		</div>
 		<script>
-			function loadMarathon(marathon, reset = true){
+			function loadMarathon(marathon, reset = true, clear = true){
 				var title = marathon.substring(0, 4).toUpperCase() + ' ' + marathon.substring(4);
 				
 				// set global style
@@ -476,7 +543,17 @@ body {
 				
 				hideAllContentBut('player');
 				
-				loadReviewsForMarathon(marathon);
+				if (marathon == "everything"){
+					loadReviewsForMarathon('agdq2019', true);
+					loadReviewsForMarathon('sgdq2019', false);
+					loadReviewsForMarathon('agdq2020', false);
+					loadReviewsForMarathon('sgdq2020', false);
+					loadReviewsForMarathon('agdq2021', false);
+					loadReviewsForMarathon('sgdq2021', false);
+					loadReviewsForMarathon('agdq2022', false);
+				} else {
+					loadReviewsForMarathon(marathon, clear);
+				}
 				
 				// set URL
 				
@@ -540,7 +617,7 @@ body {
 			<div>
 				<h3>By People</h3>
 				<label><input type="text" name="runner" placeholder="(eg. TheMexicanRunner)" />Runner(s)</label>
-				<label><input type="text" name="crew" placeholder="(eg. SpikeVegeta)" />Crew</label>
+				<label><input type="text" name="crew" placeholder="(eg. SpikeVegeta)" />Couch &amp; Crew</label>
 				<p>Tip: Search "[WRH]" to find only runs by world record holders, or "race" to find competitive races.</p>
 			</div>
 			<div>
@@ -548,6 +625,23 @@ body {
 				<label><input type="text" name="game" placeholder="(eg. Mario)" />Game Title</label>
 				<label><input type="text" name="category" placeholder="(eg. Any%)" />Run Category</label>
 				<label><input type="text" name="platform" placeholder="(eg. NES)" />Platform</label>
+				<label><input type="text" name="developer" placeholder="(eg. Capcom)" />Developer</label>
+			</div>
+			<div>
+				<h3>By Duration</h3>
+				<label><input type="checkbox" name="duration" checked min="0" max="10"/>Tiny (&lt;10 min)</label>
+				<label><input type="checkbox" name="duration" checked min="10" max="30"/>Short (10-30 min)</label>
+				<label><input type="checkbox" name="duration" checked min="30" max="60"/>Medium (30-60 min)</label>
+				<label><input type="checkbox" name="duration" checked min="60" max="180"/>Long (1-3 hours)</label>
+				<label><input type="checkbox" name="duration" checked min="180" max="999"/>Epic (&gt;3 hours)</label>
+				<p>Or Enter Custom Range:</p>
+				<label><input type="text" name="duration-min" placeholder="(eg. 5)" />Minimum (in minutes)</label>
+				<label><input type="text" name="duration-max" placeholder="(eg. 300)" />Maximum (also in minutes)</label>
+			</div>
+			<div>
+				<h3>By Misc</h3>
+				<label><input type="text" name="block" placeholder="Awful" />Named Blocks</label>
+				<label><input type="checkbox" name="duration-wr" checked"/>Only World Records</label>
 			</div>
 		</div>
 		
@@ -695,6 +789,7 @@ function definePlatforms(input){
 			'GB':		'Nintendo Game Boy',
 			'GBC':		'Nintendo Game Boy Color',
 			'GBA':		'Nintendo Game Boy Advance',
+			'GBP':		'Nintendo Game Boy Player',
 			'DS':		'Nintendo DS',
 			'3DS':		'Nintendo 3DS',
 			'VC': 		'Virtual Console',
@@ -731,20 +826,35 @@ function simplifyRatingString(input){
 	return ratings[input] ?? 'N';
 }
 
-function loadReviewsForMarathon(event, reset = true){
+function simplifyTimeString(input){ // finds the longest duration (eg. 1h23m45s) in a string of times
+	var to_return = 0;
+	for (match of input.matchAll(/(\dh)?(\d{1,2}m)(\d{1,2}s)?/g)){
+		var hours = match[1] === undefined ? 0 : parseInt(match[1].substring(0, match[1].length - 1), 10);
+		var minutes = parseInt(match[2].substring(0, match[2].length - 1), 10);
+		// TODO: count seconds and round?
+		
+		if (hours * 60 + minutes > to_return){ to_return = hours * 60 + minutes; }
+	}
+	return to_return;
+}
+
+function loadReviewsForMarathon(event, clear = true){
+	if (clear){
+		// clear out runs table and daily navbar
+		document.getElementById("runs").replaceChildren();
+		document.getElementById("days").replaceChildren();
+	}
+
 	fetch(`${event}.txt`, { cache: 'reload' })
-	.then(response => response.text())
-	.then(loadReviews);
+		.then(response => response.text())
+		.then(loadReviews);
 }
 
 function loadReviews(input){
-	
 	var run_container = document.getElementById("runs");
 	var navbar_container = document.getElementById("days");
 	
-	// clear out runs table and daily navbar
-	run_container.replaceChildren();
-	navbar_container.replaceChildren();
+	var current_block = null;
 	
 	for (run of input.trim().split("\n\n")){
 		var lines = run.split("\n");
@@ -774,10 +884,12 @@ function loadReviews(input){
 			continue;
 		} else if (lines.length == 1 && lines[0].startsWith('[[[')){
 			// looks like a block header
-			var name = lines[0].replaceAll('[', '').replaceAll(']', '');
-			
-			// TODO: set some kind of block flag to style runs within it? Not actually sure how I want to display these
-			
+			var block_re = lines[0].match(/\[\[\[(\/?)([A-Z ]+) BLOCK\]\]\]/);
+			if (block_re[1] == "\/"){
+				current_block = null;
+			} else {
+				current_block = block_re[2];
+			}
 			continue;
 		}
 		
@@ -826,12 +938,46 @@ function loadReviews(input){
 		run_element.setAttribute("yt-url", youtube_re[1]);
 		run_element.setAttribute("yt-offset", youtube_re[2]);
 		run_element.setAttribute("rating", simplifyRatingString(lines[5].substring(8)));
+		run_element.setAttribute("duration", simplifyTimeString(time_re[1]));
+		run_element.setAttribute("wr", lines[4].includes("[WR]"));
 		run_element.setAttribute("game", title_re[1].toLowerCase());
 		run_element.setAttribute("platform", title_re[2].toLowerCase());
+		run_element.setAttribute("dev", title_re[3].toLowerCase());
 		run_element.setAttribute("category", lines[1].toLowerCase());
 		run_element.setAttribute("runner", lines[2].toLowerCase());
 		run_element.setAttribute("crew", lines[3].toLowerCase());
 		// TODO: NBs, NMs, etc?
+		
+		switch (current_block){
+			case "AWFUL":
+				run_element.classList.add("awful_block");
+				break;
+			case "SILLY":
+				run_element.classList.add("silly_block");
+				break;
+			case "SPOOKY":
+				run_element.classList.add("spooky_block");
+				break;
+			case "SONIC":
+				run_element.classList.add("sonic_block");
+				break;
+			case "GENESIS":
+				run_element.classList.add("genesis_block");
+				break;
+			case "CASTLEVANIA":
+				run_element.classList.add("castlevania_block");
+				break;
+			case "MEGA MAN":
+				run_element.classList.add("megaman_block");
+				break;
+			case "MYST":
+				run_element.classList.add("myst_block");
+				break;
+			case null: break;
+			default:
+				console.log("Unknown block: " + current_block);
+				break;
+		}
 		
 		run_container.appendChild(run_element);
 	}
@@ -868,11 +1014,23 @@ function refreshFilters(){
 		}
 	}
 	
+	var allowedDurations = [];
+	for (element of document.querySelectorAll("input[name=duration]").values()){
+		if (element.checked){
+			allowedDurations.push([parseInt(element.attributes.min.value), parseInt(element.attributes.max.value)]);
+		}
+	}
+	var durationMinimum = document.getElementsByName("duration-min")[0].value;
+	var durationMaximum = document.getElementsByName("duration-max")[0].value;
+	var requireWR = document.getElementsByName("duration-wr")[0].checked;
+	
 	var allowedRunner = document.getElementsByName("runner")[0].value.toLowerCase();
 	var allowedCrew = document.getElementsByName("crew")[0].value.toLowerCase();
 	var allowedGame = document.getElementsByName("game")[0].value.toLowerCase();
 	var allowedCategory = document.getElementsByName("category")[0].value.toLowerCase();
 	var allowedPlatform = document.getElementsByName("platform")[0].value.toLowerCase();
+	var allowedDev = document.getElementsByName("developer")[0].value.toLowerCase();
+	var allowedBlock = document.getElementsByName("block")[0].value.toLowerCase();
 	
 	for (element of document.getElementsByTagName("gdq-run")){
 		var passed = true;
@@ -880,6 +1038,21 @@ function refreshFilters(){
 		if (allowedRatings.length){
 			passed = passed && allowedRatings.includes(element.attributes.rating.value);
 		}
+		
+		if (allowedDurations.length){
+			var subpassed = false;
+			for (durations of allowedDurations){
+				subpassed = subpassed || (parseInt(element.attributes.duration.value) >= durations[0] && element.attributes.duration.value <= parseInt(durations[1]));
+			}
+			passed = passed && subpassed;
+		}
+		if (durationMinimum){
+			passed = passed && parseInt(element.attributes.duration.value) >= parseInt(durationMinimum);
+		}
+		if (durationMaximum){
+			passed = passed && parseInt(element.attributes.duration.value) <= parseInt(durationMaximum);
+		}
+		
 		if (allowedRunner){
 			passed = passed && element.attributes.runner.value.includes(allowedRunner);
 		}
@@ -895,8 +1068,28 @@ function refreshFilters(){
 		if (allowedPlatform){
 			passed = passed && element.attributes.platform.value.split(" ").includes(allowedPlatform);
 		}
+		if (allowedDev){
+			passed = passed && element.attributes.dev.value.includes(allowedDev);
+		}
+		if (requireWR){
+			passed = passed && element.attributes.wr.value == "true";
+		}
+		if (allowedBlock){
+			passed = passed && element.classList.contains(allowedBlock + "_block");
+		}
 		
 		element.hidden = !passed;
+	}
+	
+	// do another pass to hide day headers
+	var section_has_content = false;
+	for (element of Array.from(document.getElementById('runs').children).reverse()){
+		if (element.tagName == "H2"){
+			element.hidden = !section_has_content;
+			section_has_content = false;
+		} else if (element.tagName == "GDQ-RUN"){
+			if (!element.hidden){ section_has_content = true; }
+		}
 	}
 }
 
@@ -932,6 +1125,8 @@ function onYouTubeIframeAPIReady() {
 		},
 		events: {}
 	});
+	
+	return;
 	
 	// check URL params, see if we should shortcut into a marathon
 	let params = new URLSearchParams(document.location.search);
