@@ -380,14 +380,12 @@ Hollow Knight (PC - Team Cherry 2017)
 Any% No Major Glitches
 race, Pestilentbox2 [WRH] vs fireb0rn [2RH]
 host Brutal_Melo, couch skurry, shayfe, paum
-42m12s, 42m23s (est 41m, wr 32m55s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+41m22s, 42m23s (est 41m, wr 32m55s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube Hl-w6J4_-mc
-Review: (Not Yet Reviewed)
-NM: Assuming "Pest" on leaderboard is Pestilentbox2
-NM: also Vysuals [3RH] was originally listed as competitor, dropped?
+Review: A solid race of a very difficult game. This category is the most grounded, so it wasn't as flashy as it could have been, but it was very tight throughout most of the race, and commentary was robust (if a bit dry).
 
 Ori and the Will of the Wisps (PC - Moon 2020) [BONUS GAME 1]
 Any% Easy, No OoB
@@ -506,11 +504,11 @@ Hard
 by d4gr0n [WRH]
 host Lizstar, couch ShinerCCC
 10m08s (est 15m, wr 9m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube VIXm-Sx3ZJA+7
-Review: (Not Yet Reviewed)
+Review: A clip-heavy run-and-gun game, but a bit short. Somehow like a third of it was an autoscroller, but the rest was quite fast, making a good bite-size run.
 
 Donkey Kong Country 2 (SNES - Rare 1995)
 Warpless
@@ -583,11 +581,11 @@ Any%
 by Helix [2RH]
 host Nichole Goodnight, couch esoterics
 15m47s (est 23m, wr 12m52s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube a5d3xvwtcVY+17
-Review: (Not Yet Reviewed)
+Review: A licensed THPS clone should not be this good, but it was. Solid speed game - the shorter length and a bit of actual speed tech makes it better than actual Tony Hawk games, IMO. It's still not great, but Helix does it better than most would.
 
 Tony Hawk's Underground (PC - Neversoft 2003)
 Any% Beginner
@@ -673,11 +671,11 @@ Any%
 by Sunnymuffin [2RH]
 host Prolix, couch Lapra, Kevin
 59m07s (est 59m, wr rta 45m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube KJRbTyAVQgA
-Review: (Not Yet Reviewed)
+Review: Speedruns sometimes change the way a game is played so drastically that it's almost a different thing. This turns a Diablo-style ARPG into a platformer, with all the out-of-bounds, clips, and launches. The bosses are cheesed, which unfortunately takes a while with such low levels, but this crew is able to provide antics to get through it.
 
 BioShock Infinite (PC - Irrational 2013)
 Any% HRH Mod
@@ -706,11 +704,11 @@ Any%
 by touhoe [WRH]
 host AnEternalEnigma, couch frozenflygone, EricJ_Math
 9m51s (est 12m, wr 8m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube IMgxtXGk-GY+34
-Review: (Not Yet Reviewed)
+Review: A neat little spin on the Pac-Man genre, but marred by frequent video hitches in the latter half. No tech but "play game good", but it did have solid execution, when we could see it.
 NM: Swapped with below?
 
 Dogurai (PC - Hungry Bear 2019)
@@ -763,11 +761,11 @@ Any%- Lights on, 1.2
 by kykystas [2RH]
 host DoctorBobtastic, no couch
 9m20s (est 18m, wr 8m05s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube Aij6Rx8qJ-A+24
-Review: (Not Yet Reviewed)
+Review: A stylish parkour platformer with rocket jumps, with the run heavily using unintended routing. Somehow it was getting repetitive after just ten minutes - probably not helped by the somewhat lethargic self-commentary.
 
 One Step From Eden (PC - Thomas Moon Kang 2020)
 Neutral Selicy Seedless Normal
@@ -904,54 +902,53 @@ Review: (Not Yet Reviewed)
 
 ------------------------------THURSDAY-------------------------------
 
-[[[SILLY BLOCK]]]
-
 Pacify (PC - Shawn Hitchcock 2019)
 2 Player 100%
 by Metro72, YourAverageWhiteChick
 host LLK, no couch
 4m46s (est 10m, wr 3m05s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube WBkfdrlCwFc+18
-Review: (Not Yet Reviewed)
+Review: A ridiculously short indie-horror run - but surprisingly interesting. There's not *that* much depth, but more than some half-hour runs have gotten, and the runners did a fine job packing their commentary into such a dense timeframe.
 NM: Assumed "Dolls" category, runners aren't listed for "Farm - 2 Player"
+
+[[[SILLY BLOCK]]]
 
 Night Trap Anniversary Edition (PS4 - Screaming Villains 2017)
 Best Ending, Blindfolded
 by Ecdycis [WRH]
 host LLK, couch Maxylobes, clendaria, Starwin
 29m01s (est 37m, wr unblindfolded 25m45s)
-Overall ★★★☆☆
+Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
 Youtube FBvQ2Q4nMYY+24
 Review: You'd think this would be an incredibly silly run, since the game is deliberate B-movie schlock. Except it kind of isn't? You can't actually watch most of the awful FMV acting because you have to activate traps elsewhere. Not awful by any means, but not as good as I'd hoped.
 NM: Doesn't seem to be a leaderboard for Anniversary?
 
-Pringles: The Video Game (Genesis - DEVELOPER 2009)
+Pringles: The Video Game (Genesis - Future Driver 2009)
 All As
 by SecksWrecks
 host LLK, couch pea
 3m45s (est 5m, wr 2m52s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube kxo95N8IjIg+9
-Review: (Not Yet Reviewed)
-NM: Could not identify developer
+Review: An inexplicable homebrew game, but it looks actually fun, and while the speedrun is mostly "play game without mistakes", that does require some skill, and at under five minutes, it hardly has time to even explain itself before it's done.
 
 Hypnospace Outlaw (PC - Tendershoot 2019)
 Any% (All Cases)
 by Lizstar [WRH]
-host LLK, no couch
-18m33s (est 20m, wr 18m34s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host LLK, couch Brossentia
+18m33s (est 20m, wr 18m34s) [WR]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube sF3RA23LNyU+16
-Review: (Not Yet Reviewed)
+Review: I'm still not sure what this game even is, but I think that's more feature than bug. Not the most skill-heavy game (it's some kind of point-and-click adventure), but it's still a fun watch.
 
 Saint Hazel's Horsepital (PC - HYPH-N 2019)
 Any%
@@ -967,13 +964,13 @@ Review: A very, very, *very* weird student game. Best that I not describe it too
 Ribbit King (Gamecube via Wii - Infinity 2003)
 All Courses
 by Dakitteh
-host Ezmar, couch Pearstrike, Punchy
+host Ezmar, couch Pearstrike, Punchy, CriticalSid (sp?)
 18m58s (est 23m, wr rta 14m32s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube aEDLC3d3HpU+13
-Review: (Not Yet Reviewed)
+Review: "What is even going on?" "It's frog golf, don't worry about it." An excellently silly game.
 
 [[[/SILLY BLOCK]]]
 
@@ -991,14 +988,14 @@ Review: (Not Yet Reviewed)
 Rocko's Quest (PC - Revistronic 2003)
 Any%
 by NoseJones [WRH]
-host Ezmar, no BumHoboKarl, JohhnyThaGod, Moose73
+host Ezmar, couch BumHoboKarl, JohhnyThaGod, Moose73
 15m39s (est 20m, wr 8m07s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ☆☆☆☆☆
+Skill   ☆☆☆☆☆
+Fun     ☆☆☆☆☆
 Youtube GYuwjBbPs4s+8
-Review: (Not Yet Reviewed)
-NM: Purged from GDQ's channel for some reason, not sure why yet.
+Review: This run had many of the failings common to this event - constant stream hitching, bad audio mix, awful microphones, commentators talking over another. Onto that, it added poor execution and poor explanation, as well as a heaping dose of coughing phlegm directly into the mike. It didn't even have much of the late-hours madness energy going for it, it was somehow a *boring* trainwreck.
+NM: Purged from GDQ's channel, AFAICT only for being terrible
 
 Homey D. Clown (DOS - Synergistic Software 1993)
 Any%
@@ -1038,11 +1035,11 @@ Any%
 by catalystz [3RH]
 host hugewitches, no couch
 17m25s (est 25m, wr rta 15m31s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube ubpdom03SjE+68
-Review: (Not Yet Reviewed)
+Review: Not the jankiest game, but still a deeply glitched run. Unfortunately, the useful glitches are mostly variants on one core bug, so the run did get quite samey. Still, it's hard to get bored in just twenty minutes.
 
 Asghan: The Dragon Slayer (PC - Silmarils 1998)
 Any%
@@ -1330,33 +1327,33 @@ Normal
 by WhiteHat94 [WRH]
 host Kungfufruitcup, no couch
 13m56s (est 17m, wr 12m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube JJQFcouRN_A+72
-Review: (Not Yet Reviewed)
+Review: Contra runs tend to be more play-game-good than glitchfests, and this follows that trend. Maybe a more obscure title but a pretty good one, and some decent self-commentary, really comes across as loving the games.
 
-Puzzle Bobble 2 (Switch - Taito 2009)
+Puzzle Bobble 2 (Neo Geo via Switch - Taito 1995)
 Puzzle
 by poshi
 host Kungfufruitcup, couch TokuHer0
 13m00s (est 16m, wr 12m16s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube QrEb65Uk0M0+32
-Review: (Not Yet Reviewed)
+Review: An arcade puzzle game, which means fast, precise execution, and the run delivered on that. Commentary was informative but a bit stammery, some people might find it hard to listen to.
 
 A Short Hike (PC - adamgryu 2019)
 All Gold Feathers (No S+Q)
 by warm_ham
-host Kungfufruitcup, no couch
-10m06s (est 10m, wr 6m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Kungfufruitcup, couch Girl Ham
+10m01s (est 10m, wr 6m49s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube IwvdK-fCH8U+96
-Review: (Not Yet Reviewed)
+Review: An indie exploration-platformer, of the "relentlessly twee" flavor. The commentary matches, gently enthusiastic, which works quite well. A bit short, but it doesn't overstay its welcome.
 
 Baba Is You (PC - Hempuli 2019)
 True Ending
@@ -1634,11 +1631,11 @@ All Bosses
 by Ahady [WRH]
 host Squint, couch curiouspeanut, Kwitty
 1h17m15s (est 1h30m, wr rta 1h07m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube r6qrxwNIBP4+23
-Review: (Not Yet Reviewed)
+Review: Souls runs are always a treat, and All Bosses leans more towards conventional skill than glitch execution. There's still quite a bit of fall damage cancelling and some brief OoB, but it's mostly a boss rush, or running past hordes of enemies.
 
 Minecraft (PC - Mojang 2011) [BONUS GAME 6]
 Any% Random Seed Glitchless (1.7)
