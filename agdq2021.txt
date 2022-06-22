@@ -142,7 +142,7 @@ Otogi: Myth of Demons (XbC - From 2002)
 Any%
 by Ameiii [WRH]
 host VenBright, couch shabu, Raelcun
-1h1532s (est 1h20m, wr 59m49s)
+1h15m32s (est 1h20m, wr 59m49s)
 Overall ★★☆☆☆
 Skill   ★☆☆☆☆
 Fun     ★★★☆☆
@@ -466,7 +466,7 @@ Fun     ★★☆☆☆
 Youtube lo5-W-aEe_Y+9
 Review: This run didn't have enough depth to last too long, so it's a good thing it didn't. Ten-ish minutes of decent platforming, no real glitches, or even much tech beyond tactical game-overs.
 
-The Cowlitz Gamers' 2nd Adventure + Lost Adventure (NES - DEVELOPER 2019)
+The Cowlitz Gamers' 2nd Adventure + Lost Adventure (NES - M-Tee 2019)
 Any% Easy
 by Bitty_Kong [3RH]
 host YoBGS, couch The_Kov
@@ -1216,7 +1216,7 @@ Fun     ★☆☆☆☆
 Youtube YZfavt19emU
 Review: A fairly forgettable run, but by no means a bad one.
 
-Sheepo (PC - DEVELOPER 2020)
+Sheepo (PC - Kyle Thompson 2020)
 6 Real Eggs
 by QueenSnopea [WRH]
 host ateatree, couch glint
@@ -1227,14 +1227,14 @@ Fun     ★★☆☆☆
 Youtube ewoLdRIv9aY+11
 Review: The impromptu Chill Block continues with another game that's not super hard, but is "totes adorbz".
 
-RITE (PC - DEVELOPER 2020)
+RITE (PC - Pond Games 2020)
 Any%
 by Lincher [WRH]
 host Michael Macaw, couch PEOPLE
 MMmSSs (est 30m, wr 24m31s)
 Review: Skipped? In the post-run of Sheepo and Whipseey, hosts mentioned technical issues and schedule swaps, I'm guessing they were never resolved.
 
-Whipseey and the Lost Atlas (PC - DEVELOPER 2019)
+Whipseey and the Lost Atlas (PC - Daniel A. Ramirez 2019)
 Beat the Game
 by MoD366 [2RH]
 host Michael Macaw, couch stevetvonline
@@ -1267,7 +1267,7 @@ Fun     ★★☆☆☆
 Youtube 182QXmvM-2c
 Review: A minigame hard enough to make into its own run. Perhaps too difficult, though - some of the later levels seemed more luck than skill. And many things felt under-explained. But not a bad run, all in all.
 
-Inertial Drift (PC - DEVELOPER 2020)
+Inertial Drift (PC - Level 91 Entertainment 2020)
 100% Viv
 by Sean_A [WRH][ORH]
 host Bradderfield, no couch
@@ -1289,7 +1289,7 @@ Fun     ★★☆☆☆
 Youtube FelNu_qbrJI+7
 Review: We've seen a lot of MGS runs at GDQ. This is one of the better ones, but it didn't do as much as I'd like to distinguish itself. It's just more Metal Gear.
 
-Nezumi Man (PC - DEVELOPER 2009)
+Nezumi Man (PC - Nezutako 2009)
 Any%
 by Nu [2RH]
 host Bradderfield, couch bjw, Shadax
@@ -1344,7 +1344,7 @@ Fun     ★★★☆☆
 Youtube OsRI_PrlEIU+38
 Review: Not the most complex run, but it's fairly polished platforming, and some great charisma.
 
-Donkey Kong Country 2 Unveiled (SNES - Rare 1995; DEVELOPER 2020)
+Donkey Kong Country 2 Unveiled (SNES - Rare 1995; Emptysy 2020)
 Any%
 by V0oid [2RH]
 host briesbe, couch bluebeary26, Emptysy [DEV]
@@ -1472,22 +1472,22 @@ Any%
 coop mr.deagle, kykystas, Override, apple1417
 host Prolix, couch Tezur0
 24m43s (est 28m, wr 21m56s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube G16EpX7f_jc+7
-Review: (Have not yet watched)
+Review: This is one of those speedruns that completely reshapes what the game is about. Combat? Trivial. Mostly skipped. It's all about breaking out of bounds and lots and lots of damage boosting. Co-op opens up a lot of opportunities for splitting up and multitasking, but the run does devolve into a lot of "wait while one person walks in a straight line to the end trigger", and there's a few obnoxious autoscroller arenas.
 
 Serious Sam: The Second Encounter (PC - Croteam 2002)
 Any%
 coop mr.deagle, kykystas, Override, apple1417
 host Prolix, couch Tezur0
 26m38s (est 31m, wr 22m49s loadless)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube xCtABXiEcXE+3
-Review: (Have not yet watched)
+Review: Very much like the previous game run, just with even wider levels. Unfortunately, that makes it a bit more tedious, since the runners aren't *playing* the levels so much as bypassing them.
 
 Thief II: The Metal Age (PC - Looking Glass 2000)
 Any% Normal NewDark
@@ -1512,15 +1512,15 @@ Youtube I0vOo4OySvg
 Review: Probably not the hardest kaizo, or the weirdest, or the best-executed, but still a great run.
 
 X-Men (Arcade via PS3 - Konami 1992; 2010)
-1CC Console 4P JP Version
+1CC Console 6P JP Version
 by LRock617 [WRH][ORH]
-host cartridgeblowers, couch Dumpling, darkalexandr
+host cartridgeblowers, couch Dumpling, darkalexandr, Jasper (🐱)
 28m49s (est 32m, wr 21m48s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube vanfdKjpmD8
-Review: (Have not yet watched)
+Review: It's an arcade bmup, which is never that great as a pure speedrun. And in fact, LRock describes this as an attempted one-credit-clear rather than a speedrun, but that still doesn't make for that great a watch. What saves this is the quality interactions with the host and couch, brings back a bit of the offline feel.
 
 Celeste (PC - Matt Makes Games 2018)
 All C-Sides with Dance Pads
@@ -1551,11 +1551,11 @@ Albus any%
 by Diagon [2RH]
 host Nichole Goodnight, couch Frozer, Romscout, brooke
 30m53s (est 35m, wr 27m16s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube BcD133GPmdI+16
-Review: (Have not yet watched)
+Review: A more-or-less glitchless run, that still manages to feel busted, simply because teleportation is an inherently busted movement mechanic.
 
 Bloodstained: Curse of the Moon 2 (PC - Inti Creates 2020)
 Any% Ultimate Episode 1 

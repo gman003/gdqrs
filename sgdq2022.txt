@@ -171,7 +171,7 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet watched)
 
-Alien Cabal (DOS - DEV YEAR)
+Alien Cabal (DOS - QASoft 1997)
 A Walk in the Park
 by tbcr
 host HOST, couch COUCH
@@ -502,7 +502,7 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet watched)
 
-Liminal Ranger (PC - DEV YEAR)
+Liminal Ranger (PC - yatoimtop 2021)
 Normal Ending
 by Ozmourn
 host HOST, couch COUCH
@@ -834,7 +834,7 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet watched)
 
-Lizard Lady vs the Cats (PS4 - DEV YEAR)
+Lizard Lady vs the Cats (PS4 - The Voices 2021)
 Any%
 by nes_
 host HOST, couch COUCH
@@ -988,7 +988,7 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet watched)
 
-Solar Ash (PC - DEV YEAR)
+Solar Ash (PC - Heart Machine 2021)
 True Ending (Restricted)
 by bryonato
 host HOST, couch COUCH
@@ -1032,7 +1032,7 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet watched)
 
-SOUND VOLTEX EXCEED GEAR (PC - DEV YEAR) [BONUS GAME 5]
+SOUND VOLTEX: EXCEED GEAR (PC - Konami 2021) [BONUS GAME 5]
 1 Player
 by leviern
 host HOST, couch COUCH
@@ -1042,6 +1042,7 @@ Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet watched)
+NM: PC, not arcade?
 
 Celeste (PC - Extremely OK 2018)
 True Ending

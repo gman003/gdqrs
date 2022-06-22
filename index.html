@@ -517,18 +517,18 @@ body {
 <div id="runs"></div>
 
 <div id="main">
-	<div id="browser" hidden="true">
+	<div id="browser">
 		<h1>Select Marathon</h1>
 		<div class="container">
-			<a class="agdq" onclick="loadMarathon('agdq2019')">AGDQ 2019<span>(99% - 139/140)</span></a>
-			<a class="sgdq" onclick="loadMarathon('sgdq2019')">SGDQ 2019<span>(98% - 145/148)</span></a>
-			<a class="agdq" onclick="loadMarathon('agdq2020')">AGDQ 2020<span>(99% - 145/146)</span></a>
-			<a class="sgdq" onclick="loadMarathon('sgdq2020')">SGDQ 2020<span>(69% - 102/147)</span></a>
-			<a class="agdq" onclick="loadMarathon('agdq2021')">AGDQ 2021<span>(90% - 137/153)</span></a>
-			<a class="sgdq" onclick="loadMarathon('sgdq2021')">SGDQ 2021<span>(100% - 150/150)</span></a>
-			<a class="agdq" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
-			<a class="sgdq" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>Hasn't happened yet!</span></a>
-			<a class="spec" onclick="loadMarathon('everything');">Everything<span>(Still a bit buggy)</span></a>
+			<a class="agdq" href="agdq2019.txt" onclick="loadMarathon('agdq2019')">AGDQ 2019<span>(99% - 139/140)</span></a>
+			<a class="sgdq" href="sgdq2019.txt" onclick="loadMarathon('sgdq2019')">SGDQ 2019<span>(99% - 146/148)</span></a>
+			<a class="agdq" href="agdq2020.txt" onclick="loadMarathon('agdq2020')">AGDQ 2020<span>(99% - 145/146)</span></a>
+			<a class="sgdq" href="sgdq2020.txt" onclick="loadMarathon('sgdq2020')">SGDQ 2020<span>(89% - 132/149)</span></a>
+			<a class="agdq" href="agdq2021.txt" onclick="loadMarathon('agdq2021')">AGDQ 2021<span>(93% - 142/153)</span></a>
+			<a class="sgdq" href="sgdq2021.txt" onclick="loadMarathon('sgdq2021')">SGDQ 2021<span>(100% - 150/150)</span></a>
+			<a class="agdq" href="agdq2022.txt" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
+			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>Starting soon!</span></a>
+			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(Still a bit buggy)</span></a>
 		</div>
 		<script>
 			function loadMarathon(marathon, reset = true, clear = true){
@@ -629,7 +629,7 @@ body {
 			</div>
 			<div>
 				<h3>By Game</h3>
-				<label><input type="text" name="game" placeholder="(eg. Mario)" />Game Title</label>
+				<label><input type="text" name="game" placeholder="(eg. Zelda)" />Game Title</label>
 				<label><input type="text" name="category" placeholder="(eg. Any%)" />Run Category</label>
 				<label><input type="text" name="platform" placeholder="(eg. NES)" />Platform</label>
 				<label><input type="text" name="developer" placeholder="(eg. Capcom)" />Developer</label>
@@ -1100,6 +1100,9 @@ function refreshFilters(){
 	}
 }
 
+for (element of document.querySelectorAll("#browser .container a")){
+	element.removeAttribute('href');
+}
 for (element of document.getElementsByTagName("input")){
 	element.oninput = refreshFilters;
 }

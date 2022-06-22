@@ -723,6 +723,8 @@ Review: A short bonus incentive, even more RNG but also a lot of skill.
 
 ------------------------------WEDNESDAY------------------------------
 
+[[[SILLY BLOCK]]]
+
 Silent Hill 3 (PC - Team Silent 2003)
 UFO Ending
 by Punchy [WRH]
@@ -822,6 +824,8 @@ Fun     ★☆☆☆☆
 Youtube 4czBl014hxA+28
 Review: (Forgot to actually write a review, need to rewatch to figure out why I gave this rating)
 NM: Sort of guessing on the year, game is very obscure, may be even earlier
+
+[[[/SILLY BLOCK]]]
 
 Glover (N64 - Interactive Studios 1998)
 All Main Levels
@@ -927,11 +931,11 @@ Rookie any%
 by ProtoPip
 host French Toast, no couch
 24m20s (est 28m, wr 24m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube bj9RDg6_Wb8+26
-Review: (I did watch this but forgot to actually write down a review, need to rewatch)
+Review: A modern take on the twin-stick arena shooter, nothing too remarkable. The only real problem is the bitrate, which is woefully insufficient for some of these particle effects. Fortunately the runner commentates on every little detail, which kind of makes up for it.
 
 Furi (PC - The Game Bakers 2016)
 Speedrun Mode, Furi Difficulty

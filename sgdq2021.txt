@@ -505,6 +505,8 @@ Fun     ★★★☆☆
 Youtube LDN20PJj7gs
 Review: Perhaps it just does a poor job of showing itself, but this feels like a very straightforward run. Only one outright glitch, not too much movement tech, and plenty of autoscrollers. Janglestorm does a good job keeping it entertaining, but mostly by comparing the game to the films.
 
+[[[CASTLEVANIA BLOCK]]]
+
 Bloodstained: Ritual of the Night (PC - Artplay 2019)
 Any% Miriam Major Glitches
 by bane [WRH]
@@ -570,6 +572,8 @@ Skill   ★★★☆☆
 Fun     ★★★☆☆
 Youtube uCk_VBW0ItA+20
 Review: A nice, competitive race. A bit too short to explain some of the tech, but it's otherwise fairly easy to follow.
+
+[[[/CASTLEVANIA BLOCK]]]
 
 Battletoads (NES - Rare 1991)
 100%
@@ -1043,6 +1047,8 @@ Fun     ★☆☆☆☆
 Youtube hlRca5VWckM
 Review: Another run where things were just really hard to follow and understand. A lot of that was the game trying to be flashy and showy, instead of readable, but the commentary here was just not very good. We got a lot of info - there's a multi-minute gameplay primer before the run starts - but didn't actually learn much.
 
+[[[SONIC BLOCK]]]
+
 Sonic Colors (DS - Sega 2010)
 All Red Rings
 by speedbreaker55 [WRH][ORH]
@@ -1075,6 +1081,8 @@ Skill   ★★★★☆
 Fun     ★★★☆☆
 Youtube 1otm2S74lAE+26
 Review: We've seen a lot of SA2 runs, but this is probably the best. Dage went for basically every trick and got them, while his couch explained all the tech and popped off whenever he first-tried a hard trick.
+
+[[[/SONIC BLOCK]]]
 
 Super Mario Bros. 2 (SNES - Nintendo R&D4 1988, 1993)
 All Levels All-Stars
