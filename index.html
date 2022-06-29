@@ -442,6 +442,14 @@ body {
 		:host(.myst_block) .run .score-stars {
 			color: var(--color-fg-cont);
 		}
+		:host(.remote_block) {
+			--color-fg-head: #00b900;
+			--color-fg-fade: #2e662f;
+			--color-fg-cont: #5dc25b;
+			--color-bg-head: #2a2a2a;
+			--color-bg-cont: #070707;
+			font-family: monospace;
+		}
 		
 		.run {
 			width: 100%;
@@ -527,7 +535,7 @@ body {
 			<a class="agdq" href="agdq2021.txt" onclick="loadMarathon('agdq2021')">AGDQ 2021<span>(93% - 142/153)</span></a>
 			<a class="sgdq" href="sgdq2021.txt" onclick="loadMarathon('sgdq2021')">SGDQ 2021<span>(100% - 150/150)</span></a>
 			<a class="agdq" href="agdq2022.txt" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
-			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(Ongoing - 7% - 9/124)</span></a>
+			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(Ongoing - 20% - 25/125)</span></a>
 			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(Still a bit buggy)</span></a>
 		</div>
 		<script>
@@ -980,6 +988,9 @@ function loadReviews(input){
 				break;
 			case "MYST":
 				run_element.classList.add("myst_block");
+				break;
+			case "REMOTE":
+				run_element.classList.add("remote_block");
 				break;
 			case null: break;
 			default:
