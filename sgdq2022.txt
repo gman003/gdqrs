@@ -1,5 +1,5 @@
 ====================SUMMER GAMES DONE QUICK 2022=====================
-===========Raising $0,162,999 for Doctors Without Borders============
+===========Raising $0,940,493 for Doctors Without Borders============
 =======================June 26 - July 3, 2022========================
 
 -------------------------------SUNDAY--------------------------------
@@ -383,7 +383,7 @@ host musical_daredevil, couch pmctrilogy
 Overall ★★★★★
 Skill   ★★★☆☆
 Fun     ★★★★★
-Youtube YOUTUBE_ID
+Youtube KPhzyVPVspY+0
 Review: Definitively one of the best runs so far. KZ_FREW might be retiring, but he ended on a high note, putting out his trademark madcap genius for the entire run, seasoned lightly with sincerity.
 WRHs: [WRH] Mili_ [2RH] ^ [3RH] Nikso0n
 
@@ -397,7 +397,7 @@ host Nichole Goodnight, no couch
 Overall ★★★☆☆
 Skill   ★☆☆☆☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube _PXz50wMW2g+180
 Review: A unique (at least at first) multiplayer game, it lacked the polish of most speedruns, but it does have some fun desperation to it, and they're at least *trying* to go fast.
 
 Silent Hill 4: The Room (PC - Team Silent 2004)
@@ -408,7 +408,7 @@ host Rhilever, couch Maxylobes, Ecdysis, KZ_FREW
 Overall ★★★★☆
 Skill   ★★☆☆☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube _sFUTxKeZ7M+2
 Review: In the vein of many horror games, it's basically "dodge every enemy you can while beelining towards objectives", but the all-star couch make this worth watching.
 WRHs: [WRH] MattGael [2RH] funkyorange [3RH] Zzarkz
 
@@ -417,36 +417,36 @@ WRHs: [WRH] MattGael [2RH] funkyorange [3RH] Zzarkz
 Five Nights at Freddy's: Security Breach (PC - Steel Wool 2021) [BONUS GAME 2]
 All Endings - Inbounds
 by Ace Delusional [ORH]
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 1h20m, wr 1h11m19s)
+host Nichole Goodnight, couch Alexohi
+1h05m30s (est 1h20m, wr 1h11m19s)
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube bWt7kW2Kjzc+16
 Review: A not-so-busted category of a famously busted game. Lots of clips and door bypassing, a little bit of collectathoning, and a lot of lore being completely not explained at all.
 WRHs: [WRH] ^ [2RH] [3RH]
 
 Outlast (PC - Red Barrels 2013)
 100%
 by sharkhat87
-host Rhilever, couch COUCH
-HhMMmSSs (est 42m, wr 27m53s loadless)
+host Rhilever, couch sirkyle95, xem
+37m15s (est 42m, wr 27m53s loadless)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube aqroaLeIh6o+47
 Review: (Not yet watched)
 WRHs: [WRH] falex [2RH] axes [3RH] radish
 
 OMORI (PC - Omocat 2020)
 Any% Glitched
 by starsmiley [3RH]
-host Kungfufruitcup, couch COUCH
-HhMMmSSs (est 3h10m, wr 2h33m26s)
+host Kungfufruitcup, couch shayy, valerievg
+2h44m22s (est 3h10m, wr 2h33m26s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube JnRFpo_oMnA+15
 Review: (Not yet watched)
 WRHs: [WRH] Kyoshi04 [2RH] thepotato_666 [3RH] ^
 
@@ -455,113 +455,87 @@ WRHs: [WRH] Kyoshi04 [2RH] thepotato_666 [3RH] ^
 Greak: Memories of Azur (PC - Mavegamte 2021)
 Any%
 by SaberaMesia [WRH]
-host Kungfufruitcup, couch COUCH
-HhMMmSSs (est 40m, wr 32m26s)
+host Kungfufruitcup, couch iceblue, emray, mxstephx [2RH]
+34m00s (est 40m, wr 32m26s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube rVhlRKbHyyc+10
 Review: (Not yet watched)
 WRHs: [WRH] Sabera [2RH] mxstephx
 
 Infernax (PC - Berzerk 2022)
 Any% - Defeat Belphegor - Classic
 by DanTheVP [WRH]
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 1h05m, wr 48m59s)
+host cartridgeblowers, couch saberamesia
+51m52s (est 1h05m, wr 48m59s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube zMjAD-zVXco+109
 Review: (Not yet watched)
 WRHs: [WRH] ^ [2RH] ChoaslegionKaeru [3RH] Dancarnate
-
-Macbat 64: Journey of a Nice Chap (Switch - Siactro 2020)
-Any%
-by Kefka15 [WRH]
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 11m, wr 8m51s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] ^ [2RH] StickFigureGames [3RH] qwillinalthefish
 
 Majuu Ou (SNES - Nihon Soft 1995)
 Any% Hard
 by Omnigamer [WRH]
 host cartridgeblowers, couch COUCH
-HhMMmSSs (est 21m, wr 17m50s)
+20m55s (est 21m, wr 17m50s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube lUf1e5PBVyA+152
 Review: (Not yet watched)
 WRHs: [WRH] ^ [2RH] dokizu_
 NM: Confirm dev, wikipedia spells it "Majyuo", could be different game
 NM: Used SR.com page for "Majyuuou [King of Demons]", assumed Bad Ending [HARD]
 
 Kamiko (PC - Skipmore 2017, 2019)
-100% - Uzume vs Yamato [BIDWAR]
+100% - Uzume [BIDWAR]
 by cicada [WRH]
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 25m, wr HhMMmSSs)
+host cartridgeblowers, couch repentmf
+22m46s (est 25m, wr 22m19s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Vu8d15JV9NI+512
 Review: (Not yet watched)
 WRHs: Uzume: 22m19s [WRH] ^ [2RH] cucumber66 [3RH] Chreymd; Yamato: 22m22s [WRH] ^ [2RH] Norishige710 [3RH] Chreymd
 
 Earnest Evans (Genesis - Wolf Team 1992)
 Any%
 by ZELLLOOO [WRH]
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 12m, wr 8m33s)
+host Nichole Goodnight, couch Mike Uyama
+9m07s (est 12m, wr 8m33s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Sze08GrrDMo+261
 Review: (Not yet watched)
 WRHs: [WRH] ^ [2RH] Chubbus [3RH] mikwuyma
 
 Ninja Warriors (SNES - Natsume 1994)
 Ninja (Normal)
 by Mega RetroMan [WRH]
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 38m, wr 28m44s)
+host Nichole Goodnight, couch ducksindisguise
+29m47s (est 38m, wr 28m44s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube KXLSK4qUIKs+125
 Review: (Not yet watched)
 WRHs: [WRH] ^ [2RH] PolterGhost [3RH] Jaguar_King
 
 Battle Axe (PC - Bitmap Bureau 2021)
-Arcade Mode Easy
+Arcade Mode Easy, Fae [BIDWAR]
 by Jimmy_Diamonds [ORH]
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 15m, wr HhMMmSSs)
+host Nichole Goodnight, no couch
+10m11s (est 15m, wr 7m26s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube zknhbvKllgY+0
 Review: (Not yet watched)
-WRHs: expect char bidwar, igt records IDLD: 5m37s, Fae: 7m26s, Rooney: 8m51s
-
-Liminal Ranger (PC - yatoimtop 2021)
-Normal Ending
-by Ozmourn [2RH]
-host PippyInATopHat, couch COUCH
-HhMMmSSs (est 15m, wr 7m46s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] Gioia [2RH] ^ [3RH] CaptainRektbeard
-NM: assume No Duping, runner has no records for Unrestricted
 
 [[[MEGA MAN BLOCK]]]
 
@@ -573,7 +547,7 @@ host PippyInATopHat, couch MikeEnynan, Mega Matt [DEV]
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube OEXpDjRyNUY+1054
 Review: Fast, fluid movement through stages, and absolutely annihilating bosses. A worthy spiritual successor to the Mega Man franchise, and dev commentary is always a welcome sight.
 WRHs: [WRH] ^ [2RH] llvgmll [3RH] Ryuta
 
@@ -585,7 +559,7 @@ host PippyInATopHat, no couch
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube kcrr-w3faqQ+0
 Review: The theme of Mega Man Block this year is the weird entries, and this PSP game certainly counts. A remake of Mega Man 1, but adding some very cool skateboard-y movement tech that really sets it apart.
 
 Mega Man Xtreme 2 (GBC - Capcom 2001) [BIDWAR]
@@ -596,7 +570,7 @@ host iggyzig, couch PPotDot1, lemres
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube hjxOF6OU--U+78
 Review: Closer to a normal Mega Man X game, but the Game Boy Color makes it distinctive, adds its own tech. 
 
 Mega Man: The Wily Wars (Genesis - Minakuchi 1994)
@@ -607,18 +581,18 @@ host iggyzig, couch Adef
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube N_aw4N3bjlQ+89
 Review: Perhaps the most normal of this Mega Man block, but a charismatic runner and the improved graphics of this obscure Genesis remake, keep it from being tiresome. But here's where you'll find all that polished 8-bit precision.
 
 Mega Man 5 (NES - Capcom 1992)
 Any%
 by Ppotdot1
-host iggyzig, couch DarkTerrex, 
-HhMMmSSs (est 40m, wr 32m47s)
+host iggyzig, couch DarkTerrex, pheynixignition
+37m14s (est 40m, wr 32m47s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 8TKZjhTIcLA+10
 Review: (Not yet watched)
 WRHs: [WRH] beco [2RH] BaronHaynes [3RH] ohori
 
@@ -627,136 +601,130 @@ WRHs: [WRH] beco [2RH] BaronHaynes [3RH] ohori
 Yakuza: Like a Dragon (PS5 - Ryu ga Gotoku 2020)
 Any% (PS5)
 by Froob [2RH]
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 4h25m, wr 3h55m31s)
+host Bobby Blackwolf, couch MechanalystTom [WRH], ghostkumo
+4h09m52s (est 4h25m, wr 3h55m31s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 0ddsOGwEQp8+10
 Review: (Not yet watched)
-WRHs: [WRH] MechanalystTom [2RH] ^ [3RH] AdaBoi
 
-Halo Infinite (PC - 343 Industries 2021)
-All Missions No Tank Gun
+Star Wars: Jedi Knight II - Jedi Outcast (PC - Raven Software 2002)
+Any%
+by CovertMuffin
+host musical_daredevil, couch KZ_FREW, Bryonato, FrozenTrually
+46m31s (est 56m, wr 35m40s rta)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube 1Bih2t9vrOc+24
+Review: Quake engine movement is already busted. Adding Force powers to that, only pushes it over the top again. It's a full-throttle run full of skips and jokes, that just never lets up.
+
+Halo Infinite (PC - 343 Industries 2021) [BONUS GAME 3]
+All Missions No Tank Gun (Easy)
 by WaifuRuns [WRH]
-host musical_daredevil, couch COUCH
-HhMMmSSs (est 1h25m, wr 1h17m42s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] ^ [2RH] TreyBBY
-NM: Assume Easy
-
-Half-Life: Alyx (PC - Valve 2020) [BONUS GAME 3]
-Inbounds
-by Buffet Time [2RH]
-host musical_daredevil, couch COUCH
-HhMMmSSs (est 50m, wr 37m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] Lemmons [2RH] ^
+host musical_daredevil, couch Bryonato
+1h26m12s (est 1h25m, wr 1h17m42s)
+Overall ★★★☆☆
+Fun     ★★☆☆☆
+Skill   ★★★☆☆
+Youtube i2Y9BBQZZ6w+9
+Review: A run combining the OoB shenanigans and polished arena clears of older Halo runs, with the prop-launching shenanigans and massive underleveling of a BotW run. Plus some frantic improvisation when things don't quite work as expected, like in most runs this new.
 
 Super Mario Odyssey (Switch - Nintendo EPD 2017)
 Darker Side
 by -ganon-
-host Nukkuler, couch COUCH
-HhMMmSSs (est 3h20m, wr 3h03m43s)
+host Nukkuler, couch limcube, dangers, Spikevegeta
+3h21m30s (est 3h20m, wr 3h03m43s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube fowA7kQAhL8+0
 Review: (Not yet watched)
-WRHs: [WRH] Tyron18 [2RH] 04dude3 [3RH] BP31
 
 ------------------------------WEDNESDAY------------------------------
 
 Mario Party (N64 - Hudson Soft 1998)
 Mini-Game Island Any%
 by duck
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 45m, wr 36m10s)
+host SporadicErratic, couch boohead86, bird650 [3RH], 360chrism
+39m15s (est 45m, wr 36m10s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube s4btMrMw1m0+0
 Review: (Not yet watched)
 WRHs: [WRH] Airshock22 [2RH] Gerbiez [3RH] Bird650
 
 Final Fantasy VI: Worlds Collide Randomizer (SNES - Square 1994; AtmaTek et al 2022)
 Any% NMG
 race, drewlith vs DoctorDT vs seto kiaba vs Jexvrok
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 1h45m, wr HhMMmSSs)
+host SporadicErratic, couch andrew racho, ravlin
+1h30m08s, 1h39m17s, 1h44m17s, 1h44m23s (est 1h45m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube aoYdI50VUNI+70
 Review: (Not yet watched)
-WRHs: [WRH] [2RH] [3RH]
 
 Klonoa: Door to Phantomile (PS2 - Namco 1997)
 Any%
 by amoser [3RH]
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 45m, wr 37m58s)
+host SporadicErratic, couch ailis
+42m43s (est 45m, wr 37m58s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 5p3GYtv5-kI+160
 Review: (Not yet watched)
 WRHs: [WRH] neko_22 [2RH] agne567 [3RH] ^
 
 The Lord of the Rings: The Return of the King (PC - EA Redwood 2003)
 Any% PC
 by Maxylobes [2RH]
-host Bonnie Dimples, couch COUCH
-HhMMmSSs (est 1h30m, wr 1h22m34s)
+host Bonnie Dimples, couch bittie, decosmic, AnEternalEnigma
+1h38m30s (est 1h30m, wr 1h22m34s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube YcrxLVt3ZYQ+23
 Review: (Not yet watched)
 WRHs: [WRH] pj_artsofdarkness [2RH] ^ [3RH] Zojalyx
 
 Pac-Man World 2 (GC - Namco Hometek 2002)
 Any%
-race? Katie4 [2RH] vs McKiddy [WRH]
-host Char_bunny, couch COUCH
-HhMMmSSs (est 48m, wr 39m42s)
+race, Katie4 [2RH] vs McKiddy [WRH]
+host Char_bunny, no couch
+41m42s, 45m37s (est 48m, wr 39m42s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube R3pNnwL6bBM+941
 Review: (Not yet watched)
 WRHs: [WRH] ^ [2RH] ^ [3RH] Frogs65
 
 COGEN: SWORD OF REWIND (PC - Gemdrops 2022)
 NG Any%
 by DemonchildElise [WRH]
-host Char_bunny, couch COUCH
-HhMMmSSs (est 55m, wr 39m59s)
+host Char_bunny, couch tempestmask1000
+44m52s (est 55m, wr 39m59s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 8NslALB4vRI+0
 Review: (Not yet watched)
 WRHs: [WRH] ^ [2RH] Benja
 
 PowerSlave Exhumed (PC - Nightdive 2022; Lobotomy 1996)
 Any%
 by Kaos_Wulf [3RH]
-host happybythree, couch COUCH
-HhMMmSSs (est 40m, wr 22m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
+host happybythree, couch Kaiser [DEV]
+28m23s (est 40m, wr 22m59s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
+Youtube Kf0JcnVfsps+108
+Review: A solid boomer-shooter with metroidvania elements? This should have been pretty good. Sadly, the only commentator was watching on too long a delay to actually describe what was on-screen, and what commentary we did get was meandering and stammery.
 WRHs: [WRH] dan_gerous [2RH] DrJeckyl [3RH] ^
 
 [[[SONIC BLOCK]]]
@@ -764,100 +732,95 @@ WRHs: [WRH] dan_gerous [2RH] DrJeckyl [3RH] ^
 Knuckles' Chaotix (32X - Sega 1995)
 Beat the Game
 by Hibnotix [2RH]
-host happybythree, couch COUCH
-HhMMmSSs (est 1h05m, wr 43m04s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
+host happybythree, couch S-Two
+58m19s (est 1h05m, wr 43m04s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
+Youtube aTTx6elFG30+36
+Review: A Sonic game heavily based around gimmicks, but unfortunately one of those gimmicks just completely wrecks physics, so it's unfortunately monotonous.
 WRHs: [WRH] AnimusUnited [2RH] ^ [3RH] werster
 
 Sonic Adventure DX (PC - Sonic Team 1998, 2003)
 Gamma's Story
 by Katie4
-host LattMackey, couch COUCH
-HhMMmSSs (est 14m, wr 9m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
+host LattMackey, couch alphadolphin [2RH], hoogachakka [3RH], justlemres
+10m06s (est 14m, wr 9m09s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube UmyApFWyauI+1
+Review: The 3D Sonic game of the block, this is short but as glitchy as we've come to expect of 3D Sonic games. Walls? Suggestions. Sequences? Broken.
 WRHs: [WRH] Niczur [2RH] AlphaDolphin [3RH] hoogachakka
 
 Sonic Advance (GBA via GBP - Dimps 2001)
-Character Bidwar
+Knuckles [BIDWAR]
 by Kirbymastah
-host LattMackey, couch COUCH
-HhMMmSSs (est 20m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] [2RH] [3RH]
+host LattMackey, couch GhostKumo, Nukkuler, EmRay
+19m03s (est 20m, wr 14m53s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube Lr_9q0yGeEE+0
+Review: The most traditional game of Sonic Block. It had a nice blend of "play game good" with some glitches and skips, all pretty well-executed.
 
 [[[/SONIC BLOCK]]]
 
 Tunic (PC - Andrew Shouldice 2022)
 Any%
 by Sunnymuffin [2RH]
-host LattMackey, couch COUCH
-HhMMmSSs (est 35m, wr 20m59s)
+host LattMackey, couch Corvimae, Andrew Shouldice [DEV] by phone, Kevin Regamey [DEV] by phone
+49m28s (est 35m, wr 20m59s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
+Youtube kW8enjt8mPo+8
+Review: (Skipped, even the dev said not to watch if you want to play it casually)
 WRHs: [WRH] TGH [2RH] ^ [3RH] GrosHiken
 
-Advance Wars (DS - DEV YEAR)
+Advance Wars (GBA - Intelligent Systems 2001)
 Any% No Map Glitch
-by legrandgrand
-host LattMackey, couch COUCH
-HhMMmSSs (est 1h05m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] [2RH] [3RH]
-TODO: Confirm whether this is the GBA or DS game
+by legrandgrand [2RH]
+host LattMackey, couch KirbyMastah
+54m28s (est 1h05m, wr 44m30s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube rFOazmFVFSc+0
+Review: A Nintendo-style strategy game, like a less anime Fire Emblem. The strategy is almost universally "suicide rush to cap the enemy base", but there's a decent spread of ways to do that.
 
 Pokemon Emerald Randomizer (GBA via GBP - Game Freak 2004; Artemis251 2013)
 Evolution Chaos Co-op
-coop race? by Keizaron, 360Chrism, Shenanagans, adef
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 3h00m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+relay coop by Team S.A.C.K. - Shenanagans, adef, 360Chrism, Keizaron
+host Nichole Goodnight, no couch
+3h14m04s (est 3h00m, no wr)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] [2RH] [3RH]
+Review: Three hours of watching a group of top-tier Pokemon runners battle the RNG, chat, and each other? Yes please. As a randomizer, the skill comes mostly from an encyclopedeic knowledge of the game, which we definitely had. And as a Pokemon game, it was heavy on banter and memes.
 
 Donkey Kong Country: Tropical Freeze (Switch - Retro 2014)
 Any% Original Mode
 by spikevegeta
-host Nukkuler, couch COUCH
-HhMMmSSs (est 1h35m, wr 1h22m30s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Nukkuler, couch GhostKumo, Ghoul02, DerpyDragon15
+1h27m30s (est 1h35m, wr 1h22m30s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] DKS [2RH] Mr_Uncreative [3RH] JockeMS
+Review: A wonderfully-crafted platformer, getting run at a high level? That's already interesting. Let SpikeVegeta loose to give his top-notch play-by-play commentary? Sign me up.
 
 Minecraft: Java Edition (PC - Mojang 2011) [BONUS GAME 4]
 Any% Random Seed Glitchless (Current Version)
 by Illumina
 host Nukkuler, couch COUCH
-HhMMmSSs (est 1h00m, wr 9m23s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+53m32s (est 1h00m, wr 9m23s) [NV]
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet watched)
+Review: The fun here isn't watching polished execution of a meticulous route, it's watching Illumina deal with some absolutely chaotic RNG. There's a reason the estimate is six times longer than WR, but it's fun to watch even the best struggle against the merciless world seed and trading RNG.
 WRHs: [WRH] Cube1337x [2RH] EvanKae [3RH] Brentilda
 NM: very weird mismatch between estimate and WR
 
@@ -1011,37 +974,37 @@ WRHs: [WRH] ^ [2RH] Pikachu [3RH] thenesmaster
 Metal Gear (MSX2 via PS3 - Konami 1987, 2013)
 Easy Any%
 by JosephJoestar316 [3RH]
-host SaberaMesia, couch COUCH
-HhMMmSSs (est 25m, wr 21m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host SaberaMesia, couch MetalGlennSolid
+23m22s (est 25m, wr 21m17s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet watched)
+Review: A solid run of a pre-Solid game. It's an obscure game in the series, so not the most polished, but they take care to point out all the elements you'd recognize in later games.
 WRHs: [WRH] Hau5test [2RH] PUZON [3RH] ^
 
 Lumione (PC - Glimmer 2021)
-Any%
-race? by Breakdown [2RH], Elipsis [WRH]
+100% [INCENTIVE]
+race, Breakdown [WRH] vs Elipsis [2RH]
 host SaberaMesia, couch COUCH
-HhMMmSSs (est 41m, wr 33m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+35m49s, 38m00s (est 41m, wr 34m46s rta)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] ^ [2RH] ^ [3RH] Dmitri
+Review: A very clear Celeste clone, but not a bad one. Incredibly chill vibes. The race was a bit uncompetitive after the early chapters, but it was still fun enough as a pair of solo runs.
+WRHs: [WRH] ^ [2RH] ^ [3RH] Funya2yan
 
-Kirby Tilt 'n' Tumble (GBA via GBP - HAL 2000)
+Kirby Tilt 'n' Tumble (GBC via GBP - HAL 2000)
 Any%
 by swordsmankirby [WRH]
-host Rhilever, couch COUCH
-HhMMmSSs (est 45m, wr 14m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Rhilever, couch AltaBiscuit, Mr_Shasta
+42m41s (est 45m, wr 14m28s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet watched)
+Review: A strange game, but unfortunately not that great of a speedrun. The biggest challenge is the motion controls, which is hard to get across on camera - do it well, it just looks like you're playing a normal game at an unremarkable level. There just isn't enough tech to be interesting.
 WRHs: [WRH] ^ [2RH] Theguesst [3RH] noribayashi
 
 Xenoblade Chronicles 2: Torna (Switch - Monolith 2018)
@@ -1562,7 +1525,7 @@ Review: (Not yet watched)
 WRHs: [WRH] Muftaay [2RH] Ri-su [3RH] RockCandy
 NM: Seems a new glitch was just found, WRs changing daily
 
------------------------------TECH STUFF------------------------------
+-----------------------------CANCELED?------------------------------
 
 Template:
 
@@ -1603,3 +1566,40 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet watched)
 WRHs: [WRH] [2RH] [3RH]
+
+Half-Life: Alyx (PC - Valve 2020)
+Inbounds
+by Buffet Time [2RH]
+host musical_daredevil, couch COUCH
+HhMMmSSs (est 50m, wr 37m57s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube YOUTUBE_ID
+Review: (Not yet watched)
+WRHs: [WRH] Lemmons [2RH] ^
+
+Macbat 64: Journey of a Nice Chap (Switch - Siactro 2020)
+Any%
+by Kefka15 [WRH]
+host cartridgeblowers, couch COUCH
+HhMMmSSs (est 11m, wr 8m51s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube YOUTUBE_ID
+Review: (Not yet watched)
+WRHs: [WRH] ^ [2RH] StickFigureGames [3RH] qwillinalthefish
+
+Liminal Ranger (PC - yatoimtop 2021)
+Normal Ending
+by Ozmourn [2RH]
+host PippyInATopHat, couch COUCH
+HhMMmSSs (est 15m, wr 7m46s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube YOUTUBE_ID
+Review: (Not yet watched)
+WRHs: [WRH] Gioia [2RH] ^ [3RH] CaptainRektbeard
+NM: assume No Duping, runner has no records for Unrestricted
