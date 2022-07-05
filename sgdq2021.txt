@@ -932,7 +932,6 @@ Skill   ★★☆☆☆
 Fun     ★★★☆☆
 Youtube 5_KyApzW0Xw
 Review: Keeping with the theme, this is only occasionally a racing game speedrun. Mostly, it's a wrecking game speedrun - tricking the AI, somehow, into destroying itself and handing you the win. On the rare occasion racing is actually needed, a glitch with drifting makes it almost trivial. Being AI manips, they're not super consistent, but it's funny enough for this hybrid Racing/Silly block.
-Critique: Okay, since I know the runner will actually be reading this, a constructive critique as well as a review are in order. Everyone other than Martinz, you can stop reading, this won't be relevant to you. The biggest problem I had was just that you and Chazoshtare kept talking over each other. I don't know how much lag you had on the voice chat, but it was definitely disruptive. You repeated your explanations enough that I eventually got it all, but it took longer than needed. This has been a problem for a lot of runs since they started going online-only, but others have figured out how to minimize it - I'd suggest asking around, see how they've been doing it. Secondly, I'd suggest working on your delivery - there were a lot of funny things going on, and you were telling some jokes that could have been funny, but your timing was off and your delivery lacked confidence. You probably just need practice here. You were also let down quite a bit by Chaz's commentary - he didn't seem to add much that was interesting, and he stumbled over his words quite often (which strangely, he didn't do in his self-commentated IWBTKISA run). I think this was more him than you talking about it, but I also question the choice to focus on explaining the story - yes, it's a bonkers story with a lot of things to laugh at, but I think the story explanations overshadowed the actual speedrun explanations. Every other complaint I have is more about the game than your run, it's not like you can change the fact that most of the run is AI manips to force them to wreck, which did start to feel repetitive towards the end.
 
 Racing Pitch (PC - Jetro Lauha 2006)
 All Tracks
@@ -944,9 +943,6 @@ Skill   ★☆☆☆☆
 Fun     ★★★★☆
 Youtube chtaCU1UqOo
 Review: I am disappointed that the MMMMMMMMMM meme didn't seem to last past Racing Game Block. I'm sure if this had been a live event, we'd have gotten the crowd doing it for the next three days. As for the actual run... it's a ridiculous gimmick of a game that makes it absolutely hilarious to watch. There's no speed tech beyond "play game well", and I'm not entirely sure Chaz *did*, but the game is so unlike everything else that I can't really tell.
-Critique: And this run is why I pin most of the blame for the bad commentary for Paris Chase on Chaz, not Martinz - because when Chaz wasn't able to talk, things went incredibly well. As far as commentary went, I have nothing bad to say, it did everything it needed to and did it well - it explained everything worth explaining, told every joke that was worth telling, but never got in the way. I'm sure you still have room to improve but fuck if I can tell you how. Should I ever somehow put on a run at GDQ, I'd be glad to have you on my couch.
-
-[[[/SILLY BLOCK]]]
 
 Need For Speed: Porsche Unleashed (GBA - Pocketeers 2000)
 All Tracks (Moby Dick)
@@ -979,7 +975,7 @@ Overall ★★☆☆☆
 Skill   ★☆☆☆☆
 Fun     ★★☆☆☆
 Youtube ga9HbRs6G1c+20
-Review: It's like the distaff counterpart to Chex Quest - a freeware kid-targeted FPS on the Marathon engine. It's about as good as a sub-five-minute run can get. PS: Can anyone tell me the dev and year of publication?
+Review: It's like the distaff counterpart to Chex Quest - a freeware kid-targeted FPS on the Marathon engine. It's about as good as a sub-five-minute run can get.
 
 ALTF4 (PC - Autosavegame 2021)
 Any%
@@ -1002,6 +998,8 @@ Skill   ★★☆☆☆
 Fun     ★★☆☆☆
 Youtube DaOmvdZdVoY
 Review: A DOS-era game on the Alone in the Dark engine, but with more of a puzzle-adventure design. There's nothing flashy going on, but some nifty glitches and informative commentary make it an okay run.
+
+[[[/SILLY BLOCK]]]
 
 Tomb Raider Anniversary (PC - Crystal Dynamics 2007)
 Any% No Bug Jump
