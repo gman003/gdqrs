@@ -340,7 +340,6 @@ Skill   ★★★★☆
 Fun     ★★★☆☆
 Youtube r3JJjrQhJCA+328
 Review: An incredibly tight race. Glitchless unfortunately isn't the most interesting, but there's still enough tech involved to be well worth watching, and we had some pretty good work from the couch.
-WRHs: [WRH] ^ [2RH] EDL666 [3RH] ^
 TODO: recheck couch names
 
 [[[/REMOTE BLOCK]]]
@@ -484,7 +483,6 @@ Skill   N/R
 Fun     N/R
 Youtube Sze08GrrDMo+261
 Review: (Not yet watched)
-WRHs: [WRH] ^ [2RH] Chubbus [3RH] mikwuyma
 
 Ninja Warriors (SNES - Natsume 1994)
 Ninja (Normal)
@@ -1027,7 +1025,7 @@ host LMMotoss, couch Taronuke, Daikyi, zelllooo
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube jP8MC7Ah-mc+0
+Youtube mKfdfNxnrw0+0
 Review: Rhythm game showcases have become a staple of GDQ, and now they need to distinguish themselves somehow. This one is about the two-player gameplay - not just having strong rhythm and physical performance, but coordinating with another player's movements. As an ensemble musician, I know how hard that can be.
 
 StepMania/NotITG (PC - NotI.TG 2018)
@@ -1038,7 +1036,7 @@ host LMMotoss, couch Taronuke, Daikyi, zelllooo
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube mKfdfNxnrw0+2751
 Review: It's kind of spectacle over substance, but man, what a spectacle. The mod effects make the charts basically unreadable, and some of the last ones would have been impressive even with no mods.
 
 SOUND VOLTEX: EXCEED GEAR (arcade via PC - Konami 2021) [BONUS GAME 5]
@@ -1303,28 +1301,24 @@ Review: (Not yet watched)
 Final Fantasy X (PC - Square PD 1 2001, 2013, 2016)
 Any% Cutscene Remover
 by FoxyJira
-host LMMotoss, couch COUCH
-HhMMmSSs (est 4h08m, wr 3h13m12s)
+host LMMotoss, couch zic3
+3h53m48s (est 4h08m, wr 3h13m12s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube zydDAg-05B8+142
 Review: (Not yet watched)
-WRHs: [WRH] CrimsonInferno9 [2RH] Loftus [3RH] oddmog
 
 Metal Gear Solid 2: Sons of Liberty (PC - Konami 2001)
 PC, European Extreme
 by dlimes13 [WRH]
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 1h18m, wr 1h16m33s)
+host SporadicErratic, couch metalglennsolid, josephjoestar316 [3RH], apachesmash
+1h11m52s (est 1h18m, wr 1h16m33s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube vUQ60M_zE9A+0
 Review: (Not yet watched)
-WRHs: [WRH] ^ [2RH] PlatonicGuy [3RH] JosephJoestar316
-NM: Console listed as PC/PS2 for some reason?
-NM: Assumed Substance version on PC, since dlimes13 has wr in it
 
 Super Meat Boy (Linux - Team Meat 2010)
 All Dark Levels
@@ -1334,9 +1328,8 @@ host SporadicErratic, couch Jaxler
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube 08STCtZtUpI+0
 Review: The classic precision-platformer gets shredded. Levels are bite-sized and any strats beyond "play game good" take too long to properly explain, but it's still just fun to watch.
-WRHs: [WRH] Vorpal [2RH] ^ [3RH] Galaxi
 
 The Legend of Zelda: The Wind Waker (GC via Wii - Nintendo EAD 2002)
 All Dungeons
@@ -1346,9 +1339,8 @@ host PippyInATopHat, couch EJ125, GobbityBobbity
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube fPZ7V-CXPog+126
 Review: An incredibly technical run, with lots of incredibly technical commentary, but Linkus makes it pretty easy to grok. And even if you don't, the run is just so far from intended gameplay that it's amazing just to watch.
-WRHs: [WRH] gymnast86 [2RH] minimini352 [3RH] ^
 
 Super Mario All-Stars + Super Mario World (SNES - Nintendo EAD 1994)
 All Five Games w/ACE
@@ -1358,7 +1350,7 @@ host iggyzig, no couch
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube FlkWSqA4VFU+81
 Review: It's all the technical complexity and absurdity of an ACE TAS, except done by humans. It's not easy to explain without a decent grasp of computer science, but it's worth ten minutes just for the spectacle.
 
 Metroid Dread (Switch - MercurySteam 2021)
@@ -1369,9 +1361,8 @@ host iggyzig, couch Sephy, Oatsngoats
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube nTkdt1a88eA+22
 Review: This might be the newest Metroid game, but the movement in this is so good that it's already one of the best speedruns. No Major Glitches does let you see most of the game, but far faster than you ever would casually.
-WRHs: [WRH] Satorha [2RH] Zas [3RH] samboner
 
 Metroid Dread (Switch - MercurySteam 2021)
 Boss Rush [BONUS]
@@ -1381,34 +1372,30 @@ host iggyzig, couch Sephy, Oatsngoats
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube nTkdt1a88eA+4964
 Review: Dread might have some of the best boss fights of any 2D Metroid, but they're still not that great, and this clearly isn't as polished run as the Any%.
-WRHs: [WRH] Satorha [2RH] Zas [3RH] samboner
 
 Kaizo Super Metroid (SNES - Lioran 2019; Nintendo R&D1 1994)
 Any%
 by Oatsngoats [2RH]
 host Char_bunny, couch kekumanshoyu, imyt, smcharles
-HhMMmSSs (est 2h30m, wr 2h19m15s rta)
+2h28m19s (est 2h30m, wr 2h19m15s rta)
 Overall ★★★★☆
 Skill   ★★★★★
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube rjXprx6ulGs+51
 Review: The very last in-person run we saw, before The Pandemic hit, was Oatsngoats's run of Super Metroid Impossible. So it's fitting that the return of on-site marathons sees the return of extremely-hard Super Metroid hacks - and this one is downright sadistic. Nothing two and a half hours of Serious Gaming can't solve.
-WRHs: [WRH] Sapphron [2RH] ^ [3RH] Nikplayer
-TODO: Double-check dev name, this one is for "Super Metroid Kaizo Possible", as are WRs
 
 Super Mario Maker 2 (Switch - Nintendo EPD 2019; MangMang69, SaucePow, BigRedBoy, Donkeymint, Ray67, nabuz, Kiavik, Caspur189, Trakkan 2022)
 Relay Race
 relay race, Team It's A Hat (TanukiDan, Aurateur, juzcook) vs Team It's A Face (Shoujo, CarlSagan42, PangaeaPanga)
-host Char_bunny, couch COUCH
+host Char_bunny, couch realbchin, BigRedBoy
 ~50m (est 1h15m, no wr)
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★★★
-Youtube YOUTUBE_ID
+Youtube vi2DgHDAIcU+30
 Review: One of the most-missed features in the online events was the relay races, and here's the second of them. Lots of variety, lots of great gameplay, and lots of really close, frantic racing.
-TODO: double-check first level creator name
 
 Super Mario 64 (N64 - Nintendo EAD 1996) [BONUS GAME 8]
 120 Star
@@ -1418,51 +1405,38 @@ host Mr. Game and Shout, couch WesDogg, Artemis
 Overall ★★★★☆
 Skill   ★★★★★
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube hFZEBrFfoUo+57
 Review: An hour in, Simply was still on wr pace, which is just a testament to the consistency needed for this speedrun. The execution is insane and the few mistakes are absolutely trivial. There's a reason this is consistently the top speed game.
-WRHs: [WRH] cheese [2RH] Liam [3RH] marlene
 
 Pokemon Brilliant Diamond/Shining Pearl (Switch - ILCA 2021; Game Freak 2006) [BONUS GAME 6]
 Any%
 by eddaket
-host HOST, couch COUCH
-HhMMmSSs (est 25m, wr 14m31s)
+host Mr. Game and Shout, couch Corvimae, Shenanagans, a Mareep
+17m34s (est 25m, wr 14m31s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube LMUnF4gwD2E+35
 Review: It's a neat trick, but the skill was all in the finding and the routing, not in the execution, nor is it all that impressive on its own. This definitely suffers from the delay - as a follow-on to the Any% BD/SP run, it would have been fine, but without that it's just twenty minutes of menuing and walking in a black screen.
 
 Elden Ring (PC - From 2022)
 All Remembrances
 by catalystz [WRH]
-host CovertMuffin, couch COUCH
-HhMMmSSs (est 2h00m, wr 1h06m34s)
+host CovertMuffin, couch HYP3RSOMNIAC, hazeblade, spicee
+1h53m24s (est 2h00m, wr 1h06m34s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 4IUT4UOCZzg+150
 Review: (Not yet watched)
-WRHs: [WRH] ^ [2RH] Muftaay [3RH] Sharkovo
 
 Elden Ring (PC - From 2022) [BONUS GAME 9]
 Any%
 by HYP3RSOMNIAC
-host CovertMuffin, couch COUCH
-HhMMmSSs (est 33m, wr 21m36s)
+host CovertMuffin, couch catalystz, hazeblade, spicee
+33m58s (est 33m, wr 21m36s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube MsRQstLsf8Y+35
 Review: (Not yet watched)
-WRHs: [WRH] Muftaay [2RH] Ri-su [3RH] RockCandy
-NM: Seems a new glitch was just found, WRs changing daily
-
-GAME (CONSOLE - DEV YEAR)
-CATEGORY
-by RUNNER
-host HOST, couch COUCH
-HhMMmSSs (est HhMMm, wr HhMMmSSs)
-Youtube YOUTUBE_ID
-Review: (Not yet watched)
-WRHs: [WRH] [2RH] [3RH]
