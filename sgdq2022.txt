@@ -142,12 +142,12 @@ Warden: Melody of the Undergrowth (PC - Cardboard Keep 2016)
 Any%
 by Jaxler [WRH]
 host Helix, couch corundumcore, druncle_titus
-10m54s (est 16m, wr 33m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+10m54s (est 16m, wr 10m28s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube f-W1I6bp9CU+70
-Review: (Not yet watched)
+Review: Another one of those runs that tries to pack as much tech as an hour-long run into ten minutes. It's not as deep as that implies, but it's a neat run for its size.
 
 Super Bonk (SNES - Hudson Soft 1994)
 Any%
@@ -176,12 +176,11 @@ A Walk in the Park
 by tbcr [2RH]
 host Helix, no couch
 6m09s (est 15m, wr 3m48s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube gW1DROeQXkg+32
-Review: (Not yet watched)
-NM: Assume any%
+Review: A not-very great Doom clone, mostly defeated by clipping through doors and walls. An unfortunately sloppy run - mainly from misloading a save and redoing about half the game, but the run is so short that it didn't even waste much time.
 
 Bubble Bobble Part 2 (NES - ITL 1993)
 Any%
@@ -220,35 +219,35 @@ Altered Beast (Genesis - Sega 1988)
 Co-Op
 coop JaekRock, Space Coast Gaming [WRHs]
 host SaberaMesia, couch The Retro Runner, 8-bit steve
-6m15s (est 8m, wr 5m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+6m13s (est 8m, wr 5m57s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube hiHt9XhOcrg+44
-Review: (Not yet watched)
+Review: A pretty short and straightforward bmup, with only one real trick. But it's a pretty packed couch, good energy, and do you really *need* much tech in a six-minute run?
 
 McDonald's Treasure Land Adventure (Genesis - Treasure 1993)
 Any% Beginner
 by Lizstar
 host Bobby Blackwolf, couch rubiehart, node
 21m32s (est 25m, wr 20m08s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube NXdWtokIYJc+320
-Review: (Not yet watched)
-NM: Assume NTSC
+Review: This is something to watch for the sleep-deprivation chaos energy from Lizstar and friends. This game has just enough familiarity to make sense, but it's a very bizarre thing for a McDonald's game. Not the best speed game, typical Genesis platformer, but it's no slouch on that front.
+NM: Assumed NTSC
 
 NiGHTS into dreams... (Saturn - Sonic Team 1996)
 All Levels Any%
 by pochilin [2RH]
 host Bobby Blackwolf, couch Helix13_, m4rshian
 23m10s (est 25m, wr 22m04s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube OwR0xkXg1uM+4
-Review: (Not yet watched)
+Review: NiGHTS is a very weird game, which I think needed more basic explanation than we actually got. It's hard to appreciate speedrun tricks when you don't even know what normal gameplay looks like. This will probably be fun for anyone who actually played it, but it kind of fell flat for me as an outside.
 
 The Pathless (PC - Giant Squid 2020)
 All Bosses
@@ -477,12 +476,12 @@ Earnest Evans (Genesis - Wolf Team 1992)
 Any%
 by ZELLLOOO [WRH]
 host Nichole Goodnight, couch Mike Uyama
-9m07s (est 12m, wr 8m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+9m05s (est 12m, wr 8m33s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube Sze08GrrDMo+261
-Review: (Not yet watched)
+Review: A pretty typical action-platformer, just jank enough to make an interesting speedrun.
 
 Ninja Warriors (SNES - Natsume 1994)
 Ninja (Normal)
@@ -500,11 +499,11 @@ Arcade Mode Easy, Fae [BIDWAR]
 by Jimmy_Diamonds [ORH]
 host Nichole Goodnight, no couch
 10m11s (est 15m, wr 7m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube zknhbvKllgY+0
-Review: (Not yet watched)
+Review: An incredibly energetic runner, but not that interesting a speedrun. It's a pretty straightforward route and a bit of mashing, nothing impressive, but performed competently.
 
 [[[MEGA MAN BLOCK]]]
 
@@ -603,11 +602,11 @@ Darker Side
 by -ganon-
 host Nukkuler, couch limcube, dangers, Spikevegeta
 3h21m30s (est 3h20m, wr 3h03m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube fowA7kQAhL8+0
-Review: (Not yet watched)
+Review: Three hours of high-octane platforming, using one of the most fluid and powerful movement systems in the genre, executing one of the tightest routes in speedrunning? Yes please. Most runs of this length are full of downtime - this one, you get two seconds for the Moon Get jingle, and then it's back to jumping in ways never thought possible. Combine it with an excellent couch, and a hype live crowd... yeah, GDQ is back, baby.
 
 ------------------------------WEDNESDAY------------------------------
 
@@ -627,11 +626,11 @@ Any% NMG
 race, drewlith vs DoctorDT vs seto kiaba vs Jexvrok
 host SporadicErratic, couch andrew racho, ravlin
 1h30m08s, 1h39m17s, 1h44m17s, 1h44m23s (est 1h45m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube aoYdI50VUNI+70
-Review: (Not yet watched)
+Review: This was unfortunately pretty hard to follow - the tracker was just two basic counts, and there was just so much going on, at such high a level, that you could have had in-depth continuous commentary on each individual runner. Trying to keep up with all four is pretty much impossible, unless you're a die-hard FF6 fanatic. It still entertains on a simple "how can they be this good?" level, but you don't get too much sense of *how*.
 
 Klonoa: Door to Phantomile (PS2 - Namco 1997)
 Any%
@@ -785,11 +784,11 @@ Super Mario Sunshine (GC via Wii - Nintendo EAD 2002)
 by SB_runs [WRH]
 host Xenadir, couch 1upsforlife, labmemb3r, electricmiles
 2h59m24s (est 3h05m, wr 2h53m57s) [NF]
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube mRTs0HvUjvI+34
-Review: (Not yet watched)
+Review: This was an exceptional run, in a literal way: a few unfortunate deaths led to a game-over, and with no save, that meant a restart, 45 minutes into the run. To keep things going, it was turned into a "finish as much as possible before the estimate", but retreading the early levels really sapped the commentary until it reached new sections of the game. But even with those mistakes, SB's execution was top-notch, and once the couch got back into the swing of things, they did well. But there's no denying that it did hurt the run.
 
 ------------------------------THURSDAY-------------------------------
 
@@ -798,11 +797,11 @@ Any%
 by duck
 host Xenadir, couch connor75, dingoslayer, longster
 36m25s (est 34m, wr 27m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube VI3J7Kjq1Q4+57
-Review: (Not yet watched)
+Review: It's a run that relies on two extremely precise tricks, with extremely slow and careful setups. There's some novelty to be found in skipping essentially the entire game, but even the in-between parts aren't interesting. Half an hour is a bit much for a One Weird Trick run.
 
 Devil May Cry (PC - Capcom PS 4 2001)
 Dante Must Die All Collectibles
@@ -816,27 +815,29 @@ Youtube tBcGIqmwMrY+22
 Review: (Not yet watched)
 NM: Assumed Dante as character
 
+[[[SILLY BLOCK]]]
+
 DEEEER Simulator: Your Average Everyday Deer Game (PC - Gibier 2021)
 Good Ending
 by Shockwve
 host Prolix, couch moonblazewolf, Monkeyy_Man, Bullets
 21m20s (est 25m, wr 9m18s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube ySF8YXOWWIk+95
-Review: (Not yet watched)
+Review: I don't even know why this was in silly block, it's just a game about a perfectly average deer doing normal everyday deer things, like piloting mecha and fighting its own soul. Yep, nothing silly here.
 
 Mi Scusi (PC - Scusi Boys 2021)
 Any% No Hover
 by Bullets
 host Prolix, couch amyrlinn, shockwve, pmctrilogy
 13m43s (est 15m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube IT6_u7wy4lw+120
-Review: (Not yet watched)
+Review: Another of those "do random tasks for silly reasons with bad controls" games, unfortunately a bit heavy on just walking between locations, but the context is weird enough to be chuckleworthy.
 NM: no leaderboard I could find?
 
 Turnip Boy Commits Tax Evasion (PC - Snoozy Kazoo 2021)
@@ -844,34 +845,33 @@ Turnip Boy Commits Tax Evasion (PC - Snoozy Kazoo 2021)
 by EldritchWolfie
 host Prolix, couch happybythree, eyerawr [WRH]
 34m06s (est 45m, wr 26m11s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 66OKpbnVBTY+36
-Review: (Not yet watched)
+Review: A surprisingly good speedrun, for something in the Silly Block. It's a pretty ordinary 2D Zelda-like, focused more on trading quests than dungeon crawls, but it has such a charming aesthetic that it's earned its place here.
 
 Jimmie Johnson's Anything With an Engine (PS3 - Isopod 2011)
 Matador Rookie
 race, Ghoul02 vs GhostKumo
 host cartridgeblowers, couch nerd_squared
-16m37s, 16m49s (est 18m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+~17m (est 18m, no wr - showcase)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube vloCvTnhqUU+0
-Review: (Not yet watched)
-NM: Could not find category on leaderboard
+Review: A very silly race of a quirky kart racer. It's not a speedrun in any sort of traditional sense, and there's far too much RNG to be a real skill-based race... but it's a barrel of fun anyway.
 
 Gourmet Warriors (PC - Winds 2019)
-Normal Difficulty, Character [BIDWAR]
+Normal Difficulty, Mademoiselle [BIDWAR]
 by Ritzblues
 host cartridgeblowers, couch brossentia, iggyzig, peace egg
 23m56s (est 25m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube rhEJJfajLec+35
-Review: (Not yet watched)
+Review: Strip away the art, and this is a competent if uninspired bmup, with an underexplored interlevel buff mechanic. But wow, does this game have a weird aesthetic. Chefs, swimmers, bunnygirls, moai, very peculiar designs overall.
 NM: Could not find leaderboard
 
 Thunder In Paradise (CD-i - Philips POV 1995)
@@ -879,49 +879,51 @@ Interactive Television
 by sharif [ORH]
 host cartridgeblowers, couch npc, peace egg, corndan
 34m04s (est 40m, wr 32m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube pGa26MYMp38+286
-Review: (Not yet watched)
+Review: It's a tedious rail shooter, interspersed with an episode of a nonsensical Baywatch spinoff. The only fun to be found is in clowning on the entire thing - which, of course, is what they do.
 
 Incredible Crisis (PS1 - Polygon Magic 1999)
 Any%
 by bramhallthefifth [WRH]
 host cartridgeblowers, couch mike uyama, juh0rse [2RH]
 55m19s (est 51m, wr 43m14s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube c4Q_Hu3iw3M+107
-Review: (Not yet watched)
+Review: A minigame collection, sort of like a proto-Warioware. Unfortunately, quite a few of them are autoscrollers, or nearly so. And many of the cutscenes were too long to show, which cut into the comedy aspect.
 
 King's Quest V: Absence Makes the Heart Go Yonder! (DOS via PC - Sierra 1990)
 CD Version
 by davidtki [3RH]
-host SaberaMesia, couch darkarmist
+host cartridgeblowers, couch darkarmist
 27m46s (est 32m, wr 25m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube -q5KPLixaJ4+7
-Review: (Not yet watched)
+Review: Point-and-click adventure games really have only two elements of skill to them: route memorization, and menuing. So there's plenty of that, but it really relies on charm to carry it. It does have some - some gentle ribbing of the awful puzzle design - but it is a dorky sort of charm, maybe not for everyone.
+
+[[[/SILLY BLOCK]]]
 
 The Little Mermaid (NES - Capcom 1991)
 Any%
 by SteveZero01 [WRH]
-host SaberaMesia, no couch
+host cartridgeblowers, no couch
 7m08s (est 8m, wr 6m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube q_O_li6o4Uo+7
-Review: (Not yet watched)
+Review: I was surprised how much of this run was tech explanation. There's not much to movement, but there's still tricks everywhere that Steve points out.
 
 Metal Gear (MSX2 via PS3 - Konami 1987, 2013)
 Easy Any%
 by JosephJoestar316 [3RH]
-host SaberaMesia, couch MetalGlennSolid
+host cartridgeblowers, couch MetalGlennSolid
 23m22s (est 25m, wr 21m17s)
 Overall ★★★☆☆
 Skill   ★★☆☆☆
@@ -932,7 +934,7 @@ Review: A solid run of a pre-Solid game. It's an obscure game in the series, so 
 Lumione (PC - Glimmer 2021)
 100% [INCENTIVE]
 race, Breakdown [WRH] vs Elipsis [2RH]
-host SaberaMesia, couch klaige
+host cartridgeblowers, couch klaige
 35m49s, 38m00s (est 41m, wr 34m46s rta)
 Overall ★★★☆☆
 Skill   ★★★★☆
@@ -1049,11 +1051,11 @@ True Ending
 by GrosHiken [WRH]
 host frozenflygone, couch profnyan, carrarium, quan
 56m18s (est 1h03m, wr 45m42s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube RupuZi3EFVI+18
-Review: (Not yet watched)
+Review: Maybe not the best Celeste run we've ever seen, but you can rarely go wrong with this game. There's some stream issues for the first few minutes but it gets sorted out by the time the really intense parts happen. After that, it's just seamless high-speed movement, through some of the toughest levels ever designed.
 
 -------------------------------FRIDAY--------------------------------
 
@@ -1083,13 +1085,12 @@ Doom Eternal (PC - id 2020)
 100% Nightmare Restricted
 by MuteD6
 host Lawrence Sonntag, couch kovaak, drakephose, xiae
-2h00m20s (est 2h00m, wr 2h09m41s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+2h00m20s (est 2h00m, wr 2h09m41s) [NV]
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★★☆☆
 Youtube T_Ui0Sk1DAM+0
-Review: (Not yet watched)
-NM: runner is 3RH in Ultra-Nightmare, which seems to be the "real" category. Has no record listed for Nightmare, so probably tag this as PB
+Review: The shooter with perhaps the best movement mechanics, being run at the highest difficulty, in the category that also requires the most combat? Yeah, the only problem with this is that it was *only* two hours long.
 
 Control (PC - Remedy 2020)
 All Bosses (Legacy, Standard)
@@ -1249,7 +1250,7 @@ Review: This is probably best watched with minimal spoilers. All I'll say is, th
 Celeste.SMC (SNES - MarkAlarm 2022; Nintendo EAD 1990)
 Any%
 by MrMightyMouse_ [2RH]
-host Brutal_Melo, couch MarkAlarm, frozenflygone
+host Brutal_Melo, couch MarkAlarm [DEV], frozenflygone
 22m20s (est 25m, wr 18m05s)
 Overall ★★★☆☆
 Skill   ★★★☆☆
@@ -1257,16 +1258,16 @@ Fun     ★★★☆☆
 Youtube 4Za1tPbPxlo+0
 Review: Do you like Celeste? Do you like kaizo SMW hacks? Do you like dev commentary? Then you will probably like this run of a Celeste-inspired kaizo SMW hack with the dev on the couch.
 
-Super Mario World (SNES - Nintendo EAD 1990)
-Relay Race
-race, Barbarian, juzcook, CarlSagan42, shovda, Shoujo, ThirdWall
+Super Mario World (SNES - Nintendo EAD 1990; Sio-Kedelic, TheBourgyMan, GBreeze, MiracleWater, BeeKaay, FerpyMcFrosting, Maddy, Idol, Margot, DtotheFourth 2022)
+Blind Relay Race
+relay race, Team Double Jump Dinos (CarlSagan42, juzcook, Shoujo) vs Team RNG Dolphins (Barbarian, shovda, ThirdWall)
 host frozenflygone, couch kezcade, amethyst_rocks, MarkAlarm
 ~1h23m (est 1h15m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube UdMR0uMA_2Q+44
-Review: (Not yet watched)
+Review: This is another thing that was hard to do in the pandemic era - relay races. Seeing top kaizo runners play through levels they've never seen does dull the skill ceiling a bit, but the race format, and seeing how quickly they perfect each segment, more than makes up for it. Once again, the only really disappointing thing was the specific format - it didn't feel like the "winners" really won, but since it's all for show anyways, I don't mind too much.
 
 ------------------------------SATURDAY-------------------------------
 
