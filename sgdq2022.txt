@@ -110,11 +110,11 @@ Crash Bandicoot 2: Cortex Strikes Back (PS2 - Naughty Dog 1997)
 by Potty [2RH]
 host SquidDilla, couch nitrofski, mohaf
 1h14m49s (est 1h20m, wr 1h09m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube x5egrXU-lhI+0
-Review: (Not yet watched)
+Review: Linear collectathons like this don't engage too much of my interest, but this one did better than most. Reasonably difficult tech, plus some variety in execution and good commentary, make it more approachable for outsiders than most Crash runs I've seen.
 
 Perspective (PC - DigiPen 2012)
 Inbounds
@@ -132,11 +132,11 @@ Any%
 by Bullets [WRH][ORH]
 host Helix, couch metallama, amyrlinn
 28m05s (est 31m, wr 26m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube XLE-xlQsni4+37
-Review: (Not yet watched)
+Review: A game with simple but powerful movement. The run is too primitive to offer more than a glimpse of its full potential, but when it does, you see a blazing-fast, precise platformer, perfect for speedrunning.
 
 Warden: Melody of the Undergrowth (PC - Cardboard Keep 2016)
 Any%
@@ -198,11 +198,11 @@ Glitchless US
 race, UraniumAnchor [2RH] vs davidtki [WRH]
 host SaberaMesia, couch skavenger216
 45m10s, 45m31s (est 50m, wr 44m04s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube b-xbFM80h2U+63
-Review: (Not yet watched)
+Review: A fairly polished run, and they were fully synced up even halfway through it, but the race ended up being determined by just a few small mistakes, and there wasn't enough tech to explain. Not the most satisfying race I've ever seen, but a decent run regardless.
 
 Ninja Gaiden (NES - Tecmo 1988)
 Any%
@@ -407,22 +407,22 @@ Outlast (PC - Red Barrels 2013)
 by sharkhat87
 host Rhilever, couch sirkyle95, xem
 37m15s (est 42m, wr 27m53s loadless)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube aqroaLeIh6o+47
-Review: (Not yet watched)
+Review: It's a game with only a few real tricks, a few variations on the theme "break out of bounds and skip everything". With inconsistent execution and zero threat beyond runner mistakes, it just didn't do much for me.
 
 OMORI (PC - Omocat 2020)
 Any% Glitched
 by starsmiley [3RH]
 host Kungfufruitcup, couch shayy, valerievg
-2h44m22s (est 3h10m, wr 2h33m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+2h44m22s (est 3h10m, wr 2h33m26s) [NV]
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube JnRFpo_oMnA+15
-Review: (Not yet watched)
+Review: This is just not a great speed game. Looks like a great game, just not a good speedrun. There's very little tech, but what tech there is, trivializes all the battles. Even with some built-in skips, the run feels like it's half cutscenes, if not more. The couch made a good effort to be interesting, but by avoiding spoilers, they were left with very little to talk about, the back half was basically a nonstop donation read.
 
 [[[/SPOOKY BLOCK]]]
 
@@ -453,11 +453,11 @@ Any% Hard
 by Omnigamer [WRH]
 host cartridgeblowers, no couch
 20m55s (est 21m, wr 17m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube lUf1e5PBVyA+152
-Review: (Not yet watched)
+Review: A curious little game, but not the most interesting. For a twenty-minute run, it had a lot of autoscrollers, and the rest of the gameplay wasn't super engaging either. The story was the best part, but Omnigamer spent so little time on it, just the beginning and end. A good couch would have improved this significantly.
 NM: Confirm dev, wikipedia spells it "Majyuo", could be different game
 NM: Used SR.com page for "Majyuuou [King of Demons]", assumed Bad Ending [HARD]
 
@@ -555,12 +555,12 @@ Mega Man 5 (NES - Capcom 1992)
 Any%
 by Ppotdot1
 host iggyzig, couch DarkTerrex, pheynixignition
-37m14s (est 40m, wr 32m47s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+35m59s (est 40m, wr 32m47s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube 8TKZjhTIcLA+10
-Review: (Not yet watched)
+Review: Another very typical Mega Man game, maybe not quite as precise as the more popular ones, but still plenty skillful. Longer enemy iframes and a faster charge made the fights more interesting, and skipping the refights eliminated a lot of tedium.
 
 [[[/MEGA MAN BLOCK]]]
 
@@ -615,11 +615,11 @@ Mini-Game Island Any%
 by duck
 host SporadicErratic, couch boohead86, bird650 [3RH], 360chrism
 39m15s (est 45m, wr 36m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube s4btMrMw1m0+0
-Review: (Not yet watched)
+Review: Far too much RNG to be a skillful speedrun, but then, it would hardly be Mario Party without it. Decent variety, a surprising paucity of autoscrollers, and some excellent couch banter, made this a fun enough run to watch.
 
 Final Fantasy VI: Worlds Collide Randomizer (SNES - Square 1994; AtmaTek et al 2022)
 Any% NMG
@@ -643,16 +643,16 @@ Fun     N/R
 Youtube 5p3GYtv5-kI+160
 Review: (Not yet watched)
 
-The Lord of the Rings: The Return of the King (PC - EA Redwood 2003)
-Any% PC
-by Maxylobes [2RH]
+The Lord of the Rings: The Return of the King (GC - EA Redwood 2003)
+Any%
+by Maxylobes [WRH]
 host Bonnie Dimples, couch bittie, decosmic, AnEternalEnigma
-1h38m30s (est 1h30m, wr 1h22m34s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h38m30s (est 1h35m, wr 1h33m39s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YcrxLVt3ZYQ+23
-Review: (Not yet watched)
+Review: Normally, I would be complaining about the lengthy cutscenes, but it's Lord of the Rings. I have sat and watched those cutscenes for nine hours straight. Execution wasn't that polished, there's not too much speed tech, but solid commentary and some excellent couch banter.
 
 Pac-Man World 2 (GC - Namco Hometek 2002)
 Any%
@@ -1097,11 +1097,11 @@ All Bosses (Legacy, Standard)
 by DemonicRobots [3RH]
 host Brenna12, couch decosmic, mikewave, bryonato
 1h36m04s (est 1h35m, wr 1h11m27s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube c4q9Z_7Ond8+28
-Review: (Not yet watched)
+Review: There's not too much variety to the tech here, but with a decent mix of OoB, regular movement, and combat, it works well enough, and it's an all-star couch keeping things interesting, with some good explanations of the lore.
 
 Happy's Humble Burger Farm (PC - Scythe 2021)
 Any%
@@ -1287,22 +1287,33 @@ Main Campaigns Co-op
 coop by WaifuRuns, aciidz, RsKiller, JurasPatryk
 host AnEternalEnigma, no couch
 50m04s (est 48m, wr 37m25s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube k1vZPretxvg+43
-Review: (Not yet watched)
+Review: Coop speedruns are best when they actually involve lots of multitasking. This one mostly just needs two players, to do launches. Although useful for a few clips, the other two players more often act like a load, spending like half the runtime in idle mode so they can quickly respawn at the lead player to end levels. Combine it with just not much to talk about, leading to a lot of dead time, this was just a much worse run than I expected, given then participants.
+
+Left 4 Dead 2 (PC - Valve 2009)
+The Last Stand Co-op [BONUS]
+coop by WaifuRuns, aciidz, RsKiller, JurasPatryk [2RHs]
+host AnEternalEnigma, no couch
+7m21s (est 10m, wr 6m35s)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube k1vZPretxvg+3235
+Review: A DLC campaign, supposedly much more difficult, but the speedrun doesn't do much to show it. If you sat through the main run, you might as well, but it's nothing all that exciting.
 
 Final Fantasy X (PC - Square PD 1 2001, 2013, 2016)
 Any% Cutscene Remover
 by FoxyJira
 host LMMotoss, couch zic3
 3h53m48s (est 4h08m, wr 3h13m12s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube zydDAg-05B8+142
-Review: (Not yet watched)
+Review: A better multi-hour JRPG run than most, even if not nearly as polished in fine-scale execution. The use of RNG prediction, and a bit of ad-hoc manipulation, was the only notable speed tech, but it's something I don't think I've seen before, and it's a nice compromise between samey fully-manipped runs, and tedious unmanipulated runs. It's a bit of a small couch for a run this long, but it entered the fun parts of the Sleep Deprivation Madness realm. And though the cutscene skipper doesn't *completely* eliminate downtime, there's still a lot more gameplay than most similar runs.
 
 Metal Gear Solid 2: Sons of Liberty (PC - Konami 2001)
 PC, European Extreme
