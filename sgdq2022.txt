@@ -121,11 +121,11 @@ Inbounds
 by AChocolateOrange
 host SquidDilla, couch lmjacks, tluo5458
 11m40s (est 13m, wr 7m18s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube FZ6_TrpKC74+0
-Review: (Not yet watched)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube FZ6_TrpKC74+108
+Review: One of those mind-bending puzzle games. There's unfortunately not too much tech to show off, but fortunately the run is ten minutes long so it doesn't need it.
 
 Super Dream Dasher (PC - Puddleside 2021)
 Any%
@@ -154,11 +154,11 @@ Any%
 by LeadOstrich [WRH]
 host Helix, no couch
 25m22s (est 28m, wr 23m19s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube dqnoNnrYDPY+59
-Review: (Not yet watched)
+Review: A decently funny runner, held back by a lack of couch, playing a decently interesting speed game, held back by a lot of autoscrollers. Pretty good for late-night filler, but still late-night filler.
 
 Bulk Slash (Saturn - CAProduction 1997)
 Any% NG
@@ -187,11 +187,11 @@ Any%
 by JaekRock [WRH]
 host SaberaMesia, couch SpaceCoastGaming [2RH], estacaco
 27m24s (est 30m, wr 24m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube WB0c7UufBUQ+0
-Review: (Not yet watched)
+Review: The runner and couch made a crucial mistake here: they never really explained the basic gameplay. Or any of the speed tech beyond "trying to get certain items that let you skip over entire levels". If there is any deeper skill needed to master this run, it was not obvious just from watching. Perhaps, for die-hard Bubble Bobble fans, this was an amazing run, but for outsiders? Easily skippable.
 
 Blaster Master (NES - Sunsoft 1988)
 Glitchless US
@@ -209,11 +209,11 @@ Any%
 by The Retro Runner [WRH]
 host SaberaMesia, couch 8-bit steve, slackanater, aquas
 11m44s (est 15m, wr 11m34s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube pmsByhing3Q+40
-Review: (Not yet watched)
+Review: An incredibly, incredibly polished run, executed extremely well. It's a simple game to watch but the skill on display is evident.
 
 Altered Beast (Genesis - Sega 1988)
 Co-Op
@@ -254,11 +254,11 @@ All Bosses
 by MaeTheDKC [WRH]
 host Bobby Blackwolf, couch Sanchopanda
 1h52m40s (est 1h50m, wr 1h47m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube IxHQuYaeeu4+524
-Review: (Not yet watched)
+Review: A rather long run for what it is, not super tightly routed yet, but very fluid movement mechanics. Like the Journey or Abzu runs I've seen, it's more of a chill, let's-appreciate-the-game run, though the couch could have been better.
 
 [[[REMOTE BLOCK]]]
 
@@ -431,22 +431,22 @@ Any%
 by SaberaMesia [WRH]
 host Kungfufruitcup, couch iceblue, emray, mxstephx [2RH]
 34m00s (est 40m, wr 32m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube rVhlRKbHyyc+10
-Review: (Not yet watched)
+Review: A bit heavy on the downtime, and not the most technical run, but a fun watch nonetheless. Lots of skips and sequence breaks, of varying types.
 
 Infernax (PC - Berzerk 2022)
 Any% - Defeat Belphegor - Classic
 by DanTheVP [WRH]
 host cartridgeblowers, couch saberamesia
 51m52s (est 1h05m, wr 48m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube zMjAD-zVXco+109
-Review: (Not yet watched)
+Review: A neat new Castlevania-like - sort of a blend of the original flavor with the metroidvanias. And a shockingly good speedrun, a current-year game has no business having a run this complex and this polished. It's only one real glitch, but it's used in so many different ways, in different places, and even the normal gameplay shown was quite clean.
 
 Majuu Ou (SNES - Nihon Soft 1995)
 Any% Hard
@@ -637,11 +637,11 @@ Any%
 by amoser [3RH]
 host SporadicErratic, couch ailis
 42m43s (est 45m, wr 37m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube 5p3GYtv5-kI+160
-Review: (Not yet watched)
+Review: A niche but well-loved 2.5D platformer, there's a few neat tricks, but they're far between, and the core gameplay isn't super skill-intense. The IL bonus level was fun, but the main run dragged quite a bit.
 
 The Lord of the Rings: The Return of the King (GC - EA Redwood 2003)
 Any%
@@ -1063,23 +1063,23 @@ Borderlands 2 (PC - Gearbox 2012)
 Geared UVHM (Salvador)
 by Deceptix_ [WRH]
 host frozenflygone, couch bryonato, amyrlinn, zzrules21
-1h02m59s (est 1h15m, wr 1h00m06s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h02m54s (est 1h15m, wr 1h00m06s rta)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube WzXaLVHpMZ4+62
-Review: (Not yet watched)
+Review: A very, very clean run, it's hard to overstate just how polished this execution was. It's different from previous BL2 runs - singleplayer and with preset weapons on NG+, making it a run of rocket-jumping and one-shotting bosses, in between a fair bit of OoB and dialogue skips. Somehow, even after an hour, there was still stuff to explain. There were a few wave fights that dragged the tempo down, but even those simply gave the couch time to catch up on some of the smaller details we may have missed.
 
 Borderlands 2 (PC - Gearbox 2012)
 Geared Tiny Tina DLC
 by Deceptix_ [3RH]
 host frozenflygone, couch bryonato, amyrlinn, zzrules21
 19m25s (est 23m, wr 15m35s loadless)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube WzXaLVHpMZ4+3992
-Review: (Not yet watched)
+Review: Somehow this didn't quite live up to the main BL2 run, but it's still a lot of nice execution and hilariously one-shotting bosses.
 
 Doom Eternal (PC - id 2020)
 100% Nightmare Restricted
@@ -1106,13 +1106,13 @@ Review: There's not too much variety to the tech here, but with a decent mix of 
 Happy's Humble Burger Farm (PC - Scythe 2021)
 Any%
 by teddyras [3RH]
-host TaintedTali, no couch
+host TaintedTali, couch a picture of SpikeVegeta, a picture of Ecdysis, a shaker of Summoning Salt
 29m30s (est 30m, wr 20m00s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 64VXwRA5sZU+443
-Review: (Not yet watched)
+Review: A very chaotic run. Some of the late-night madness seemed a bit forced, but it was still a very entertaining chaos run, and even a decent speed game.
 
 Alisa (PC - Casper Cross 2021)
 Any% NMG
@@ -1273,14 +1273,14 @@ Review: This is another thing that was hard to do in the pandemic era - relay ra
 
 Ratchet and Clank: Going Commando (PS2 - Insomniac 2003)
 Wrench Only
-by Xem
+by Xem [WRH]
 host AnEternalEnigma, couch marathonman, padges, mantodea
-1h15m48s (est 1h30m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h15m48s (est 1h30m, wr 1h07m38s)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube 7DFPTLH9Unw+62
-Review: (Not yet watched)
+Review: A run that far exceeded my expectations. There's a surprising amount of tech - I think a lot of it is copied from the Any%, but there's some wrench-specific tricks. But more than that, the couch banter was just top notch. It wasn't quite a full-on sleep-deprived madness run, but it was definitely a reason to be glad of the return to in-person events.
 
 Left 4 Dead 2 (PC - Valve 2009)
 Main Campaigns Co-op
@@ -1320,11 +1320,11 @@ PC, European Extreme
 by dlimes13 [WRH]
 host SporadicErratic, couch metalglennsolid, josephjoestar316 [3RH], apachesmash
 1h11m52s (est 1h18m, wr 1h16m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube vUQ60M_zE9A+0
-Review: (Not yet watched)
+Review: Not too dissimilar to other Metal Gear runs we've seen. Tightly-routed movement to avoid the preset guard patterns, often walking right next to them. Precise hits to take down bosses as quickly as possible. A few small, glitchy skips, but nothing major. A few tedious autoscroller sections. All backed by a tight-knit couch running commentary. dlime's execution was clean as hell but the game in general just doesn't impress much, and even the runners seem annoyed at just how much of the game is rote.
 
 Super Meat Boy (Linux - Team Meat 2010)
 All Dark Levels
@@ -1434,7 +1434,7 @@ Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube 4IUT4UOCZzg+150
-Review: (Not yet watched)
+Review: (Not yet watched, skipping until I actually play it)
 
 Elden Ring (PC - From 2022) [BONUS GAME 9]
 Any%
@@ -1445,4 +1445,4 @@ Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube MsRQstLsf8Y+35
-Review: (Not yet watched)
+Review: (Not yet watched, skipping until I actually play it)
