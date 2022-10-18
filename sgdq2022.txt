@@ -1240,7 +1240,7 @@ The Legend of Zelda: Ocarina of Time (N64 - Nintendo EAD 1998) [BONUS GAME 7]
 "Beta Showcase"
 by Savestate, TASbot
 host Brutal_Melo, couch Sauraen, dwangoAC
-~1h00m (est 1h00m, no wr - showcase)
+~1h (est 1h00m, no wr - showcase)
 Overall ☆★☆★☆
 Skill   ★☆★☆★
 Fun     ☆★☆★☆

@@ -114,6 +114,8 @@ body {
 	padding: 0 24px;
 	display: flex;
 	column-gap: 24px;
+	overflow-x: scroll;
+	scrollbar-width: thin;
 }
 #navbar #days a {
 	flex: 1;
@@ -155,6 +157,9 @@ body {
 }
 
 #raw {
+	display: none;
+}
+#marathon-headers {
 	display: none;
 }
 </style>
@@ -521,6 +526,7 @@ body {
 		<div class="run-item">Review: <slot name="review">(Not Yet Reviewed)</slot></div>
 	</div>
 </template>
+<div id="marathon-headers"></div>
 
 <div id="runs"></div>
 
@@ -536,10 +542,10 @@ body {
 			<a class="sgdq" href="sgdq2021.txt" onclick="loadMarathon('sgdq2021')">SGDQ 2021<span>(100% - 150/150)</span></a>
 			<a class="agdq" href="agdq2022.txt" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
 			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(90% - 113/126)</span></a>
-			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(Still a bit buggy)</span></a>
+			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(Now less buggy!)</span></a>
 		</div>
 		<script>
-			function loadMarathon(marathon, reset = true, clear = true){
+			function loadMarathon(marathon, reset = true){
 				var title = marathon.substring(0, 4).toUpperCase() + ' ' + marathon.substring(4);
 				
 				// set global style
@@ -556,18 +562,26 @@ body {
 				}
 				
 				hideAllContentBut('player');
+				clearMarathons();
+				document.getElementById("marathon-headers").replaceChildren();
 				
 				if (marathon == "everything"){
-					loadReviewsForMarathon('agdq2019', true);
-					loadReviewsForMarathon('sgdq2019', false);
-					loadReviewsForMarathon('agdq2020', false);
-					loadReviewsForMarathon('sgdq2020', false);
-					loadReviewsForMarathon('agdq2021', false);
-					loadReviewsForMarathon('sgdq2021', false);
-					loadReviewsForMarathon('agdq2022', false);
-					loadReviewsForMarathon('sgdq2022', false);
+					Promise.all([
+						fetch(`agdq2019.txt`, { cache: 'reload' }).then(response => response.text()),
+						fetch(`sgdq2019.txt`, { cache: 'reload' }).then(response => response.text()),
+						fetch(`agdq2020.txt`, { cache: 'reload' }).then(response => response.text()),
+						fetch(`sgdq2020.txt`, { cache: 'reload' }).then(response => response.text()),
+						fetch(`agdq2021.txt`, { cache: 'reload' }).then(response => response.text()),
+						fetch(`sgdq2021.txt`, { cache: 'reload' }).then(response => response.text()),
+						fetch(`agdq2022.txt`, { cache: 'reload' }).then(response => response.text()),
+						fetch(`sgdq2022.txt`, { cache: 'reload' }).then(response => response.text()),
+					])
+						.then(inputs => { var result = ""; for (input of inputs){ result += input + "\n\n"; } return result; })
+						.then(loadReviews);
 				} else {
-					loadReviewsForMarathon(marathon, clear);
+					fetch(`${marathon}.txt`, { cache: 'reload' })
+						.then(response => response.text())
+						.then(loadReviews);
 				}
 				
 				// set URL
@@ -617,10 +631,19 @@ body {
 	</div>
 	<div id="player" hidden="true">Youtube Player - If you see this, either you've disabled Javascript, or Youtube's messed up.</div>
 	<div id="filters" hidden="true">
-		<h1>Filters</h1>
+		<h1>Filters &amp; Sorting</h1>
 		<div class="container">
 			<div>
-				<h3>By Ratings</h3>
+				<h3>Sort</h3>
+				<label><input type="radio" name="sort" value="when" checked />Chronologically</label>
+				<label><input type="radio" name="sort" value="game" />By Game Title</label>
+				<label><input type="radio" name="sort" value="rating" />By Rating</label>
+				<label><input type="radio" name="sort" value="platform" />By Platform</label>
+				<label><input type="radio" name="sort" value="duration" />By Length</label>
+				<label><input type="checkbox" name="sort-reverse" />Reverse Sort</label>
+			</div>
+			<div>
+				<h3>Filter By Ratings</h3>
 				<label><input type="checkbox" name="rating"         rating="N"/>Not Rated</label>
 				<label><input type="checkbox" name="rating" checked rating="0"/>☆☆☆☆☆</label>
 				<label><input type="checkbox" name="rating" checked rating="1"/>★☆☆☆☆</label>
@@ -631,20 +654,20 @@ body {
 				<label><input type="checkbox" name="rating" checked rating="S"/>Special</label>
 			</div>
 			<div>
-				<h3>By People</h3>
+				<h3>Filter By People</h3>
 				<label><input type="text" name="runner" placeholder="(eg. TheMexicanRunner)" />Runner(s)</label>
 				<label><input type="text" name="crew" placeholder="(eg. SpikeVegeta)" />Couch &amp; Crew</label>
 				<p>Tip: Search "[WRH]" to find only runs by world record holders, or "race" to find competitive races.</p>
 			</div>
 			<div>
-				<h3>By Game</h3>
+				<h3>Filter By Game</h3>
 				<label><input type="text" name="game" placeholder="(eg. Zelda)" />Game Title</label>
 				<label><input type="text" name="category" placeholder="(eg. Any%)" />Run Category</label>
 				<label><input type="text" name="platform" placeholder="(eg. NES)" />Platform</label>
 				<label><input type="text" name="developer" placeholder="(eg. Capcom)" />Developer</label>
 			</div>
 			<div>
-				<h3>By Duration</h3>
+				<h3>Filter By Duration</h3>
 				<label><input type="checkbox" name="duration" checked min="0" max="10"/>Tiny (&lt;10 min)</label>
 				<label><input type="checkbox" name="duration" checked min="10" max="30"/>Short (10-30 min)</label>
 				<label><input type="checkbox" name="duration" checked min="30" max="60"/>Medium (30-60 min)</label>
@@ -655,7 +678,7 @@ body {
 				<label><input type="text" name="duration-max" placeholder="(eg. 300)" />Maximum (also in minutes)</label>
 			</div>
 			<div>
-				<h3>By Misc</h3>
+				<h3>Misc Filters</h3>
 				<label><input type="text" name="block" placeholder="Awful" />Named Blocks</label>
 				<label><input type="checkbox" name="duration-wr" checked"/>Only World Records</label>
 			</div>
@@ -841,36 +864,39 @@ function simplifyRatingString(input){
 	
 	return ratings[input] ?? 'N';
 }
-
 function simplifyTimeString(input){ // finds the longest duration (eg. 1h23m45s) in a string of times
 	var to_return = 0;
-	for (match of input.matchAll(/(\dh)?(\d{1,2}m)(\d{1,2}s)?/g)){
+	for (match of input.matchAll(/\~?(\dh)?(\d{1,2}m)?(\d{1,2}s)?/g)){
 		var hours = match[1] === undefined ? 0 : parseInt(match[1].substring(0, match[1].length - 1), 10);
-		var minutes = parseInt(match[2].substring(0, match[2].length - 1), 10);
+		var minutes = match[2] === undefined ? 0 : parseInt(match[2].substring(0, match[2].length - 1), 10);
 		// TODO: count seconds and round?
 		
 		if (hours * 60 + minutes > to_return){ to_return = hours * 60 + minutes; }
 	}
 	return to_return;
 }
-
-function loadReviewsForMarathon(event, clear = true){
-	if (clear){
-		// clear out runs table and daily navbar
-		document.getElementById("runs").replaceChildren();
-		document.getElementById("days").replaceChildren();
+function makeMarathonStringSortable(input){ // turns "SUMMER GAMES DONE QUICK 2021" to "2021 - SGDQ" etc
+	const year = input.substring(input.length - 4);
+	if (input.startsWith("SUMMER")){
+		return year + " - SGDQ";
+	} else {
+		return year + " - AGDQ";
 	}
+}
 
-	fetch(`${event}.txt`, { cache: 'reload' })
-		.then(response => response.text())
-		.then(loadReviews);
+function clearMarathons(){
+	// clear out runs table and daily navbar
+	document.getElementById("runs").replaceChildren();
+	document.getElementById("days").replaceChildren();
 }
 
 function loadReviews(input){
+	console.log("Loading reviews");
 	var run_container = document.getElementById("runs");
 	var navbar_container = document.getElementById("days");
+	var marathon_header_container = document.getElementById("marathon-headers");
 	
-	var current_block = null;
+	var current_block = null, current_marathon = null, current_day = null, current_count = 0;
 	
 	for (run of input.trim().split("\n\n")){
 		var lines = run.split("\n");
@@ -881,7 +907,15 @@ function loadReviews(input){
 			
 			var header_element = document.createElement('h1');
 			header_element.innerHTML = name + "<span>" + lines[1].replaceAll('=', '') + "</span><span>" + lines[2].replaceAll('=', '') + "</span>";
-			run_container.appendChild(header_element);
+			header_element.setAttribute("data-marathon", makeMarathonStringSortable(name));
+			if (name.startsWith("AWESOME")){
+				header_element.classList.add("agdq");
+			} else {
+				header_element.classList.add("sgdq");
+			}
+			marathon_header_container.appendChild(header_element);
+			
+			current_marathon = makeMarathonStringSortable(name);
 			
 			continue;
 		} else if (lines.length == 1 && lines[0].startsWith('---')){
@@ -897,6 +931,8 @@ function loadReviews(input){
 			link_element.href = "#" + name;
 			navbar_container.appendChild(link_element);
 			
+			current_day = name;
+			
 			continue;
 		} else if (lines.length == 1 && lines[0].startsWith('[[[')){
 			// looks like a block header
@@ -911,9 +947,11 @@ function loadReviews(input){
 		
 		// for safety, ignore all other insufficiently-long runs
 		if (lines.length < 10){
-			console.log("Skipping entry: " + run);
+			//console.log("Skipping entry: " + run);
 			continue;
 		}
+		
+		current_count++; // do this first, so it's one-indexed for the humans
 		
 		var run_element = document.createElement("gdq-run");
 		run_element.className = document.body.className;
@@ -951,6 +989,9 @@ function loadReviews(input){
 		run_element.appendChild(createSlot("fun", lines[7].substring(8)));
 		run_element.appendChild(createSlot("review", lines[9].substring(8)));
 		
+		run_element.setAttribute("marathon", current_marathon);
+		run_element.setAttribute("day", current_day);
+		run_element.setAttribute("count", current_count);
 		run_element.setAttribute("yt-url", youtube_re[1]);
 		run_element.setAttribute("yt-offset", youtube_re[2]);
 		run_element.setAttribute("rating", simplifyRatingString(lines[5].substring(8)));
@@ -1061,7 +1102,7 @@ function refreshFilters(){
 		if (allowedDurations.length){
 			var subpassed = false;
 			for (durations of allowedDurations){
-				subpassed = subpassed || (parseInt(element.attributes.duration.value) >= durations[0] && element.attributes.duration.value <= parseInt(durations[1]));
+				subpassed = subpassed || (parseInt(element.attributes.duration.value) > durations[0] && element.attributes.duration.value <= parseInt(durations[1]));
 			}
 			passed = passed && subpassed;
 		}
@@ -1100,15 +1141,163 @@ function refreshFilters(){
 		element.hidden = !passed;
 	}
 	
-	// do another pass to hide day headers
+	refreshSort();
+	
+	// do another pass to hide section headers
 	var section_has_content = false;
 	for (element of Array.from(document.getElementById('runs').children).reverse()){
 		if (element.tagName == "H2"){
 			element.hidden = !section_has_content;
+			document.querySelector("a[href='#"+element.id+"']").hidden = !section_has_content;
 			section_has_content = false;
 		} else if (element.tagName == "GDQ-RUN"){
 			if (!element.hidden){ section_has_content = true; }
 		}
+	}
+}
+
+function refreshSort(){
+	var multi_marathon = (document.getElementById("marathon-headers").childNodes.length > 1);
+	var mode = document.querySelector("input[name=sort]:checked").value;
+	if (mode == "when"){
+		// figure out if we should be when-single (just one marathon) or when-all (every marathon loaded)
+		if (multi_marathon){
+			mode = "when-all";
+		} else {
+			mode = "when-single";
+		}
+	}
+
+	var runs = [].slice.call(document.getElementsByTagName("gdq-run"));
+	switch (mode){
+		case "when-single":
+		case "when-all":
+			runs.sort(compareByWhen);
+			break;
+		case "game":
+			runs.sort(compareByGame);
+			break;
+		case "platform":
+			runs.sort(compareByPlatform);
+			break;
+		case "rating":
+			runs.sort(compareByRating);
+			break;
+		case "duration":
+			runs.sort(compareByDuration);
+			break;
+	}
+	
+	if (document.getElementsByName("sort-reverse")[0].checked){
+		runs.reverse();
+	}
+	
+	clearMarathons();
+	
+	var run_container = document.getElementById("runs");
+	var navbar_container = document.getElementById("days");
+	var current_marathon = null, current_category = null;
+	
+	if (!multi_marathon){
+		run_container.appendChild(document.querySelector("#marathon-headers h1").cloneNode(true)); // there's only one, just grab it
+	}
+	
+	for (run of runs){
+		var run_marathon = run.getAttribute("marathon");
+		if (mode == "when-all" && run_marathon != current_marathon){
+			run_container.appendChild(document.querySelector("#marathon-headers h1[data-marathon='"+run_marathon+"']").cloneNode(true));
+		}
+		current_marathon = run_marathon;
+		
+		var run_category = getCategory(run, mode);
+		if (run_category != current_category){
+			// create a category header
+			var header_element = document.createElement('h2');
+			header_element.innerHTML = header_element.id = run_category;
+			run_container.appendChild(header_element);
+			
+			var link_element = document.createElement('a');
+			link_element.innerHTML = run_category;
+			link_element.href = "#" + run_category;
+			navbar_container.appendChild(link_element);
+		}
+		current_category = run_category;
+	
+		run_container.append(run);
+	}
+	
+	
+	function getCategory(run, mode){
+		switch (mode){
+			case "game":
+				return run.getAttribute("game").substring(0, 1).toUpperCase();
+			case "platform":
+				var plat = run.getAttribute("platform");
+				if (plat.includes("via")){ plat = plat.substring(0, plat.indexOf("via")).trim(); }
+				return plat.toUpperCase();
+			case "when-all":
+				return run.getAttribute("marathon");
+			case "when-single":
+				return run.getAttribute("day");
+			case "rating":
+				switch (run.getAttribute("rating")){
+					case "N":
+						return "(Unrated)";
+					case "S":
+						return "★☆★☆★";
+					case "0":
+						return "☆";
+					default:
+						return "★".repeat(run.getAttribute("rating"));// + "☆".repeat(5 - run.getAttribute("rating"));
+				}
+			case "duration":
+				var duration = run.getAttribute("duration");
+				     if (duration > 180){ return "Epic (>3 hours)"; }
+				else if (duration > 60){ return "Long (1-3 hours)"; }
+				else if (duration > 30){ return "Medium (30-60 minutes)"; }
+				else if (duration > 10){ return "Short (10-30 minutes)"; }
+				else                   { return "Tiny (<10 minutes)"; }
+			default:
+				return "unsorted";
+		}
+	}
+	function compareString(a, b){
+		if (a > b) return 1;
+		if (a < b) return -1;
+		return 0;
+	}
+	function compareNumber(a, b){
+		if (parseInt(a) > parseInt(b)) return 1;
+		if (parseInt(a) < parseInt(b)) return -1;
+		return 0;
+	}
+	function compareByGame(a, b){
+		return compareString(a.getAttribute("game"), b.getAttribute("game"));
+	}
+	function compareByPlatform(a, b){
+		var a_plat = a.getAttribute("platform"), b_plat = b.getAttribute("platform");
+		if (a_plat.includes("via")){ a_plat = a_plat.substring(0, a_plat.indexOf("via")).trim(); }
+		if (b_plat.includes("via")){ b_plat = b_plat.substring(0, b_plat.indexOf("via")).trim(); }
+		return compareString(a_plat, b_plat);
+	}
+	function compareByWhen(a, b){
+		const sort1 = compareString(a.getAttribute("marathon"), b.getAttribute("marathon"));
+		if (sort1 != 0) return sort1;
+		return compareNumber(a.getAttribute("count"), b.getAttribute("count"));
+	}
+	function compareByRating(a, b){
+		return compareNumber(integerizeRating(b.getAttribute("rating")), integerizeRating(a.getAttribute("rating"))); // deliberately inverted, so 5 sorts above 1
+		
+		function integerizeRating(rating){
+			switch (rating){
+				case "S": return 6;
+				case "N": return -1;
+				default: return rating;
+			}
+		}
+	}
+	function compareByDuration(a, b){
+		return compareNumber(a.getAttribute("duration"), b.getAttribute("duration"));
 	}
 }
 
