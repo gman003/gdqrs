@@ -212,15 +212,13 @@ body {
 		height: auto;
 	}
 	#navbar #days {
-		column-gap: 72px;
+		column-gap: 32px;
 	}
 	#navbar a {
-		font-size: 16px;
+		font-size: 18px;
 		padding: 4px;
 	}
 	#navbar #days a {
-		writing-mode: vertical-rl;
-		text-orientation: upright;
 		padding: 12px;
 		vertical-align: top;
 	}
@@ -231,7 +229,10 @@ body {
 		--player-height: 360px;
 	}
 	#main #browser {
-		--eventlist-size: 36px;
+		--eventlist-size: 24px;
+	}
+	#main #browser a {
+		font-size: 18px !important;
 	}
 	#main #info .container {
 		overflow-y: scroll;
@@ -250,8 +251,6 @@ body {
 		padding: 2px;
 	}
 	#navbar #days a {
-		writing-mode: vertical-rl;
-		text-orientation: upright;
 	}
 }
 </style>
@@ -541,7 +540,7 @@ body {
 			<a class="agdq" href="agdq2021.txt" onclick="loadMarathon('agdq2021')">AGDQ 2021<span>(93% - 142/153)</span></a>
 			<a class="sgdq" href="sgdq2021.txt" onclick="loadMarathon('sgdq2021')">SGDQ 2021<span>(100% - 150/150)</span></a>
 			<a class="agdq" href="agdq2022.txt" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
-			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(90% - 113/126)</span></a>
+			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(98% - 123/126)</span></a>
 			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(Now less buggy!)</span></a>
 		</div>
 		<script>
@@ -947,7 +946,7 @@ function loadReviews(input){
 		
 		// for safety, ignore all other insufficiently-long runs
 		if (lines.length < 10){
-			//console.log("Skipping entry: " + run);
+			console.log("Skipping entry: " + run);
 			continue;
 		}
 		

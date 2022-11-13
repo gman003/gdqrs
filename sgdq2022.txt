@@ -165,11 +165,11 @@ Any% NG
 by Aquas [WRH]
 host Helix, no couch
 17m45s (est 22m, wr 17m32s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube s3SXJKKrM8w+0
-Review: (Not yet watched)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube s3SXJKKrM8w+4
+Review: A blatant 4AM filler run. No couch, a game that is neither exceptionally difficult nor particularly glitchy, and commentary that seems particularly unenthused even for self-commentary. It was never going to be a great run, given the game, but Aquas didn't even try to achieve mediocrity.
 
 Alien Cabal (DOS - QASoft 1997)
 A Walk in the Park
@@ -466,11 +466,11 @@ Kamiko (PC - Skipmore 2017, 2019)
 by cicada [WRH]
 host cartridgeblowers, couch repentmf
 22m46s (est 25m, wr 22m19s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube Vu8d15JV9NI+512
-Review: (Not yet watched)
+Review: Just a very lethargic run. The IGT was barely half the RTA time - it might not have story cutscenes, but there were incessant panning shots of doors opening or bridges rising, that all dragged on far too long. The runner stayed mostly silent - understandable, given the language barrier - but that slack was resolutely *not* picked up by the couch. It seemed like a return to SGDQ2020, where lag kept the couch commentary well behind the actual action. Nor did we get much in the way of tech explanation. It wasn't an awful run to watch, but it certainly wasn't great.
 
 Earnest Evans (Genesis - Wolf Team 1992)
 Any%
@@ -488,11 +488,11 @@ Ninja (Normal)
 by Mega RetroMan [WRH]
 host Nichole Goodnight, couch ducksindisguise
 29m47s (est 38m, wr 28m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube KXLSK4qUIKs+125
-Review: (Not yet watched)
+Review: A very clean run of a neat bmup, but that's about all I can say. Simple combat, simple levels, barebones commentary, this was a run that did absolutely nothing wrong but also didn't do much special.
 
 Battle Axe (PC - Bitmap Bureau 2021)
 Arcade Mode Easy, Fae [BIDWAR]
@@ -564,16 +564,16 @@ Review: Another very typical Mega Man game, maybe not quite as precise as the mo
 
 [[[/MEGA MAN BLOCK]]]
 
-Yakuza: Like a Dragon (PS5 - Ryu ga Gotoku 2020)
-Any% (PS5)
-by Froob [2RH]
-host Bobby Blackwolf, couch MechanalystTom [WRH], ghostkumo
-4h09m52s (est 4h25m, wr 3h55m31s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Yakuza: Like a Dragon (PC - Ryu ga Gotoku 2020)
+Any%
+by Froob [WRH]
+host Bobby Blackwolf, couch MechanalystTom [3RH], ghostkumo
+4h09m52s (est 4h25m, wr rta 3h53m34s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube 0ddsOGwEQp8+10
-Review: (Not yet watched)
+Review: An unexpectedly fun run of an unexpectedly turn-based JRPG. Froob's legendary charisma remains on full display, this time backed up by some skillful menuing and near-infinite game knowledge, alternating seamlessly between lore explainers and combat primers. If you think four hours is just too long for a speedrun, this might not be for you, but if you enjoy long JRPG runs, this is among the best.
 
 Star Wars: Jedi Knight II - Jedi Outcast (PC - Raven Software 2002)
 Any%
@@ -659,22 +659,22 @@ Any%
 race, Katie4 [2RH] vs McKiddy [WRH]
 host Char_bunny, no couch
 41m42s, 45m37s (est 48m, wr 39m42s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube R3pNnwL6bBM+941
-Review: (Not yet watched)
+Review: A pretty rote platformer, movement heavily reliant on a single mechanic, a very lengthy autoscroller, a highly uncompetitive race, and clunky self-commentary from the runners. Maybe worth a watch if this game stymied you as a kid, but otherwise skippable.
 
 COGEN: SWORD OF REWIND (PC - Gemdrops 2022)
 NG Any%
 by DemonchildElise [WRH]
 host Char_bunny, couch tempestmask1000
 44m52s (est 55m, wr 39m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube 8NslALB4vRI+0
-Review: (Not yet watched)
+Review: Being a VTuber run, I had expected some energized, charismatic, maybe a bit silly or zany, antics while playing. But no, Elise was in full focus mode, barely said anything, and her couch bombarded us with lore dump after lore dump, for a game that, as best I can tell, has pretty thin lore. The speed tech might have been interesting, but it was perhaps too fast to commentate properly.
 
 PowerSlave Exhumed (PC - Nightdive 2022; Lobotomy 1996)
 Any%
@@ -808,11 +808,11 @@ Dante Must Die All Collectibles
 by WaifuRuns [WRH]
 host AnEternalEnigma, couch maxylobes, decosmic
 1h31m13s (est 1h30m, wr 1h22m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube tBcGIqmwMrY+22
-Review: (Not yet watched)
+Review: A run that had all the right ingredients, but never seemed to come together. It's a difficult run, but it doesn't look like it. It has interesting strats, but they were rarely commented on. It had a great couch who seemed too tired to say much. It had way more autoscrollers than I remember.
 NM: Assumed Dante as character
 
 [[[SILLY BLOCK]]]
@@ -958,11 +958,11 @@ Any% Glitchless
 by Enel [WRH]
 host Rhilever, couch chuggaaconroy, legrandgrand
 2h40m53s (est 2h55m, wr 2h28m46s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube A-aEwU9alzM
-Review: (Not yet watched)
+Review: This run started out quite promising, but seriously dragged throughout the middle hour. Just when it seemed to be picking up steam again, it ran into a brick wall. If you're looking for a long RPG run to keep in the background, this will do nicely, and it definitely has its moments, but there was never those moments of brilliant execution, or that deep game knowledge, to really impress as a speedrun.
 
 Slime Rancher (PC - Monomi Park 2017)
 Any% Glitchless
@@ -1115,27 +1115,26 @@ Youtube 64VXwRA5sZU+443
 Review: A very chaotic run. Some of the late-night madness seemed a bit forced, but it was still a very entertaining chaos run, and even a decent speed game.
 
 Alisa (PC - Casper Cross 2021)
-Any% NMG
+Any% NSE
 by juh0 [WRH]
-host TaintedTali, no couch
+host TaintedTali, couch Snake, Caspar Cross [DEV], Arisa Cross, Ecdycis
 52m04s (est 1h00m, wr 47m25s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube fEm8mGamhz8+192
-Review: (Not yet watched)
-NM: assumed category "no save exploit"
+Review: A run that was on the verge of being much better. The runner had plenty of energy, but it came off more as "nervous and overcaffeinated" than "enthusiastic". The dev could have offered great details and anecdotes, but somehow seemed the most bored with his own game, barely able to explain the general concept. It took maybe half an hour for them to find any sort of groove, and even then it had some persistent audio-mix issues. On top of that, the game is a very traditional PS1-era RE clone, with whatever new mechanics were added barely playing any role in the speedrun. If you really like RE Trilogy gameplay, this might be worth a watch, but otherwise... eh.
 
 Ato (PC - Tiny Warrior 2020)
 Any% Assist NMG
 by Glitchiness [WRH]
 host Konception, no couch
 24m37s (est 33m, wr 23m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube 2q64V7vYW8A+0
-Review: (Not yet watched)
+Review: Not a very polished or spectacular run, but Glitchiness's manic commentary more than made up for it.
 
 Magic Trick (PC - L8r Sk8rs 2021)
 All Stickers
