@@ -733,13 +733,13 @@ Review: It's a newer game so the run itself wasn't super polished yet, and it's 
 Axiom Verge (PC - Thomas Happ 2015)
 Any%
 by SaberaMesia [2RH]
-host Baidol, couch NeoMagusX, Tom Happ, VideoGameRoulette
+host Baidol, couch NeoMagusX, Tom Happ [DEV], VideoGameRoulette
 33m54s (est 37m, wr 30m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube ROcMq5UJOUM
-Review: (Not yet watched)
+Review: A run that did nothing wrong, but also did nothing to really distinguish itself. The tricks weren't particularly precise, the glitches weren't particularly interesting, the commentary wasn't particularly insightful (even with the dev on the couch!). If you played Axiom Verge, you'll probably enjoy this, but it has little to offer otherwise.
 
 Silent Hill 3 (PC - Team Silent 2003)
 Extra New Game
@@ -808,7 +808,7 @@ Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
 Youtube 1A3trEcqrbo+17
-Review: (Apparently I forgot to actually write about this one?)
+Review: In the manner of most tie-in platformers, this is a lovely spree of glitches, skips, and an insane story. Unfortunately, this was a casualty of the online format - no couch to react to the wonkiness or to build running gags, and some lingering audio mix issues. It also has too many bland fly-over-level bits, killing the pacing.
 
 Into The Breach (PC - Subset 2018)
 2-Island% Frozen Titans
@@ -1098,11 +1098,11 @@ Any% Glitchless
 by Etchy [3RH]
 host Nichole Goodnight, couch Pulse Effects, Shenanagans, swiftalu
 4h00m50s (est 4h15m, wr 3h40m01s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube k5QfMjR0_94+27
-Review: (Have not yet watched)
+Review: Like most Pokemon runs, this turns into an elaborate series of in-jokes to fill the vast amounts of time... but there was still some rapid menuing, reams of game knowledge, and some interesting fact drops along the way.
 
 Deus Ex: Human Revolution (PC - Eidos Montreal 2011) [GAME BIDWAR]
 Any%
@@ -1153,11 +1153,11 @@ Any% No PBC
 by Pnash [3RH]
 host AnEternalEnigma, couch BANGUPJOBASUSUAL, VesperOne
 1h45m49s (est 2h00m, wr 1h42m08s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 7z4ua0x2SUA+54
-Review: (Have not yet watched)
+Review: A game unfortunately beset by many, many lengthy cutscenes. This almost feels more like those long RPG runs than an action game, and the way that certain glitches seem to trivialize movement down to "fly from point to point" doesn't help. The commentary brings it back to a decent level, but it's something you'll tune out from frequently.
 
 Resident Evil 5 (PC - Capcom 2009)
 NG Co-Op Amateur
@@ -1320,7 +1320,7 @@ Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
 Youtube aNnNcDpW4H0
-Review: (Apparently did not write anything about this one, whoops?)
+Review: A fairly run-of-the-mill race. The biggest tricks saved only pixels, so it was essentially all determined by a few errors, not very competitive.
 
 Wario Land: Super Mario Land 3 (GB - Nintendo R&D1 1994)
 Any%
@@ -1360,11 +1360,11 @@ Night Elf
 by CovertMuffin [2RH]
 host musical_daredevil, no couch
 56m09 (est 1h25m, wr 1h15m13s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube ZTnsilUI5hw+28
-Review: (Have not yet watched)
+Review: Not quite the blazing-APM spectacle that you might expect, but a pretty solid run regardless, and CovertMuffin's charisma was barely restrained by being remote.
 
 Final Fantasy VII (PC - Square 1997)
 Any%
@@ -1410,16 +1410,16 @@ Fun     ★★☆☆☆
 Youtube fcbdTbsLNj8+13
 Review: A tightly-executed run, even by the standards of a game build around fast, precise platforming. Commentary was a bit muddled at times but it's not a super hard run to understand.
 
-Yakuza 6: The Song of Life (PS4 - Ryu Ga Gotoku 2016)
+Yakuza 6: The Song of Life (PS4 via PS5 - Ryu Ga Gotoku 2016)
 Any%
 by Froob [WRH]
 host Bobby Blackwolf, couch Tapioca
 2h24m22s (est 2h30m, wr 2h19m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube BQbWQknMLG0+102
-Review: (Have not yet watched)
+Review: Not the most precise or technical speedrun, remarkably light on outright glitches, but Froob's commentary alone could have carried this. A masterful blend of story primer, speedrunning history, and tech walkthrough, delivered with immaculate charm.
 
 ------------------------------SATURDAY-------------------------------
 
@@ -1439,33 +1439,33 @@ Any% NO DGS
 by Jacobo the Chocobo [WRH]
 host LLK, couch Nazzareno, Jaxler
 1h03m18s (est 1h05m, wr 43m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube 9zB0pZBKrYs+56
-Review: (Have not yet watched)
+Review: A run held back by a few very inconsistent tricks. Wasting a few minutes attempting a cool optional skip is one thing, but the entire run dragged to a halt at one point, until a completely mandatory skip worked, and that just wrecked any enthusiasm. Even before that, it was a routine run at best, not too much in the way of speed tech.
 
 Muchi Muchi Pork! 1.01 (Xb360 - CAVE 2011)
 Harahara
 by Aquas
 host LLK, couch Softdrink, Icarus
 33m40s (est 38m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 14P5vKw2keQ+44
-Review: (Have not yet watched)
+Review: Another of those high-score shmup runs, rather than a speedrun, but an interesting one nonetheless. It's a typical CAVE bullet hell, for the most part, but I've yet to grow tired of people weaving through impossible patterns.
 
 Oddworld: Stranger's Wrath HD (PC - Oddworld Inhabitants 2005, Just Add Water 2012)
 Any% Clipless
 by HuhnerSpeed [WRH]
 host LLK, no couch
 37m32s (est 48m, wr 37m05s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube HlH2_LqM-zM+18
-Review: (Have not yet watched)
+Review: A fun run when things were happening, lots of clever tricks that Huhner pulled off with ease... but unfortunately there were long periods where nothing interesting was happening. Squeezing in a few donations is great, handing the entire middle third of the run over for donation-reading is not. I think a couch, or a more confident self-commentator, would have done much better.
 
 Serious Sam: The First Encounter (PC - Croteam 2001)
 Any%
@@ -1493,12 +1493,12 @@ Thief II: The Metal Age (PC - Looking Glass 2000)
 Any% Normal NewDark
 by Psych0sis
 host cartridgeblowers, couch Jayrude
-1h00m54s (est 1h05m, wr 52m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h00m54s (est 1h05m, wr 52m43s) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube wLwfCOEimZU+21
-Review: (Have not yet watched)
+Review: A neat run, but held back by a lack of tech variety, and a few simple tricks that required many attempts due to inconsistency (or in one case, a safety save). It's not a bad run by any means, probably a great treat for Thief fans, but nothing remarkable.
 
 Comfort Zone (SNES - Nintendo EAD 1990; Orka 2020)
 All Exits 100%
@@ -1597,11 +1597,11 @@ Linear No OoB
 by vlacksr [2RH]
 host Mr. Game and Shout, couch kyleberry_sr, Miinfin
 41m25s (est 45m, wr 39m35s loadless)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube cca381ce1NU+54
-Review: (Have not yet watched)
+Review: A solid run of the Ninja Gaiden-like game. Fairly light on glitches, but still packed with interesting little strategies.
 
 Beat Saber (PC - Beat Games 2019) [SHOWCASE]
 Expert+
@@ -1619,12 +1619,12 @@ Freedom Planet (PC - GalaxyTrail 2014)
 Any% Milla
 TAS by Fladervy, Tris255, Revolucoin
 tasbot dwangoac, tasblock TiKevin83, host marphoria, couch Fladervy [TAS], Tris255 [TAS]
-~28m31s (est 30m, human wr 30m38s)
+~28m31s, 19m43s06ms igt (est 30m, human wr 30m38s)
 Overall ★☆★☆★
 Skill   ☆★☆★☆
 Fun     ★☆★☆★
-Youtube 1T6PnJilqq4+21
-Review: (Apparently forgot to write about TASBlock)
+Youtube yHCjYfFPxTI+21
+Review: A straightforward TAS, in contrast to the wacky antics a lot of TASblocks get up to. Unfortunately it also lasts a bit too long - half an hour doesn't seem like much, but most of the relevant tech is explained within the first few minutes, and then there's few interesting moments scattered among long swathes of fairly samey gameplay.
 
 The Legend of Zelda: Link's Awakening DX (GBC - Nintendo EAD 1998)
 No Wrong Warp
@@ -1635,19 +1635,19 @@ Overall ☆★☆★☆
 Skill   ★☆★☆★
 Fun     ☆★☆★☆
 Youtube bn9rsmaphNI+29
-Review: (Apparently forgot to write about TASBlock)
+Review: Another pretty "normal" TAS, but much more distinct from the RTA run of the game compared to the last. Lots of tricks, even though this category goes out of its way to avoid the most broken. Commentary was perhaps low-energy but still quite informative - this is by far the better of the two TASBlock games in this event.
 
 The Legend of Zelda: Link's Awakening DX (GBC - Nintendo EAD 1998)
 Warps
 TAS by TwistedTammer
 tasbot dwangoac, tasblock TiKevin83, host marphoria, couch TwistedTammer [TAS], GlyphDX
-5m13s06ms (est 5m, human wr 4m34s)
+~3m53s (est 5m, human wr 4m34s)
 Overall ★☆★☆★
 Skill   ☆★☆★☆
 Fun     ★☆★☆★
 Youtube bn9rsmaphNI+1893
-Review: (Apparently forgot to write about TASBlock)
-NM: Something seems very wrong about either that time, or the human wr.
+Review: A much more broken run of the same game, not as interesting but it's a nice short spectacle to gawk at.
+NM: Published is 5m13s06ms, but clearly this wasn't that.
 
 Sekiro: Shadows Die Twice (PC - From 2019)
 Any%
@@ -1669,7 +1669,7 @@ Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
 Youtube Mo1GULCny0k+66
-Review: (Apparently I was just not good at writing actual reviews this day.)
+Review: When a game bothers to have a "No Major Glitches" category, you know the glitched version is going to be bonkers. This doesn't quite get to the level of ACE, but damn if it didn't come close at times. And yet by requiring all dungeons be beaten, it's a decent-sized run, showing off a wider variety of tech.
 
 Super Mario Bros. 35 (Switch - Arika 2020) [SHOWCASE]
 Survival
@@ -1691,18 +1691,19 @@ Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
 Youtube trjxQ53znuY+29
-Review: (Apparently I was just not good at writing actual reviews this day.)
+Review: A supreme Mario runner just absolutely crushes a difficult Mario romhack. Perhaps the only downside is that he blazed through it too fast for the commentary to really keep up.
 
 Pokemon Blue (GB - Game Freak 1996)
 Catch 'em All
 by eddaket [WRH]
 host Brutal_Melo, couch Keizaron, Shenanagans
 1h51m43s (est 1h55m, wr 1h34m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★☆★☆★
+Fun     ★★★★☆
 Youtube fD-4lfa-s_Y+75
-Review: (Have not yet watched)
+Review: A run that's more about insane memory exploits than anything resembling traditional gameplay, but it's still a great watch. It's amazing just how much knowledge of the game you 
+need, to *improvise* a recovery from a mistake in a run like this. And the Pokemon couch continues to be one of the most entertaining groups of people in speedrunning.
 
 The Legend of Zelda: Ocarina of Time (N64 via Wii - Nintendo EAD 1998) [BONUS GAME 6]
 All Dungeons SRM

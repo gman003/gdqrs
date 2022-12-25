@@ -291,11 +291,11 @@ Any% Old Patch
 by Kaadzik [WRH]
 host musical_daredevil, no couch
 2h09m42s (est 2h12m, wr 2h05m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube P_KVlKxk9jE+13
-Review: (Not Yet Reviewed)
+Review: A run that mostly boils down to one glitch, decent movement, and some good routing of all the various mandatory quests. Kaadzik's commentary seemed enthusiastic but was frequently hard to make out, and was mostly just hyping up a donation incentive, rather than offering funny or insightful commentary. Fun to watch at first, but if you find yourself getting weary of it, it never changes.
 
 Batman: Arkham City (PC - Rocksteady 2011)
 Any% Easy
@@ -391,22 +391,22 @@ Any% Easy, No OoB
 by sikynar [3RH]
 host Mr. Game & Shout, couch Skarfelt
 35m50s (est 40m, wr rta 31m01s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 3bcdcnjTZ0c+9
-Review: (Not Yet Reviewed)
+Review: A very pretty metroidvania, though perhaps not the most technical or challenging speedrun. Commentary was generally on point, though the story mentions made no sense to me as a non-player.
 
 Gunvolt Chronicles: Luminous Avenger iX (PC - Inti Creates 2019)
 Any%
 by Benja [2RH]
 host Mr. Game & Shout, couch tinahacks, KeatonRL, MiKenyan
-34m17s (est 38m, wr 31m18s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+34m17s (est 38m, wr 31m18s) [NV]
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube zmS7Clm-vQc+2
-Review: (Not Yet Reviewed)
+Review: A beautiful run, ruined by tech problems. A fast game like this is particularly sensitive to frame hitches or bitrate issues, and this run saw plenty of that. On the commentary side, the severe lag and perhaps too many people on the couch, led to frequent confusing descriptions being said on top of one another. This absolutely would have been a great run, had it been done in-person, or even in a more online-experienced GDQ.
 
 Yono and the Celestial Elephants (PC - Neckbolt 2017)
 No Major Skips
@@ -492,11 +492,11 @@ Glitchless
 by d4gr0n [WRH]
 host Lizstar, no couch
 38m06s (est 45m, wr 36m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube Z2BszKL1e8w
-Review: (Not Yet Reviewed)
+Review: A run heavy on autoscrollers, including some mandatory bonus stages where lag means the fastest strat is literally standing still for a minute. If the rest of the game was a tight, polished run, that might make up for it, but it was typical 16-bit platforming, and d4gron's self-commentary was remarkably low-energy.
 
 Super Turrican (SNES - Factor 5 1993)
 Hard
@@ -525,11 +525,11 @@ Demon's Crest (SNES - Capcom 1994)
 by Z4T0X [WRH]
 host LattMackey, couch bambooshadow
 45m34s (est 50m, wr 38m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube OCl9l9DMtQk+13
-Review: (Not Yet Reviewed)
+Review: Just a pretty bland run. Not much in the way of tech, besides a very precise trick the runner was inconsistent at (with huge time losses), and some pretty weak commentary.
 
 [[[CASTLEVANIA BLOCK]]]
 
@@ -549,11 +549,11 @@ Low%
 by Starwin [3RH]
 host LattMackey, couch ecdysis
 41m08s (est 45m, wr rta 39m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube XFRvhOg45eo+14
-Review: (Not Yet Reviewed)
+Review: A difficult run, and surprisingly done deathless - with better RNG, it could well have been a WR. It's pretty much all execution, no glitches and not even many skips.
 
 Bloodstained: Ritual of the Night (PC - ArtPlay 2019)
 Zangetsu Any% (NMG)
@@ -573,11 +573,11 @@ Any%
 by kitcarsonn [3RH]
 host Nichole Goodnight, couch RedMogo, MF_D00M, Brobey
 37m08s (est 40m, wr 34m42s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube hWycHrKNiK4+21
-Review: (Not Yet Reviewed)
+Review: The problem with runs of unique games, is that it's hard to judge how well someone's playing them, without having done so yourself. I never really got a feel for whether this was jaw-dropping execution or just a well-routed casual play, plus a glitch to skip an entire mechanic almost completely.
 
 Disney's Extreme Skate Adventure (Gamecube - Toys for Bob 2003)
 Any%
@@ -595,11 +595,11 @@ Any% Beginner
 by Biglaw
 host Nichole Goodnight, couch nase
 36m26s (est 37m, wr rta 33m05s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube 5mFsfR_enoM+22
-Review: (Not Yet Reviewed)
+Review: Just not a very interesting speedrun. The score requirements seemed trivial, the execution was basic, maybe there was some interesting routing but we didn't hear anything about it. I didn't actively hate it like a lot of skateboarding runs, but it's not something I'll be rewatching.
 
 Trackmania Nations Forever (PC - Nadeo 2008)
 All Tracks (No E05)
@@ -729,13 +729,13 @@ NM: Assumed Hard difficulty
 Kemono Heroes (Switch - MadGear 2020)
 Beat the Game (Normal Difficulty)
 by GreenZSaber [WRH]
-host DoctorBobtastic, couch danpelgar, tinahacks, The_Sid
-32m13s (est 42m, wr 34m36s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host DoctorBobtastic, couch danpelgar [DEV], tinahacks, The_Sid
+32m13s (est 42m, wr 34m36s) [WR]
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube xvLmQU0kOU4
-Review: (Not Yet Reviewed)
+Review: Alright, the biggest obstacle to enjoying this run was just a technical fault - but when the stream was hitching so badly that you only see about half the gameplay, in alternating five-second chunks, it's hard to recommend watching. Otherwise, it's a pretty run-of-the-mill sort of run - an uncontested leaderboard, one player honing skills but not rising too high, plus some bland, unenthused commentary, even from the dev. Just another casualty of the COVID era, unfortunately.
 
 Kousoku Kaitenzushi (PC - Yukihito Horiguchi 2015)
 All Stages
@@ -843,11 +843,11 @@ Carol Any% (Classic Mode)
 by Revolucion [WRH]
 host Lizstar, couch Tris, UraniumAnchor, Punchy
 44m55s (est 50m, wr 35m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube PGcuMXPR-ww+1
-Review: (Not Yet Reviewed)
+Review: A bit of a clunky run, commentary that just filled space rather than complemented the run. Fortunately, a lot of it's pretty self-explanatory, but it was still not the best showing of this game we've seen.
 
 Sonic the Hedgehog (Genesis - Sonic Team 1991)
 Beat The Game Glitchless
@@ -909,14 +909,11 @@ Review: Not that much different from the RE2 Remake runs I've seen. It's a newer
 
 Devil May Cry 4: Special Edition (PC - Capcom 2015)
 NG Nero/Dante Devil Hunter
-by Mekarazium [WRH]
+by ██████████
 host Bobby Blackwolf, couch DECosmic, VashTSB, bryonato
 1h15m38s (est 1h30m, wr rta 1h10m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
 Youtube aHfnN39pwlI+78
-Review: (Not Yet Reviewed)
+Review: Video was taken down after the runner cheated in a later event (MGR @ SGDQ2022)
 
 ------------------------------THURSDAY-------------------------------
 
@@ -1130,11 +1127,11 @@ Any%
 by Alnak
 host SamWithoutAPlan, no couch
 32m23s (est 32m, wr rta 24m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube tLC-y4E3vSY+12
-Review: (Not Yet Reviewed)
+Review: A surprisingly dull run. The runner had very little energy in his self-commentary, and though the tricks certainly seemed difficult, the amount of quicksave usage made it seem a lot less polished than most speedruns.
 
 Blood (PC - Monolith 1997)
 Any% One Unit Whole, No Episode Warp
@@ -1197,11 +1194,22 @@ Any%
 by Froob [2RH]
 host LLK, no couch
 1h52m52s (est 2h10m, wr rta 1h53m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube loMAG-WznzA+76
-Review: (Not Yet Reviewed)
+Review: A surprisingly engaging run, considering it's basically glitchless and has no singularly difficult tricks. It's just a constant barrage of small speed tech, playing well, and good routing - much like many JRPG speedruns, but with skippable cutscenes and more direct gameplay. And Froob proves that a couch is unnecessary, providing a continual stream of commentary, ranging from the story to the development history to pointing out all the little decisions and adaptations one has to make during a run like this.
+
+Yakuza Kiwami 2 (PC - Ryu Ga Gotoku 2019)
+Majima Saga
+by Froob [2RH]
+host LLK, no couch
+9m40s (est 13m, wr rta 9m40s) [PB]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube loMAG-WznzA+6914
+Review: A short addon run, doesn't add much new but if you spent two hours watching the main Any%, you can stick around for another ten minutes of Majima.
 
 The Legend of Zelda: Ocarina of Time (N64 - Nintendo EAD 1998; TestRunner et al 2018)
 Randomizer
@@ -1243,11 +1251,11 @@ Any%
 by Klooger [WRH]
 host PlanetGhost, couch RedDagger
 1h27m06s (est 1h35m, wr rta 1h24m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube lMkFRWq_Nrw
-Review: (Not Yet Reviewed)
+Review: There may have been more speed tech to this game than I could see, but most of the commentary was drowned out by game audio. Turns out it's hard to hear a quiet explanation of airstrafing while a booming voice is barking orders at the player character. There was some fine twitch shooting and a bit of movement tech, but that's about all I actually got.
 
 We Happy Few (PC - Compulsion 2016)
 We All Fall Down
@@ -1568,22 +1576,22 @@ All Scenes
 by pingval [WRH]
 host Baidol, couch Bjw
 57m17s (est 1h01m, wr rta 52m01s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube NDsRHSoXNzI+84
-Review: (Not Yet Reviewed)
+Review: An unfortunately dull run, considering the skill required for a shmup like this, or the mechanic that actually allows for speed optimizations. But it's an hour of pretty repetitive gameplay, and commentary that dove no further than "this is a hard level" or "it's this character now", neither of which did much to engage.
 
 Ketsui: Kizuna Jigoku Tachi (PS4 - Cave 2003)
 2 Loop (Ura)
 by Moglar5k [WRH][ORH]
 host Baidol, couch Softdrink, kz the kusoplayer
 45m10s (est 50m, wr 42m34s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube 27dQkdph-4w+53
-Review: (Not Yet Reviewed)
+Review: Another bullet-hell shmup, this one with some pretty explicit score-boosting mechanics that made every moment a challenge. Commentary was a bit low-energy but at least informative, so it was still a fun watch.
 
 Dodonpachi Saidaioujou (Xb360 - Cave 2012)
 High Score Showcase
@@ -1613,11 +1621,11 @@ All Missions
 by KZ_FREW
 host Doctor No, couch EnglishBen, Makkebakke
 2h19m28s (est 2h28m, wr rta 2h06m22s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube 7zI3qrbxnPo+3
-Review: (Not Yet Reviewed)
+Review: Some of the best work, trying to translate in-person couch banter to the online age. It's still not quite seamless, didn't quite match the energy levels, but it's close. And though there a lot of the speed tech relies on weird replay glitches, there's not too much that's hard to follow, and relatively few tedious autoscrollers.
 
 Super Smash Bros. (N64 - HAL 1999)
 Break the Target, All Characters Blindfolded
