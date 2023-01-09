@@ -1,128 +1,129 @@
 ====================AWESOME GAMES DONE QUICK 2023====================
-=========Raising $0,000,000 for the Prevent Cancer Foundation========
+=========Raising $0,168,752 for the Prevent Cancer Foundation========
 =========================January 8-15, 2023==========================
 
 -------------------------------SUNDAY--------------------------------
 
 Splatoon 3 (Switch - Nintendo EPD 2022)
-Any%
-by LonTr0 [2RH]
-host Xenadir, couch COUCH
-HhMMmSSs (est 1h05m, wr 57m31s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Any% Pre-2.0.0
+by LonTr0 [WRH]
+host Xenadir, couch Adeptics, Nobobin
+56m33s (est 1h05m, wr 54m16s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-NM: Assume current patch
-WR Haitex 57m31s LonTr0 58m00s Motoro 58m58s
+Review: The speedrun really focuses on the movement mechanics, mostly on abusing them to bypass obstacles entirely. The commentary was remarkably dry for a Nintendo title, but informative.
+
+Splatoon 3 (Switch - Nintendo EPD 2022)
+After Alterna [BONUS]
+by LonTr0 [3RH]
+host Xenadir, couch Adeptics, Nobobin
+10m41s (est 10m, wr 7m54s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube YOUTUBE_ID
+Review: This bonus level ups the challenge significantly, and includes some proper challenging combat. Short but good.
 
 The Legend of Zelda: Breath of the Wild (Switch - Nintendo EPD 2017)
 Any%
 by Player 5 [WRH]
-host Xenadir, couch COUCH
-HhMMmSSs (est 29m, wr 23m53s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Xenadir, couch Limcube, TheRealNoman
+29m55s (est 29m, wr 23m53s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR Player5 23m53s Koroks 24m10s XiaoXiaMi 24m25s
+Review: A very skip-heavy run - a few forced tutorials, then the ending boss rush. There's been some new tech since the last BotW Any% run, but the core nature hasn't changed. It's impressive but again, very dry and technical commentary.
 
 Crash Bandicoot: N. Sane Trilogy (PC - Vicarious Visions 2017)
 Crash 3 Any%
 by Murcaz
-host Xenadir, couch COUCH
-HhMMmSSs (est 50m, wr 53m20s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Xenadir, couch JHobz, Casually Clutching [3RH]
+44m34s (est 50m, wr 53m20s rta)
+Overall ★☆☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR loadless Potty 38m37s owgroovy 38m55s CasuallyClutching 38m57s
+Review: Well, I liked this one better than most Crash runs I've seen. It's mostly a game of mastering some tricky unintended movement mechanics, but there's not much variety to it, and it doesn't look that much faster than a casual run. Add in a lot of simple, near-autoscroller levels, and it's just a hard run to recommend for series outsiders.
 
-Sonic Heroes (GC via Wii - Sonic Team USA 2003)
-Team Dark (Unrestricted)
-by Revolucion [WRH]
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 1h05m, wr 45m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Mirror's Edge Catalyst (PC - DICE 2016)
+NG+
+by CodeNameMeteor [2RH]
+host cartridgeblowers, couch Heki, Mazkud, AlexHXC15 [3RH]
+53m01s (est 55m, wr 49m18s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR revolucion 45m49s Deku_sr 49m06s auraace 59m15s
+Review: A very chill run. Commentary was informative, but also very subdued and quiet. There's a ton of very small skips and sequence breaks, interspersed with some well-executed vanilla gameplay and a few empty sections that never dragged on too long.
 
 Castlevania: Symphony of the Night (Xb360 - KCE Tokyo 1997, 2007)
-Any%
+All Bosses [BONUS]
 by Dr4gonBlitz [WRH]
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 35m, wr 16m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host cartridgeblowers, no couch
+32m40s (est 35m, wr 30m59s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR Dr4gonBlitz 16m26s TlicZealot 16m39s romscout 16m48s
+Review: For a category names "All Bosses", they sure don't have much of an impact. It's almost entirely a movement showcase... much like most of today's runs.
 
 Borderlands: Game of the Year Enhanced (PC - Gearbox 2009, 2019)
 Any% Unrestricted
 by zzrules21 [WRH]
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 1h40m, wr 1h23m43s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host cartridgeblowers, couch UnjustAction Deceptix Amyrlinn
+1h23m49s (est 1h40m, wr 1h23m43s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR loadless zzrules21 1h16m53s Holm 1h43m53s
+Review: This run was enjoyable but just did not have the variety to hold interest for eighty minutes, unless you're a serious Borderlands fan. Nothing really wrong with it, and ZZ's execution seemed excellent, but the constant savequitting and lack of variety really dragged the pacing down.
 
 Cuphead (PC - Studio MDHR 2017) [BONUS GAME 1]
 300%
 by Jason2890 [WRH]
-host ateatree, couch COUCH
-HhMMmSSs (est 1h25m, wr 1h05m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host ateatree, couch Sublime
+1h12m02s (est 1h25m, wr 1h05m44s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR Jason2890 Uramatsu 1h05m56s alex92Tcordobes 1h07m47s
+Review: An infamously difficult game, defeated to absolute completion. There wasn't too much in the way of commentary needed, which all involved used to barrage us with horrendous (and thus hilarious) puns.
 
 Donkey Kong Country 3 (SNES - Rare 1996)
 Any%
 race, Bluepen49 vs laff____ [2RH] vs Shaaf [WRH]
-host ateatree, couch COUCH
-HhMMmSSs (est 55m, wr 45m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host ateatree, couch V0oid
+46m50s, 47m17s, 48m57s (est 55m, wr 45m49s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR Shaaf 45m49s laff_ 45m57s SuiMinD 46m30s
+Review: A heavily polished run, but held back by clunky commentary, a plethora of autoscrollers, and uncompetitive racing. Still a decent run, but we've seen better.
 
 Metal Gear Solid V: Ground Zeroes (PC - Kojima Productions 2014)
 Perfect Stealth/No Kills NG+
 by JosephJoestar316 [2RH]
-host ateatree, couch COUCH
-HhMMmSSs (est 35m, wr 27m00s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host ateatree, couch OneCoolMan [WRH]
+32m02s (est 35m, wr 27m00s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR OneCoolMan JosephJoestar316 27m22s ReallyFrame
+Review: A much snappier Metal Gear run than most. Tight routing, fun commentary, and only a few mistakes. It made me want to actually revisit and finish the game.
 
 Pokemon Mystery Dungeon: Explorers of Sky (DS via 3DS - Chunsoft 2009, aissurteivos 2015)
 Randomizer 10 Dungeon Blitz
 by EpicYoshiMaster
 host Char_bunny, couch COUCH
 HhMMmSSs (est 1h00m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: I can't say I understood half of what was going on, due to a lack of a basic introduction to the game, but I can't say I didn't have fun anyways.
 NM: confirm rando dev
 
 -------------------------------MONDAY--------------------------------
@@ -1389,7 +1390,7 @@ WRs EiP25 AdamFerrari J_duude
 
 TrackMania Turbo (PC - Nadeo 2016)
 All Environments (White, Double Driver)
-cpp? 2p1c? by Rastats, Gyrule_ [WRHs]
+coop? 2p1c? by Rastats, Gyrule_ [WRHs]
 host iggyzig, couch COUCH
 HhMMmSSs (est 37m, wr 24m41s igt)
 Overall N/R
@@ -1727,3 +1728,18 @@ Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not Yet Reviewed)
+
+
+
+
+Sonic Heroes (GC via Wii - Sonic Team USA 2003)
+Team Dark (Unrestricted)
+by Revolucion [WRH]
+host cartridgeblowers, couch COUCH
+HhMMmSSs (est 1h05m, wr 45m49s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube YOUTUBE_ID
+Review: (Not Yet Reviewed)
+WR revolucion 45m49s Deku_sr 49m06s auraace 59m15s
