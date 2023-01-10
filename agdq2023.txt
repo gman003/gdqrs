@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2023====================
-=========Raising $0,168,752 for the Prevent Cancer Foundation========
+=========Raising $0,347,663 for the Prevent Cancer Foundation========
 =========================January 8-15, 2023==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -12,7 +12,7 @@ host Xenadir, couch Adeptics, Nobobin
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube LWFzrPtIt6A+0
 Review: The speedrun really focuses on the movement mechanics, mostly on abusing them to bypass obstacles entirely. The commentary was remarkably dry for a Nintendo title, but informative.
 
 Splatoon 3 (Switch - Nintendo EPD 2022)
@@ -23,7 +23,7 @@ host Xenadir, couch Adeptics, Nobobin
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube LWFzrPtIt6A+3468
 Review: This bonus level ups the challenge significantly, and includes some proper challenging combat. Short but good.
 
 The Legend of Zelda: Breath of the Wild (Switch - Nintendo EPD 2017)
@@ -34,7 +34,7 @@ host Xenadir, couch Limcube, TheRealNoman
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube w1TlQsOzG70+40
 Review: A very skip-heavy run - a few forced tutorials, then the ending boss rush. There's been some new tech since the last BotW Any% run, but the core nature hasn't changed. It's impressive but again, very dry and technical commentary.
 
 Crash Bandicoot: N. Sane Trilogy (PC - Vicarious Visions 2017)
@@ -45,7 +45,7 @@ host Xenadir, couch JHobz, Casually Clutching [3RH]
 Overall ★☆☆☆☆
 Skill   ★★★☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube qxWdonZ8pSE+30
 Review: Well, I liked this one better than most Crash runs I've seen. It's mostly a game of mastering some tricky unintended movement mechanics, but there's not much variety to it, and it doesn't look that much faster than a casual run. Add in a lot of simple, near-autoscroller levels, and it's just a hard run to recommend for series outsiders.
 
 Mirror's Edge Catalyst (PC - DICE 2016)
@@ -56,7 +56,7 @@ host cartridgeblowers, couch Heki, Mazkud, AlexHXC15 [3RH]
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 1RyCTbFVzw4+101
 Review: A very chill run. Commentary was informative, but also very subdued and quiet. There's a ton of very small skips and sequence breaks, interspersed with some well-executed vanilla gameplay and a few empty sections that never dragged on too long.
 
 Castlevania: Symphony of the Night (Xb360 - KCE Tokyo 1997, 2007)
@@ -67,7 +67,7 @@ host cartridgeblowers, no couch
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube zfclFTn2Mco+61
 Review: For a category names "All Bosses", they sure don't have much of an impact. It's almost entirely a movement showcase... much like most of today's runs.
 
 Borderlands: Game of the Year Enhanced (PC - Gearbox 2009, 2019)
@@ -78,7 +78,7 @@ host cartridgeblowers, couch UnjustAction Deceptix Amyrlinn
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube z7TMJDepyro+0
 Review: This run was enjoyable but just did not have the variety to hold interest for eighty minutes, unless you're a serious Borderlands fan. Nothing really wrong with it, and ZZ's execution seemed excellent, but the constant savequitting and lack of variety really dragged the pacing down.
 
 Cuphead (PC - Studio MDHR 2017) [BONUS GAME 1]
@@ -89,7 +89,7 @@ host ateatree, couch Sublime
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 5kjo2i0_FFc+0
 Review: An infamously difficult game, defeated to absolute completion. There wasn't too much in the way of commentary needed, which all involved used to barrage us with horrendous (and thus hilarious) puns.
 
 Donkey Kong Country 3 (SNES - Rare 1996)
@@ -100,7 +100,7 @@ host ateatree, couch V0oid
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube pyV5CTekqsI+4
 Review: A heavily polished run, but held back by clunky commentary, a plethora of autoscrollers, and uncompetitive racing. Still a decent run, but we've seen better.
 
 Metal Gear Solid V: Ground Zeroes (PC - Kojima Productions 2014)
@@ -111,34 +111,22 @@ host ateatree, couch OneCoolMan [WRH]
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube QFW-QAhTIKs+16
 Review: A much snappier Metal Gear run than most. Tight routing, fun commentary, and only a few mistakes. It made me want to actually revisit and finish the game.
 
-Pokemon Mystery Dungeon: Explorers of Sky (DS via 3DS - Chunsoft 2009, aissurteivos 2015)
+Pokemon Mystery Dungeon: Explorers of Sky (DS via 3DS - Chunsoft 2009, DEVELOPER YEAR)
 Randomizer 10 Dungeon Blitz
 by EpicYoshiMaster
-host Char_bunny, couch COUCH
-HhMMmSSs (est 1h00m, no wr)
+host Char_bunny, couch Strifesada
+46m44s (est 1h00m, no wr)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 9TJQi4MTm-A+105
 Review: I can't say I understood half of what was going on, due to a lack of a basic introduction to the game, but I can't say I didn't have fun anyways.
 NM: confirm rando dev
 
 -------------------------------MONDAY--------------------------------
-
-Blade II (XbC - Mucky Foot 2002)
-Any% NG+
-by Mattmatt [WRH]
-host Char_bunny, couch COUCH
-HhMMmSSs (est 55m, wr 42m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs Mattmatt ToxicTT Twan
 
 Vampire: The Masquerade - Bloodlines (PC - Troika 2004)
 Any% Nosferatu
@@ -148,7 +136,7 @@ HhMMmSSs (est 45m, wr 29m34s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube uCCVlPH9KSE+85
 Review: (Not Yet Reviewed)
 WRs igt speedfriend 27m50s Vysetra 29m42s Vlangusy
 
@@ -160,7 +148,7 @@ HhMMmSSs (est 23m, wr 16m58s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 8JGxn4H0nic+126
 Review: (Not Yet Reviewed)
 NM: used Emulator category even though running on HW
 WRs Kelecat juniorSM 17m03s SxyTimbyy
@@ -173,7 +161,7 @@ HhMMmSSs (est 30m, wr 27m23s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 4FzM4lipCd8+140
 Review: (Not Yet Reviewed)
 WRs Kainalo Tezur0
 
@@ -185,7 +173,7 @@ HhMMmSSs (est 25m, wr 16m12s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 0ZJ40sQkKhY+210
 Review: (Not Yet Reviewed)
 WRs S1nni Murtag AcridStingray3
 
@@ -197,7 +185,7 @@ HhMMmSSs (est 35m, wr 24m15s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube AFqXA4KGHoA+110
 Review: (Not Yet Reviewed)
 WRs sharif Wildfireskunk jquestionmark
 
@@ -209,7 +197,7 @@ HhMMmSSs (est 35m, wr 33m20s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube KAFLtWy16y8+105
 Review: (Not Yet Reviewed)
 WRs WhizzyTheElephant KPloggz ElephantOfDestiny
 
@@ -221,7 +209,7 @@ HhMMmSSs (est 35m, wr 26m15s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube G817CYDjSEg+0
 Review: (Not Yet Reviewed)
 WRs UN_oco Symm DECosmic 29m19s
 
@@ -233,7 +221,7 @@ HhMMmSSs (est 40m, wr 33m11s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube q97Ud7d0Loo+19
 Review: (Not Yet Reviewed)
 WRs pmcTRILOGY niedle
 
@@ -245,7 +233,7 @@ HhMMmSSs (est 35m, wr 28m32s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube zrPPgfIr2pg+26
 Review: (Not Yet Reviewed)
 WRs EiP25 Etarnal_wind livelyraccoon
 
@@ -257,7 +245,7 @@ HhMMmSSs (est 1h12m, wr 50m48s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube pLE0GjhyQfg+30
 Review: (Not Yet Reviewed)
 WRs Yorisiro WoadyB 1h04m36s hinge
 
@@ -269,60 +257,53 @@ HhMMmSSs (est 32m, wr 25m21s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube dCjlUMU9tsc+193
 Review: (Not Yet Reviewed)
 WRs SapphireRose Hippienator Tf4rc3
 
 Skate (Xb360 via XSX - EA Black Box 2007)
 X Games%
-by SupaScared
-host Lanaruse, couch COUCH
-HhMMmSSs (est 55m, wr 44m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs m1btlyz 44m09s TrobicalsBeach TINFOILGRILLS SupaScared 45m31s
+by SupaScared [3RH]
+host Lanaruse, no couch
+45m04s (est 55m, wr 44m09s) [PB?]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
+Youtube SSdz2QDb1F8+42
+Review: A pretty clean execution of a pretty dull speed game. So much of the runtime was taken up by timed segments that it never felt like the runner's skill was actually making him any faster. Maybe it hits different if you're familiar with the game and its difficult controls, but I wasn't seeing it.
 
 Shovel Knight Dig (PC - Nitrome 2022)
 Any%
 race davidtki [WRH] vs Luukie13 [2RH]
-host Lanaruse, couch COUCH
-HhMMmSSs (est 20m, wr 11m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Lanaruse, couch DanTheVP MooMooAkai
+12m40s, 13m20s (est 20m, wr 11m44s) [NV]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-NM: Assumed any% restricted
-WRs davidtki Luukie13 13m08s Norkas
+Review: A short race, but a fun one to watch. The RNG was kept manageable by starting with some safety items, but there were still plenty of curveballs.
 
 CULTIC (PC - Jasozz 2021)
 Any% Inbounds
 by Kaos_Wulf [2RH]
-host Lanaruse, couch COUCH
-HhMMmSSs (est 20m, wr 12m53s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Lanaruse, couch Jasozz [DEV]
+15m56s (est 20m, wr 12m53s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-NM: Assumed chapter one
-WRs haste KaosWulf 15m52s
+Review: A fast-paced boomer shooter run, a few neat skips in between just good gameplay. The dev on the couch offered some pretty deep insight into the technical side, which I loved, leaving the runner to handle the actual speedrun commentary.
 
 Yakuza Kiwami (PC - Ryu Ga Gotoku 2016, 2019)
 NG+
 by BigNoNo [WRH]
 host Shado_Temple, couch COUCH
-HhMMmSSs (est 1h40m, wr 1h35m35s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h35m14s (est 1h40m, wr 1h35m35s rta) [WR?]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-NM: assumed easy, 240
-WRs loadless 1h29m04s BigNoNo Tojimaru SkittlesTheChemist
+Review: Yakuza series speedruns all differ in some way. Kiwami is apparently the shooter of the bunch - this run swaps a lot of the easier brawls for shotgun blasts. Somehow this ends up being a chill run, anyways.
 
 TMNT Shredder's Revenge (PC - Tribute Games 2022)
 Coop 2v2 Any% Arcade Chill
@@ -339,75 +320,68 @@ WRs T3_9_10_21 + GalaxyDave
 Marvel's Spider-Man: Miles Morales (PS5 - Insomniac 2020)
 Any%
 by Pessilist [WRH]
-host briesbe, couch COUCH
-HhMMmSSs (est 2h40m, wr 2h28m29s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host briesbe, couch BurkeMaverick, RebelDragon95, Corvimae
+2h31m55s (est 2h40m, wr 2h28m29s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs igt Pessilist 1h35m58s SpiderMatt OGGaming
+Review: Many runs have had to tackle the problem of long, unskippable cutscenes. Some make up for it with ultra-precise routing of every battle that can be explained - this one, most battles are improvised. Some make up for it with story and lore explanations - this one didn't really bother. Some make up for it with couch shenanigans, and... well, they tried. Chalk this one up to another victim of the online format, maybe.
 
 Portal (PC - Valve 2007) [BONUS GAME 2]
 Airboat%
 by Msushi [3RH]
-host briesbe, couch COUCH
-HhMMmSSs (est 20m, wr 14m37s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host briesbe, couch BaileyP2SR
+22m30s (est 20m, wr 14m37s rta)
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs loadless Nyht 13m48s Dirtch Msushi 16m42s
+Review: An extremely silly category, run with manic energy. Probably the most enjoyable run of the marathon so far.
 
 BioShock (PC - 2K Boston 2007)
 Any%
 by bloodthunder
-host briesbe, couch COUCH
-HhMMmSSs (est 45m, wr 32m23s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host briesbe, no couch
+35m53s (est 45m, wr 32m23s rta)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs loadless KPCzombie 27m58s PRI50NER SerSanju
+Review: A fairly glitchy run, with remarkably chill commentary for such a dark game.
 
 Fallout 3 (PC - Bethesda 2008)
 All Quests
 by BananaPegasus [WRH]
-host musical_daredevil, couch COUCH
-HhMMmSSs (est 1h30m, wr 1h15m13s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host musical_daredevil, couch Radioactiv
+1h18m41s (est 1h30m, wr 1h15m13s rta) [NV]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-NM: Assumed Main Game only
-WRs loadless BananaPegasus 1h13m13s Jabo Elongated_Musketgun
+Review: Like a lot of RPG runs, this run is an intricate knot of overlapping questlines. And being a Bethesda game, it has a TON of glitches, some useful... and one that required a console command to fix. Oops?
 
 Hitman: Blood Money (PC - IO Interactive 2006)
-Any%
+Pro/SA [BONUS]
 by Threeballer [WRH]
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 30m, wr 24m30s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Nichole Goodnight, no couch
+32m18s (est 30m, wr 24m30s rta) [NV]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs loadless Threeballer 24m05s BloodDragon911 AlphaBrother
+Review: A game based around learning complex, clockwork levels is ripe for speedrunning. Threeballer had some trouble with AI manipulations not working quite right, but the on-the-fly adaptations were still a solid showcase of skill.
 
 Fable Anniversary (PC - Lionhead 2004, 2014)
 Any%
 by SeraVenza [3RH]
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 1h20m, wr 1h04m17s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Nichole Goodnight, couch Ligitacy, ReVo [2RH?], Etem
+1h14m15s (est 1h20m, wr 1h04m17s rta)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs loadless Ligitacy 57m25s ReVoSoulTaker 57m49s SeraVenza 58m02s
+Review: It's fairly typical RPG speedrun stuff. Glitch to get the best weapon early, glitch to max out your stats, glitch through some doors to bypass a lot of content, and then just slam through everything else. But doing that in a Fable run, with a Fable community on the couch, somehow highlights the absurdity of it all.
 
 ------------------------------TUESDAY--------------------------------
 
@@ -446,6 +420,18 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not Yet Reviewed)
 WRs Bobbykaze desa 38m55s Garl_Memory
+
+Blade II (XbC - Mucky Foot 2002)
+Any% NG+
+by Mattmatt [WRH]
+host Char_bunny, couch COUCH
+HhMMmSSs (est 55m, wr 42m17s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube YOUTUBE_ID
+Review: (Not Yet Reviewed)
+WRs Mattmatt ToxicTT Twan
 
 Goat Simulator (PC - Coffee Stain 2014)
 All Trophies (Base Game)
