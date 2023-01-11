@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2023====================
-=========Raising $0,347,663 for the Prevent Cancer Foundation========
+=========Raising $0,589,577 for the Prevent Cancer Foundation========
 =========================January 8-15, 2023==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -131,24 +131,34 @@ NM: confirm rando dev
 Vampire: The Masquerade - Bloodlines (PC - Troika 2004)
 Any% Nosferatu
 by Vysetra [2RH]
-host Char_bunny, couch COUCH
-HhMMmSSs (est 45m, wr 29m34s rta)
+host Char_bunny, couch Vynn
+37m50s (est 45m, wr 29m34s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube uCCVlPH9KSE+85
 Review: (Not Yet Reviewed)
-WRs igt speedfriend 27m50s Vysetra 29m42s Vlangusy
 
-SSX (PS2 - EA Canada 2000)
-All Race Golds (Single Event)
-by junior
-host Char_bunny, couch COUCH
-HhMMmSSs (est 23m, wr 16m58s)
+Tony Hawk's Pro Skater 4 (PC - Robomodo 2012)
+Any%
+by Nase
+host Char_bunny, couch Party Man X
+38m05s (est 40m, wr MMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube 8JGxn4H0nic+126
+Review: (Not Yet Reviewed)
+
+SSX (PS2 - EA Canada 2000)
+All Race Golds (Single Event)
+by junior
+host Char_bunny, couch Helix
+19m56s (est 23m, wr 16m58s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube Sc_HHCly5F8+0
 Review: (Not Yet Reviewed)
 NM: used Emulator category even though running on HW
 WRs Kelecat juniorSM 17m03s SxyTimbyy
@@ -156,8 +166,8 @@ WRs Kelecat juniorSM 17m03s SxyTimbyy
 Psi-Ops: The Mindgate Conspiracy (PC - Midway 2004)
 Any%
 by Kainalo [WRH]
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 30m, wr 27m23s rta)
+host THEKyleThomas, couch KilledByAPixel, Timo★, yisk
+30m40s (est 30m, wr 27m23s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -168,8 +178,8 @@ WRs Kainalo Tezur0
 Dust: An Elysian Tail (PC - Dean Dodrill 2012, 2013)
 Any% Warps
 by AggytheAron
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 25m, wr 16m12s)
+host THEKyleThomas, couch KatLink
+24m03s (est 25m, wr 16m12s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -180,8 +190,8 @@ WRs S1nni Murtag AcridStingray3
 Ax Battler: A Legend of Golden Axe (Game Gear - Aspect 1991)
 100%
 by sharif [WRH]
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 35m, wr 24m15s)
+host THEKyleThomas, couch jquestionmark [3RH]
+29m23s (est 35m, wr 24m15s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -192,8 +202,8 @@ WRs sharif Wildfireskunk jquestionmark
 Cyber Hook (PC - Blazing Stick 2020)
 Full Game Marathon
 by squeali0
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 35m, wr 33m20s)
+host THEKyleThomas, couch Fell, cyan
+32m22s (est 35m, wr 33m20s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -204,8 +214,8 @@ WRs WhizzyTheElephant KPloggz ElephantOfDestiny
 Gungrave (PS2 - Red 2002)
 Any%
 by DECosmic [3RH]
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 35m, wr 26m15s)
+host Bobby Blackwolf, couch pmcTRILOGY
+30m29s (est 35m, wr 26m15s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -216,8 +226,8 @@ WRs UN_oco Symm DECosmic 29m19s
 Armored Core: Project Phantasma (PS1 via PSTV - From 1997)
 Any%
 by pmcTRILOGY [WRH]
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 40m, wr 33m11s)
+host Bobby Blackwolf, couch peaches, Chef Lu Bu
+35m35s (est 40m, wr 33m11s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -228,8 +238,8 @@ WRs pmcTRILOGY niedle
 Bomberman 64: The Second Attack! (N64 - Hudson Soft 1997)
 Any%
 by EiP [WRH]
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 35m, wr 28m32s)
+host Bobby Blackwolf, couch yunagi
+30m08s (est 35m, wr 28m32s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -240,8 +250,8 @@ WRs EiP25 Etarnal_wind livelyraccoon
 Onimusha 2: Samurai's Destiny (PS2 - Capcom 2002)
 Any% Easy No Ultimate
 by Woadyb [2RH]
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 1h12m, wr 50m48s)
+host Bobby Blackwolf, couch LonerHero
+1h15m10s (est 1h12m, wr 50m48s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -252,8 +262,8 @@ WRs Yorisiro WoadyB 1h04m36s hinge
 Superliminal (PC - Pillow Castle 2019)
 All Collectibles
 by Ozmourn
-host Lanaruse, couch COUCH
-HhMMmSSs (est 32m, wr 25m21s)
+host Lanaruse, couch Sapphire
+30m53s (est 32m, wr 25m21s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -280,7 +290,7 @@ host Lanaruse, couch DanTheVP MooMooAkai
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube Fp4hwyfBS7c+36
 Review: A short race, but a fun one to watch. The RNG was kept manageable by starting with some safety items, but there were still plenty of curveballs.
 
 CULTIC (PC - Jasozz 2021)
@@ -291,29 +301,29 @@ host Lanaruse, couch Jasozz [DEV]
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube ViHZuGM0z0U+19
 Review: A fast-paced boomer shooter run, a few neat skips in between just good gameplay. The dev on the couch offered some pretty deep insight into the technical side, which I loved, leaving the runner to handle the actual speedrun commentary.
 
 Yakuza Kiwami (PC - Ryu Ga Gotoku 2016, 2019)
 NG+
 by BigNoNo [WRH]
-host Shado_Temple, couch COUCH
+host Shado_Temple, no couch
 1h35m14s (est 1h40m, wr 1h35m35s rta) [WR?]
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube K4QCEmSqTbQ+15
 Review: Yakuza series speedruns all differ in some way. Kiwami is apparently the shooter of the bunch - this run swaps a lot of the easier brawls for shotgun blasts. Somehow this ends up being a chill run, anyways.
 
 TMNT Shredder's Revenge (PC - Tribute Games 2022)
 Coop 2v2 Any% Arcade Chill
 race GeneralAndrews, Dospostmann [2RHs] vs Benja, Paul-Knives [3RHs]
-host Shado_Temple, couch COUCH
-HhMMmSSs (est 1h05m, wr 59m25s)
+host Shado_Temple, couch junkyard_dave, ateatree, Arispici
+1h00m23s (est 1h05m, wr 59m25s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Vomk5XfxyUs+15
 Review: (Not Yet Reviewed)
 WRs T3_9_10_21 + GalaxyDave
 
@@ -325,7 +335,7 @@ host briesbe, couch BurkeMaverick, RebelDragon95, Corvimae
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube tDUuwEGhmoU+0
 Review: Many runs have had to tackle the problem of long, unskippable cutscenes. Some make up for it with ultra-precise routing of every battle that can be explained - this one, most battles are improvised. Some make up for it with story and lore explanations - this one didn't really bother. Some make up for it with couch shenanigans, and... well, they tried. Chalk this one up to another victim of the online format, maybe.
 
 Portal (PC - Valve 2007) [BONUS GAME 2]
@@ -336,7 +346,7 @@ host briesbe, couch BaileyP2SR
 Overall ★★★★☆
 Skill   ★★☆☆☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube zGEQH21SsSI+0
 Review: An extremely silly category, run with manic energy. Probably the most enjoyable run of the marathon so far.
 
 BioShock (PC - 2K Boston 2007)
@@ -347,7 +357,7 @@ host briesbe, no couch
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube XBtM3lRRfEI+8
 Review: A fairly glitchy run, with remarkably chill commentary for such a dark game.
 
 Fallout 3 (PC - Bethesda 2008)
@@ -358,7 +368,7 @@ host musical_daredevil, couch Radioactiv
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 5vs4SpaujUM+0
 Review: Like a lot of RPG runs, this run is an intricate knot of overlapping questlines. And being a Bethesda game, it has a TON of glitches, some useful... and one that required a console command to fix. Oops?
 
 Hitman: Blood Money (PC - IO Interactive 2006)
@@ -369,7 +379,7 @@ host Nichole Goodnight, no couch
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube jhR__RVLbVU+1
 Review: A game based around learning complex, clockwork levels is ripe for speedrunning. Threeballer had some trouble with AI manipulations not working quite right, but the on-the-fly adaptations were still a solid showcase of skill.
 
 Fable Anniversary (PC - Lionhead 2004, 2014)
@@ -380,7 +390,7 @@ host Nichole Goodnight, couch Ligitacy, ReVo [2RH?], Etem
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube H1faNSF-TT0+1
 Review: It's fairly typical RPG speedrun stuff. Glitch to get the best weapon early, glitch to max out your stats, glitch through some doors to bypass a lot of content, and then just slam through everything else. But doing that in a Fable run, with a Fable community on the couch, somehow highlights the absurdity of it all.
 
 ------------------------------TUESDAY--------------------------------
@@ -388,72 +398,72 @@ Review: It's fairly typical RPG speedrun stuff. Glitch to get the best weapon ea
 Ape Escape 2 (PS3 - SCE Japan 2002)
 Any%
 by Liquid Squid [WRH]
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 1h00m, wr 50m31s)
+host Nichole Goodnight, no couch
+55m56s (est 1h00m, wr 50m31s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Vk_lpeocvFY+0
 Review: (Not Yet Reviewed)
 WRs Squid azaasu WntLuna
 
 Frogun (PC - Molegato 2022)
 Any%
 by Traitor [2RH]
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 50m, wr 44m51s igt)
+host Nichole Goodnight, couch TheHellfridge [WRH], trihex
+46m26s (est 50m, wr 44m51s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube nsoSSXnxfGc+0
 Review: (Not Yet Reviewed)
 WRs TheHellfridge dtraitor1 47m54s PointyPaprika
 
 MediEvil: Resurrection (PSP - SCE Cambridge 2005)
 Any%
 by desa [2RH]
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 50m, wr 37m43s)
+host SporadicErratic, no couch
+37m49s (est 50m, wr 37m43s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube DmX6N0D2em8+0
 Review: (Not Yet Reviewed)
 WRs Bobbykaze desa 38m55s Garl_Memory
 
 Blade II (XbC - Mucky Foot 2002)
 Any% NG+
 by Mattmatt [WRH]
-host Char_bunny, couch COUCH
-HhMMmSSs (est 55m, wr 42m17s)
+host Char_bunny, couch Tom Forsyth
+46m45s (est 55m, wr 42m17s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube xfRtV9MrXho+0
 Review: (Not Yet Reviewed)
 WRs Mattmatt ToxicTT Twan
 
 Goat Simulator (PC - Coffee Stain 2014)
 All Trophies (Base Game)
 by Riekelt [3RH]
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 20m, wr 11m54s)
+host SporadicErratic, no couch
+16m26s (est 20m, wr 11m54s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube pQGHLYz3jQs+0
 Review: (Not Yet Reviewed)
 WRs Maygik DerToSt Riekelt 14m46s
 
 Illbleed (Dreamcast - Crazy Games 2001)
 Any%
 by Punchy [WRH]
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 1h20m, wr 1h16m06s)
+host SporadicErratic, couch Ecdycis
+1h19m38s (est 1h20m, wr 1h16m06s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube DIBKDo7cV-c+42
 Review: (Not Yet Reviewed)
 NM: Assumed Bad Ending
 WRs Punchy umbrellajill Naegleria
@@ -461,57 +471,57 @@ WRs Punchy umbrellajill Naegleria
 Wavetale (Stadia - Thunderful 2021)
 Any% No Major Skips
 by Glint [2RH]
-host SporadicErratic, couch COUCH
-HhMMmSSs (est 1h10m, wr 1h02m24s)
+host SporadicErratic, couch Bytez, Lemuura, YANN
+57m18s (est 1h10m, wr 1h02m24s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Bi-5qQlWsZc+4
 Review: (Not Yet Reviewed)
 WRs Lemuura G-lint 1h07m09s SaiaiNoOzu
 
 Burnout Paradise Remastered (PC - Criterion 2008, 2018)
 Big Surf Island Any%
 by sawtoooooth [WRH]
-host Argick, couch COUCH
-HhMMmSSs (est 30m, wr 24m41s)
+host Argick, couch Miso_Nicomi, MiddleSnail
+26m05s (est 30m, wr 24m41s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube EptCN53vJ48+0
 Review: (Not Yet Reviewed)
 WRs sawtoooooth burninrubber LJack009
 
 Astral Chain (Switch - PlatinumGames 2019)
 Any% (No Abilities)
 by Ratyu [WRH]
-host Argick, couch COUCH
-HhMMmSSs (est 2h40m, wr 2h29m23s)
+host Argick, couch Kap, Herreteman [3RH]
+2h34m38s (est 2h40m, wr 2h29m23s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 0dzJShw1ASg+0
 Review: (Not Yet Reviewed)
 WRs ratyu kure_rta Herreteman
 
 Castlevania: Harmony of Despair (Xb360 - Konami 2010)
 Solo All Character NG+
 by KeynNaka [2RH]
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 45m, wr 25m20s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host THEKyleThomas, couch JupiterClimb
+28m44s (est 45m, wr 25m20s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: An obscure throwback Castlevania game, built around couch multiplayer. That limits any exploits to skipping just the majority of a level, which does happen a few times, but there's also some good boss-melting combat and some interesting routing.
 NM: assumed Hard, Chapters 1-11
 WRs sn0w_mountain KeynNaka 27m20s RosenKreis
 
 Castlevania: Aria of Sorrow (PC - KCE Tokyo 2003)
 Any% No 0HP (Standard)
-by? JupiterClimb [2RH], Chewy4u [WRH]
+race JupiterClimb [2RH] vs Chewy4u [WRH]
 host THEKyleThomas, couch COUCH
-HhMMmSSs (est 18m, wr 11m41s)
+13m24s, 14m16s (est 18m, wr 11m41s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -520,101 +530,124 @@ Review: (Not Yet Reviewed)
 NM: Assumed Soma Any% No 0HP
 WRs Chewy4u JupiterClimb 11m46s MisterL
 
-Fashion Police Squad (PC - Mopeful 2022)
-Any%
-by danejerus
+Castlevania: Aria of Sorrow (PC - KCE Tokyo 2003)
+Julius Any%
+by JupiterClimb [2RH]
 host THEKyleThomas, couch COUCH
-HhMMmSSs (est 50m, no wr)
+HhMMmSSs (est 18m, wr 5m15s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not Yet Reviewed)
-NM: speedrun.com leaderboards empty, no full-game runs?
+
+Fashion Police Squad (PC - Mopeful 2022)
+Any%
+by danejerus [WRH]
+host THEKyleThomas, couch Miika [DEV], Bryonato, Amyrlinn
+46m16s (est 50m, wr 38m44s loadless)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★★
+Youtube YOUTUBE_ID
+Review: When a game is as silly as this, it takes some real work to outshine it. Danejerus pulls it off with style. Add in some exasparated sighs from the dev and some shine from the rest of the couch, and you've got one of the funniest runs in years. But underneath it all is a surprisingly good speedrun.
+
+Fashion Police Squad (PC - Mopeful 2022)
+Challenge 3 [BONUS]
+by danejerus
+host THEKyleThomas, couch Miika [DEV], Bryonato, Amyrlinn
+3m01s (est 10m, wr 2m27s loadless)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube YOUTUBE_ID
+Review: A fairly quick but difficult bonus level. Some tricky platforming, executed pretty well.
 
 Transistor (PC - Supergiant 2014)
 Any%
 by Kass [WRH]
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 50m, wr 37m33s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host THEKyleThomas, couch Ele, Syna Maur [2RH]
+44m58s (est 50m, wr 37m33s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs loadless KassXCII 35m56s SynaMaur Cadarev
+Review: Suitably, this run is a huge pile of glitches. But it still has a fair bit of down time. A good run to vibe to, especially if you like art deco cyberpunk, but not too thrilling a watch.
 
 Super Mario Galaxy 2 (Wii via Wii U VC - Nintendo EAD 2010)
 Any%
 race SuperViperT302 vs HardcoreGaming vs ImJhay [WRH] vs MutantsAbyss
-host Nukkuler, couch COUCH
-HhMMmSSs (est 3h10m, wr 2h54m55s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Nukkuler, couch Rox, SpikeVegeta
+2h54m51s, 2h59m05s, 3h00m53s, 3h03m55s (est 3h10m, wr 2h54m55s) [WR]
+Overall ★★★★★
+Skill   ★★★★★
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs Jhay goryuya Doopsie
+Review: Three hours of gamers absolutely *crushing* a run packed with dangerous tricks, commentated by another experienced Mario runner and the inestimable SpikeVegeta. This would have been a highlight even if one runner *hadn't* gotten on an absolutely insane pace. About the only critique I can make is that it wasn't easy to follow who was leading, due to frequent route divergences and the game rarely displaying progress totals.
 
 Jak II (PS2 - Naughty Dog 2003)
 Any%
 by rRubiks
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 1h05m, wr 54m35s)
+host cartridgeblowers, couch G3Catcher, TJGame5rs, Aslov [WRH]
+1h03m51s (est 1h05m, wr 54m35s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: (Not Yet Reviewed) (I did have this on but I was paying so little attention that I feel bad trying to review it.)
 NM: Could also be HD Collection or 2017 Release, but went with Original
 WR aslov headstrong1290 Ouiji
 
 Outer Wilds (PC - Mobius Digital 2019)
 Stranger 100%
 by ptminsker [WRH]
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 35m, wr 21m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host cartridgeblowers, couch TheStrangePie [2RH], DeRockProject
+26m01s (est 35m, wr 21m09s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: A chill run, there's a lot of tech but the explanations were pretty light. Good vibes but that's about it.
 WRs ptminsker thestrangepie proxbalance
-
-Resident Evil Village: Shadow of Rose (PC - Capcom 2021) [BONUS GAME 3]
-Hardcore
-by spicee [WRH]
-host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 50m, wr 41m34s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs spiceeTV 7rayD Nindo
 
 Ratchet & Clank: Up Your Arsenal (PS3 - Insomniac 2004)
 All Titanium Bolts
 by Scottobozo [WRH]
-host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 1h25m, wr 1h07m50s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host AnEternalEnigma, couch Dylwingo, Xemmypoo [2RH?], Torpedo
+1h09m57s (est 1h25m, wr 1h07m50s rta)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: This run had a lot of tricks, from simple death abuses to some pretty complex technical exploits. The commentary was a bit vague on how a lot of it actually worked but the long chains of inputs kind of speak for themselves, most of the time.
 WRs loadless Scottobozo 1h07m29s xem92 king_dedede
+
+[[[SPOOKY BLOCK]]]
+
+Resident Evil Village: Shadow of Rose (PC - Capcom 2021) [BONUS GAME 3]
+Hardcore
+by 7rayD [2RH]
+host AnEternalEnigma, couch spicee [WRH], Captain Ezekiel
+47m32s (est 50m, wr 41m34s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube YOUTUBE_ID
+Review: A nice, shorter RE run than usual. It's still mostly dodging around enemies while bouncing between required items, practically glitchless, but the boss fights are tightly planned (and impressively improvised when derailed).
+WRs spiceeTV 7rayD Nindo
+
+------------------------------WEDNESDAY------------------------------
 
 Resident Evil 7 (PC - Capcom 2017)
 End of Zoe Any%
 by Maxylobes [WRH]
 host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 22m, wr 19m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+20m28s (est 22m, wr 19m44s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: A mild departure from the series, the speedrun being focused on melee combat. At this length, it's probably worth checking out if you're interested, but it's no must-watch.
 NM: Assumed Easy NG
 WRs maxylobes Akaya d0rtmunder
 
@@ -622,16 +655,14 @@ Poppy Playtime: Chapter 2 (PC - Mob Entertainment 2022)
 100%
 by Nerd_Squared [3RH]
 host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 30m, wr 19m38s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+24m39s (est 30m, wr 19m38s rta)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: This is apparently the new mega-popular Kid-Friendly Horror game, now that FNAF has declined. The speedrun is pretty basic (a few skips over almost all the content, and then basic walking to each objective) and the commentary offered little of interest, to either newcomers or series fans alike.
 NM: Assumed OOB
 WRs loadless _QqQ_  18m46s MutantAye Nerd_Squared 20m12s
-
-------------------------------WEDNESDAY------------------------------
 
 Dead Space 3 (PC - Visceral 2013)
 Any%
@@ -657,6 +688,8 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not Yet Reviewed)
 WR loadless Shmumbler  25m03 wiekds
+
+[[[/SPOOKY BLOCK]]]
 
 Mortal Kombat: Shaolin Monks (PS2 - Midway LA 2005)
 Any%
