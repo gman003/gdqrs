@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2023====================
-=========Raising $0,589,577 for the Prevent Cancer Foundation========
+=========Raising $0,860,921 for the Prevent Cancer Foundation========
 =========================January 8-15, 2023==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -512,23 +512,20 @@ host THEKyleThomas, couch JupiterClimb
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube MYPL_1AYtVw+33
 Review: An obscure throwback Castlevania game, built around couch multiplayer. That limits any exploits to skipping just the majority of a level, which does happen a few times, but there's also some good boss-melting combat and some interesting routing.
-NM: assumed Hard, Chapters 1-11
-WRs sn0w_mountain KeynNaka 27m20s RosenKreis
 
 Castlevania: Aria of Sorrow (PC - KCE Tokyo 2003)
 Any% No 0HP (Standard)
 race JupiterClimb [2RH] vs Chewy4u [WRH]
-host THEKyleThomas, couch COUCH
+host THEKyleThomas, couch halgorithm, GarniTexas, Berix
 13m24s, 14m16s (est 18m, wr 11m41s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube bHwKt5ps0Tg+30
 Review: (Not Yet Reviewed)
 NM: Assumed Soma Any% No 0HP
-WRs Chewy4u JupiterClimb 11m46s MisterL
 
 Castlevania: Aria of Sorrow (PC - KCE Tokyo 2003)
 Julius Any%
@@ -538,7 +535,7 @@ HhMMmSSs (est 18m, wr 5m15s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube bHwKt5ps0Tg+1181
 Review: (Not Yet Reviewed)
 
 Fashion Police Squad (PC - Mopeful 2022)
@@ -549,7 +546,7 @@ host THEKyleThomas, couch Miika [DEV], Bryonato, Amyrlinn
 Overall ★★★★☆
 Skill   ★★★☆☆
 Fun     ★★★★★
-Youtube YOUTUBE_ID
+Youtube mS0Ah6zFIwM+1
 Review: When a game is as silly as this, it takes some real work to outshine it. Danejerus pulls it off with style. Add in some exasparated sighs from the dev and some shine from the rest of the couch, and you've got one of the funniest runs in years. But underneath it all is a surprisingly good speedrun.
 
 Fashion Police Squad (PC - Mopeful 2022)
@@ -560,7 +557,7 @@ host THEKyleThomas, couch Miika [DEV], Bryonato, Amyrlinn
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube mS0Ah6zFIwM+2947
 Review: A fairly quick but difficult bonus level. Some tricky platforming, executed pretty well.
 
 Transistor (PC - Supergiant 2014)
@@ -571,7 +568,7 @@ host THEKyleThomas, couch Ele, Syna Maur [2RH]
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube MRtnnmGEg8I+3
 Review: Suitably, this run is a huge pile of glitches. But it still has a fair bit of down time. A good run to vibe to, especially if you like art deco cyberpunk, but not too thrilling a watch.
 
 Super Mario Galaxy 2 (Wii via Wii U VC - Nintendo EAD 2010)
@@ -582,7 +579,7 @@ host Nukkuler, couch Rox, SpikeVegeta
 Overall ★★★★★
 Skill   ★★★★★
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube nTpXQ9hSq_w+1
 Review: Three hours of gamers absolutely *crushing* a run packed with dangerous tricks, commentated by another experienced Mario runner and the inestimable SpikeVegeta. This would have been a highlight even if one runner *hadn't* gotten on an absolutely insane pace. About the only critique I can make is that it wasn't easy to follow who was leading, due to frequent route divergences and the game rarely displaying progress totals.
 
 Jak II (PS2 - Naughty Dog 2003)
@@ -593,7 +590,7 @@ host cartridgeblowers, couch G3Catcher, TJGame5rs, Aslov [WRH]
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 3u3ut_9FLLk+1
 Review: (Not Yet Reviewed) (I did have this on but I was paying so little attention that I feel bad trying to review it.)
 NM: Could also be HD Collection or 2017 Release, but went with Original
 WR aslov headstrong1290 Ouiji
@@ -606,7 +603,7 @@ host cartridgeblowers, couch TheStrangePie [2RH], DeRockProject
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube 8xn9XlUlN-s+86
 Review: A chill run, there's a lot of tech but the explanations were pretty light. Good vibes but that's about it.
 WRs ptminsker thestrangepie proxbalance
 
@@ -618,7 +615,7 @@ host AnEternalEnigma, couch Dylwingo, Xemmypoo [2RH?], Torpedo
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube eogfSMvfMGM+0
 Review: This run had a lot of tricks, from simple death abuses to some pretty complex technical exploits. The commentary was a bit vague on how a lot of it actually worked but the long chains of inputs kind of speak for themselves, most of the time.
 WRs loadless Scottobozo 1h07m29s xem92 king_dedede
 
@@ -632,7 +629,7 @@ host AnEternalEnigma, couch spicee [WRH], Captain Ezekiel
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube C109zfY5Evw+3
 Review: A nice, shorter RE run than usual. It's still mostly dodging around enemies while bouncing between required items, practically glitchless, but the boss fights are tightly planned (and impressively improvised when derailed).
 WRs spiceeTV 7rayD Nindo
 
@@ -641,12 +638,12 @@ WRs spiceeTV 7rayD Nindo
 Resident Evil 7 (PC - Capcom 2017)
 End of Zoe Any%
 by Maxylobes [WRH]
-host AnEternalEnigma, couch COUCH
+host AnEternalEnigma, couch Captain Ezekiel
 20m28s (est 22m, wr 19m44s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 34_8eJ-EN9w+0
 Review: A mild departure from the series, the speedrun being focused on melee combat. At this length, it's probably worth checking out if you're interested, but it's no must-watch.
 NM: Assumed Easy NG
 WRs maxylobes Akaya d0rtmunder
@@ -654,12 +651,12 @@ WRs maxylobes Akaya d0rtmunder
 Poppy Playtime: Chapter 2 (PC - Mob Entertainment 2022)
 100%
 by Nerd_Squared [3RH]
-host AnEternalEnigma, couch COUCH
+host AnEternalEnigma, couch AstralSpiff
 24m39s (est 30m, wr 19m38s rta)
 Overall ★☆☆☆☆
 Skill   ★☆☆☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube aEpv7Tq-hWI+3
 Review: This is apparently the new mega-popular Kid-Friendly Horror game, now that FNAF has declined. The speedrun is pretty basic (a few skips over almost all the content, and then basic walking to each objective) and the commentary offered little of interest, to either newcomers or series fans alike.
 NM: Assumed OOB
 WRs loadless _QqQ_  18m46s MutantAye Nerd_Squared 20m12s
@@ -667,12 +664,12 @@ WRs loadless _QqQ_  18m46s MutantAye Nerd_Squared 20m12s
 Dead Space 3 (PC - Visceral 2013)
 Any%
 coop by sharkhat87, SergeantRadish [2RHs]
-host Kungfufruitcup, couch COUCH
-HhMMmSSs (est 2h20m, wr 1h57m36s loadless)
+host Kungfufruitcup, couch tofercakes, Mattmatt
+1h59m02s (est 2h20m, wr 1h57m36s loadless)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube SnXkB1NY16U+0
 Review: (Not Yet Reviewed)
 NM: Assumed NG
 WRs mattmatt+thedementedsalad, sharkhat+radish 2h00m37s
@@ -680,12 +677,12 @@ WRs mattmatt+thedementedsalad, sharkhat+radish 2h00m37s
 Cryostasis (PC - Action Forms 2008)
 Any%
 by shmumbler [WRH]
-host Kungfufruitcup, couch COUCH
-HhMMmSSs (est 35m, wr 31m55s rta)
+host Kungfufruitcup, couch BigScared, Garlips
+34m27s (est 35m, wr 31m55s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 7TqgD2X3hMM+4
 Review: (Not Yet Reviewed)
 WR loadless Shmumbler  25m03 wiekds
 
@@ -768,101 +765,99 @@ WRs Zheal moningcraftTV DummiBeaR
 Stardew Valley (PC - Eric Barone 2016)
 Seeded Crafts Room - Glitchless
 race blackheartwings vs theValiantSun [WRH]
-host Skybilz, couch COUCH
-HhMMmSSs (est 30m, wr 20m16s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Skybilz, couch Blade
+22m36s, 35m38s (est 30m, wr 20m16s)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs theValiantSun robopossum ph1l
+Review: Seeded runs are normally all about precise execution, with no randomness... this one was *still* incredibly random, with the time swing of 50% entirely due to not getting needed item spawns, with no good way to compensate. Even setting that aside, the run started off with two minutes of dead time and had no real precision or speed tech besides the route.
 
 [[[SONIC BLOCK]]]
 
 Sonic Unleashed (Wii - Sonic Team 2008)
 All Day Stages
 by Speck [WRH]
-host Skybilz, couch COUCH
-HhMMmSSs (est 23m, wr 19m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Skybilz, no couch
+22m37s (est 23m, wr 19m54s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR igt Speck 15m46s kinoplat ZZZ.
+Review: Motormouth commentary and some moderately-jank platforming that speedrunners will gleefully exploit. Yep, it's Sonic Block. 
 
 Sonic Colors: Ultimate (PC - Sonic Team 2010, Blind Squirrel 2021)
 Egg Shuttle
 race thebluemania [WRH] vs Subbaro vs Nyu [3RH]
-host Skybilz, couch COUCH
-HhMMmSSs (est 55m, wr 37m52s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Skybilz, couch CriticalCyd, AuraAce
+46m40s, 48m31s, 48m45s (est 55m, wr 37m52s igt)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR thebluemania Avikaielef NyuSRC
+Review: Fairly engaging as a race, but it could have benefitted from clearer commentary. I think a lot of the jargon was defined once towards the start, so if you missed it or forget, it can easily become confusing.
 
 Sonic Advance 2 (GBA via GBP - Dimps 2002)
-Character TBD [BIDWAR]
+Knuckles [BIDWAR]
 by Kirbymastah [WRH]
-host Skybilz, couch COUCH
-HhMMmSSs (est 30m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Skybilz, couch Aleck47
+28m03s (est 30m, wr 24m49s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs https://www.speedrun.com/sonicadvance2
+Review: Just some clean, high-speed platforming. Not too much in the way of tech but it's short enough to get by with just the core mechanics.
 
 [[[/SONIC BLOCK]]]
 
-Pokemon Red or Yellow (GB via GBP - Game Freak 1996, 1998) [BIDWAR?]
+Pokemon Yellow (GB via GBP - Game Freak 1996, 1998) [BIDWAR]
 Any% Glitchless
-by pokeguy
-host Lanaruse, couch COUCH
-HhMMmSSs (est 2h05m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by pokeguy [WRH]
+host Lanaruse, couch Maddict, Truely
+HhMMmSSs (est 2h05m, wr 1h53m11s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: A particularly dry run, and unfortunately low-energy. The game knowledge on display is absolutely immense, but it's hard to stay interested when even the runner seems bored.
 
 The Legend of Zelda: Ocarina of Time 3D (3DS - Nintendo EAD 1998, Grezzo 2011)
 Any%
 by benstephens56 [3RH]
-host Lanaruse, couch COUCH
-HhMMmSSs (est 35m, wr 26m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Lanaruse, couch Yashichi, Gamestabled, Cabbage
+30m47s (est 35m, wr 26m58s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: This run gets extremely technical, but the commentary tried to keep it simple. I'm not sure whether it worked, but then again, I'm one of those that likes extremely technical exploit explanations. It's basically a bunch of gathering requirements, then executing a credits warp after the first boss. If that sounds fun to you, this is probably worth a watch.
 WR pal62 zeldacubed benstephens56 28m29s
 
 Stray (PC - BlueTwelve 2022) [BONUS GAME 4]
 Any% Unrestricted
 by Erims [2RH]
-host Konception, couch COUCH
-HhMMmSSs (est 53m, wr 48m11s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Konception, couch SatoriEarth
+49m50s (est 53m, wr 48m11s)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: This just wasn't that great of a speed game? It's pretty new so it wasn't that unexpected to be pretty rough and unpolished, but this was a letdown even so. If you want an hour of seeing a cute cat, this will do it, but they didn't even have much fun with that part, instead trying to play it off as a serious speed game.
 WRs Anemion Erims 48m29s Codyumm
 
 Spyro 2: Ripto's Rage! (PS2 - Insomniac 1999, DEVELOPER YEAR)
 2v2 Lockout Bingo
 by slvr__, zacharylawrence vs Spudlyman, Wed
 host Konception, couch COUCH
-HhMMmSSs (est 55m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+32m00s (est 55m, no wr)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+Review: Bingo matches are always a bit hard to follow, especially for games you're not familiar with. Even the commentators fell behind at some points... but it had some nice, frantic, madcap energy nonetheless. Even a bit of a one-sided match didn't make it less enjoyable.
 NM: need bingo dev?
+
+------------------------------THURSDAY-------------------------------
 
 Neon White (PC - Angel Matrix 2022)
 White's Heaven Rush
@@ -887,8 +882,6 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not Yet Reviewed)
 WRs yanapppppu hona azuminowasabi
-
-------------------------------THURSDAY-------------------------------
 
 Pac-Man 2: The New Adventures (SNES - Namco 1994)
 Any%
