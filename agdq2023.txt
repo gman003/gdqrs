@@ -124,7 +124,7 @@ Skill   ★★☆☆☆
 Fun     ★★★☆☆
 Youtube 9TJQi4MTm-A+105
 Review: I can't say I understood half of what was going on, due to a lack of a basic introduction to the game, but I can't say I didn't have fun anyways.
-NM: confirm rando dev
+NM: find rando dev
 
 -------------------------------MONDAY--------------------------------
 
@@ -530,8 +530,8 @@ NM: Assumed Soma Any% No 0HP
 Castlevania: Aria of Sorrow (PC - KCE Tokyo 2003)
 Julius Any%
 by JupiterClimb [2RH]
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 18m, wr 5m15s rta)
+host THEKyleThomas, couch halgorithm, Berix
+6m05s (est 18m, wr 5m15s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -814,7 +814,7 @@ Pokemon Yellow (GB via GBP - Game Freak 1996, 1998) [BIDWAR]
 Any% Glitchless
 by pokeguy [WRH]
 host Lanaruse, couch Maddict, Truely
-HhMMmSSs (est 2h05m, wr 1h53m11s)
+2h01m24s (est 2h05m, wr 1h53m11s)
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★☆☆☆☆
@@ -873,15 +873,14 @@ WRs Humps Blaidan 30m52s marisaa77
 
 Neon White (PC - Angel Matrix 2022)
 Rainbow Heaven Rush
-by Tordana
+by Tordana [WRH]
 host Konception, couch Humps
-13m27s (est 40m, wr HhMMmSSs)
+13m27s (est 40m, wr 10m51s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube -9aZBcuCvhQ+2602
 Review: (Not Yet Reviewed)
-NM: need to check WRs
 
 Yo! Noid 2: Game of a Year Edition (PC - Dustin Bragg 2017, 2018)
 No Major Skips
@@ -1043,7 +1042,7 @@ WRs mutol SmokeyJail Ninndou_Lo
 Stephen Seagal Is: The Final Option (SNES - DEVELOPER YEAR)
 Any% 9 Exits
 by Crak Atak
-host Bobby Blackwolf, couch COUCH
+host Bobby Blackwolf, no couch
 21m44s (est 30m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
@@ -1183,8 +1182,8 @@ NM: funny song bit before the runner intro starts, add it when you add multisegm
 PowerWash Simulator (PC - FuturLab 2022)
 6 Players, All Vehicles, No Soap
 coop by Amyrlinn, Bullets, Biglaw, Enigma Requiem, AngelicKnight, Acadiel
-host ateatree, couch COUCH
-HhMMmSSs (est 45m, no wr?)
+host ateatree, no couch
+33m31s (est 45m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1364,12 +1363,12 @@ WRs Quacksilver Staxis Drgrrr
 Tony Hawk's Pro Skater HD (PC - Robomodo 2012)
 All Goals
 by Biglaw [ORH]
-host Char_bunny, couch COUCH
-HhMMmSSs (est 22m, wr 14m32s)
+host Char_bunny, couch PARTY MAN X
+18m24s (est 22m, wr 14m32s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube cw5fQrd0jFk+1
 Review: (Not Yet Reviewed)
 
 Metroid Prime 1 + 2 (Wii - Retro 2002, 2004; Henrique Gemignani et al 2017)
@@ -1380,41 +1379,42 @@ host Char_bunny, couch ToasterParty, BajaBlood
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube Oz3Jsa-bBxY+27
 Review: Scattering items from both games across both worlds, with a logic path that can gate one player by another's progress, is a recipe for absolute chaos.
 
 Cult of the Lamb (PC - Massive Monster 2022)
 Any% Easy, Unrestricted
 by shovelclaws
 host iggyzig, couch Dezinator [3RH], Metrick
-HhMMmSSs (est 1h50m, wr 1h12m25s rta)
+1h33m18s (est 1h50m, wr 1h12m25s rta)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube ty_1Y-kdTC0+4
 Review: It's a fairly new game, so the speed tech isn't too polished. And it focuses almost entirely on the dungeon-crawl side, if you were a fan of village-sim gameplay. But it's a good game to joke around about, and while not the most hilarious run of the marathon, it was solidly entertaining.
 
 Super Mario Land (GB - Nintendo R&D1 1989)
 Any%
 race EiP [WRH] vs Retroverse
-host iggyzig, couch COUCH
-HhMMmSSs (est 15m, wr 12m24s)
+host iggyzig, couch AdamFerrari, Oh_DeeR, Yutori
+12m33s, 13m19s (est 15m, wr 12m24s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube kNg06AGo_eM+1
 Review: (Not Yet Reviewed)
 WRs EiP25 AdamFerrari J_duude
+NM: Adam not on the video? did Yutori say a single word?
 
 TrackMania Turbo (PC - Nadeo 2016)
 All Environments (White, Double Driver)
 2p1c by Rastats, Gyrule_ [WRHs]
 host iggyzig, couch Turbo
-HhMMmSSs (est 37m, wr 24m41s igt)
+30m14s (est 37m, wr 24m41s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Nt1uI9Ep1sQ+4
 Review: (Not Yet Reviewed)
 NM: used Double (2P) gamemode
 WRs: <runners> wortex+MyKeY_
@@ -1422,12 +1422,12 @@ WRs: <runners> wortex+MyKeY_
 Brave New World (SNES - Nintendo EAD 1990, derv82 2022)
 100%
 by Zapplex [2RH]
-host iggyzig, couch COUCH
-HhMMmSSs (est 35m, wr 16m11s)
+host iggyzig, couch ThirdWall, Amethyst
+24m56s (est 35m, wr 16m11s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube _cfQESkSm_w+2
 Review: (Not Yet Reviewed)
 WRs: Mnine Zapplex BraveToast
 
@@ -1439,7 +1439,7 @@ host Mr. Game and Shout, couch White_Moth, DaWildGrim
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 6tV8DRp_qjE+3
 Review: An extremely difficult kaizo hack, faced down with upbeat determination. Maybe not the most brutal kaizo, but a difficult one, and in particular one that demands consistency.
 
 Final Fantasy XIV (PC - Square Enix 2010, 2013)
@@ -1450,7 +1450,7 @@ host Mr. Game and Shout, couch Frosty
 Overall ★☆☆☆☆
 Skill   ★☆☆☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube 2etZ3kdLME8+2
 Review: I may just be too unfamiliar with MMOs to have appreciated this but... it seemed extremely bland. The main strats were just kiting and avoiding enemy triggers. Maybe if there had been more commentary into the details of the build, or if the enemies had more complex mechanics, but it felt like half an hour of "walk backwards while shooting enemy".
 NM: might be [3RH], hard to tell what category this actually is with this many qualifiers
 
@@ -1462,7 +1462,7 @@ host Mr. Game and Shout, couch Telperion, Toph, Vincent
 Overall ★★★★☆
 Skill   ★★★★★
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube CZ-P3MZKCvA+4
 Review: Where past Stepmania showcases have focused on creative mods, this one was pure skill - and dimo delivered. I couldn't even parse the charts as fast as he was dancing them. The first bonus - going in blind with sight-reads - was even more impressive. The second bonus - going up to a chart that has only barely been cleared by humans - was perhaps less so, simply because I have too little knowledge to see what makes it harder than the rest. But it lives up to the tradition of rhythm game showcases, being one of the highlights of the whole marathon.
 
 ------------------------------SATURDAY-------------------------------
@@ -1470,81 +1470,90 @@ Review: Where past Stepmania showcases have focused on creative mods, this one w
 Super Mario All-Stars Shuffler (SNES - Nintendo EAD 1993; DEVELOPER YEAR)
 All Four Games any% No Wrong Warp
 by Skybilz
-host Nukkuler, couch COUCH
+host Nukkuler, couch authorblues, Aweglib, Phant
 1h24m38s (est 1h40m, no wr)
 Overall ★★★★☆
 Skill   ★★☆☆☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube 7MO-TiCsScQ+2
 Review: Speedrunning Mario games is challenging. Speedrunning five Mario games in a row would be harder. Speedrunning five Mario games, that randomly cut between one another, is just abject shenanigans. It's a lot less polished than any other Mario run I've seen, but it's a roaring good time.
 
 Katana Zero (PC - Askisoft 2019)
 Any%
 tas by Bar0ti
-host Nukkuler, couch COUCH
-HhMMmSSs (est 15m, human wr 15m11s igt)
+host Nukkuler, no couch
+13m58s (est 15m, human wr 15m11s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube QkwzxjGnyXU+0
 Review: (Not Yet Reviewed)
 
 Freedom Planet 2 (PC - GalaxyTrail 2022)
 Any% Carol
 by UraniumAnchor [2RH]
-host Nukkuler, couch COUCH
-HhMMmSSs (est 1h55m, wr 1h28m30s)
+host Nukkuler, couch Punchy, Revolucion, frogmoss10 [3RH]
+1h41m19s (est 1h55m, wr 1h28m30s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube RR7GN4nI_Xg+2
 Review: (Not Yet Reviewed)
-WRs StripedPantsu UraniumAnchor frogmoss10
+
+Freedom Planet 2 (PC - GalaxyTrail 2022)
+Weapon's Core [BONUS]
+by UraniumAnchor [2RH]
+host Nukkuler, couch Punchy, Revolucion, frogmoss10 [3RH]
+6m59s (est 8m, wr 4m33s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube RR7GN4nI_Xg+6244
+Review: (Not Yet Reviewed)
 
 Espgaluda (PS2 - Cave 2003)
 Showcase - High Score
 by ColonelFatso
-host briesbe, couch COUCH
-HhMMmSSs (est 33m, no wr - showcase)
+host briesbe, couch Dumplechan
+28m28s (est 33m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube PaN8OeSfzmA+1
 Review: (Not Yet Reviewed)
 
 Blinx the Time Sweeper (XbC via Xb1 - Arbon 2002)
 Any%
 by Lotus_RT [2RH]
-host briesbe, couch COUCH
-HhMMmSSs (est 1h25m, wr 55m21s)
+host briesbe, couch Aun_El, Isnert, Miku [WRH]
+1h00m36s (est 1h25m, wr 55m21s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube nz1yjGCxs14+1
 Review: (Not Yet Reviewed)
-WRs Miku_DS Lotus 56m13s KumatoraPM
 
 Unsighted (PC - Pixel Punk 2021)
 Any%
 by Roofon [3RH]
-host briesbe, couch COUCH
-HhMMmSSs (est 38m, wr 25m43s rta)
+host briesbe, no couch
+38m55s (est 38m, wr 25m43s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube vdPYKAjkldw+0
 Review: (Not Yet Reviewed)
 WRs loadless MonStahLer 24m44s Symphiel 25m19s Roofon 30m21s
 
 Handshakes (PC - Pet Pumpkin 2022)
 Co-op
 by Bloupeuh, Senen [ORHs]
-host musical_daredevil, couch COUCH
-HhMMmSSs (est 8m, wr 5m25s igt)
+host musical_daredevil, couch Damaskino, Trumpetguy
+5m40s (est 8m, wr 5m25s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube SDc4nnbrC18+1
 Review: (Not Yet Reviewed)
 
 [[[MEGA MAN BLOCK]]]
@@ -1552,12 +1561,12 @@ Review: (Not Yet Reviewed)
 Mega Man 64 (N64 - Capcom Studio 2 1997)
 Any%
 race BlueMetal [WRH] vs Aerlien [2RH]
-host musical_daredevil, couch COUCH
-HhMMmSSs (est 54m, wr 50m22s rta)
+host musical_daredevil, couch Bo Steed, SecondPlace92
+48m38s, 48m42s (est 54m, wr 50m22s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube _2f_OlfyJqY+29
 Review: (Not Yet Reviewed)
 NM: generally titled as Mega Man Legends on wikis/leaderboards, idk why GDQ calls it 64
 wrs BlueMetal Aerlien BeastlyWhale
@@ -1565,37 +1574,36 @@ wrs BlueMetal Aerlien BeastlyWhale
 Megaman: Rock N Roll (PC - DEVELOPER YEAR)
 Any%
 by Amad [WRH]
-host musical_daredevil, couch COUCH
-HhMMmSSs (est 50m, wr 42m31s)
+host musical_daredevil, couch LVCreed, Krimmydoodle
+42m23s (est 50m, wr 42m31s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube H_WqjbnsNl0+2
 Review: (Not Yet Reviewed)
 NM: confirmed to be a fan game
 WRs Amad lianermiao LVCreed
 
 A.R.E.S.: Extinction Agenda EX (PC - Extend 2010)
-Ares vs Taurus Any% NG+
+Ares Any% NG+ [BIDWAR]
 by KiwamiZX [WRH]
-host musical_daredevil, couch COUCH
-HhMMmSSs (est 30m, wr HhMMmSSs)
+host musical_daredevil, no couch
+26m10s (est 30m, wr 25m43s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube fla8ov0wfik+2
 Review: (Not Yet Reviewed)
-WRs https://www.speedrun.com/aresex Kiwami holds WR in both
 
 Mighty Gunvolt Burst (PC - Inti Creates 2017)
 Any% (Normal, Call)
 by KiwamiZX [2RH]
-host Shado_Temple, couch COUCH
-HhMMmSSs (est 45m, wr 34m55s)
+host Shado_Temple, couch Tempest Steve
+35m49s (est 45m, wr 34m55s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube uW-lVQs8I2w+2
 Review: (Not Yet Reviewed)
 WRs Almagon Kiwami 35m08s JorgeReevs_ix
 
@@ -1609,153 +1617,138 @@ host Shado_Temple, couch Grondious [2RH]
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube fY6nSbGEndE+1
 Review: It's a decent run of a licensed 16-bit platformer. No huge glitches, just damage boosts and some unintended platforming, executed cleanly but not amazingly. Nostalgia for the game is probably a prerequisite for this run.
 
 The Lion King (SNES - Westwood 1994)
 Any% Easy
 by SBDWolf [WRH]
-host frozenflygone, couch COUCH
-HhMMmSSs (est 18m, wr 11m55s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
+host frozenflygone, couch Bronkel
+13m17s (est 18m, wr 11m55s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube 6HnlIOu0HL0+55
+Review: Another licensed platformer, this one a bit more well-known. There's a bit more challenge to it, but it still feels like filler. Good filler, but filler nonetheless.
 WRs SBDWolf Akiteru_archived Kannadan
 
 LOVE 3 (PC - Fred Wood 2021)
 Any%
 race Char_bunny [WRH] vs Paulister vs Heponwana
-host frozenflygone, couch COUCH
-HhMMmSSs (est 20m, wr 11m13s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs char_bunny ColdySquares KilleDragon
+host frozenflygone, couch Zet
+11m35s, 12m30s, 13m34s (est 20m, wr 11m13s igt)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube BTVnI6hGa1Q+1
+Review: A tight race of a tight little platformer. A bit obscure but surprisingly easy to follow, and at this short a run, it's worth checking out.
+
+LOVE 3 (PC - Fred Wood 2021)
+Custom Level Blind Race
+race Char_bunny [WRH] vs Paulister vs Heponwana
+host frozenflygone, couch Zet
+2m58s, 3m54s, 3m55s (est MMm, no wr)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
+Youtube BTVnI6hGa1Q+960
+Review: A bonus from the previous run, sending the runners into a set of stages created specifically for this event, never seen by them before. Naturally less polished, but fun to watch them stumble through things, and even help each other out.
 
 The Pedestrian (PC - Skookum Arts 2020)
 Any%
 by Paulister
-host frozenflygone, couch COUCH
-HhMMmSSs (est 18m, wr 11m12s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs namakura_zanki Ryker Gioia, Paulister PB 12m51s
+host frozenflygone, no couch
+12m31s (est 18m, wr 11m12s) [PB]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube ic5j9AZpUq8+0
+Review: A brief chill-vibes run, before we head into the final stretch. Neither super technical nor super polished, but smooth and upbeat.
 
 Metroid Dread (Switch - MercurySteam 2021)
 All Bosses Glitchless
 race Ednolium [2RH] vs Manijure
-host Konception, couch COUCH
-HhMMmSSs (est 1h35m, wr 1h18m27s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs Satorha Ednolium 1h20m49s Destructor
+host Konception, couch Hobbit, Satorha [WRH]
+1h32m15s, 1h33m47s (est 1h35m, wr 1h18m27s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube mP_2YfEJPp8+1
+Review: Easily the most fluid movement in the Metroid series, and even glitchless still permits a lot of sequence breaks and little tricks. Not the most high-octane race, but considering how much I struggled with this game, seeing it crushed like this couldn't help but impress.
 
 Terraria (PC - Re-Logic 2011)
 Moon Lord No Major Abuses
 by Haboo [2RH]
-host Brutal_Melo, couch COUCH
-HhMMmSSs (est 1h50m, wr 1h18m37s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Brutal_Melo, no couch
+1h41m21s (est 1h50m, wr 1h18m37s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-NM: Assumed random, 1.4 NMA
-WRs afroman TheHaboo 1h21m20s PsiOnyx_
+Review: Another dry sort of run, but it did a good job of explaining all the gameplay for us non-Terraria players.
 
 Half-Life: Alyx (PC - Valve 2020)
 Inbounds
 by Buffet Time [2RH]
-host Brutal_Melo, couch COUCH
-HhMMmSSs (est 50m, wr 37m57s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Brutal_Melo, couch KeeganExtremeGaming
+47m38s (est 50m, wr 37m57s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs loadless Lemmons 31m43s Buffet_Time 37m56s
+Review: The novelty of being a VR speedrun is all this really had going for it. The execution wasn't polished enough to really impress, and the commentary was stilted. Perfectly adequate, but nothing remarkable.
 
 Dark Souls II: Scholar of the First Sin (PC - From 2014, 2015)
 Old Souls
 by Nyk_Style [2RH]
-host Brutal_Melo, couch COUCH
-HhMMmSSs (est 1h20m, wr 1h06m44s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Brutal_Melo, no couch
+1h12m18s (est 1h20m, wr 1h06m44s rta)
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs loadless FujoHoraire 1h05m31s Nyk_Style 1h05m52s Hyderjj
+Review: What fool decided to leave this runner to do his own commentary? The gameplay was fine but he clearly struggled to explain what he was doing, or otherwise say anything that might engage interest. With no couch, this turned into an hour of Melo reading donations and urging people to meet the next incentive. This either needed a good commentator to run support, or to be an early-hours filler run.
 
 The Legend of Zelda: A Link to the Past (SNES - Nintendo EAD 1991) [BONUS GAME 7]
 100%
 by Glan [2RH]
-host Kungfufruitcup, couch COUCH
-HhMMmSSs (est 1h15m, wr 1h07m18s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Kungfufruitcup, couch ChexHuman, Tojso
+1h12m43 (est 1h15m, wr 1h07m18s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-NM: Assumed Major Glitches
-WRs hotarubi Glan 1h08m35s g3rd0
+Review: When a LTTP category doesn't include "no major glitches", you can safely assume you're in for some major glitches. Basically none of this game is beaten as intended. This makes for an interesting run, though a rather serious one.
 
 Pokemon Legends: Arceus (Switch - Game Freak 2022)
 All Lords
 by halqery [WRH]
-host Kungfufruitcup, couch COUCH
-HhMMmSSs (est 2h45m, wr 2h35m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Kungfufruitcup, couch Corvimae, ThomasPatrickWX, Keizaron
+3h20m30s (est 2h45m, wr 2h35m33s)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs halqery ShadyGamerX NewAmber
+Review: Not what I expected from a Pokemon speedrun. There were very few Pokemon battles, and even fewer that needed to be won. Instead, it was more like a collectathon - catch X of this species, hit Y of this species with rocks or food, see Z of this species use this move - with a few boss battles won by dodgerolling through attacks and pelting them with food. There was some skill needed for on-the-fly routing, to adapt to the RNG, but even that barely got talked about. Instead, this was an early-onset late-night-madness run, two and a half hours of bad puns, running gags, and runners playfully shitting on each other. Which yes, can be quite enjoyable, and was a big part of past Pokemon runs, but here it never quite reached the heights it once had. The Arceus battle showcase afterward had some interesting gameplay, but the glitch exhibition was actually a big letdown, nothing too flash and tedious to pull off.
 
 Super Mario Bros. 3 (NES - Nintendo EAD 1990)
 Any% Warpless
 by mitchflowerpower [WRH]
 host Skybilz, couch COUCH
 HhMMmSSs (est 55m, wr 50m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WRs mitch narfman0 TheHaxor
+Review: One of the best Mario speedrunners of all time, playing what seems to be his favorite category of his favorite game. A solid way to end the event, even if I did struggle to keep my eyes open at this point.
 
-GAME (CONSOLE - DEVELOPER YEAR)
-CATEGORY
-by RUNNER
-host HOST, couch COUCH
-HhMMmSSs (est HhMMm, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Super Mario Bros. 3 (NES - Nintendo EAD 1990)
+Any%
+by mitchflowerpower [WRH]
+host Skybilz, couch COUCH
+HhMMmSSs (est MMm, wr 3m01s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-
-
-
-
-Sonic Heroes (GC via Wii - Sonic Team USA 2003)
-Team Dark (Unrestricted)
-by Revolucion [WRH]
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 1h05m, wr 45m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not Yet Reviewed)
-WR revolucion 45m49s Deku_sr 49m06s auraace 59m15s
+Review: And one final bonus run, the extremely short wrong-warp-to-the-credits category. This is more of a party trick - the skill is in knowing how to do such an unusual setup, and in precisely lining things up, but it's not one of Mitch's main categories, and he plays it that way.
