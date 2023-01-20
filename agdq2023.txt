@@ -143,7 +143,7 @@ Tony Hawk's Pro Skater 4 (PC - Robomodo 2012)
 Any%
 by Nase
 host Char_bunny, couch Party Man X
-38m05s (est 40m, wr MMmSSs)
+38m05s (est 40m, wr 32m19s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -319,7 +319,7 @@ TMNT Shredder's Revenge (PC - Tribute Games 2022)
 Coop 2v2 Any% Arcade Chill
 race GeneralAndrews, Dospostmann [2RHs] vs Benja, Paul-Knives [3RHs]
 host Shado_Temple, couch junkyard_dave, ateatree, Arispici
-1h00m23s (est 1h05m, wr 59m25s)
+56m18s, 1h00m23s (est 1h05m, wr 59m25s) [WR]
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1025,7 +1025,6 @@ Skill   N/R
 Fun     N/R
 Youtube c4WXRcpz134+3
 Review: (Not Yet Reviewed)
-NM: Hibnotix WRH for Knuckles, S-TWO 3RH for Sonic
 
 Bad Guys At School (PC - Forceight 2020)
 All Missions
@@ -1416,8 +1415,6 @@ Skill   N/R
 Fun     N/R
 Youtube Nt1uI9Ep1sQ+4
 Review: (Not Yet Reviewed)
-NM: used Double (2P) gamemode
-WRs: <runners> wortex+MyKeY_
 
 Brave New World (SNES - Nintendo EAD 1990, derv82 2022)
 100%
@@ -1684,7 +1681,7 @@ host Brutal_Melo, no couch
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube JOUhFgznma4+1
 Review: Another dry sort of run, but it did a good job of explaining all the gameplay for us non-Terraria players.
 
 Half-Life: Alyx (PC - Valve 2020)
@@ -1695,7 +1692,7 @@ host Brutal_Melo, couch KeeganExtremeGaming
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube uFJSgdzLJYE+4
 Review: The novelty of being a VR speedrun is all this really had going for it. The execution wasn't polished enough to really impress, and the commentary was stilted. Perfectly adequate, but nothing remarkable.
 
 Dark Souls II: Scholar of the First Sin (PC - From 2014, 2015)
@@ -1706,7 +1703,7 @@ host Brutal_Melo, no couch
 Overall ★☆☆☆☆
 Skill   ★★☆☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube taoMANrAGwQ+1
 Review: What fool decided to leave this runner to do his own commentary? The gameplay was fine but he clearly struggled to explain what he was doing, or otherwise say anything that might engage interest. With no couch, this turned into an hour of Melo reading donations and urging people to meet the next incentive. This either needed a good commentator to run support, or to be an early-hours filler run.
 
 The Legend of Zelda: A Link to the Past (SNES - Nintendo EAD 1991) [BONUS GAME 7]
@@ -1717,7 +1714,7 @@ host Kungfufruitcup, couch ChexHuman, Tojso
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube JXFjglr-Ya4+2
 Review: When a LTTP category doesn't include "no major glitches", you can safely assume you're in for some major glitches. Basically none of this game is beaten as intended. This makes for an interesting run, though a rather serious one.
 
 Pokemon Legends: Arceus (Switch - Game Freak 2022)
@@ -1728,27 +1725,27 @@ host Kungfufruitcup, couch Corvimae, ThomasPatrickWX, Keizaron
 Overall ★★★☆☆
 Skill   ★☆☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 0Rg8RIgwhO4+1
 Review: Not what I expected from a Pokemon speedrun. There were very few Pokemon battles, and even fewer that needed to be won. Instead, it was more like a collectathon - catch X of this species, hit Y of this species with rocks or food, see Z of this species use this move - with a few boss battles won by dodgerolling through attacks and pelting them with food. There was some skill needed for on-the-fly routing, to adapt to the RNG, but even that barely got talked about. Instead, this was an early-onset late-night-madness run, two and a half hours of bad puns, running gags, and runners playfully shitting on each other. Which yes, can be quite enjoyable, and was a big part of past Pokemon runs, but here it never quite reached the heights it once had. The Arceus battle showcase afterward had some interesting gameplay, but the glitch exhibition was actually a big letdown, nothing too flash and tedious to pull off.
 
 Super Mario Bros. 3 (NES - Nintendo EAD 1990)
 Any% Warpless
 by mitchflowerpower [WRH]
-host Skybilz, couch COUCH
-HhMMmSSs (est 55m, wr 50m10s)
+host Skybilz, couch TheHaxor
+52m54s (est 55m, wr 50m10s)
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube LZ-MIe0xT0o+0
 Review: One of the best Mario speedrunners of all time, playing what seems to be his favorite category of his favorite game. A solid way to end the event, even if I did struggle to keep my eyes open at this point.
 
 Super Mario Bros. 3 (NES - Nintendo EAD 1990)
 Any%
 by mitchflowerpower [WRH]
-host Skybilz, couch COUCH
-HhMMmSSs (est MMm, wr 3m01s)
+host Skybilz, couch TheHaxor
+3m45s (est 4m, wr 3m01s)
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube LZ-MIe0xT0o+3435
 Review: And one final bonus run, the extremely short wrong-warp-to-the-credits category. This is more of a party trick - the skill is in knowing how to do such an unusual setup, and in precisely lining things up, but it's not one of Mitch's main categories, and he plays it that way.
