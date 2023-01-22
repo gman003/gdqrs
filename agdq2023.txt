@@ -228,12 +228,11 @@ Any%
 by pmcTRILOGY [WRH]
 host Bobby Blackwolf, couch peaches, Chef Lu Bu
 35m35s (est 40m, wr 33m11s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube q97Ud7d0Loo+19
-Review: (Not Yet Reviewed)
-WRs pmcTRILOGY niedle
+Review: A pretty neat speedrun, considering how niche the game is. It's a mix of proper combat levels and some OoB clips, decent variety. I kind of wish they'd gone more into the lore, either explaining it or making fun of it, because that was where the commentary seemed to rise above the average, but I'm happy enough with what we got.
 
 Bomberman 64: The Second Attack! (N64 - Hudson Soft 1997)
 Any%
@@ -520,23 +519,22 @@ Any% No 0HP (Standard)
 race JupiterClimb [2RH] vs Chewy4u [WRH]
 host THEKyleThomas, couch halgorithm, GarniTexas, Berix
 13m24s, 14m16s (est 18m, wr 11m41s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube bHwKt5ps0Tg+30
-Review: (Not Yet Reviewed)
-NM: Assumed Soma Any% No 0HP
+Review: A good run, but the race element was a complete flop. When one runner gets stuck in a reset cycle trying to make an RNG manip, right at the start, that tends to reduce it to two parallel playthroughs more than a race. But setting that aside, it's a fun run - manips, clips, clean movement and some tricky boss fights.
 
 Castlevania: Aria of Sorrow (PC - KCE Tokyo 2003)
-Julius Any%
+Julius Any% [BONUS]
 by JupiterClimb [2RH]
 host THEKyleThomas, couch halgorithm, Berix
 6m05s (est 18m, wr 5m15s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube bHwKt5ps0Tg+1181
-Review: (Not Yet Reviewed)
+Review: It's supposed to be a quick bonus run, but I actually liked it more than the main race. Lighter on glitches, just one boss drop dupe, but very fluid movement and some interesting tradeoffs, all with lovely commentary.
 
 Fashion Police Squad (PC - Mopeful 2022)
 Any%
@@ -907,6 +905,8 @@ Youtube ny-GnkrBSSk+3
 Review: (Not Yet Reviewed)
 WRs yanapppppu hona azuminowasabi
 
+[[[AWFUL BLOCK]]]
+
 Pac-Man 2: The New Adventures (SNES - Namco 1994)
 Any%
 by PARTY MAN X [3RH]
@@ -919,29 +919,27 @@ Youtube LP_zQ3Uk4Ug+1
 Review: (Not Yet Reviewed)
 WRs Kiazzara Grample PARTYMAN_X 21m46s
 
-Yolanda (Amiga - DEVELOPER 1990)
+Yolanda: The Ultimate Challenge (Amiga - Millennium Interactive 1990)
 Wimp%
 by FlannelKat [2RH]
-host AnEternalEnigma, couch Fyzzu
-9m30s (est 18m, wr 7m41s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host AnEternalEnigma, couch Brossentia, Fyzzu
+9m30s (est 18m, wr 7m41s) [PB]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube 6C2pQTlVJXs+0
-Review: (Not Yet Reviewed)
-WRs Tenmicu FlannelKat 10m11s
+Review: An old title from the sadistic era of game design, lots of pure guesswork gameplay and random slapdown deaths. If it lasted much longer, it probably would have gotten repetitive, but this was just the right length for the joke to not wear out.
 
 Lizard Lady vs. The Cats (PS5 - The Voices 2021)
 Any%
 by Asuka424
 host AnEternalEnigma, couch Dathus, CSRadical
-4m12s (est 6m, wr 3m42s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+4m12s (est 6m, wr 3m42s) [PB]
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube HgYCJG8OQSo+1
-Review: (Not Yet Reviewed)
-WRs CookiestMonster Jaggybabs Waferboy
+Review: I am amazed that a game this bad managed to be made in the year 2021, and sold not on Steam or Itch, but on the PlayStation 5 store. The run is barely long enough to scratch the surface with it, but that's fine, because it mostly speaks for itself. A speedrun, this isn't, but Awful is most certainly is.
 
 Office Race (PC - Rain of Cubes 2018)
 Any%
@@ -967,17 +965,16 @@ Youtube jX_-6QgIifI+3
 Review: (Not Yet Reviewed)
 WRs Amber_Cafe DaBacon ratamero
 
-Battle of the Eras (DOS - DEVELOPER YEAR)
+Battle of the Eras (DOS - Procyon 1995)
 Any% Shadowsnake
 by corndan
-host Nichole Goodnight, couch Wobbly Python, Ryyudo
+host Nichole Goodnight, couch Wobbly Python, Ryyudo, bird friends (🐦)
 8m20s (est 10m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
 Youtube ow3mBltOpVw+2
-Review: (Not Yet Reviewed)
-NM: Not on speedrun.com
+Review: One part Axe Cop, two parts Badage Boys, three parts Street Fighter: The Movie (the game). That's the recipe for some great Awful Block material.
 
 Morodashi Sumo (PC - Bakumatsu 2022)
 Any%
@@ -991,7 +988,7 @@ Youtube yLjvEhvYSTY+30
 Review: (Not Yet Reviewed)
 WRs teddyras AlexRobin MG5th
 
-Dokkaebi-ga Ganda (DOS - DEVELOPER YEAR)
+Dokkaebi-ga Ganda (DOS - Senori Box 1995)
 Any%
 by dowolf
 host Nichole Goodnight, couch brossentia
@@ -1038,17 +1035,19 @@ Youtube ekXstzDw78s+4
 Review: (Not Yet Reviewed)
 WRs mutol SmokeyJail Ninndou_Lo
 
-Stephen Seagal Is: The Final Option (SNES - DEVELOPER YEAR)
+Steven Seagal Is: The Final Option (SNES - Riedel Software 1995 (Unreleased))
 Any% 9 Exits
 by Crak Atak
 host Bobby Blackwolf, no couch
-21m44s (est 30m, wr HhMMmSSs)
+21m44s (est 30m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube 1JYFqhcUx6w+0
 Review: (Not Yet Reviewed)
 NM: not on Speedrun.com?
+
+[[[/AWFUL BLOCK]]]
 
 Mega Man ZX (PC - Inti Creates 2006)
 Any% Normal
@@ -1164,16 +1163,15 @@ Youtube yaJnhYVGa-M+3
 Review: A silly sort of run. There's some tech, mostly in routing and AI manips, competently executed, but it's a run you watch more for the jokes and the couch chemistry.
 
 Metal Gear Solid 3: Snake Eater (XSX - KCE Japan 2004, Kojima Productions 2011)
-European Extreme
-race ApacheSmash vs Vermillion [WRH]
+European Extreme, All Camos
+race ApacheSmash vs Vermillion [WRH][ORH]
 host ateatree, couch dlimes13, Spartyy
-1h15m30s, 1h15m57s (est 1h25m, wr 1h13m57s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h15m30s, 1h15m57s (est 1h25m, wr 1h22m01s rta)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube H940AUPZh40+420
-Review: (Not Yet Reviewed)
-WRs VermillionNoel Major_Zero BiggoChief
+Review: Not too many changes of position but still an incredibly close race. This is a pretty hard category (even if a bit niche, and apparently not well recorded on the leaderboards), so the skill is obvious to see.
 NM: funny song bit before the runner intro starts, add it when you add multisegment offsets to YT links
 
 -------------------------------FRIDAY--------------------------------
@@ -1182,12 +1180,23 @@ PowerWash Simulator (PC - FuturLab 2022)
 6 Players, All Vehicles, No Soap
 coop by Amyrlinn, Bullets, Biglaw, Enigma Requiem, AngelicKnight, Acadiel
 host ateatree, no couch
-33m31s (est 45m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+33m31s (est 45m, no wr?) [WR]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube pdkt_fS-zKY+2
-Review: (Not Yet Reviewed)
+Review: Big co-op runs like this tend to be about efficient division of labor, and that's more or less exactly what we get. There's some "bunch of friends goofing off together" energy but it *is* pretty tight gameplay, feels more at home than some other big multiplayer runs. A lot of the tech is just working around game bugs, though, which isn't the most interesting.
+
+PowerWash Simulator (PC - FuturLab 2022)
+6 Players, Steam Locomotive [BONUS]
+coop by Amyrlinn, Bullets, Biglaw, Enigma Requiem, AngelicKnight, Acadiel
+host ateatree, no couch
+6m03s (est 8m, no wr?)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube pdkt_fS-zKY+2184
+Review: And a bonus run, just more of the same, really. The changes in equipment mostly balanced each other out, and the limited supplies didn't come into play much with how many players were involved.
 NM: No coop runs on speedrun.com
 
 Celeste (PC - Maddy Makes Games 2018, Thegur90 et al 2021)
@@ -1195,12 +1204,11 @@ Into the Jungle - Any%
 by Comet625 [WRH]
 host Xenadir, couch frozenflygone
 21m17s (est 25m, wr 18m54s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube kgJ90Wdpmaw+1
-Review: (Not Yet Reviewed)
-WRs Comet625 Aubrey Benjamanian
+Review: After so many Celeste runs, it's cool to see something new, that still retains that core Celeste experience. This isn't like a kaizo hack, it seems to be about the same difficulty as the base game, but it adds new mechanics that spice things up, and Comet crushes it the same way Celeste speedrunners always do.
 
 Worms Armageddon (PC - Team17 1999)
 All Missions Any%
@@ -1286,17 +1294,16 @@ Youtube fP_aXCqrdOw+4
 Review: (Not Yet Reviewed)
 WRs Kofize Harutomo 33m33s dunewacky
 
-PS5 Simulator (PC - DEVELOPER 2021)
+PS5 Simulator (PC - Alex Grade 2021)
 Any%
 by Swordfish4649
 host Nichole Goodnight, no couch
 6m34s (est 10m, wr 0m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ☆☆☆☆☆
+Fun     ★★☆☆☆
 Youtube _6-0bGnMYvk+3
-Review: (Not Yet Reviewed)
-WR wocisjr swypton DzikuseQ, Swordfish PB 1m34s
+Review: A short joke physics game, but this run fell flat. Wasting time to do prop comedy doesn't make for a good speedrun, but the runner's limited English skills really ruined the joke delivery. I honestly think I would have enjoyed this more if he'd just spoken Japanese, even *without* someone on the couch to do translation.
 
 ElecHead (PC - NamaTakahashi 2021)
 Alternate End
@@ -1395,15 +1402,13 @@ Review: It's a fairly new game, so the speed tech isn't too polished. And it foc
 Super Mario Land (GB - Nintendo R&D1 1989)
 Any%
 race EiP [WRH] vs Retroverse
-host iggyzig, couch AdamFerrari, Oh_DeeR, Yutori
-12m33s, 13m19s (est 15m, wr 12m24s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host iggyzig, couch Oh_DeeR, Yutori
+12m30s, 13m16s (est 15m, wr 12m24s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube kNg06AGo_eM+1
-Review: (Not Yet Reviewed)
-WRs EiP25 AdamFerrari J_duude
-NM: Adam not on the video? did Yutori say a single word?
+Review: A bite-sized race of a somewhat clunky game. Unfortunately there was a bit of a performance disparity, it's not that great a race when one player is behind WR only by the margin of RNG. There also wasn't too much to commentate on, this is a very hold-right-and-jump sort of platformer. Still, not bad.
 
 TrackMania Turbo (PC - Nadeo 2016)
 All Environments (White, Double Driver)
@@ -1421,12 +1426,11 @@ Brave New World (SNES - Nintendo EAD 1990, derv82 2022)
 by Zapplex [2RH]
 host iggyzig, couch ThirdWall, Amethyst
 24m56s (est 35m, wr 16m11s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube _cfQESkSm_w+2
-Review: (Not Yet Reviewed)
-WRs: Mnine Zapplex BraveToast
+Review: A kaizo *tutorial* hack, which is an interesting concept in and of itself. It's not the most interesting level design, and speedrunning it is very much just doing things first-try rather than slamming into it for an hour, but it's very easy to follow.
 
 Elephants and Snakes and Crocodiles (SNES - Nintendo EAD 1990, Morsel 2019)
 100%
@@ -1489,24 +1493,24 @@ Review: (Not Yet Reviewed)
 Freedom Planet 2 (PC - GalaxyTrail 2022)
 Any% Carol
 by UraniumAnchor [2RH]
-host Nukkuler, couch Punchy, Revolucion, frogmoss10 [3RH]
+host Nukkuler, couch Punchy [DEV], Revolucion, frogmoss10 [3RH]
 1h41m19s (est 1h55m, wr 1h28m30s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube RR7GN4nI_Xg+2
-Review: (Not Yet Reviewed)
+Review: A somewhat new game, but more polished than most 2022 speedruns because it's built on an existing speed game. A nice mix of commentary - one tester, to give a few inside insights, plus a lot of speed tech explainers. Leaving the story aside was probably a good call.
 
 Freedom Planet 2 (PC - GalaxyTrail 2022)
 Weapon's Core [BONUS]
 by UraniumAnchor [2RH]
-host Nukkuler, couch Punchy, Revolucion, frogmoss10 [3RH]
-6m59s (est 8m, wr 4m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Nukkuler, couch Punchy [DEV], Revolucion, frogmoss10
+6m59s (est 8m, no wr)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube RR7GN4nI_Xg+6244
-Review: (Not Yet Reviewed)
+Review: A secret level and superboss, much harder but UA sailed through the first and needed only one retry on the latter. It's not part of any category and the IL leaderboard has only one run for a different character, so it's not the most polished, but it's still fun enough.
 
 Espgaluda (PS2 - Cave 2003)
 Showcase - High Score
