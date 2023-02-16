@@ -166,14 +166,13 @@ WRs Kelecat juniorSM 17m03s SxyTimbyy
 Psi-Ops: The Mindgate Conspiracy (PC - Midway 2004)
 Any%
 by Kainalo [WRH]
-host THEKyleThomas, couch KilledByAPixel, Timo★, yisk
-30m40s (est 30m, wr 27m23s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host THEKyleThomas, couch KilledByAPixel [DEV], Timo★, yisk
+30m40s (est 30m, wr 27m23s rta) [NV]
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube 4FzM4lipCd8+140
-Review: (Not Yet Reviewed)
-WRs Kainalo Tezur0
+Review: A run without much in the way of tech, mostly just some box clips. Some very inconsistent box clips - I lost count of how many premade safety saves got used. The dev had a little bit to say, but not much - unsurprisingly, he didn't remember that many details, from a game that shipped two decades ago.
 
 Dust: An Elysian Tail (PC - Dean Dodrill 2012, 2013)
 Any% Warps
@@ -192,12 +191,11 @@ Ax Battler: A Legend of Golden Axe (Game Gear - Aspect 1991)
 by sharif [WRH]
 host THEKyleThomas, couch jquestionmark [3RH]
 29m23s (est 35m, wr 24m15s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube AFqXA4KGHoA+110
-Review: (Not Yet Reviewed)
-WRs sharif Wildfireskunk jquestionmark
+Review: A weird little spinoff. The run's short on polish but had some nice improv, and it's entertainingly presented.
 
 Cyber Hook (PC - Blazing Stick 2020)
 Full Game Marathon
@@ -659,14 +657,23 @@ Dead Space 3 (PC - Visceral 2013)
 Any%
 coop by sharkhat87, SergeantRadish [2RHs]
 host Kungfufruitcup, couch tofercakes, Mattmatt
-1h59m02s (est 2h20m, wr 1h57m36s loadless)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h59m02s (est 2h20m, wr 1h57m36s loadless) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube SnXkB1NY16U+0
-Review: (Not Yet Reviewed)
-NM: Assumed NG
-WRs mattmatt+thedementedsalad, sharkhat+radish 2h00m37s
+Review: Even some internet issues didn't hold this run back too much. There's a nice balance to it - both players doing things, some skips and clips that cut out entire chapters, while still playing others pretty normally, a good blend of speedrun narration and story primer. It's nothing amazing, but it's quite a solid run.
+
+Dead Space 3 (PC - Visceral 2013)
+Awakened DLC
+coop by sharkhat87, SergeantRadish [WRHs]
+host Kungfufruitcup, couch tofercakes, Mattmatt
+16m03s (est 20m, wr 12m33s loadless)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube SnXkB1NY16U+7642
+Review: It's just more Dead Space 3. Nothing you didn't see in the main run, but if you liked that, go ahead and spend another quarter hour on this.
 
 Cryostasis (PC - Action Forms 2008)
 Any%
@@ -710,13 +717,11 @@ Sutte Hakkun (GBC - Indieszero 1997)
 by junkyard_dave [2RH]
 host Prolix, couch Kat_
 12m33s (est 15m, wr 11m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube whYJXUkLrto+2
-Review: (Not Yet Reviewed)
-NB: The GBC version was never officially released, only leaked in 2020
-WRs ZeldasKitten junkyard_dave 11m37s
+Review: A neat puzzle-platformer, with surprisingly precise platforming. The commentary is a bit lackluster, but the game explains itself so well I barely noticed.
 
 Vampire Night (PS2 - Wow Entertainment 2001)
 Arcade Medium
@@ -748,12 +753,11 @@ Any% No Slots
 by Zheal [WRH]
 host Brutal_Melo, SporadicErratic, couch AceZephyr, Dash Retro, brutalspeed
 6h55m42s (est 7h10m, wr 6h33m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube Ume70AMnNr4+3
-Review: (Not Yet Reviewed)
-WRs Zheal moningcraftTV DummiBeaR
+Review: A run of this length demands an excellent and *high-energy* runner and couch. Zheal clearly knows his stuff, the couch often chimed in with additional tidbits of info, but it just failed to engage any interest whatsoever. Just no charisma, no charm, very little to say beyond stiltedly narrating the run, and with the amount of down time this run has, there was a lot of dead space to fill.
 
 Stardew Valley (PC - Eric Barone 2016)
 Seeded Crafts Room - Glitchless
@@ -987,11 +991,11 @@ Any%
 by dowolf
 host Nichole Goodnight, couch brossentia
 19m29s (est 20m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube msfFc5PVM-k+1
-Review: (Not Yet Reviewed)
+Review: A surprisingly good-looking game, but with some clearly bad movement and some terrible level design. Great Awful Block material, not that much to it but short enough that even restarting levels didn't drag it down.
 NM: Not on speedrun.com
 
 I'm going to die if I don't eat sushi! (PC - Tadasumen 2021)
@@ -1220,12 +1224,11 @@ All Tracks No Duplicate Rides
 by 1davidj [WRH]
 host Xenadir, couch Pearstrike
 21m02s (est 23m, wr 20m33s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube vlbNxHKqq00+2
-Review: (Not Yet Reviewed)
-WRs igt 1davidj 18m45s Luka Pearstrike
+Review: A somewhat arbitrary category, but it makes for some interesting gameplay. I think having played the game would have been a boon while watching - the explanations of the different rides were pretty spartan.
 
 Jackal (NES - Konami 1988)
 Any% (2-Player)
@@ -1337,13 +1340,11 @@ Any% No Stone Glitch
 by Darksol188
 host Argick, couch TheTerrificTracy
 41m10s (est 45m, wr 36m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube DWOjRovde60+4
-Review: (Not Yet Reviewed)
-NM: Assuming NES version, not "Kirby's Adventure Wii", it's the one with that category
-WRs: shirokirby AdamFerrari Su
+Review: Kirby games aren't exactly the most difficult platformers out there. Some of the glitches used to shave seconds off in this run are precise, but there's only so many of those. Most of it's just "fly UFO to end". Some better commentary would have helped keep it engaging - what we got was perfectly adequate, you can follow along just fine, but it wasn't as fun as it could have been.
 
 Haiku the Robot (PC - Mister Morris 2022)
 Any%
