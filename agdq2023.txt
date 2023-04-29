@@ -199,12 +199,11 @@ Full Game Marathon
 by squeali0
 host THEKyleThomas, couch Fell, cyan
 32m22s (est 35m, wr 33m20s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube KAFLtWy16y8+105
-Review: (Not Yet Reviewed)
-WRs WhizzyTheElephant KPloggz ElephantOfDestiny
+Review: First-person platforming with a grappling hook. Trippy synthwave graphics. Easy skips on levels that are otherwise long and boring, no big skips on fun or short levels. No real marathon strats, just yolo the IL strats a few times. Yeah, if this game's speedrun keeps going, it could be a classic, but for now, it's still a pretty cool watch. I think the imperfection does a better job of showing just how hard this run is.
 
 Gungrave (PS2 - Red 2002)
 Any%
@@ -253,14 +252,13 @@ Review: I'm not sure what the draw of this run is even supposed to be. It has si
 Superliminal (PC - Pillow Castle 2019)
 All Collectibles
 by Ozmourn
-host Lanaruse, couch Sapphire
+host Lanaruse, couch Sapphire [WRH]
 30m53s (est 32m, wr 25m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube dCjlUMU9tsc+193
-Review: (Not Yet Reviewed)
-WRs SapphireRose Hippienator Tf4rc3
+Review: A very trippy first-person puzzle game, lots of perspective illusions. The speedrun makes heavy, but not exclusive, use of prop launches and OoB, which is strangely *less* strange than the as-intended gameplay bits.
 
 Skate (Xb360 via XSX - EA Black Box 2007)
 X Games%
@@ -570,13 +568,11 @@ Any%
 by rRubiks
 host cartridgeblowers, couch G3Catcher, TJGame5rs, Aslov [WRH]
 1h03m51s (est 1h05m, wr 54m35s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 3u3ut_9FLLk+1
-Review: (Not Yet Reviewed) (I did have this on but I was paying so little attention that I feel bad trying to review it.)
-NM: Could also be HD Collection or 2017 Release, but went with Original
-WR aslov headstrong1290 Ouiji
+Review: This run is so heavily glitched that it's sucked out almost all the gameplay. It's going from trigger to trigger, hovering over or clipping through walls, only occasionally stopping to kill necessary enemies, or do a mandatory race. If that sounds appealing to you, you'll probably love this, but I found it dull to watch.
 
 Outer Wilds (PC - Mobius Digital 2019)
 Stranger 100%
@@ -671,12 +667,11 @@ Any%
 by shmumbler [WRH]
 host Kungfufruitcup, couch BigScared, Garlips
 34m27s (est 35m, wr 31m55s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube 7TqgD2X3hMM+4
-Review: (Not Yet Reviewed)
-WR loadless Shmumbler  25m03 wiekds
+Review: When a run doesn't have enough to talk about, that's a good sign that it also doesn't have enough to watch. There was plenty of clipping and skipping going on, but none of it was interesting. Pretty much the entire game was skipped over in one form or another, leaving... not much.
 
 [[[/SPOOKY BLOCK]]]
 
@@ -729,12 +724,11 @@ Any% Normal
 by Gnydsmelt [2RH]
 host Prolix, couch Juh0rse
 19m37s (est 20m, wr 15m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube jSWO_e0KHEM+1
-Review: (Not Yet Reviewed)
-WRs Billy1337 Gnydsmelt 15m56s Kirinth
+Review: In the vein of many other horror games, it's mainly about juking around the few enemies in your way while running from objective to objective. It just doesn't do anything we haven't seen elsewhere, better.
 
 Final Fantasy VII (PS1 via PS2 - Square 1997)
 Any% No Slots
@@ -1011,12 +1005,11 @@ All Missions
 by Sadlybadlyy
 host Bobby Blackwolf, couch tetrinico_, biglaw 
 23m40s (est 25m, wr 17m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube ekXstzDw78s+4
-Review: (Not Yet Reviewed)
-WRs mutol SmokeyJail Ninndou_Lo
+Review: More of a silly game than an outright awful one. The strats are simple, just some basic routing optimization and a few cases where items are interchangeable, but the missions being done are silly enough, and the couch banter is good enough, to make this a fun watch.
 
 Steven Seagal Is: The Final Option (SNES - Riedel Software 1995) [UNRELEASED]
 Any% 9 Exits
@@ -1036,12 +1029,11 @@ Any% Normal
 by Amesiyo [WRH]
 host Bobby Blackwolf, couch Ikkisoad, Meta_X
 50m51s (est 58m, wr 50m35s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 3aSpP0-Li5g+3
-Review: (Not Yet Reviewed)
-WRs Amesiyo Allen_iX
+Review: I can't really point to anything this run did wrong, I just can't say I remember anything it did particularly right. The boss fights seem downright trivialized, the movement isn't up to the level of other Mega Man games, and the commentary passed right through me.
 
 The World Ends with You: Final Remix (Switch - Square Enix 2007, 2018)
 Any% Normal
@@ -1339,11 +1331,11 @@ All Goals
 by Biglaw [ORH]
 host Char_bunny, couch PARTY MAN X
 18m24s (est 22m, wr 14m32s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube cw5fQrd0jFk+1
-Review: (Not Yet Reviewed)
+Review: It's pure collectathon, might be fun if you like that, but I just couldn't. No interesting tricks being called out, no strategies, the closest the commentary got to entertaining was when they "argued" about which levels were best.
 
 Metroid Prime 1 + 2 (Wii - Retro 2002, 2004; Henrique Gemignani et al 2017)
 Multiworld Randomizer Co-op
@@ -1452,11 +1444,11 @@ Any%
 tas by Bar0ti
 host Nukkuler, no couch
 13m58s (est 15m, human wr 15m11s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆★☆★
+Skill   ☆★☆★☆
+Fun     ★☆★☆★
 Youtube QkwzxjGnyXU+0
-Review: (Not Yet Reviewed)
+Review: A short and surprisingly simple TAS. Most of it is just dashing through levels with mechanical precision, using some extremely tiny optimizations to gain speed, and the explanations were not well-presented. If you were hoping for classic TASBlock shenanigans, this isn't it, but it's a neat little thing on its own.
 
 Freedom Planet 2 (PC - GalaxyTrail 2022)
 Any% Carol
@@ -1485,11 +1477,11 @@ Showcase - High Score
 by ColonelFatso
 host briesbe, couch Dumplechan
 28m28s (est 33m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube PaN8OeSfzmA+1
-Review: (Not Yet Reviewed)
+Review: It's been a few years since we saw a Cave shmup showcase. This one was neat but not much else - we've seen more hellish bullet hells, and more precise routing. If you like runs that are mostly self-explanatory, this is a good one, but it doesn't show much depth.
 
 Blinx the Time Sweeper (XbC via Xb1 - Arbon 2002)
 Any%
@@ -1565,12 +1557,11 @@ Any% (Normal, Call)
 by KiwamiZX [2RH]
 host Shado_Temple, couch Tempest Steve
 35m49s (est 45m, wr 34m55s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube uW-lVQs8I2w+2
-Review: (Not Yet Reviewed)
-WRs Almagon Kiwami 35m08s JorgeReevs_ix
+Review: Another interesting not-quite-mega-man-but-still-totally-mega-man game, this one more about just really solid execution. The commentary was much elevated over the previous run, by having an actual couch, talking mainly about all the references to other games that would have flown right over my head.
 
 [[[/MEGA MAN BLOCK]]]
 
