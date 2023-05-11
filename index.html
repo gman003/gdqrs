@@ -79,16 +79,24 @@ body {
 	background: black;
 	color: white;
 	text-align: center;
+	--header-size: 32px;
 }
 #main div {
 	width: 100%;
+}
+#main h1 {
+	font-size: var(--header-size);
+	font-weight: bold;
+	font-family: sans-serif;
+	margin: 0;
+	padding: calc(var(--header-size)/2) 0 var(--header-size) 0;
 }
 #main #player {
 	width: 100%;
 	height: 100%;
 }
 #main .container {
-	height: calc(var(--player-height) - 128px);
+	height: calc(var(--player-height) - var(--header-size) * 2.5);
 }
 #main .container::-webkit-scrollbar {
 	width: 8px;
@@ -169,6 +177,9 @@ body {
 		--player-width: 1920px;
 		--player-height: 1080px;
 	}
+	#main {
+		--header-size: 48px;
+	}
 	#main #browser {
 		--eventlist-size: 48px;
 	}
@@ -184,8 +195,11 @@ body {
 		--player-width: 1280px;
 		--player-height: 720px;
 	}
+	#main {
+		--header-size: 40px;
+	}
 	#main #browser {
-		--eventlist-size: 48px;
+		--eventlist-size: 40px;
 	}
 	#main #info .container {
 		columns: 2 auto;
@@ -199,13 +213,13 @@ body {
 		--player-width: 854px;
 		--player-height: 480px;
 	}
+	#main {
+		--header-size: 27px;
+	}
 	#main #browser {
-		--eventlist-size: 36px;
+		--eventlist-size: 27px;
 	}
 	#main #info .container {
-		overflow-y: scroll;
-	}
-	#main #filters .container {
 		overflow-y: scroll;
 	}
 	#main #info .container div {
@@ -227,6 +241,9 @@ body {
 	body {
 		--player-width: 640px;
 		--player-height: 360px;
+	}
+	#main {
+		--header-size: 24px;
 	}
 	#main #browser {
 		--eventlist-size: 24px;
@@ -315,13 +332,13 @@ body {
 		--player-height: 720px;
 	}
 	#main #browser {
-		--eventlist-size: 48px;
+		--eventlist-size: 42px;
 	}
 	#main #info .container {
 		columns: 2 auto;
 	}
 	#navbar a {
-		font-size: 24px;
+		font-size: 20px;
 		padding: 8px;
 	}
 }
@@ -331,7 +348,7 @@ body {
 		--player-height: 480px;
 	}
 	#main #browser {
-		--eventlist-size: 36px;
+		--eventlist-size: 30px;
 	}
 	#main #info .container {
 		overflow-y: scroll;
@@ -340,7 +357,7 @@ body {
 		height: auto;
 	}
 	#navbar a {
-		font-size: 16px;
+		font-size: 14px;
 		padding: 4px;
 	}
 }
@@ -350,7 +367,10 @@ body {
 		--player-height: 360px;
 	}
 	#main #browser {
-		--eventlist-size: 24px;
+		--eventlist-size: 21px;
+	}
+	#main #browser .container a {
+		
 	}
 	#main #info .container {
 		overflow-y: scroll;
@@ -533,6 +553,7 @@ body {
 	<div id="browser">
 		<h1>Select Marathon</h1>
 		<div class="container">
+			<a class="sgdq" href="sgdq2018.txt" onclick="loadMarathon('sgdq2018')">SGDQ 2018<span>(6% - 9/153)</span></a>
 			<a class="agdq" href="agdq2019.txt" onclick="loadMarathon('agdq2019')">AGDQ 2019<span>(99% - 139/140)</span></a>
 			<a class="sgdq" href="sgdq2019.txt" onclick="loadMarathon('sgdq2019')">SGDQ 2019<span>(99% - 147/148)</span></a>
 			<a class="agdq" href="agdq2020.txt" onclick="loadMarathon('agdq2020')">AGDQ 2020<span>(100% - 146/146)</span></a>
@@ -542,6 +563,7 @@ body {
 			<a class="agdq" href="agdq2022.txt" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
 			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(98% - 123/126)</span></a>
 			<a class="agdq" href="agdq2023.txt" onclick="loadMarathon('agdq2023')">AGDQ 2023<span>(100% - 151/151)</span></a>
+			<a class="sgdq" href="sgdq2023.txt" onclick="loadMarathon('sgdq2023')">SGDQ 2023<span>(Hasn't Happened Yet)</span></a>
 			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(Now less buggy!)</span></a>
 		</div>
 		<script>
@@ -597,16 +619,9 @@ body {
 			}
 		</script>
 		<style>
-			#main #browser h1 {
-				font-size: var(--eventlist-size);
-				font-weight: bold;
-				font-family: sans-serif;
-				margin: 0;
-				padding: calc(var(--eventlist-size)/2) 0 var(--eventlist-size) 0;
-			}
 			#main #browser .container {
-				--eventlist-button-width: calc(var(--eventlist-size) * 20 / 3) /*320px*/;
-				--eventlist-button-height: calc(var(--eventlist-size) * 5 / 2) /*120px*/;
+				--eventlist-button-width: calc(var(--eventlist-size) * 21 / 3);
+				--eventlist-button-height: calc(var(--eventlist-size) * 5 / 2);
 				display: grid;
 				grid-template-columns: repeat(auto-fill, minmax(var(--eventlist-button-width), 1fr));
 				padding: var(--eventlist-size);
@@ -626,7 +641,7 @@ body {
 			}
 			#main #browser a span {
 				display: block;
-				font-size: 12px;
+				font-size: calc(var(--eventlist-size)/3);
 			}
 		</style>
 	</div>
@@ -687,8 +702,9 @@ body {
 		
 		<style>
 		#filters .container {
-			columns: 2 auto;
+			columns: 3 auto;
 			gap: 8px;
+			overflow-y: scroll;
 		}
 		#filters .container div {
 			display: inline-block;
@@ -745,6 +761,9 @@ body {
 			}
 			#main #info .container div {
 				display: inline-block;
+			}
+			#main #info .container div p {
+				padding: 0 12px;
 			}
 			#main #info h3 {
 				width: 100%;
