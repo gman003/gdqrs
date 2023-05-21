@@ -770,7 +770,7 @@ Review: A pretty standard beat-em-up, with a pretty standard run. It's a Genesis
 
 [[[SONIC BLOCK]]]
 
-SNOLF 0 (Genesis - Sonic Team 1991, DrMelon 2019)
+SNOLF 0 (Genesis - Sonic Team 1991, DrMelon 2021)
 Any%
 by dowolf
 host NerdyExcursions, couch Brossentia
