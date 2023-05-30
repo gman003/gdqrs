@@ -1,5 +1,5 @@
 ====================SUMMER GAMES DONE QUICK 2023=====================
-===========Raising $0,138,670 for Doctors Without Borders============
+===========Raising $0,259,681 for Doctors Without Borders============
 =========================May 28-June 4, 2023=========================
 
 -------------------------------SUNDAY--------------------------------
@@ -112,7 +112,7 @@ Devil May Cry 4: Special Edition (PC - Capcom 2008, 2015)
 NG Devil Hunter - Nero/Dante
 by DECosmic
 host Xenadir, couch COUCH
-HhMMmSSs (est 1h20m, wr 1h02m53s rta)
+1h14m29s (est 1h20m, wr 1h02m53s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -124,7 +124,7 @@ Thief (PC - Eidos Montreal 2014)
 Any% (Rogue, No DLC)
 by DemonicRobots [2RH]
 host TheKingsPride, couch COUCH
-HhMMmSSs (est 1h25m, wr 56m22s lrt)
+1h11m52s (est 1h25m, wr 56m22s lrt)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -136,7 +136,7 @@ Banjo-Kazooie (N64 - Rare 1998)
 100% no FFM
 by duck
 host TheKingsPride, couch COUCH
-HhMMmSSs (est 2h08m, wr 1h59m16s rta)
+2h13m36s (est 2h08m, wr 1h59m16s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -148,7 +148,7 @@ Dark Summit (GC - Radical 2002)
 Any%
 by flatline [WRH]
 host Konception, couch COUCH
-HhMMmSSs (est 45m, wr 41m28s)
+45m22s (est 45m, wr 41m28s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -160,7 +160,7 @@ Bloody Hell (PC - Pun Intended 2023)
 Any%
 by BystanderTim
 host Konception, couch COUCH
-HhMMmSSs (est 15m, wr 11m05s)
+13m12s (est 15m, wr 11m05s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -172,7 +172,7 @@ Loom (PC - Lucasfilm Games 1990)
 Any% VGA
 by LMMotoss [2RH]
 host Konception, couch COUCH
-HhMMmSSs (est 30m, wr 24m25s)
+27m07s (est 30m, wr 24m25s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -184,7 +184,7 @@ Michael Jackson's Moonwalker (Genesis - Sega 1989)
 Any%
 by RetroBrando [WRH]
 host Konception, couch COUCH
-HhMMmSSs (est 22m, wr 18m17s)
+21m30s (est 22m, wr 18m17s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -196,7 +196,7 @@ Suzuki Bakuhatsu (PS1 via PS2 - Enix 2000)
 Any% Hard
 by quino
 host SquidDilla, couch COUCH
-HhMMmSSs (est 20m, wr 15m54s)
+19m27s (est 20m, wr 15m54s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -208,7 +208,7 @@ Metal Slug XX (PC - Noise Factory 2008, SNK Playmore 2009)
 normal Any% eri
 by sukimos
 host SquidDilla, couch COUCH
-HhMMmSSs (est 25m, wr 15m52s igt)
+22m10s (est 25m, wr 15m52s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -220,7 +220,7 @@ Anodyne (PC - Analgesic 2013)
 All Bosses
 by LaserTrap_ [2RH]
 host SquidDilla, couch COUCH
-HhMMmSSs (est 27m, wr 22m49s)
+24m16s (est 27m, wr 22m49s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -232,7 +232,7 @@ PHOGS! (PC - Bit Loom 2020)
 Solo Any%
 by Sean_A [WRH]
 host SquidDilla, couch COUCH
-HhMMmSSs (est 1h05m, wr 54m34s)
+56m35s (est 1h05m, wr 54m34s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -242,89 +242,84 @@ WRs: runner rarelike SwaggyCat
 
 Alien Swarm (PC - Valve 2010)
 Any%
-coop by Kykystas, mr.deagle
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 20m, wr 13m08s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+coop by Kykystas [REM], mr.deagle [REM]
+host Bobby Blackwolf, no couch
+13m54s (est 20m, wr 13m08s rta) [PB]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: TheMaster+mr.deagle, Wh1teLight+Kykystas, ShadowDraft+Onin, this pair PB 14m01s
+Review: A short but fun little twin-stick shooter, lots of co-op multitasking and boundary breaks.
 
 Attack on Titan 2: Final Battle (PC - Omega Force 2018)
-Season 3
-by Froob
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 52m, wr 46m45s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Season 3 (NG, Fixed)
+by Froob [WRH] [REM]
+host Bobby Blackwolf, no couch
+43m22s (est 52m, wr 46m45s) [WR]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: Froob Runaway Minerstove
-NM: assumed NG Fixed Season 3
+Review: A bit of a shakeup from Froob, but an interesting one. Not as much lore to dive into, and the routing is a lot less deep, but the execution was excellent.
 
 Crisis Core: Final Fantasy VII - Reunion (PC - Square Enix 2007, Tose 2022)
 Any%
-race desa3579 [3RH] vs BigSid [2RH]
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 1h20m, wr 1h16m55s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+race desa3579 [3RH][REM] vs BigSid [2RH][REM]
+host Bobby Blackwolf, no couch
+1h16m??s, 1h22m47s (est 1h20m, wr 1h16m55s rta)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: I often call out excellent commentary, because it can make or break a run. Here, the stumbling and meandering commentary broke it. The game's systems came across as opaque and confusing, the runners had to constantly remind each other what the route or fallbacks were, and the plot explanation was threadbare.
 WRs: Goran BigSid119 1h15m29s rta desa 1h15m59s rta
+NM: double-check when timing is supposed to end, they failed to call it
 
 Peggle Deluxe (PC - PopCap 2007)
 Any%
 by britsha
-host Brutal_Melo, couch COUCH
-HhMMmSSs (est 1h15m, wr 51m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Brutal_Melo, couch OzVenomDND, SatanHerself, PoetryStud
+1h02m23s (est 1h15m, wr 51m29s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
 Review: (Not yet reviewed)
 WRs: pnaha anyGeorge runner 56m21s
 NM: assumed Adventure Mode
 
 ENDER LILIES: Quietus of the Knights (PC - Adglobe 2021)
-All Spirits
-by Keizaron [3RH]
-host Brutal_Melo, couch COUCH
-HhMMmSSs (est 1h10m, wr 1h05m12s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+All Spirits (1.0)
+by Keizaron [WRH]
+host Brutal_Melo, couch CovertMuffin, The Blacktastic, Emray
+1h08m16s (est 1h10m, wr 1h00m55s rta)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: wasuremono SebK keiz 1h09m48s rta
-NM: assumed 1.1
+Review: A very pretty 2D Souls-tinged metroidvania, which is not what I expected from Keiz but it worked pretty well. The back half got a bit repetitive but the difficulty kept it interesting.
 
 Sly Cooper and the Thievius Raccoonus (PS2 - Sucker Punch 2002)
 All Keys
 by Zenthrow [2RH]
-host PippyInATopHat, couch COUCH
-HhMMmSSs (est 1h12m, wr 58m51s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host PippyInATopHat, couch CinderKit5, ExodusXAnimate
+1h12m57s (est 1h12m, wr 58m51s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: Gehis514 Zenthrow 1h02m37s TaymNeon
+Review: There was a nice variety to this run. Some levels were played mostly normally. Some had small shortcuts. Some were practically skipped entirely. It was never the most exciting run, but not bad.
 
 The Legend of Zelda: A Link Between Worlds (3DS - Nintendo EAD 2013)
 Any%
 by benstephens56
-host PippyInATopHat, couch COUCH
-HhMMmSSs (est 1h35m, wr 1h20m25s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host PippyInATopHat, couch PurplePhoton, GameStabled, Adef
+1h28m52s (est 1h35m, wr 1h20m25s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: Lots of silly banter, lots of glitches
 WRs: Skitten TheLegendOfZaheer bunnybie, runner pb 1h25m12s
 
 [[[CASTLEVANIA BLOCK]]]
@@ -332,8 +327,8 @@ WRs: Skitten TheLegendOfZaheer bunnybie, runner pb 1h25m12s
 Bloodstained: Curse of the Moon (PC - Inti Creates 2018)
 Any% Ultimate
 by The Blacktastic [2RH]
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 25m, wr 21m41s rta)
+host Nichole Goodnight, couch Brooke, Ecdycis, DanTheVP
+22m32s (est 25m, wr 21m41s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -344,28 +339,28 @@ WRs: JupiterClimb runner 22m11s strizer86
 Bloodstained: Curse of the Moon 2 (PC - Inti Creates 2020)
 Episode 1: Normal/Veteran
 by DanTheVP
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 38m, wr 31m18s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Nichole Goodnight, couch The Blacktastic
+37m15s (est 38m, wr 31m18s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: Geinuhayst LordYharim Yesterday, runner pb 33m35s
+Review: A high-energy run, lots of precise platforming and boss strats, and the most hype commentator in GDQ history.
 
 Castlevania: Symphony of the Night (PS1 - KCE Tokyo 1997) [BONUS GAME 2]
 Randomizer - Any% Glitchless (Lycanthrope)
 by Dr4gonBlitz
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 1h05m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Nichole Goodnight, couch The_Swarm, The Blacktastic
+59m01s (est 1h05m, no wr)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: randomizer so probably none, but Dr4gonBlitz holds WRs in every Alucard category in SotN
+Review: A bit harder to follow than most randomizers, though how much of that is my lack of familiarity with SotN, and how much is the game's less intuitive progression and blockers, I can't tell. But even with that, it was still fun to watch.
 
 [[[/CASTLEVANIA BLOCK]]]
+
+-------------------------------TUESDAY-------------------------------
 
 StepManiaX (Arcade - Step Revolution 2017)
 Showcase
@@ -378,8 +373,6 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet reviewed)
 WRs: 
-
--------------------------------TUESDAY-------------------------------
 
 Katana ZERO (PC - Askiisoft 2019)
 All Stages Normal
