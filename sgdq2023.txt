@@ -749,44 +749,42 @@ WRs: junkyard_dave runner 49m04s Byrdman
 Dharma Doujo (Arcade - Metro 1994)
 Any%
 by Lizstar [2RH]
-host Prolix, couch COUCH
-HhMMmSSs (est 40m, wr 28m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Prolix, couch RubieHart
+35m28s (est 40m, wr 28m17s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: ashupara Lizstar 33m58s
+Review: Have you ever watched one of those videos demonstrating how sorting algorithms work, with all the bars and the boop sounds whenever something swaps? Yeah this is like that, except in video game form, and also chibi yokai.
 
 Gauntlet (NES - Tengen 1988)
 Any%
 coop by yelsraek, chessjerk [WRHs]
-host Prolix, couch COUCH
-HhMMmSSs (est 20m, wr 17m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Prolix, couch Bokonon_Lives [2RH]
+18m11s (est 20m, wr 17m10s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: runners, Bokonon_Lives+yelsraek
+Review: This run really relies on you having some familiarity with Gauntlet, especially NES Gauntlet. Even with that, it's a visually unimpressive run that relies mostly on memorization of some truly evil game design.
 
 Sifu (PC - Sloclap 2022)
 WUDE Any% (Master)
-by EileenCream [WRH]
-host TrainerAnade, couch COUCH
-HhMMmSSs (est 52m, wr 46m03s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by EileenCream [WRH][REM]
+host TheKingsPride, couch ChronoDreamr [DEV?]
+46m52s (est 52m, wr 46m03s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: This run had all the right ingredients, but failed to use them well. Having a dev on the couch, but focusing them on play-by-play commentary, feels wasteful. The speedrun was almost pure play-game-good, but it's hard to tell how much of the flashiness was skill, and how much was normal gameplay. And the nearly-static vtuber image just emphasized how monotonous things felt. The end result was something that felt more like a quiet Let's Play than a speedrun.
 WRs: runner 44m35s lrt Cranky12
 NM: Assumed Restricted, not Perma-Skills
 
 Exodus from the Earth (PC - Parallax Arts 2008)
 Any%
-by catalystz
-host Konception, couch COUCH
+by catalystz [REM]
+host Konception, couch chronos_r
 HhMMmSSs (est 35m, wr 20m52s lrt)
 Overall N/R
 Skill   N/R
@@ -797,63 +795,61 @@ WRs: Kisimov unity_b Muty, runner pb 24m52s lrt
 
 Touhou 14.3: Impossible Spell Card (PC - Team Shanghai Alice 2014)
 All Scenes No Items
-by msm_smtn [WRH]
-host iggyzig, couch COUCH
-HhMMmSSs (est 1h20m, wr 55m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by msm_smtn aka Misumi-Sumetane [WRH][REM]
+host iggyzig, couch PinkPajamas [REM]
+1h11m09s (est 1h20m, wr 55m38s)
+Overall ★★☆☆☆
+Skill   ★★★★☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: runner JWRmiso KiriCat
+Review: This is a very one-note run, so your enjoyment will depend on exactly how much you like super-precise, endurance-test bullet-hell shmups. If an hour-plus of that sounds like heaven, you're in for a treat. But if you want some more variety, you'll have to find it elsewhere. Even the commentary didn't shake things up much, this is a pretty bad primer on Touhou lore.
+NM: recheck exact time, they were a bit late
 
 Shatterhand (NES - Natsume 1991)
 Any%
-by Amad [WRH]
-host TrainerAnade, couch COUCH
-HhMMmSSs (est 24m, wr 19m15s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Amad [WRH][REM]
+host TrainerAnade, couch Nooblar [REM]
+21m55s (est 24m, wr 19m15s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: Amad PakLomak st4nzzz
+Review: A pretty typical late 8-bit action-platformer, with a pretty typical run. Route in some overpowered upgrades against the worst bosses, try to keep the lag down, mostly fail at both due to RNG.
 
 lil gator game (PC - MegaWobble 2022)
 Any%
-by ItzBytez [3RH]
-host TrainerAnade, couch COUCH
-HhMMmSSs (est 18m, wr 13m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by ItzBytez [3RH][REM]
+host TrainerAnade, couch ShovelClaws [REM]
+13m47s (est 18m, wr 13m45s) [PB]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: Teieur Ero runner 13m59s
+Review: It's a collectathon where the thing you're collecting is *friends*. Expect extreme cuteness, but also a really efficient route, and clean execution of some surprisingly deep movement. 
 
 Dangun Feveron (Arcade via PS4 - Cave 1998, 2016)
 Arcade
-by Qlex
-host iggyzig, couch COUCH
-HhMMmSSs (est 22m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Qlex [REM]
+host TrainerAnade, couch M. Knight [REM], SoftDrink [REM]
+20m51s (est 22m, no wr)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: not on speedrun.com, probably a shmup high-score showcase
+Review: The now-conventional shmup high-score showcase, the much faster movement and goals beyond just surviving wave after wave of bullets made this much more enjoyable than the earlier shmup run.
+NM: also need to recheck the times, doesn't super matter
 
 Trine Enchanted Edition (PC - FrozenByte 2009, 2014)
 Any% NG+
-by GrosHiken [2RH]
-host iggyzig, couch COUCH
-HhMMmSSs (est 25m, wr 16m03s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by GrosHiken [2RH][REM]
+host TrainerAnade, couch Blake_Faye
+16m43s (est 25m, wr 16m03s igt)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: ssqice runner 16m05s MaximumLeech
+Review: It's another one-trick run. Glitch one character's charge-attack power so it never ends, use that to just move fast, to jump over puzzles, to clip through boss arenas, basically just skip the entire game. It's short enough that some high energy could have saved it, but I couldn't feel it.
+NM: name of other commentator, GrosHiken's partner?
 
 N++ (PC - Metanet 2015)
 Legacy X-row
@@ -868,50 +864,52 @@ Review: (Not yet reviewed)
 
 Hitman 3 (PC - IO Interactive 2021)
 Any% Freelancer Campaign
-by Frote7
-host Mr. Game and Shout, couch COUCH
-HhMMmSSs (est 30m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Frote7 [REM]
+host Mr. Game and Shout, couch Yannini [REM]
+33m29s (est 30m, no wr?)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: Commentary can make or break a run. Here, it broke it. If there were any cool AI manips or strats used, they didn't talk about them. They didn't even give a coherent explanation of the category. They mostly just whined about RNG-induced time loss.
 WRs: can't find category on sr.com
 
 Shadow the Hedgehog (GC - Sega Studios USA 2005)
-Glitchless [BIDWAR]
-by MetalMedb
+Glitchless Hero [BIDWAR]
+by MetalMedb [REM]
 host Mr. Game and Shout, couch COUCH
-HhMMmSSs (est 20m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+HhMMmSSs (est 20m, wr 18m16s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: too many options to pre-list, just go to the site
+Review: It's a short speedrun, but it was a good short speedrun. There's enough introduction to do to take up a good chunk of the speedrun, ripping on the game and then it's over before it starts to drag.
+TODO: check that this was Glitchless Hero and not Glitchless Pure Hero, also get the couch names
 
 Sonic Adventure DX (PC - Sonic Team 2003)
 All Stories Relay
-by SpacebarS, shovelclaws, Themimik, Yoshipuff, AlphaDolphin [2RH], Allegro
-host ateatree, couch COUCH
-HhMMmSSs (est 1h50m, wr 1h26m23s solo rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by AlphaDolphin [2RH All Stories], SpacebarS [2RH Amy], shovelclaws, Allegro, TheMimik, Yoshipuff [2RH Tails], Withermin
+host ateatree, no couch
+1h40m45s (est 1h50m, wr 1h26m23s solo rta)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: Niczur AlphaDolphin Dragvrallas, some runners are probably RHs for individual stories
+Review: I'm not a big fan of this game casually, but wow, this speedrun. Lots of variety, lots of glitches, lots of skill, lots of fun.
+WRs: Niczur AlphaDolphin Dragvrallas, some runners are probably RHs for individual stories, TODO CHECK THESE
 
-The Legend of Zelda: Majora's Mask (N64 - Nintendo EAD 2000)
+The Legend of Zelda: Majora's Mask (N64 - Nintendo EAD 2000; Zoey Zolotova 2019)
 Blitz Randomizer
 by spikevegeta
-host Char_bunny, couch COUCH
-HhMMmSSs (est 2h30m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Char_bunny, couch Phant_TV, GothicZelda, Vidya James
+1h52m08s (est 2h30m, no wr)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: Aw yiss Randomized Zelda. We haven't seen Majora's Mask rando before, but it's just as fun as Ocarina rando was. The logic was a little harder to follow, since I'm less familiar with that game, but it was as well-commentated as we've come to expect.
+
+------------------------------THURSDAY-------------------------------
 
 Super Mario Odyssey (Switch - Nintendo EPD 2017) [BONUS GAME 4]
 Any%
@@ -924,8 +922,6 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet reviewed)
 WRs: Tyron18 MITCH023923982983 BusterDoggy_, runner pb 59m01s
-
-------------------------------THURSDAY-------------------------------
 
 Paper Mario (N64 - Intelligent Systems 2000)
 Any% No ACE
