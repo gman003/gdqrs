@@ -12,7 +12,7 @@ host NickRPGreen, couch EmerdlDD, DawnSR
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube t4ziBWqmcFc+229
 Review: A surprisingly tech-heavy run, to start off the marathon, a good bit of jargon to explain but it's done well.
 
 Bugsnax (PS5 + PC - Young Horses 2020)
@@ -23,7 +23,7 @@ host NickRPGreen, couch Zuhn [DEV], Devonsoft [DEV]
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube zVOZuh-1cV0+0
 Review: (Not yet reviewed)
 WRs: A pretty neat run, unconventional form of co-op but it made for very little dead time between the two of them.
 
@@ -35,7 +35,7 @@ host NickRPGreen, couch Luigi [DEV], WreckingPrograms [DEV][REM]
 Overall ★☆☆☆☆
 Skill   ★☆☆☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube 0VksFOHX7wM+3
 Review: I found this run disappointing. Instead of showing off "Mega Man, but custom remixes", it hammered us with "other games, remade in a Mega Man engine". Neat as a oneoff, tiresome as a full half-hour. And the runner came off as more obnoxious than enthusiastic.
 
 F-Zero X (N64 - Nintendo EAD 1998)
@@ -46,7 +46,7 @@ host Kungfufruitcup, couch PearStrike, Drakodan, Shenanagans
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube fVxC58IGJ_w+2
 Review: F-Zero runs tend to be pretty precise and technical, lots of strats intended for IL runs rather than full-game. But the sheer length of this got pretty hard after a while.
 NM: not sure I got the right category, doesn't include the runner?
 
@@ -58,7 +58,7 @@ host Kungfufruitcup, no couch
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube zs3ZZ1jyKXY+4
 Review: The speed tech is pretty limited, just a good route and try not to mess up. But it's an easy game to mess up, so seeing it done so well was cool.
 WRs: expireddata m1btlyz SupaScared 38m25s
 
@@ -70,7 +70,7 @@ host Kungfufruitcup, couch Dreamie, Phantom5800
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube kFAi9h93-TE+0
 Review: Not the most broken Zelda game, by a long shot, but still one that makes use of lots of glitches. There's long stretches of normal-ish gameplay, especially early on, but broken up by some extravagant layer breaks and some RNG manips. Excellent commentary makes it easy to digest.
 
 Ring Fit Adventure (Switch - Nintendo EPD 2019) [BONUS GAME 1]
@@ -81,7 +81,7 @@ host Xenadir, couch COUCH
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube HBfc16PU6Lc+2
 Review: An exceptionally unconventional speedrun, probably worth checking out just for the novelty. There's little in the way of traditional speedrunning skill, but I'm pretty sure most traditional speedrunners would literally die if they tried this run.
 
 Luigi's Mansion (GC via Wii - Nintendo EAD 2001)
@@ -92,7 +92,7 @@ host Xenadir, couch Flauke, ElectricMiles
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube XKZgjn639DM+3
 Review: Not the most competitive race, but there's no end to precise little strats in this game. This category is all execution, there's only a few glitches and they're all nice to get but not critical.
 
 Luigi's Mansion (GC via Wii - Nintendo EAD 2001) [INCENTIVE]
@@ -103,7 +103,7 @@ host Xenadir, couch Flauke, ElectricMiles
 Overall ☆☆☆☆☆
 Skill   ★☆☆☆☆
 Fun     ☆☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube XKZgjn639DM+4642
 Review: It's five minutes repeating the opening of the last run, then twenty minutes of the runners quietly failing the out of bounds stuff, because they didn't practice this run at all before making it an incentive. Watch until the first reset, if you watch at all.
 
 -------------------------------MONDAY--------------------------------
@@ -111,132 +111,132 @@ Review: It's five minutes repeating the opening of the last run, then twenty min
 Devil May Cry 4: Special Edition (PC - Capcom 2008, 2015)
 NG Devil Hunter - Nero/Dante
 by DECosmic
-host Xenadir, couch COUCH
+host Xenadir, couch MaxyLobes, WaifuRuns
 1h14m29s (est 1h20m, wr 1h02m53s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 3unK8WHC0F0+5
 Review: (Not yet reviewed)
 WRs: renzero Certified_Freak mekarazium, DECosmic PB 1h10m17s rta
 
 Thief (PC - Eidos Montreal 2014)
 Any% (Rogue, No DLC)
 by DemonicRobots [2RH]
-host TheKingsPride, couch COUCH
+host TheKingsPride, couch mikewave, captain_ezekiel
 1h11m52s (est 1h25m, wr 56m22s lrt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 7ofM5vlfxXc+2
 Review: (Not yet reviewed)
 WRs: qsetz DemonicRobots 1h13m35s rta ToxicTT
 
 Banjo-Kazooie (N64 - Rare 1998)
 100% no FFM
 by duck
-host TheKingsPride, couch COUCH
+host TheKingsPride, couch connor75, songster
 2h13m36s (est 2h08m, wr 1h59m16s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube ATYvXdqa_Rw+0
 Review: (Not yet reviewed)
 WRs: ploathe Azmi AnderBeamo, duck 4rh 2h01m18s rta
 
 Dark Summit (GC - Radical 2002)
 Any%
 by flatline [WRH]
-host Konception, couch COUCH
+host Konception, couch twilit, wafflewhybread, mr_shasta
 45m22s (est 45m, wr 41m28s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube quvO-migS6Q+0
 Review: (Not yet reviewed)
 WRs: flatline Bbforky Insetik47
 
 Bloody Hell (PC - Pun Intended 2023)
 Any%
 by BystanderTim
-host Konception, couch COUCH
+host Konception, no couch
 13m12s (est 15m, wr 11m05s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube ICPVi1TqWis+2
 Review: (Not yet reviewed)
 WRs: Zoomy_ Branta_Canadensis JAYKAE1, runner not ranked
 
 Loom (PC - Lucasfilm Games 1990)
 Any% VGA
 by LMMotoss [2RH]
-host Konception, couch COUCH
+host Konception, couch moonblazewolf
 27m07s (est 30m, wr 24m25s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube KcOzv5r_rtM+2
 Review: (Not yet reviewed)
 WRs: Non-Slim_Jim LMMotoss 25m22s AlexAshpool
 
 Michael Jackson's Moonwalker (Genesis - Sega 1989)
 Any%
 by RetroBrando [WRH]
-host Konception, couch COUCH
+host Konception, couch faust4712, aldranis
 21m30s (est 22m, wr 18m17s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube OXxyOxt0orM+2
 Review: (Not yet reviewed)
 WRs: runner SandbagX Pikachu
 
 Suzuki Bakuhatsu (PS1 via PS2 - Enix 2000)
 Any% Hard
-by quino
-host SquidDilla, couch COUCH
+by quino [WRH]
+host SquidDilla, couch hibnotix, juho
 19m27s (est 20m, wr 15m54s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube pH6km6WGWDo+3
 Review: (Not yet reviewed)
 WRs: quino283 suiyo
 
 Metal Slug XX (PC - Noise Factory 2008, SNK Playmore 2009)
 normal Any% eri
-by sukimos
-host SquidDilla, couch COUCH
+by sukimos [REM]
+host SquidDilla, no couch
 22m10s (est 25m, wr 15m52s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube bu22j8SzasY+3
 Review: (Not yet reviewed)
 WRs: mamekuro Vlad Benja, sukimos not ranked
 
 Anodyne (PC - Analgesic 2013)
 All Bosses
-by LaserTrap_ [2RH]
-host SquidDilla, couch COUCH
+by LaserTrap_ [2RH][REM]
+host SquidDilla, no couch
 24m16s (est 27m, wr 22m49s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube LgHsAj-0AVA+3
 Review: (Not yet reviewed)
 WRs: TheBarrel (runner) 22m53s Serena
 
 PHOGS! (PC - Bit Loom 2020)
 Solo Any%
-by Sean_A [WRH]
-host SquidDilla, couch COUCH
+by Sean_A [WRH][REM]
+host SquidDilla, no couch
 56m35s (est 1h05m, wr 54m34s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 8P3UeOwcJZE+0
 Review: (Not yet reviewed)
 WRs: runner rarelike SwaggyCat
 
@@ -248,7 +248,7 @@ host Bobby Blackwolf, no couch
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube 6HW-x_vHx0Q+0
 Review: A short but fun little twin-stick shooter, lots of co-op multitasking and boundary breaks.
 
 Attack on Titan 2: Final Battle (PC - Omega Force 2018)
@@ -259,7 +259,7 @@ host Bobby Blackwolf, no couch
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube vCYVUh0HKUY+4
 Review: A bit of a shakeup from Froob, but an interesting one. Not as much lore to dive into, and the routing is a lot less deep, but the execution was excellent.
 
 Crisis Core: Final Fantasy VII - Reunion (PC - Square Enix 2007, Tose 2022)
@@ -270,7 +270,7 @@ host Bobby Blackwolf, no couch
 Overall ★☆☆☆☆
 Skill   ★☆☆☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube lJ2YNyHGo4Q+3
 Review: I often call out excellent commentary, because it can make or break a run. Here, the stumbling and meandering commentary broke it. The game's systems came across as opaque and confusing, the runners had to constantly remind each other what the route or fallbacks were, and the plot explanation was threadbare.
 WRs: Goran BigSid119 1h15m29s rta desa 1h15m59s rta
 NM: double-check when timing is supposed to end, they failed to call it
@@ -283,7 +283,7 @@ host Brutal_Melo, couch OzVenomDND, SatanHerself, PoetryStud
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube RlnieE-h6k8+2
 Review: (Not yet reviewed)
 WRs: pnaha anyGeorge runner 56m21s
 NM: assumed Adventure Mode
@@ -296,7 +296,7 @@ host Brutal_Melo, couch CovertMuffin, The Blacktastic, Emray
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube oG7HZXYsgt0+10
 Review: A very pretty 2D Souls-tinged metroidvania, which is not what I expected from Keiz but it worked pretty well. The back half got a bit repetitive but the difficulty kept it interesting.
 
 Sly Cooper and the Thievius Raccoonus (PS2 - Sucker Punch 2002)
@@ -307,7 +307,7 @@ host PippyInATopHat, couch CinderKit5, ExodusXAnimate
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube Aasqp6i3zHo+4
 Review: There was a nice variety to this run. Some levels were played mostly normally. Some had small shortcuts. Some were practically skipped entirely. It was never the most exciting run, but not bad.
 
 The Legend of Zelda: A Link Between Worlds (3DS - Nintendo EAD 2013)
@@ -318,8 +318,8 @@ host PippyInATopHat, couch PurplePhoton, GameStabled, Adef
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
-Review: Lots of silly banter, lots of glitches
+Youtube 5p1M5UCJF8g+5
+Review: Lots of silly banter, lots of glitches, not the most polished Zelda run but that's a high bar to clear.
 WRs: Skitten TheLegendOfZaheer bunnybie, runner pb 1h25m12s
 
 [[[CASTLEVANIA BLOCK]]]
@@ -332,7 +332,7 @@ host Nichole Goodnight, couch Brooke, Ecdycis, DanTheVP
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube IAsF9AxFy5Q+0
 Review: (Not yet reviewed)
 WRs: JupiterClimb runner 22m11s strizer86
 
@@ -344,7 +344,7 @@ host Nichole Goodnight, couch The Blacktastic
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube k_q31E7xaZ8+1
 Review: A high-energy run, lots of precise platforming and boss strats, and the most hype commentator in GDQ history.
 
 Castlevania: Symphony of the Night (PS1 - KCE Tokyo 1997) [BONUS GAME 2]
@@ -355,7 +355,7 @@ host Nichole Goodnight, couch The_Swarm, The Blacktastic
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 8jKkoDUpv4c+1
 Review: A bit harder to follow than most randomizers, though how much of that is my lack of familiarity with SotN, and how much is the game's less intuitive progression and blockers, I can't tell. But even with that, it was still fun to watch.
 
 [[[/CASTLEVANIA BLOCK]]]
