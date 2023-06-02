@@ -364,73 +364,72 @@ Review: A bit harder to follow than most randomizers, though how much of that is
 
 StepManiaX (Arcade - Step Revolution 2017)
 Showcase
-by ZephyrGlaze, WDRM, chezmix
-host Prolix, couch COUCH
+by ZephyrGlaze [REM], WDRM [REM], chezmix [REM]
+host Prolix, couch werdwerdus [REM], zom [REM]
 HhMMmSSs (est 1h20m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube coeQI1E8c3U+4
 Review: (Not yet reviewed)
-WRs: 
 
 Katana ZERO (PC - Askiisoft 2019)
 All Stages Normal
-by Modulottie
-host Prolix, couch COUCH
+by Modulottie [REM]
+host Prolix, couch metroid crime [REM], roseblom [REM], tichat002 [REM]
 24m05s (est 18m, wr 15m11s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Wx4MY7C2yGQ+0
 Review: (Not yet reviewed)
 WRs: DangNabbitJones Lastnumb3r Logz, runner pb 15m59s igt
 
 Hearthstone: Knights of the Frozen Throne (PC - Blizzard 2014, 2017)
 Solo Adventures
-by srd_27 [WRH]
-host Prolix, couch COUCH
+by srd_27 [WRH][REM]
+host Prolix, couch monk [REM]
 21m31s (est 30m, wr 17m40s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube qtYvh3epypA+2
 Review: (Not yet reviewed)
 WRs: srd_27 Hess Mipha
 
 Overcooked! 2: Night of the Hangry Horde (PC - Team17 2018)
 All (Hangry) Horde Levels
 coop by RUBIEHART, Peace Egg, Sunbrojade [2RHs]
-host THEKyleThomas, couch COUCH
+host THEKyleThomas, couch jhobz
 50m31s (est 1h00m, wr 54m09s) [WR]
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube U5wo63JCUTU+6
 Review: (Not yet reviewed)
 WRs: Heiker+Abedulator+Nihlius, runners 58m15s
 
 Chained Echoes (PC - Matthias Linda 2022)
 Any% No CW - Fresh File
 by moonblazewolf [WRH]
-host THEKyleThomas, couch COUCH
+host THEKyleThomas, couch lmmotoss, puwexil, flannelkat
 45m33s (est 53m, wr 40m53s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube KY8jYVDgKLc+2
 Review: (Not yet reviewed)
 WRs: runner KPloggz Enker
 
 Alpha Prime (PC - Black Element 2007)
 Any%
 by danejerus
-host THEKyleThomas, couch COUCH
+host THEKyleThomas, couch covertmuffin, meta
 27m24s (est 34m, wr 21m29s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube G_OJ-8JlKhE+3
 Review: (Not yet reviewed)
 WRs: Zensn danejerus 26m20s Meta
 NM: Assumed Easy, runner has no record for Normal or Hard
@@ -438,72 +437,72 @@ NM: Assumed Easy, runner has no record for Normal or Hard
 Rose of Meat (PC - Mr Pink 2021)
 Any%
 by shmumbler [WRH][ORH]
-host THEKyleThomas, couch COUCH
+host THEKyleThomas, couch ebd
 10m21s (est 12m, wr 8m17s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube ydoy3BFBeR4+0
 Review: (Not yet reviewed)
 NM: part of Dread X Collection: The Hunt anthology
 
 SNOLF (Genesis - Sonic Team 1991, DrMelon 2019)
 Any% No Coordinate Warp
 by dowolf [WRH]
-host Char_bunny, couch COUCH
+host Char_bunny, couch aleck47
 37m38s (est 40m, wr 35m55s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Wb67d4XkPKc+3
 Review: (Not yet reviewed)
 WRs: dowolf barogian
 
 Marathon Infinity (PC - Bungie 1996)
 All Main Levels - Kindergarten
 by tbcr [2RH]
-host Char_bunny, couch COUCH
+host Char_bunny, no couch
 26m17s (est 35m, wr 22m55s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube mhN2Ai0kccs+3
 Review: (Not yet reviewed)
 WRs: aperturegrillz tbcr 27m49s rta
 
 G.I. Joe: A Real American Hero (NES - KID 1991)
 Any%
 by MixMastaPJ [2RH]
-host Char_bunny, couch COUCH
+host Char_bunny, couch infinitemystery, madmegax381
 28m47s (est 25m, wr 19m35s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube ufqbi5YjsuM+4
 Review: (Not yet reviewed)
 WRs: Toad22484 runner 20m10s ZeroThe14th
 
 Maniac Mansion (NES - LucasArts 1987, 1988)
 Any%
 by Sathdresh
-host Char_bunny, couch COUCH
+host Char_bunny, couch MixMastaPJ, madmegaz381, janglestorm
 13m19s (est 8m, wr 5m29s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube fEZND0rz3nA+0
 Review: (Not yet reviewed)
 WRs: Niss3 NeSs7or9 capnshrimpy, runner 4RH 6m42s
 
 Disney's 102 Dalmatians: Puppies to the Rescue (PS2 - Crystal Dynamics 2000)
 All Levels, Inbounds
 race, passere [WRH] vs TaintedTali
-host Char_bunny, couch COUCH
+host Char_bunny, couch tophub, stokeley_onfroy, mastermoor
 28m50s (est 32m, wr 23m06s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube ZVyCVgOynoc+1
 Review: (Not yet reviewed)
 WRs: passere Custom Avouca
 
@@ -515,7 +514,7 @@ host Char_bunny, couch Dangers, Brutal_Melo
 Overall ★★★★☆
 Skill   ★★☆☆☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube eDdYQ9GvXOE+3
 Review: It's a pretty simple speedrun, just some platforming and collectathon routing. But they had a bit and they COMMITTED to it.
 
 CrossCode (PC - Radical Fish 2018)
@@ -526,7 +525,7 @@ host AttyJoe, couch Corvimae, Regiden [DEV][REM]
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube Qcyp5n-xKR8+4
 Review: A cool run, lots of puzzles being broken and decent chunks being skipped. Dev commentary was a bit sparse but interesting when it was there.
 NM: Check socials, the leaderboards are by in-game time so not yet confirmed as PB
 
@@ -538,7 +537,7 @@ host AttyJoe, couch Doctor No, DemonicRobots, Midnight_Vesper
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube 9ZrOOGD6IOc+0
 Review: A pretty glitchy run for a game so new, lots of stuff being skipped in several different ways. But with a run this long, there's obviously still stretches being done as intended, so there's some polished combat going on as well. Two hours is a bit much but fans of the game will enjoy it.
 
 Bastion (PC - Supergiant 2011)
@@ -549,7 +548,7 @@ host TrainerAde, couch Primorix [WRH], BystanderTim
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube B9BUQFjmanM+0
 Review: We've seen this a few times at GDQ in the past, someone being taught the speedrun on-screen, and seeing their first solo run. It's really cool, if very dry and technical.
 
 Bastion (PC - Supergiant 2011)
@@ -560,7 +559,7 @@ host TrainerAde, couch BystanderTim, Cosmic_Bones
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube h7AIoxtLnPM+3
 Review: A good follow-on to the showcase, showing the small tweaks in more advanced route, and how cleanly it *can* be executed.
 
 Returnal (PC - Housemarque 2021)
@@ -571,7 +570,7 @@ host TrainerAde, couch PascalCat, LunarHostility, Elle_Santiago
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube XR9C5lganc8+2
 Review: Kind of an unremarkable speedrun. The exploits amp up over time, a lot of Act 1 is played as in Glitchless but much of Act 2 is skipped entirely. But it's neither random enough for that to hold interest, nor polished enough for the execution to impress.
 
 Returnal (PC - Housemarque 2021) [BONUS]
@@ -582,7 +581,7 @@ host TrainerAde, couch PascalCat, LunarHostility, Elle_Santiago
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube XR9C5lganc8+2307
 Review: Just a bit more of the same, really, just pure combat focus.
 
 The Elder Scrolls Anthology (PC - Bethesda 1994, 1996, 2002, 2006, 2011)
@@ -593,7 +592,7 @@ host CovertMuffin, couch Nucular, MusicalDaredevil, Bryonato
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube CNt6ew-IBpo+4
 Review: Glitches? In an Elder Scrolls game? Perish the thought! There's some decent variety, since most games have *different* glitches, but some of the individual games can get repetitive. Commentary is very informative, but unfortunately monotone.
 
 The Elder Scrolls Adventures: Redguard (PC - Bethesda 1998) [INCENTIVE]
@@ -604,7 +603,7 @@ host CovertMuffin, couch Nucular, MusicalDaredevil, Bryonato
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube CNt6ew-IBpo+7308
 Review: A silly little extension to the last run, an obscure spinoff with terrible controls, just as breakable as every other Elder Scrolls.
 
 BioShock 2 (PC - 2K Marin 2010)
@@ -615,7 +614,7 @@ host CovertMuffin, couch Bryonato
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube yplrHLqFX7Q+2
 Review: It's hard for me to pin down why this run felt like a bit of a slog. It wasn't bad, it had some decent tricks to it, the commentary did everything it needed to do. Maybe it was just the reliance on quicksaving to land tricks, combined with the often-slow load times.
 
 Halo 3 (PC - Bungie 2007) [BONUS GAME 3]
@@ -626,7 +625,7 @@ host ateatree, couch NervyDestroyer, Chronos_R, Bryonato
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube _del3U_qi_4+2
 Review: An extremely difficult run, I'm always surprised to see a Halo legendary run make it into a marathon because it never feels safe. There's a huge element of pure play-game-good going on, but there's also a good few prop launches and other skips, never anything major but enough to spice things up.
 
 ------------------------------WEDNESDAY------------------------------
@@ -916,11 +915,11 @@ Any%
 by Dangers
 host Char_bunny, couch COUCH
 HhMMmSSs (est 1h02m, wr 56m41s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: This game is one of the pinnacles of speedrunning. At the high level, the movement is so fluid, so non-stop, that it puts almost every other game to shame. The routing is so efficient, so ruthlessly focused on speed, that they've cut out basically every bit of downtime. This is an hour of pure platforming prowess, and the only reason it didn't get a fifth star is how many of the most aggressive tricks failed.
 WRs: Tyron18 MITCH023923982983 BusterDoggy_, runner pb 59m01s
 
 Paper Mario (N64 - Intelligent Systems 2000)
@@ -1083,75 +1082,72 @@ WRs: T0TEM runner 16m58s polloAUT
 
 Grand Theft Auto: San Andreas (PC - Rockstar North 2004)
 Any% (No 3rd-party FPS caps)
-by Joshimuz
-host Musical_Daredevil, couch COUCH
-HhMMmSSs (est 4h20m, wr 3h38m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Joshimuz [REM]
+host Musical_Daredevil, couch UltimaOmega07 [REM], KZ_Frew
+4h10m34s (est 4h20m, wr 3h38m10s) [NV]
+Overall ★☆☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: For such a long run, it's also an extremely technical one. The main tech is confusing the game with overlapping missions and combining game states, which being invisible, is just really hard to follow. Couch did a valiant job explaining it, but they still couldn't make it exciting.
 WRs: gui93 thriving faulux, runner pb 4h00m19s
 
 Darkest Dungeon (PC - Red Hook 2016)
-Defeat Hag/Necromancer/Swine Prince [BIDWAR]
-by RebelDragon95
-host ateatree, couch COUCH
-HhMMmSSs (est 50m, wr HhMMmSSs)
+Defeat Hag [BIDWAR]
+by RebelDragon95 [2RH][REM]
+host ateatree, no couch
+34m29s (est 50m, wr 26m54s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet reviewed)
-WRs: too many to nail down
 
 Mega Man 6 (NES - Capcom 1993)
 Any%
 2p1c by DarkTerrex, Ppotdot1 [2RH]
-host RUBIEHART, couch COUCH
-HhMMmSSs (est 41m, wr 1p1c 33m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host RUBIEHART, couch Orsa, FastAtcc
+37m53s (est 41m, wr 1p1c 33m33s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs 1p1c: beco Ppotdot1 ohon
+Review: If it weren't for the handcam, this would have been just an unimpressive run of Mega Man 6. They didn't seem to need any special strats for two players, one controller, just good coordination and maybe skipping the most difficult tricks. This is no easy game to beat even with one brain, but they made it look almost *too* easy.
 
 The Legend of Zelda: Twilight Princess (GC - Nintendo EAD 2006)
 Any%
 by mralberto23 [WRH]
-host RUBIEHART, couch COUCH
-HhMMmSSs (est 3h00m, wr 2h50m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host ateatree, couch Bruggles, Dopezzera, DeanMachine42
+2h53m33s (est 3h00m, wr 2h50m09s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: runner bewildebeest Demon
+Review: "Oh yeah, this is the least broken 3D Zelda game, let's immediately clip out of a tutorial, then take control of the main menu and then save the game on it." Three hours of highly-varied tricks and breakdowns, done with enough levity to keep it a game.
 
 Pizza Tower (PC - Tour De Pizza 2023)
 Any%
 by SoaringSloth
-host CovertMuffin, couch COUCH
-HhMMmSSs (est 1h20m, wr 1h07m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host CovertMuffin, couch EllieJelli, Shayy, Wooffledee
+1h14m23s (est 1h20m, wr 1h07m44s)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: vlackSR GrosHiken LeKukie, runner pb 1h12m48s
+Review: The big meme game of 2023, but judging by this speedrun, it earned it. Very fluid movement at incredible speeds, this is an hour-plus of execution with a layer of jokes on top.
 
 Titanfall 2 (PC - Respawn 2016) [BONUS GAME 5]
 Any%
 by Blaidan [WRH]
-host CovertMuffin, couch COUCH
-HhMMmSSs (est 1h25m, wr 1h14m19s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host CovertMuffin, couch Bryonato
+1h20m33s (est 1h25m, wr 1h14m19s)
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: runner zweek Dadadu
+Review: This game has probably the best first-person movement mechanics, and Blaidan went full send with them. He didn't nail every trick first-try, but the only one he actually missed was an absurd one at the end that no other runner even goes for. This was an astonishing run from start to end.
+
+-------------------------------FRIDAY--------------------------------
 
 Gunfire: Reborn (PC - Duoyi 2021)
 Qing Yan - Full Game - Reincarnation 1
@@ -1164,8 +1160,6 @@ Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet reviewed)
 WRs: jonwillbert MrFailology Pimmalage, runner not ranked?
-
--------------------------------FRIDAY--------------------------------
 
 Crash Bandicoot: N. Sane Trilogy (PC - Vicarious Visions 2017)
 Full Trilogy Any%
