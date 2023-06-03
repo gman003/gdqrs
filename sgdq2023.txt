@@ -1267,39 +1267,39 @@ Youtube YOUTUBE_ID
 Review: This is a run to watch more for the Live Texan Reaction than for the actual speedrun. The on-screen action is just a light-gun shooter with no light guns, lots of mashing and memorizing enemy spawns, but the exaggerated cowboy yeehaws from the couch and host are the real highlight.
 
 Lunistice (PC - A Grumpy Fox 2022)
-Any% Glitchless
+Any% Glitchless (Hana)
 by Nestani [WRH]
-host SquidDilla, couch COUCH
-HhMMmSSs (est 35m, wr 25m24s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host SquidDilla, couch Jaxler [2RH]
+28m39s (est 35m, wr 25m24s igt)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs (assumed Hana): Nestani Jaxler DylCat
+Review: A surprisingly polished indie platformer run, nice fluid movement, and enough variety for its runtime.
 
-X-Men (Arcade - Konami 1992, YEAR)
+X-Men (Arcade - Konami 1992)
 2-player 1CC Attempt
 by LRock617, MetroidMaster
 host SquidDilla, couch COUCH
-HhMMmSSs (est 30m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+HhMMmSSs (est 30m, no wr?)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: A pretty straightforward 1CC arcade brawler run, I don't recall a single glitch or exploit. It's just play-game-good, but this run's short enough that it doesn't suffer for it.
 WRs: too hard to figure out, can't spot either runner on it anyways
+TODO: check what port they're playing, if any
 
 Star Wars: Dark Forces (PC - LucasArts 1995)
 Easy (TFE)
 by CovertMuffin [2RH]
 host Brutal_Melo, couch COUCH
 HhMMmSSs (est 26m, wr 19m52s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: We've seen CovertMuffin run classic Star Wars shooters before, and this was very much the same. Lots of savescumming to hit precise grenade boosts
 WRs: Dauswectus Covert 21m47s Drethaldier
 
 The Legend of Zelda: Four Swords (GBA - Capcom 2002)
@@ -1307,73 +1307,69 @@ Any%
 coop by AmberCyprian, TGH
 host Asuka424, couch COUCH
 HhMMmSSs (est 30m, wr 20m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: RedFrost+SSSLink, legrandgrand+Baffan, Tompa+Flanders, runners not ranked?
+Review: A pretty unpolished run, even looking past the heavy RNG. But it's a novel Zelda run, not similar to any of the five other Zeldas in the marathon. As a series fan, it was neat to see, but it won't hold much appeal to most.
 
 Metroid Prime Remastered (Switch - Retro 2002, 2023)
-Any%
+Any% (Casual)
 by Samura1man [2RH]
 host Asuka424, couch COUCH
 HhMMmSSs (est 2h00m, wr 1h42m13s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs casual: reyalsdiorteM runner 1h46m09s zayloox
+Review: The remaster broke a lot of old speedrun tricks, making this a lot more rough around the edges than classic Metroid Prime runs. There's still clips and OoBs and sequence breaks, but there's fewer of them and they're less consistent.
 
 Pokemon Colosseum (GC - Genius Sonority 2003)
 Any%
 race Swiftalu vs Sparkle
-host Nichole Goodnight, couch COUCH
-HhMMmSSs (est 4h05m, wr 3h25m30s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Nichole Goodnight, couch Ryziken, TheeOnlyJuan
+3h40m40s, 3h43m07s (est 4h05m, wr 3h25m30s) [NV]
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: Long Pokemon RPG runs are a GDQ tradition. This was not one of the better ones. The unavoidable battle animations dragged the pace, the race opened up early and never closed, and the couch just did not have the chemistry of the best Pokemon runs. If you really want to watch a Pokemon run, this is likely still what you want, but 
 WRs: zzekeke Exarion Baltan, sparkle pb 3h32m06s, Swiftalu pb 3h33m59s
 
 Kaizo Monkey Ball (GC via Wii - Amusement Vision 2001, Twilight 2019)
 Story Mode
 by IkeSMB
-host iggyzig, couch COUCH
-HhMMmSSs (est 40m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host iggyzig, couch Ganon, MonkeySMB, PetresInc
+32m32s (est 40m, wr HhMMmSSs)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: none?
-NM: might instead be Monkeyed Ball?
+Review: Monkey Ball is a tough game out of the box, kaizo hacks push it well beyond that. Some of these levels just are not fair, but Ike smashed through them pretty easily.
 
 Sure Shot (SNES - Nintendo EAD 1990; YMM and Margot 2022)
 100%
 by Shoujo
-host iggyzig, couch COUCH
-HhMMmSSs (est 25m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host iggyzig, couch Maddy69x0420 [DEV], Amethyst_Rocks, Margot [DEV][REM]
+23m01s (est 25m, no wr)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: no 100% records listed, only any%
-NM: SMW romhack
+Review: Well of *course* kaizo devs give commentary that's mostly just trolling the runner. That's like the entire philosophy of kaizo... and it's also completely hilarious.
 
 Spin Rhythm XD (PC - Super Spin 2023)
 XD Turntable Showcase
 by AngryScootsman
-host iggyzig, couch COUCH
-HhMMmSSs (est 45m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host iggyzig, couch AChocolateOrange, Georgia_O_Kief
+~1h (est 1h00m, no wr - showcase)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: A cool run, but lacking in both explanations and variety. I'm still not sure exactly what inputs each symbol requires, and it pretty quickly passed the level where the unpracticed watcher can gauge the difficulty. It's just a stream of fast-moving glowing bars and dots.
+
+------------------------------SATURDAY-------------------------------
 
 Clone Hero (PC - Srylain 2017) [BONUS GAME 6]
 Showcase
@@ -1385,8 +1381,6 @@ Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet reviewed)
-
-------------------------------SATURDAY-------------------------------
 
 Celeste (PC - Maddy Makes Games 2018)
 True Ending
