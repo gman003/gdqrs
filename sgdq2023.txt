@@ -1,5 +1,5 @@
 ====================SUMMER GAMES DONE QUICK 2023=====================
-===========Raising $0,259,681 for Doctors Without Borders============
+===========Raising $1,540,638 for Doctors Without Borders============
 =========================May 28-June 4, 2023=========================
 
 -------------------------------SUNDAY--------------------------------
@@ -366,7 +366,7 @@ StepManiaX (Arcade - Step Revolution 2017)
 Showcase
 by ZephyrGlaze [REM], WDRM [REM], chezmix [REM]
 host Prolix, couch werdwerdus [REM], zom [REM]
-HhMMmSSs (est 1h20m, no wr - showcase)
+~1h10m (est 1h20m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -876,7 +876,7 @@ Shadow the Hedgehog (GC - Sega Studios USA 2005)
 Glitchless Hero [BIDWAR]
 by MetalMedb [REM]
 host Mr. Game and Shout, couch blazinzzetti, drumbasher004
-HhMMmSSs (est 20m, wr 18m16s)
+20m20s (est 20m, wr 18m16s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
@@ -911,84 +911,83 @@ Review: Aw yiss Randomized Zelda. We haven't seen Majora's Mask rando before, bu
 Super Mario Odyssey (Switch - Nintendo EPD 2017) [BONUS GAME 4]
 Any%
 by Dangers
-host Char_bunny, couch COUCH
-HhMMmSSs (est 1h02m, wr 56m41s)
+host Char_bunny, couch ganon, spikevegeta
+1h05m16s (est 1h02m, wr 56m41s)
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube -Vi493UtnWg+1
 Review: This game is one of the pinnacles of speedrunning. At the high level, the movement is so fluid, so non-stop, that it puts almost every other game to shame. The routing is so efficient, so ruthlessly focused on speed, that they've cut out basically every bit of downtime. This is an hour of pure platforming prowess, and the only reason it didn't get a fifth star is how many of the most aggressive tricks failed.
-WRs: Tyron18 MITCH023923982983 BusterDoggy_, runner pb 59m01s
 
 Paper Mario (N64 - Intelligent Systems 2000)
 Any% No ACE
 by Mx_4 [2RH]
-host danejerus, couch COUCH
-HhMMmSSs (est 1h50m, wr 1h38m23s)
+host danejerus, couch realblopez, phantom5800
+1h58m58s (est 1h50m, wr 1h38m23s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube icN2EPf4JgU+3
 Review: (Not yet reviewed)
 WRs: RandomSauce, runner 1h38m56s, morpheus080
 
 True Crime: New York City (PC - Luxoflux 2005, Aspyr 2006)
 Any%
 by pmcTRILOGY [WRH]
-host danejerus, couch COUCH
-HhMMmSSs (est 1h00m, wr 52m54s)
+host danejerus, couch musical_daredevil, kz_frew, fretzel
+58m49s (est 1h00m, wr 52m54s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube vISHC26BG5Y+2
 Review: (Not yet reviewed)
 WRs: runner Skillertare KinzyKenzie
 
 Golf It! (PC - Perfuse 2017)
 Classic First Five Maps 100%
 race Nichole Goodnight vs Bathinjan
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 30m, wr 16m58s)
+host THEKyleThomas, couch mechanalysttom, barry
+26m44s, 26m44s (est 30m, wr 16m58s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube S7t__Lo3TBU+3
 Review: (Not yet reviewed)
 WRs: Snifsola saruzio Hexakil, Bathinjan pb 22m32s, Nichole pb 23m18s
 
 Hobo Cat Adventures (PC - Hobo Cat 2021)
 Any%
 by yoshipro [WRH]
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 20m, wr 9m58s)
+host THEKyleThomas, couch mellow, evansfight, wonderj13
+13m29s (est 20m, wr 9m58s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube iD19KLAlO4g+2
 Review: (Not yet reviewed)
 WRs: yp Dartanial
 
 Batman Forever (Genesis - WB Interactive 1995)
 Any%
 by Faust4712 [WRH]
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 45m, wr 34m08s)
+host THEKyleThomas, couch cypherin, retrobrando, sonicman2005
+43m34s (est 45m, wr 34m08s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 9DCCjVJdBss+4
 Review: (Not yet reviewed)
 WRs: Faust Cy60r Loki_Khan
 
 Give Me Toilet Paper! (Switch - Takahiro Miyazawa 2023)
 Hand%
 by Asuka424 [2RH]
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 13m, wr 8m37s)
+host THEKyleThomas, couch danejeris, nyobari
+9m54s (est 13m, wr 8m37s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube asze0zaTcGc+0
 Review: (Not yet reviewed)
 WRs: IamUncleSlam Asuka424 9m21s DGR
 NM: Nintendo store only lists Publisher, used for Developer bc it's all I could find
@@ -996,85 +995,85 @@ NM: Nintendo store only lists Publisher, used for Developer bc it's all I could 
 Pepsiman (PS1 - KID 1999)
 Any%
 by TheFlyingMarlin
-host THEKyleThomas, couch COUCH
-HhMMmSSs (est 28m, wr 18m07s rta)
+host THEKyleThomas, couch countgooby, jonathanirvings
+25m06s (est 28m, wr 18m07s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube XPI4YeQwSPw+6
 Review: (Not yet reviewed)
 WRs: OptiJuegos JonathanIrvings MrMonsh, runner pb 19m26s lrt
 
 Stair Quest (PC - No More For Today 2016)
 Stair%
 by davidtki [2RH]
-host Asuka424, couch COUCH
-HhMMmSSs (est 10m, wr 3m19s)
+host Asuka424, couch sathdresh, flannelkat
+5m10s (est 10m, wr 3m19s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube qVWn3d8dsGc+3
 Review: (Not yet reviewed)
 WRs: SantaClaus davidtki 4m39s Vyseoflegends9002
 
 The Cat in the Hat (PS1 - DC Studios 2004)
 Any%
 by Mildew [WRH]
-host Asuka424, couch COUCH
-HhMMmSSs (est 12m, wr 8m45s)
+host Asuka424, couch amyrlinn, shockwve
+10m49s (est 12m, wr 8m45s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube C3ERWywx8hI+3
 Review: (Not yet reviewed)
 WRs: Mildew (on emulator) adeliene64DS Mildew (on PS2) StupidHair
 
 Wayne's World (SNES - Gray Matter 1993)
 Any%
 by Ritzblues [2RH]
-host Asuka424, couch COUCH
-HhMMmSSs (est 35m, wr 23m14s)
+host Asuka424, couch konception, stevetvonline, zembar
+23m20s (est 35m, wr 23m14s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube R96-Wye_2MA+4
 Review: (Not yet reviewed)
 WRs: TheYakkoManGuy runner 28m11s ParallaxDG
 
 The Incredible Hulk (SNES - Probe 1994)
 Any%
 by Iceplug [WRH]
-host Asuka424, couch COUCH
-HhMMmSSs (est 20m, wr 15m17s)
+host Asuka424, no couch
+17m48s (est 20m, wr 15m17s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube _cv8hJmNlSs+0
 Review: (Not yet reviewed)
 WRs: Iceplug Meduka fluffytoycoy
 
 Pocky & Rocky Reshrined (Switch - NatsumeAtari 2023)
 Any% Uzume
 by EODTexSR [WRH]
-host Asuka424, couch COUCH
-HhMMmSSs (est 25m, wr 19m12s)
+host Asuka424, couch kipp, dagronsr
+19m55s (est 25m, wr 19m12s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube UJMxnFkUj5s+2
 Review: (Not yet reviewed)
 WRs Free Mode Normal, using Uzume: EODTex ArcTheLadder
 NM: not a remake?
 
 The Curse of Monkey Island (PC - LucasArts 1997)
 Any% Mega-Monkey
-by frozenspade [2RH]
-host Musical_Daredevil, couch COUCH
-HhMMmSSs (est 21m, wr 15m57s)
+by frozenspade [2RH][REM]
+host Musical_Daredevil, couch thewoofs [REM]
+23m25s (est 21m, wr 15m57s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube CR78-ZdEYQo+4
 Review: (Not yet reviewed)
 WRs: T0TEM runner 16m58s polloAUT
 
@@ -1086,9 +1085,8 @@ host Musical_Daredevil, couch UltimaOmega07 [REM], KZ_Frew
 Overall ★☆☆☆☆
 Skill   ★★★☆☆
 Fun     ★☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube sAsX39IAghw+3
 Review: For such a long run, it's also an extremely technical one. The main tech is confusing the game with overlapping missions and combining game states, which being invisible, is just really hard to follow. Couch did a valiant job explaining it, but they still couldn't make it exciting.
-WRs: gui93 thriving faulux, runner pb 4h00m19s
 
 Darkest Dungeon (PC - Red Hook 2016)
 Defeat Hag [BIDWAR]
@@ -1151,7 +1149,7 @@ Gunfire: Reborn (PC - Duoyi 2021)
 Qing Yan - Full Game - Reincarnation 1
 by Shockwve
 host JD Puppy, couch COUCH
-HhMMmSSs (est 25m, wr 7m59s)
+40m50s (est 25m, wr 7m59s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1163,7 +1161,7 @@ Crash Bandicoot: N. Sane Trilogy (PC - Vicarious Visions 2017)
 Full Trilogy Any%
 by Murcaz
 host NickRPGreen, couch COUCH
-HhMMmSSs (est 2h30m, wr 2h20m45s rta)
+2h26m50s (est 2h30m, wr 2h20m45s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1175,7 +1173,7 @@ Amnesia: Rebirth (PC - Frictional 2020)
 Any%
 by bloodthunder
 host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 1h00m, wr 50m12s rta)
+54m38s (est 1h00m, wr 50m12s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1187,7 +1185,7 @@ Shantae and the Pirate's Curse (Xb360 via XSX - WayForward 2014, 2016)
 All Dark Magic, Pirate Mode, No OOB
 by TheSoundDefense
 host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 1h10m, wr 1h01m07s)
+1h06m22s (est 1h10m, wr 1h01m07s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1199,7 +1197,7 @@ Klonoa Phantasy Reverie Series (PC - Namco 1997, Monkey Craft 2022)
 Klonoa 1 Any% Easy Support Mode
 by Mr_Shasta
 host PippyInATopHat, couch COUCH
-HhMMmSSs (est 50m, wr 37m35s rta)
+43m33s (est 50m, wr 37m35s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1211,7 +1209,7 @@ VVVVVV (PC - Terry Cavanagh 2010)
 Any% Glitchless
 by Metroid Crime
 host PippyInATopHat, couch COUCH
-HhMMmSSs (est 22m, wr 14m53s igt)
+17m42s (est 22m, wr 14m53s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1223,7 +1221,7 @@ SaGa Frontier (PS1 - Square PDD2 1997)
 TBD [BIDWAR]
 by Raclesis
 host PippyInATopHat, couch COUCH
-HhMMmSSs (est 45m, wr HhMMmSSs)
+1h00m21s (est 45m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1235,7 +1233,7 @@ Final Fight 3 (SNES - Capcom 1995)
 Any% Easy
 coop by JaekRock, Space Coast Gaming [WRHs]
 host SquidDilla, couch COUCH
-HhMMmSSs (est 25m, wr 20m58s)
+19m48s (est 25m, wr 20m58s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1247,7 +1245,7 @@ Shinobi III: Return of the Ninja Master (Genesis - Sega 1993)
 Expert
 by dagronSR [2RH]
 host SquidDilla, couch COUCH
-HhMMmSSs (est 30m, wr 23m40s)
+26m50s (est 30m, wr 23m40s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1281,7 +1279,7 @@ X-Men (Arcade - Konami 1992)
 2-player 1CC Attempt
 by LRock617, MetroidMaster
 host SquidDilla, couch COUCH
-HhMMmSSs (est 30m, no wr?)
+27m27s (est 30m, no wr?)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
@@ -1294,7 +1292,7 @@ Star Wars: Dark Forces (PC - LucasArts 1995)
 Easy (TFE)
 by CovertMuffin [2RH]
 host Brutal_Melo, couch COUCH
-HhMMmSSs (est 26m, wr 19m52s)
+24m02s (est 26m, wr 19m52s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
@@ -1306,7 +1304,7 @@ The Legend of Zelda: Four Swords (GBA - Capcom 2002)
 Any%
 coop by AmberCyprian, TGH
 host Asuka424, couch COUCH
-HhMMmSSs (est 30m, wr 20m33s)
+27m21s (est 30m, wr 20m33s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
@@ -1317,7 +1315,7 @@ Metroid Prime Remastered (Switch - Retro 2002, 2023)
 Any% (Casual)
 by Samura1man [2RH]
 host Asuka424, couch COUCH
-HhMMmSSs (est 2h00m, wr 1h42m13s)
+1h56m18s (est 2h00m, wr 1h42m13s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
@@ -1375,7 +1373,7 @@ Clone Hero (PC - Srylain 2017) [BONUS GAME 6]
 Showcase
 by Frif
 host iggyzig, couch COUCH
-HhMMmSSs (est 54m, no wr - showcase)
+~1h (est 54m, no wr - showcase)
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
@@ -1386,18 +1384,19 @@ Celeste (PC - Maddy Makes Games 2018)
 True Ending
 tas by Lmjacks, tmcalvins, Vamp
 host TrainerAnade, couch COUCH
-HhMMmSSs (est 36m, human wr 44m50s igt)
+~40m (est 36m, human wr 44m50s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (Not yet reviewed)
+TODO: exact time?
 
 Kingdom Hearts Final Mix (PC - Square 2002)
 Any% Proud
 race MistMaster1 [2RH] vs Violin [WRH]
 host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 2h30m, wr 2h21m27s rta)
+2h24m34s (est 2h30m, wr 2h21m27s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1406,23 +1405,11 @@ Review: (Not yet reviewed)
 WRs: Violin mistmaster1 bandityoshi
 NM: PC release also implied it's from HD 1.5 Remix, released 2013, PC in 2021
 
-TimeShift (PC - Saber 2007)
-Casual Difficulty
-by ChurchnSarge
-host AnEternalEnigma, couch COUCH
-HhMMmSSs (est 1h05m, wr 46m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs single-segment: 7Kgames lekolega Ekelbatzen, runner not ranked?
-
 Neopets: The Darkest Faerie (PS2 - Idol Minds 2005)
 Any%
 by Jaxler [WRH]
 host Musical_Daredevil, couch COUCH
-HhMMmSSs (est 50m, wr 39m46s)
+41m48s (est 50m, wr 39m46s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1434,7 +1421,7 @@ Tony Hawk's Underground (PC - Neversoft 2003)
 Beginner Any%
 by Biglaw
 host Musical_Daredevil, couch COUCH
-HhMMmSSs (est 37m, wr 32m41s rta)
+34m53s (est 37m, wr 32m41s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1446,7 +1433,7 @@ Spelunky 2 (PC - Mossmouth 2020)
 Spelunker Trials Any%
 by Lavableman
 host Musical_Daredevil, couch COUCH
-HhMMmSSs (est 20m, wr HhMMmSSs)
+23m04s (est 20m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1458,7 +1445,7 @@ Ori and the Blind Forest Definitive Edition (PC - Moon 2015, 2016)
 All Skills No OOB/TA
 by Primorix
 host Musical_Daredevil, couch COUCH
-HhMMmSSs (est 35m, wr 26m44s)
+29m24s (est 35m, wr 26m44s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1470,7 +1457,7 @@ Billy Hatcher and the Giant Egg (GC via Wii - Sonic Team 2003)
 Any%
 by monkeysmb [WRH]
 host danejerus, couch COUCH
-HhMMmSSs (est 1h12m, wr 1h03m37s)
+1h09m29s (est 1h12m, wr 1h03m37s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1494,7 +1481,7 @@ I Wanna Be the Guy Remastered (PC - Kayin 2007, Natsu et al 2020)
 Any%
 by LogicPQ [WRH]
 host Brutal_Melo, couch COUCH
-HhMMmSSs (est 25m, wr 21m58s)
+25m13s (est 25m, wr 21m58s)
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
@@ -1505,7 +1492,7 @@ Superhot VR (PC - Superhot 2016)
 Any%
 by davidtki
 host Brutal_Melo, couch COUCH
-HhMMmSSs (est 15m, wr 7m11s rta)
+8m52s (est 15m, wr 7m11s rta)
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
@@ -1528,7 +1515,7 @@ Fire Emblem Engage (Switch - Intelligent Systems 2023)
 Any%
 by Claris [3RH]
 host AttyJoe, couch KirbyMastah, Elysara
-HhMMmSSs (est 1h15m, wr 1h07m21s)
+1h10m33s (est 1h15m, wr 1h07m21s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
@@ -1540,7 +1527,7 @@ Pokemon Violet (Switch - Game Freak 2022)
 Victory Road
 by eddaket [2RH]
 host AttyJoe, couch Shenanagans, Corvimae, ThomasPatrickWX
-HhMMmSSs (est 2h30m, wr 2h15m08s)
+2h19m30s (est 2h30m, wr 2h15m08s)
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
@@ -1618,3 +1605,19 @@ Youtube YOUTUBE_ID
 Review: (Not yet reviewed)
 WRs: runners, Imyt+Oatsngoats, Kipp+andreww
 NM: assumed Multitroid, it's what the leaderboard is for
+
+
+
+
+
+TimeShift (PC - Saber 2007)
+Casual Difficulty
+by ChurchnSarge
+host AnEternalEnigma, couch COUCH
+HhMMmSSs (est 1h05m, wr 46m21s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube YOUTUBE_ID
+Review: (Not yet reviewed)
+WRs single-segment: 7Kgames lekolega Ekelbatzen, runner not ranked?
