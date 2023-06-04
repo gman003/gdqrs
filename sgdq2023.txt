@@ -1376,28 +1376,17 @@ Showcase
 by Frif
 host iggyzig, couch COUCH
 HhMMmSSs (est 54m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: This was certainly an impressive show of skill, starting off at a level comparable to the last Clone Hero showcase's peak... but it suffered from lack of variety. This was a pure technical showcase - some songs focusing on different techniques, but still just technical.
 
 Celeste (PC - Maddy Makes Games 2018)
 True Ending
 tas by Lmjacks, tmcalvins, Vamp
 host TrainerAnade, couch COUCH
 HhMMmSSs (est 36m, human wr 44m50s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-
-Super Mario 64 (SM64 via Wii - Nintendo EAD 1996, DEVELOPER YEAR)
-Randomizer- 70 Star Non-Stop
-by 360Chrism
-host TrainerAnade, couch COUCH
-HhMMmSSs (est 42m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1492,74 +1481,82 @@ WRs: runner Kyrrone Kosmic
 Final Fantasy IV Pixel Remaster (PC - Square 1991; Square Enix 2021)
 Any%
 by Zic3 [3RH]
-host danejerus, couch COUCH
-HhMMmSSs (est 2h55m, wr 2h38m46s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host danejerus, couch FoxyJira
+3h01m32s (est 2h55m, wr 2h38m46s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: Shigeru_no_GAMEch sphie Zic3 2h48m37s
+Review: The QoL features of the Pixel Remasters make for a much faster-paced speedrun, compared to most 16-bit JRPGs. Lots of really granular strats, some impressive adaptations to bad RNG, and even a bit of storytelling. Or at least some poking fun at the number of characters that come back after a dramatic sacrifice.
+NM: Rewatch first half hour, doubt I missed much important
 
 I Wanna Be the Guy Remastered (PC - Kayin 2007, Natsu et al 2020)
 Any%
 by LogicPQ [WRH]
 host Brutal_Melo, couch COUCH
 HhMMmSSs (est 25m, wr 21m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: runner vimasa millacks
+Review: The originator of that subgenre of sadistic game design, now remastered and with a fresh runner. If you've not seen it before, it's worth checking out just to see all the tricks the game tries to pull.
 
 Superhot VR (PC - Superhot 2016)
 Any%
 by davidtki
 host Brutal_Melo, couch COUCH
 HhMMmSSs (est 15m, wr 7m11s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: This is the first VR run I've seen where it felt like the speed came from skill, and not from glitches and tricks. This was just some actually impressive execution.
 WRs: trickster00 Bean Qwhila, runner pb 8m31s rta
 
 Super Mario Bros. (NES - Nintendo EAD 1985)
-Warpless
-by GTAce [2RH]
-host Brutal_Melo, couch COUCH
-HhMMmSSs (est 20m, wr 18m55s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Warpless One-Handed [INCENTIVE]
+by GTAce [WRH]
+host Brutal_Melo, couch Supersonic, Kosmic [REM]
+19m37s (est 20m, wr two-handed 18m55s, wr 19m14s)
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs: Niftski GTAce 18m57s scalpel
+Review: We've seen one-handed runs before, but this one blew them all away. This would have been respectable performance even fully-handed. Flagpole glitch? Are you serious?!?
 
 Fire Emblem Engage (Switch - Intelligent Systems 2023)
 Any%
 by Claris [3RH]
-host AttyJoe, couch COUCH
+host AttyJoe, couch KirbyMastah, Elysara
 HhMMmSSs (est 1h15m, wr 1h07m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: Way too new of a game to have a super polished speedrun, but it's interesting to see runs that are still unsure of the optimal way to do things, and have a big potential for future time saves. Probably worth a look for series fans, the run was different to previous installments GDQ has seen.
 WRs "Beat the Game" Normal no DLC: Kawolt quo Claris 1h08m06s
 
-Pokemon Scarlet/Violet (Switch - Game Freak 2022)
+Pokemon Violet (Switch - Game Freak 2022)
 Victory Road
 by eddaket [2RH]
-host AttyJoe, couch COUCH
+host AttyJoe, couch Shenanagans, Corvimae, ThomasPatrickWX
 HhMMmSSs (est 2h30m, wr 2h15m08s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
-WRs ENG Glitchless: SaiyanCinq eddaket 2h15m21s Trivvaria
+Review: Another very new game, the route is unpolished (and they go into many of the arguments they've had) but enough mechanics carried over to still get that savant-like memorization of stats and probabilities. Not the greatest Pokemon run, but probably the best of this event.
+
+Super Mario 64 (SM64 via Wii - Nintendo EAD 1996, Arthur Tilly 2019)
+Randomizer - 70 Star Non-Stop
+by 360Chrism [3RH]
+host Konception, couch Shenanagans, Bird650
+34m32s (est 42m, wr 31m04s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube YOUTUBE_ID
+Review: We've seen enough SM64 that we needed a bit of a shake-up. But it's been three years since the last Randomizer run of it, and turning on the Nonstop setting makes it an extremely fast and fluid run.
 
 Elden Ring (PC - From 2022)
 Any% Glitchless
@@ -1570,7 +1567,7 @@ Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
-Review: (Not yet reviewed)
+Review: (Not yet reviewed - skipped until I git gud and finish my casual play)
 WRs: blanxz KEMIST_C10H15N Forsa, runner pb 1h02m39s
 
 Super Mario Maker 2 (Switch - Nintendo EPD 2019)
