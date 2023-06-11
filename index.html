@@ -563,7 +563,7 @@ body {
 			<a class="agdq" href="agdq2022.txt" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
 			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(98% - 123/126)</span></a>
 			<a class="agdq" href="agdq2023.txt" onclick="loadMarathon('agdq2023')">AGDQ 2023<span>(100% - 151/151)</span></a>
-			<a class="sgdq" href="sgdq2023.txt" onclick="loadMarathon('sgdq2023')">SGDQ 2023<span>(Now Live!)</span></a>
+			<a class="sgdq" href="sgdq2023.txt" onclick="loadMarathon('sgdq2023')">SGDQ 2023<span>(47% - 65/137)</span></a>
 			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(There's a lot of it)</span></a>
 		</div>
 		<script>
@@ -589,6 +589,7 @@ body {
 				
 				if (marathon == "everything"){
 					Promise.all([
+						fetch(`sgdq2018.txt`, { cache: 'reload' }).then(response => response.text()),
 						fetch(`agdq2019.txt`, { cache: 'reload' }).then(response => response.text()),
 						fetch(`sgdq2019.txt`, { cache: 'reload' }).then(response => response.text()),
 						fetch(`agdq2020.txt`, { cache: 'reload' }).then(response => response.text()),
@@ -598,6 +599,7 @@ body {
 						fetch(`agdq2022.txt`, { cache: 'reload' }).then(response => response.text()),
 						fetch(`sgdq2022.txt`, { cache: 'reload' }).then(response => response.text()),
 						fetch(`agdq2023.txt`, { cache: 'reload' }).then(response => response.text()),
+						fetch(`sgdq2023.txt`, { cache: 'reload' }).then(response => response.text()),
 					])
 						.then(inputs => { var result = ""; for (input of inputs){ result += input + "\n\n"; } return result; })
 						.then(loadReviews);
