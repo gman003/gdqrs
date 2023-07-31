@@ -124,25 +124,23 @@ Thief (PC - Eidos Montreal 2014)
 Any% (Rogue, No DLC)
 by DemonicRobots [2RH]
 host TheKingsPride, couch mikewave, captain_ezekiel
-1h11m52s (est 1h25m, wr 56m22s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h11m52s (est 1h25m, wr 56m22s lrt) [PB?]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 7ofM5vlfxXc+2
-Review: (Not yet reviewed)
-WRs: qsetz DemonicRobots 1h13m35s rta ToxicTT
+Review: A fast-forgotten game, the speedrun's not particularly polished but it's got a lot of skips, not just completely ignoring the stealth gameplay to run from level trigger to level trigger. There's some OoB and more than a few door clips, while still not trivializing everything. And DemonicRobots gives some pretty engaging commentary.
 
 Banjo-Kazooie (N64 - Rare 1998)
 100% no FFM
 by duck
-host TheKingsPride, couch connor75, songster
+host TheKingsPride, couch connor75, shlongster as songster
 2h13m36s (est 2h08m, wr 1h59m16s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube ATYvXdqa_Rw+0
-Review: (Not yet reviewed)
-WRs: ploathe Azmi AnderBeamo, duck 4rh 2h01m18s rta
+Review: A cool run, very efficient routing and some precise tricks, but the crew just didn't have enough material to fill two hours. Even with some crowd gimmicks, they threw things over to donation reading far too often, and for far too long. Made it feel too much like just an experienced LP rather than a speedrun.
 
 Dark Summit (GC - Radical 2002)
 Any%
@@ -173,12 +171,11 @@ Any% VGA
 by LMMotoss [2RH]
 host Konception, couch moonblazewolf
 27m07s (est 30m, wr 24m25s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube KcOzv5r_rtM+2
-Review: (Not yet reviewed)
-WRs: Non-Slim_Jim LMMotoss 25m22s AlexAshpool
+Review: Adventure games aren't usually the most thrilling of speedruns, and this one was perhaps even less so. But it has some cool lore and the runners were having fun with it, so it's probably a good run to just chill to.
 
 Michael Jackson's Moonwalker (Genesis - Sega 1989)
 Any%
@@ -233,12 +230,11 @@ Solo Any%
 by Sean_A [WRH][REM]
 host SquidDilla, no couch
 56m35s (est 1h05m, wr 54m34s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 8P3UeOwcJZE+0
-Review: (Not yet reviewed)
-WRs: runner rarelike SwaggyCat
+Review: Quite a silly game, and with a good variety of tricks on display. The core tech is the same, but levels range from minor corner-cutting, to skipping an entire world.
 
 Alien Swarm (PC - Valve 2010)
 Any%
@@ -329,12 +325,11 @@ Any% Ultimate
 by The Blacktastic [2RH]
 host Nichole Goodnight, couch Brooke, Ecdycis, DanTheVP
 22m32s (est 25m, wr 21m41s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube IAsF9AxFy5Q+0
-Review: (Not yet reviewed)
-WRs: JupiterClimb runner 22m11s strizer86
+Review: Is it possible for a runner to be too hype? The one and only Blacktastic sure seems to be trying, but so far, he's just been a load of fun while absolutely demolishing this game. He makes it look easy without making it the least bit boring.
 
 Bloodstained: Curse of the Moon 2 (PC - Inti Creates 2020)
 Episode 1: Normal/Veteran
@@ -402,12 +397,11 @@ All (Hangry) Horde Levels
 coop by RUBIEHART, Peace Egg, Sunbrojade [2RHs]
 host THEKyleThomas, couch jhobz
 50m31s (est 1h00m, wr 54m09s) [WR]
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube U5wo63JCUTU+6
-Review: (Not yet reviewed)
-WRs: Heiker+Abedulator+Nihlius, runners 58m15s
+Review: This is the kind of run that's easy to follow and exciting to watch. The skill here is communication and efficiency - perhaps the only downside is that commentary kept getting cut off by runners' orders. But the energy is unbelievable for a run in this time slot, even before they realized they were probably on WR pace.
 
 Chained Echoes (PC - Matthias Linda 2022)
 Any% No CW - Fresh File
@@ -439,11 +433,11 @@ Any%
 by shmumbler [WRH][ORH]
 host THEKyleThomas, couch ebd
 10m21s (est 12m, wr 8m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube ydoy3BFBeR4+0
-Review: (Not yet reviewed)
+Review: The draw here isn't the speedrun, it's the sheer what the fuckness of the game. Seriously, one of the weirdest things ever to grace the GDQ stage, and at barely ten minutes, you can probably spare it.
 NM: part of Dread X Collection: The Hunt anthology
 
 SNOLF (Genesis - Sonic Team 1991, DrMelon 2019)
@@ -463,12 +457,11 @@ All Main Levels - Kindergarten
 by tbcr [2RH]
 host Char_bunny, no couch
 26m17s (est 35m, wr 22m55s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube mhN2Ai0kccs+3
-Review: (Not yet reviewed)
-WRs: aperturegrillz tbcr 27m49s rta
+Review: This run could have benefited tremendously from a good couch. The game has a famously intricate story - we heard nothing about it. The run has some cool tricks - these were barely explained. The community is kinda freaking out about a new game for the first time since 1996 - this was mentioned once. A half-hour run wouldn't have time to do all of these justice, but it could perhaps have done *one* of them.
 
 G.I. Joe: A Real American Hero (NES - KID 1991)
 Any%
@@ -644,31 +637,27 @@ WRs: BlueMetal Aerlien runner 57m06s rta
 
 [[[SPOOKY BLOCK]]]
 
-Silent Hill: Homepour (Xb360 via XSX - Double Helix 2008 or Vatra 2012)
-All Bosses NG+
+Silent Hill: Homepour (Xb360 via XSX - Double Helix 2008; Vatra 2012)
+All Bosses NG+, Any% NG+
 by shmumbler [WRH]
-host Bobby Blackwolf, couch aneternalenigma, starwin
-2h37m15s (est 2h45m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Bobby Blackwolf, couch aneternalenigma [2RH], starwin [2RH]
+2h37m15s (est 2h45m, wr 2h31m22s, 43m35s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube VBddx6AbWi4+7
-Review: (Not yet reviewed)
-NM: seems like maybe a bidwar, "Homepour" doesn't exist.
-WRs for Homecoming All Bosses NG+: shmumbler 43m35s Starwin Sasam
-WRs for Downpour Any%: Shmumbler 2h31m22s AnEternalEnigma umbrellaJill
+Review: A brilliant idea for a marathon run. Downpour has too many unskippable cutscenes? Go ahead and run Homecoming on another screen. They're two very different runs, for entries in the same series, and they provide plenty to talk about, very little downtime in this run.
 
 SIGNALIS (PC - rose-engine 2022)
 Any% Casual Difficulty / Memory Ending
 by DruciferPlays [3RH]
 host Bobby Blackwolf, couch moonblazewolf
 48m21s (est 50m, wr 45m56s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube NoWeuHCd1Ig+5
-Review: (Not yet reviewed)
-WRs: Lite Mekire runner 47m31s
+Review: Not the most technical run to watch, very heavy on that survival-horror just-dodge-around-all-the-enemies, but there was always something going on, either story guides or tech primers. And there's some interesting visuals, if a bit photosensitive.
 
 Choo-Choo Charles (PC - Two Star 2022)
 Any%
@@ -683,17 +672,15 @@ Review: (Not yet reviewed)
 WRs: first_try_i_swear OkiaBetter YamaJuugo, runner 4RH 17m10s rta
 
 Resident Evil 6 (PC - Capcom 2012)
-Ada vs Jake, Amateur, NG+ [BIDWAR]
+Jake, Amateur, NG+ [BIDWAR]
 coop by TaintedTali, texan_red_wolf
 host Kungfufruitcup, couch retro heart, ecdycis
-1h17m50s (est 1h20m, wr 1h09m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h17m50s (est 1h20m, wr 1h09m44s) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube boaMNQ3glag+0
-Review: (Not yet reviewed)
-WRs Ada: esfrenchie09+Jud 1h07m10s runners 1h09m05s
-WRs Jake: JasJaws+iChun 1h09m44s runners 1h15m16s fiercekyo+Deln
+Review: Some decent banter, both between the runners and at the game, but the run is too straightforward and too easy to be all that interesting to watch. Invalidated by a very rare softlock, had to skip a small section of the game.
 
 Dead Rising 2 (PC - Blue Castle 2010)
 Timeskip NG
@@ -712,12 +699,11 @@ Any%
 by sharkhat87 [3RH]
 host Kungfufruitcup, couch tofercakes, meta, sirkyle95
 9m09s (est 10m, wr 7m24s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 7J3eO1GtpuY+1
-Review: (Not yet reviewed)
-WRs: Trap Symystery sharkhat 7m29s
+Review: Janky indie horror games? Aww yeah. This game packs a lot into ten minutes - clips, dboosts, propflying. The commentary is about as reverent as this game deserves, which is to say, not at all.
 
 Goosebumps: Dead of Night (PC - Cosmic Forces 2020)
 Any% Normal
@@ -923,37 +909,36 @@ Paper Mario (N64 - Intelligent Systems 2000)
 Any% No ACE
 by Mx_4 [2RH]
 host danejerus, couch realblopez, phantom5800
-1h58m58s (est 1h50m, wr 1h38m23s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h43m53s (est 1h50m, wr 1h38m23s)
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube icN2EPf4JgU+3
-Review: (Not yet reviewed)
-WRs: RandomSauce, runner 1h38m56s, morpheus080
+Review: A run with a good number of precise tricks, but also a LOT of downtime. It felt like there was more donation-reading than commentary. It was great when there was an actual speedrun going on, loved the positive vibes, but man, watching cutscenes drag on and on was a bummer.
+
+[[[SILLY BLOCK]]]
 
 True Crime: New York City (PC - Luxoflux 2005, Aspyr 2006)
 Any%
 by pmcTRILOGY [WRH]
 host danejerus, couch musical_daredevil, kz_frew, fretzel
 58m49s (est 1h00m, wr 52m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube vISHC26BG5Y+2
-Review: (Not yet reviewed)
-WRs: runner Skillertare KinzyKenzie
+Review: A very busted game, and with this crew, you know it's going to be a run full of jokes and banter.
 
 Golf It! (PC - Perfuse 2017)
 Classic First Five Maps 100%
 race Nichole Goodnight vs Bathinjan
-host THEKyleThomas, couch mechanalysttom, barry
+host THEKyleThomas, couch mechanalysttom, barry, emotional support Greg
 26m44s, 26m44s (est 30m, wr 16m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★★
 Youtube S7t__Lo3TBU+3
-Review: (Not yet reviewed)
-WRs: Snifsola saruzio Hexakil, Bathinjan pb 22m32s, Nichole pb 23m18s
+Review: First of all, how dare you. Second of all, amazing. This was *peak* sleep-deprived-madness commentary, backed up by some interesting (if highly inconsistent) gameplay. About the only downside was everyone talking over each other. Content warning: Ball stuff, modern American poetry.
 
 Hobo Cat Adventures (PC - Hobo Cat 2021)
 Any%
@@ -971,25 +956,23 @@ Batman Forever (Genesis - WB Interactive 1995)
 Any%
 by Faust4712 [WRH]
 host THEKyleThomas, couch cypherin, retrobrando, sonicman2005
-43m34s (est 45m, wr 34m08s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+43m34s (est 45m, wr 34m08s) [NF]
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube 9DCCjVJdBss+4
-Review: (Not yet reviewed)
-WRs: Faust Cy60r Loki_Khan
+Review: The game's difficulty comes more from clunky controls and bad design, than actual challenge. The biggest obstacle is just enemies deciding to block as long as they want to, no good way to break through. The execution on everything was pretty lackluster, and the run technically didn't finish because it game-overed on the last phase of the final boss, due as much to RNG as anything else. And it wasn't even all that funny.
 
 Give Me Toilet Paper! (Switch - Takahiro Miyazawa 2023)
 Hand%
 by Asuka424 [2RH]
 host THEKyleThomas, couch danejeris, nyobari
 9m54s (est 13m, wr 8m37s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube asze0zaTcGc+0
-Review: (Not yet reviewed)
-WRs: IamUncleSlam Asuka424 9m21s DGR
+Review: Surprisingly not a shitpost game. Unconventional controls, preposterous premise, but solid gameplay.
 NM: Nintendo store only lists Publisher, used for Developer bc it's all I could find
 
 Pepsiman (PS1 - KID 1999)
@@ -1009,24 +992,24 @@ Stair%
 by davidtki [2RH]
 host Asuka424, couch sathdresh, flannelkat
 5m10s (est 10m, wr 3m19s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube qVWn3d8dsGc+3
-Review: (Not yet reviewed)
-WRs: SantaClaus davidtki 4m39s Vyseoflegends9002
+Review: A very simple game, but the difficulty is evident and the joke doesn't have time to wear itself out. This is shorter than some bonus runs, go ahead and give it a shot.
+
+[[[/SILLY BLOCK]]]
 
 The Cat in the Hat (PS1 - DC Studios 2004)
 Any%
 by Mildew [WRH]
 host Asuka424, couch amyrlinn, shockwve
 10m49s (est 12m, wr 8m45s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube C3ERWywx8hI+3
-Review: (Not yet reviewed)
-WRs: Mildew (on emulator) adeliene64DS Mildew (on PS2) StupidHair
+Review: A pretty slow run, not much tech and not much to execute. It's filler, but it does have a bit of charm to it.
 
 Wayne's World (SNES - Gray Matter 1993)
 Any%
@@ -1057,13 +1040,11 @@ Any% Uzume
 by EODTexSR [WRH]
 host Asuka424, couch kipp, dagronsr
 19m55s (est 25m, wr 19m12s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube UJMxnFkUj5s+2
-Review: (Not yet reviewed)
-WRs Free Mode Normal, using Uzume: EODTex ArcTheLadder
-NM: not a remake?
+Review: A neat little game, but without good explanations for outsiders, this isn't too interesting a run to follow. It's pure play-game-good, with a character that seems incredibly overpowered. Series fans may get a lot of enjoyment from it, but I didn't.
 
 The Curse of Monkey Island (PC - LucasArts 1997)
 Any% Mega-Monkey
@@ -1161,12 +1142,11 @@ Full Trilogy Any%
 by Murcaz
 host NickRPGreen, couch austinoblivion, jhobz296, blunts moses
 2h26m50s (est 2h30m, wr 2h20m45s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube 2EYUC5R7m7E+4
-Review: (Not yet reviewed)
-WRs: CasuallyClutching Silver106 owgroovy, Murcaz pb 2h12m00s lrt
+Review: I have long found Crash runs to be too repetitive, too focused on clean execution of a very limited amount of tech over too long a game. Expanding it to the full trilogy did not help. If you're familiar enough with the games to be impressed by an hour-plus of near-perfect hobzslides, you'll love this, but most watchers will be better off watching other runs.
 
 Amnesia: Rebirth (PC - Frictional 2020)
 Any%
@@ -1206,11 +1186,11 @@ Any% Glitchless
 by Metroid Crime
 host PippyInATopHat, couch indyvillain
 17m42s (est 22m, wr 14m53s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube DQTEz1kWbWQ+3
-Review: (Not yet reviewed)
+Review: A short run, but jam-packed. No real tricks, just play game, good, and fast. I think it would have dragged if it had been substantially longer, but this was the perfect length for a quick-paced platformer.
 
 SaGa Frontier (PS1 - Square PDD2 1997)
 Asellus' Story [BIDWAR]
@@ -1447,11 +1427,11 @@ Any%
 by monkeysmb [WRH]
 host danejerus, couch fleedle_deedle, withermin
 1h09m29s (est 1h12m, wr 1h03m37s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube ZEJAHzBeMNw+2
-Review: (Not yet reviewed)
+Review: How did this game get so technical? I thought I was just bad at it as a kid, but no, apparently it really is just a hard game, and the speedrun has to avoid certain intended routes because they're unreliable, not just because they're slow. Other than some errors in the last stage, this was really clean for such a trick-dense run, but all of the tricks are pretty simple to understand, no QPUs here.
 
 Final Fantasy IV Pixel Remaster (PC - Square 1991; Square Enix 2021)
 Any%
@@ -1567,34 +1547,44 @@ Review: A somewhat silly extra showcase of the versus mode, and some of the crea
 The Legend of Zelda: Breath of the Wild (Switch - Nintendo EPD 2017) [BONUS GAME 7]
 Any% Blindfolded
 by Bubzia [2RH]
-host RUBIEHART, couch metroidmaster, mitchriz, crystalsaver [WRH]
+host RUBIEHART, couch metroidmaster, mitchriz, crystalsaver [WRH][REM]
 1h33m48s (est 1h45m, wr 58m47s, sighted wr 23m42s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
 Youtube S9wJO9D7668+5
-Review: (Not yet reviewed)
+Review: A particularly difficult game to speedrun blind, which makes Bubzia's eventual success impressive, but some very punishing failures during the boss gauntlet dragged things down from the perfection of his previous runs. Still well worth a watch, but it won't leave you speechless.
 
 Baron Of Shell (SNES - Nintendo EAD 1990; ShaoShao 2022)
 100%
 by grandpoobear [3RH]
 host Mr. Game and Shout, couch ShaoShao [DEV], shoujo, dan salvato
 36m38s (est 48m, wr 28m34s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★★
+Skill   ★★★★★
+Fun     ★★★★☆
 Youtube ltJYM3VMzp4+6
-Review: (Not yet reviewed)
+Review: It's one thing to crush an incredibly-hard game like this. It's another thing to make it look this easy. But making it look easy, while trading banter with the couch? This was a run that should have called for serious time but never did.
+
+Fly Me To The Stars (SNES - Nintendo EAD 1990; CarlSagan42 2018)
+All Levels
+by grandpoobear
+host Mr. Game and Shout, couch ShaoShao, shoujo, BeeKaay
+21m15s (est 17m, wr 8m98s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube UzCqCl1S3Dk+2
+Review: What happens when a great runner forgets they're running a game and doesn't practice? Funny stuff, mostly. It actually does a better job of selling just how hard kaizo hacks are, when the runner is rusty and struggling. It did drag in a few places, but then one-shotting a level would remind you that oh yeah, GPB is pretty dang good at Mario.
 
 Super Metroid (SNES - Nintendo R&D1 1994; OsteHovel + Lurern 2017)
-Any%
+100% Items
 coop by ShinyZeni, zoast [WRHs]
-host Mr. Game and Shout, couch kipp, unhchabo
-41m14s (est 50m, wr 25m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Mr. Game and Shout, couch kipp [2RH], unhchabo
+41m14s (est 50m, wr 39m48s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube ilG70fc-IJA+2
-Review: (Not yet reviewed)
-WRs: runners, Imyt+Oatsngoats, Kipp+andreww
-NM: assumed Multitroid, it's what the leaderboard is for
+Review: It's Super Metroid, plus the efficiency of co-op. There's like no downtime in the run, but with the split focus, it also doesn't reach any great heights. It's just a really solid run.
+NM: used "2-Player 100%", rules match what they did

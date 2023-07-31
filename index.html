@@ -563,7 +563,7 @@ body {
 			<a class="agdq" href="agdq2022.txt" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
 			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(98% - 123/126)</span></a>
 			<a class="agdq" href="agdq2023.txt" onclick="loadMarathon('agdq2023')">AGDQ 2023<span>(100% - 151/151)</span></a>
-			<a class="sgdq" href="sgdq2023.txt" onclick="loadMarathon('sgdq2023')">SGDQ 2023<span>(47% - 65/137)</span></a>
+			<a class="sgdq" href="sgdq2023.txt" onclick="loadMarathon('sgdq2023')">SGDQ 2023<span>(69% - 94/137)</span></a>
 			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(There's a lot of it)</span></a>
 		</div>
 		<script>
@@ -979,7 +979,7 @@ function loadReviews(input){
 		run_element.className = document.body.className;
 		
 		var title_re = lines[0].match(/([^\(\)]+) \((.+) - ([^\(\)]+) ((YEAR)|[0-9,; ]+)\)/);
-		var time_re = lines[4].match(/(~?[^\(\)]+) \(([A-Za-z0-9 ?]+), ([A-Za-z0-9% ,?-]+)\)([\[\] A-Z0-9?]*)/);
+		var time_re = lines[4].match(/(~?[^\(\)]+) \(([A-Za-z0-9 ?]+), ([A-Za-z0-9% ,?-]+)\)([\[\] A-Z0-9?-]*)/);
 		var youtube_re = lines[8].match(/Youtube ([A-Za-z0-9_-]+)\+?([0-9]*)/);
 		
 		if (title_re == null){
