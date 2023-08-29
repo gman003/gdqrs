@@ -146,24 +146,22 @@ Any%
 by flatline [WRH]
 host Konception, couch twilit, wafflewhybread, mr_shasta
 45m22s (est 45m, wr 41m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube quvO-migS6Q+0
-Review: (Not yet reviewed)
-WRs: flatline Bbforky Insetik47
+Review: I'm still not sure exactly how one goes fast in this game, other than routing to get the minimum gear needed as efficiently as possible, but between the weirdness of the game and the madness of the runner and couch, this was quite the enjoyable run.
 
 Bloody Hell (PC - Pun Intended 2023)
 Any%
 by BystanderTim
 host Konception, no couch
 13m12s (est 15m, wr 11m05s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube ICPVi1TqWis+2
-Review: (Not yet reviewed)
-WRs: Zoomy_ Branta_Canadensis JAYKAE1, runner not ranked
+Review: The game is a student project, so short even casually, but the speedrun still skips a lot of it. There's not too much to it, but at fifteen minutes, it doesn't really need it.
 
 Loom (PC - Lucasfilm Games 1990)
 Any% VGA
@@ -205,12 +203,11 @@ normal Any% eri
 by sukimos [REM]
 host SquidDilla, no couch
 22m10s (est 25m, wr 15m52s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube bu22j8SzasY+3
-Review: (Not yet reviewed)
-WRs: mamekuro Vlad Benja, sukimos not ranked
+Review: Not the most interesting run, but a straightforward one. Bosses melt in seconds, enemies die almost as soon as they come on screen... the only way to play this game fast is to play it good, and sukimos plays it pretty dang good.
 
 Anodyne (PC - Analgesic 2013)
 All Bosses
@@ -361,11 +358,12 @@ Showcase
 by ZephyrGlaze [REM], WDRM [REM], chezmix [REM]
 host Prolix, couch werdwerdus [REM], zom [REM]
 ~1h10m (est 1h20m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube TbVcVhQ0gmY+4
-Review: (Not yet reviewed)
+Review: Another cool rhythm game showcase, with as much variety on display as the game has, but that's sadly just not that much. Solo, solo across both boards, team, and modded, and they have most of their gameplay in common. The commentators were informative but unenthused, and this far above casual skill levels, it's hard to tell how impressed one should be at anything. Combine that with the friction of a remote run, and an uncooperative host, and it's only a *pretty good* run.
+PS: Prolix. Learn when to stfu and stop getting in the runners' way. I know it's your job to hype up the donation incentives, but you *repeatedly* got told "time for one quick donation before the next song" and then gave a long exhortation to donate towards an incentive, then read a long donation, and by the time you were done the song was halfway over. You were actively making this run worse, in a very noticeable way. You kept anyone from even remarking on Chez's insane 99,950 score.
 
 Katana ZERO (PC - Askiisoft 2019)
 All Stages Normal
@@ -384,12 +382,12 @@ Solo Adventures
 by srd_27 [WRH][REM]
 host Prolix, couch monk [REM]
 21m31s (est 30m, wr 17m40s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ☆☆☆☆☆
 Youtube qtYvh3epypA+2
-Review: (Not yet reviewed)
-WRs: srd_27 Hess Mipha
+Review: The whole appeal of a run like this is the complex explosive card combos. But with terrible audio mixing, terrible delivery, and a seeming lack of *effort* in giving good explanations... this was 
+twenty minutes of watching rectangles fly around while voiceactors shouted at each other over garbled explanations. Giving the only detailed commentary of the run, at incomprehensibly fast speeds as a joke, came across as insulting, rather than funny.
 
 Overcooked! 2: Night of the Hangry Horde (PC - Team17 2018)
 All (Hangry) Horde Levels
@@ -444,12 +442,11 @@ Any% No Coordinate Warp
 by dowolf [WRH]
 host Char_bunny, couch aleck47
 37m38s (est 40m, wr 35m55s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube Wb67d4XkPKc+3
-Review: (Not yet reviewed)
-WRs: dowolf barogian
+Review: A funny little romhack, not the most polished speedrun but it's just such an obvious formula, very easy to follow, and absurd enough to stay delightful.
 
 Marathon Infinity (PC - Bungie 1996)
 All Main Levels - Kindergarten
@@ -663,12 +660,11 @@ Any%
 by Bird650
 host Kungfufruitcup, couch maxylobes, tofercakes, ace delusional
 18m47s (est 25m, wr 16m49s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube aOFXYSEIQOY+0
-Review: (Not yet reviewed)
-WRs: first_try_i_swear OkiaBetter YamaJuugo, runner 4RH 17m10s rta
+Review: A surprisingly good speedrun. I was expecting more of a meme game, but no, there's some actual tech here. Not the most precise or polished speedrun, but still a quite interesting one, even without all the jokes.
 
 Resident Evil 6 (PC - Capcom 2012)
 Jake, Amateur, NG+ [BIDWAR]
@@ -686,12 +682,11 @@ Timeskip NG
 by Ecdycis [3RH]
 host Kungfufruitcup, couch nallyq
 53m55s (est 1h00m, wr 38m57s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube 4dZq1A2KX8o+3
-Review: (Not yet reviewed)
-WRs: BearSquire Sweed runner 40m43s lrt
+Review: A game with not a super lot of tech, but Ecdycis makes up for it elsewhere. Execution is full of tiny little optimizations that are nevertheless easy to see, and he keeps up way more charisma than should be possible at this hour of the night.
 
 Kidnapped (PC - Gavin Powell 2015)
 Any%
@@ -1152,11 +1147,11 @@ Any%
 by bloodthunder
 host AnEternalEnigma, couch nerd_squared
 54m38s (est 1h00m, wr 50m12s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube xG04m7GZfvg+0
-Review: (Not yet reviewed)
+Review: A fairly neat run. The speed tech is all out-of-bounds and prop-flying, but bloodthunder paired it with some running commentary on the game's plot and lore. Pretty good for a 4AM run.
 
 Shantae and the Pirate's Curse (Xb360 via XSX - WayForward 2014, 2016)
 All Dark Magic, Pirate Mode, No OOB
@@ -1195,12 +1190,12 @@ SaGa Frontier (PS1 - Square PDD2 1997)
 Asellus' Story [BIDWAR]
 by Raclesis [WRH]
 host PippyInATopHat, couch angieyuna, midboss
-1h00m21s (est 45m, wr 46m24s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h00m21s (est 1h00m, wr 46m24s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube -O_cU7zgfkY+4
-Review: (Not yet reviewed)
+Review: A shorter JRPG run than most, but unfortunately not a better one. The RNG is stratospheric and the game is only marathon-safe because of constant quicksaves and relatively fast loads. The lore, at least as explained here, is pretty generic, and the combat system has some neat combo potential that isn't given enough detail. Even the runner and couch seem to admit this is a filler run. Not bad filler, but still filler.
 
 Final Fight 3 (SNES - Capcom 1995)
 Any% Easy
@@ -1218,11 +1213,11 @@ Expert
 by dagronSR [2RH]
 host SquidDilla, couch sonicman2005, faust4712, cypherin
 26m50s (est 30m, wr 23m40s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube XiGG9YC9wzw+6
-Review: (Not yet reviewed)
+Review: A fairly straightforward action-platformer, if a difficult one. Short, to the point, high-energy, and just unpolished enough for us to see some adaptation on the fly.
 
 Wild Guns (SNES - Natsume 1994)
 Any% Hard
@@ -1352,27 +1347,35 @@ Review: This was certainly an impressive show of skill, starting off at a level 
 Celeste (PC - Maddy Makes Games 2018)
 True Ending
 tas by Lmjacks, tmcalvins, Vamp
-host TrainerAnade, couch noel
-~40m (est 36m, human wr 44m50s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host TrainerAnade, couch noel [DEV]
+~40m, 32m18s igt (est 36m, human wr 44m50s igt)
+Overall ★☆★☆★
+Skill   ☆★☆★☆
+Fun     ★☆★☆★
 Youtube 9OFxjTMsJZU+4
-Review: (Not yet reviewed)
-TODO: exact time?
-TODO: bonus run?
+Review: It's a short TASBlock this year, but they picked a good one. This game is nuts even when humans are running it. When it's a machine? Absolute perfection. There's no ACE shenanigans like some previous TASBlocks, just playing the game at an inhuman level.
 
-Kingdom Hearts Final Mix (PC - Square 2002)
+Celeste (PC - Maddy Makes Games 2018)
+All C-Sides [BONUS]
+tas by Lmjacks, tmcalvins, Vamp
+host TrainerAnade, couch noel [DEV]
+4m07s, 3m02s igt (est 5m, human wr 4m29s igt)
+Overall ☆★☆★☆
+Skill   ★☆★☆★
+Fun     ☆★☆★☆
+Youtube 9OFxjTMsJZU+2466
+Review: Short little bonus run, showing the toughest levels in the game getting demolished with equal ease.
+
+Kingdom Hearts Final Mix (PC - Square 2002, 2013)
 Any% Proud
 race MistMaster1 [2RH] vs Violin [WRH]
 host AnEternalEnigma, couch bandityoshi, gamemanofcolor313
 2h22m10s, 2h24m34s (est 2h30m, wr 2h21m27s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube EECy_GCmIIg+5
-Review: (Not yet reviewed)
-NM: PC release also implied it's from HD 1.5 Remix, released 2013, PC in 2021
+Review: We've just seen better KH runs. More challenging categories, or more engaging runners and couch, or more interesting gameplay. The race stayed close for a long time, but only because there's so few places to lose or gain much time. Maybe one for the die-hard fans, but the rest of us are better off watching... probably any other KH run I've reviewed.
 
 Neopets: The Darkest Faerie (PS2 - Idol Minds 2005)
 Any%
