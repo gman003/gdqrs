@@ -112,12 +112,11 @@ NG Devil Hunter - Nero/Dante
 by DECosmic
 host Xenadir, couch MaxyLobes, WaifuRuns
 1h14m29s (est 1h20m, wr 1h02m53s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube 3unK8WHC0F0+5
-Review: (Not yet reviewed)
-WRs: renzero Certified_Freak mekarazium, DECosmic PB 1h10m17s rta
+Review: A hard game in general, the speedrun makes use of a few big skips, but is still heavily play-game-good. Bosses absolutely melt, and beating the first few levels damageless is borderline necessary. DECosmic pulls it off very well.
 
 Thief (PC - Eidos Montreal 2014)
 Any% (Rogue, No DLC)
@@ -179,24 +178,22 @@ Any%
 by RetroBrando [WRH]
 host Konception, couch faust4712, aldranis
 21m30s (est 22m, wr 18m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube OXxyOxt0orM+2
-Review: (Not yet reviewed)
-WRs: runner SandbagX Pikachu
+Review: A neat little run. Unfortunately some audio mix issues made the explanation of the core tech pretty hard to hear, and that made the rest of the commentary confusing. It's straightforward enough to figure out from context though.
 
 Suzuki Bakuhatsu (PS1 via PS2 - Enix 2000)
 Any% Hard
 by quino [WRH]
 host SquidDilla, couch hibnotix, juho
 19m27s (est 20m, wr 15m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube pH6km6WGWDo+3
-Review: (Not yet reviewed)
-WRs: quino283 suiyo
+Review: One of those deliberately absurd 2000s-era Japanese games, it's like a particularly strange and simple Keep Talking run. It's in a genre of one so judging how fast he's going is hard, and the commentary is barely sufficient to understand the game. But if you want twenty minutes of WTF, this is a good one.
 
 Metal Slug XX (PC - Noise Factory 2008, SNK Playmore 2009)
 normal Any% eri
@@ -214,12 +211,11 @@ All Bosses
 by LaserTrap_ [2RH][REM]
 host SquidDilla, no couch
 24m16s (est 27m, wr 22m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube LgHsAj-0AVA+3
-Review: (Not yet reviewed)
-WRs: TheBarrel (runner) 22m53s Serena
+Review: A very busted run, but half of it is intentionally busted. Runner was a bit hard on themself but it was plenty entertaining, even with a few mistakes.
 
 PHOGS! (PC - Bit Loom 2020)
 Solo Any%
@@ -370,12 +366,11 @@ All Stages Normal
 by Modulottie [REM]
 host Prolix, couch metroid crime [REM], roseblom [REM], tichat002 [REM]
 24m05s (est 18m, wr 15m11s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube Wx4MY7C2yGQ+0
-Review: (Not yet reviewed)
-WRs: DangNabbitJones Lastnumb3r Logz, runner pb 15m59s igt
+Review: A lightning-paced run, since the main game mechanic is "slow down time" and the main speed tech is "don't do that". It does get a bit samey, but there's like no downtime in this run, just nonstop action.
 
 Hearthstone: Knights of the Frozen Throne (PC - Blizzard 2014, 2017)
 Solo Adventures
@@ -405,25 +400,22 @@ Any% No CW - Fresh File
 by moonblazewolf [WRH]
 host THEKyleThomas, couch lmmotoss, puwexil, flannelkat
 45m33s (est 53m, wr 40m53s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube KY8jYVDgKLc+2
-Review: (Not yet reviewed)
-WRs: runner KPloggz Enker
+Review: A very, very broken jRPG run. Even the downtime is just "more OoB gathering of endgame items", only a very short XP grind. The only downside is not getting to see much, if any, of the story or lore.
 
 Alpha Prime (PC - Black Element 2007)
 Any%
 by danejerus
 host THEKyleThomas, couch covertmuffin, meta
 27m24s (est 34m, wr 21m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube G_OJ-8JlKhE+3
-Review: (Not yet reviewed)
-WRs: Zensn danejerus 26m20s Meta
-NM: Assumed Easy, runner has no record for Normal or Hard
+Review: An incredibly funny run, mostly a battle against chair physics and surprisingly deadly enemies for easy mode. The game is busted in the best ways, and some good couch banter just makes it better.
 
 Rose of Meat (PC - Mr Pink 2021)
 Any%
@@ -464,36 +456,33 @@ Any%
 by MixMastaPJ [2RH]
 host Char_bunny, couch infinitemystery, madmegax381
 28m47s (est 25m, wr 19m35s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube ufqbi5YjsuM+4
-Review: (Not yet reviewed)
-WRs: Toad22484 runner 20m10s ZeroThe14th
+Review: Just kind of a clumsy run, more mistakes than impressive tricks. Commentary was good but it couldn't make up for tedious or bad gameplay.
 
 Maniac Mansion (NES - LucasArts 1987, 1988)
 Any%
 by Sathdresh
 host Char_bunny, couch MixMastaPJ, madmegaz381, janglestorm
 13m19s (est 8m, wr 5m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube fEZND0rz3nA+0
-Review: (Not yet reviewed)
-WRs: Niss3 NeSs7or9 capnshrimpy, runner 4RH 6m42s
+Review: Just a hard run to follow. The primary trick is not well-explained, the runner messed up seriously, the on-the-fly rerouting could have been interesting if they'd *said* anything, but instead we got full minutes of awkward silence in a quarter-hour run.
 
 Disney's 102 Dalmatians: Puppies to the Rescue (PS2 - Crystal Dynamics 2000)
 All Levels, Inbounds
 race, passere [WRH] vs TaintedTali
 host Char_bunny, couch tophub, stokeley_onfroy, mastermoor
-28m50s (est 32m, wr 23m06s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+25m25s, 28m50s (est 32m, wr 23m06s)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube ZVyCVgOynoc+1
-Review: (Not yet reviewed)
-WRs: passere Custom Avouca
+Review: A highly uncompetitive race, with neither much technical explanation of the run, nor much fun banter. If you don't already want to see the game crushed, this won't change your mind.
 
 Ratatouille (GC - Asobo 2007)
 Any%
@@ -622,14 +611,13 @@ Review: An extremely difficult run, I'm always surprised to see a Halo legendary
 Metal Gear Solid: The Twin Snakes (GC via Wii - Silicon Knights 2004)
 Any% Normal
 by NickRPGreen [3RH]
-host ateatree, couch vermillion, metalgleensolid
+host ateatree, couch vermillion, metalglennsolid
 58m57s (est 1h11m, wr 54m17s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube kluc-PpsB3I+3
-Review: (Not yet reviewed)
-WRs: BlueMetal Aerlien runner 57m06s rta
+Review: Rather than the high-difficulty Metal Gear runs we most often see, this took a more sedate difficulty, which allowed a few more skips to be incorporated. The crew put on a good show to make up for that, and still finished with a solid time.
 
 [[[SPOOKY BLOCK]]]
 
@@ -704,26 +692,24 @@ Any% Normal
 by nyiddle [WRH]
 host Prolix, couch katlink, captainezekiel
 14m30s (est 15m, wr 11m23s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube 7YfLgIQlSVY+5
-Review: (Not yet reviewed)
-WRs: runner Ozmourn Nikoheart
+Review: A very basic speedrun, there's a good number of sticks for a run this short, but they're too simple to impress. It comes off more like "hastily-coded game" than "skilled speedrunner". Perhaps one for fans of children's horror novels, but I never got into Goosebumps myself.
 
 [[[/SPOOKY BLOCK]]]
 
 Beard Blade (PC - Glovebox 2021)
 Any%
 by janglestorm [2RH]
-host Prolix, couch junkyard_dave [WRH], danthevp, beardbarn
+host Prolix, couch junkyard_dave [WRH][REM], danthevp, beardbarn
 49m15s (est 54m, wr 47m40s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube P5gW_Lcf--g+4
-Review: (Not yet reviewed)
-WRs: junkyard_dave runner 49m04s Byrdman
+Review: A neat little indie platformer, a bit held back by limited variety and a money farm, but charming enough.
 
 Dharma Doujo (Arcade - Metro 1994)
 Any%
@@ -765,12 +751,11 @@ Any%
 by catalystz [REM]
 host Konception, couch chronos_r
 30m55s (est 35m, wr 20m52s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube jdgqukNH5PM+4
-Review: (Not yet reviewed)
-WRs: Kisimov unity_b Muty, runner pb 24m52s lrt
+Review: A very busted game, lots of glitches on display. Most of them were silly, and most of them even worked. Not a very polished run, but not a very polished game, either, so it all balances out.
 
 Touhou 14.3: Impossible Spell Card (PC - Team Shanghai Alice 2014)
 All Scenes No Items
@@ -834,11 +819,11 @@ Legacy X-row
 coop by killingpepsi, XandoToaster [WRHs][ORHs]
 host Mr. Game and Shout, no couch
 18m23s (est 25m, wr 17m56s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube IWNi8b9WI34+1
-Review: (Not yet reviewed)
+Review: A very tough momentum platformer, back from the Flash era. Only a few skips, and no tech beyond good skills, but the game is tough enough (and the run fast enough) to not need anything more. Great self-commentary as well.
 
 Hitman 3 (PC - IO Interactive 2021)
 Any% Freelancer Campaign
@@ -939,12 +924,11 @@ Any%
 by yoshipro [WRH]
 host THEKyleThomas, couch mellow, evansfight, wonderj13
 13m29s (est 20m, wr 9m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube iD19KLAlO4g+2
-Review: (Not yet reviewed)
-WRs: yp Dartanial
+Review: A strange little platformer, very broken in a speedrun but not in an inconsistent way, making for great Silly Block material.
 
 Batman Forever (Genesis - WB Interactive 1995)
 Any%
@@ -974,12 +958,11 @@ Any%
 by TheFlyingMarlin
 host THEKyleThomas, couch countgooby, jonathanirvings
 25m06s (est 28m, wr 18m07s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube XPI4YeQwSPw+6
-Review: (Not yet reviewed)
-WRs: OptiJuegos JonathanIrvings MrMonsh, runner pb 19m26s lrt
+Review: It's a strange game to speedrun, surprisingly *not* a pure autoscroller as you might otherwise expect. But let's be real, you're here for those gloriously cheesy cutscenes.
 
 Stair Quest (PC - No More For Today 2016)
 Stair%
@@ -1010,24 +993,22 @@ Any%
 by Ritzblues [2RH]
 host Asuka424, couch konception, stevetvonline, zembar
 23m20s (est 35m, wr 23m14s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube R96-Wye_2MA+4
-Review: (Not yet reviewed)
-WRs: TheYakkoManGuy runner 28m11s ParallaxDG
+Review: Heavy on the sketch comedy, but it was well-done sketch comedy. Even not having seen the film, I enjoyed this, and I bet it's a real treat for fans of it.
 
 The Incredible Hulk (SNES - Probe 1994)
 Any%
 by Iceplug [WRH]
 host Asuka424, no couch
 17m48s (est 20m, wr 15m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube _cv8hJmNlSs+0
-Review: (Not yet reviewed)
-WRs: Iceplug Meduka fluffytoycoy
+Review: Did not expect this run to turn into a sing-a-long to the funky background music, but it did. Pretty simple as a speedrun but Iceplug made it worth watching.
 
 Pocky & Rocky Reshrined (Switch - NatsumeAtari 2023)
 Any% Uzume
@@ -1045,12 +1026,11 @@ Any% Mega-Monkey
 by frozenspade [2RH][REM]
 host Musical_Daredevil, couch thewoofs [REM]
 23m25s (est 21m, wr 15m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube CR78-ZdEYQo+4
-Review: (Not yet reviewed)
-WRs: T0TEM runner 16m58s polloAUT
+Review: This run has the super-fast menuing one expects from an adventure-game speedrun, but not much else. Even the comedy of the game was undercut by unenthusiastic commentary and a general lack of energy.
 
 Grand Theft Auto: San Andreas (PC - Rockstar North 2004)
 Any% (No 3rd-party FPS caps)
@@ -1068,11 +1048,11 @@ Defeat Hag [BIDWAR]
 by RebelDragon95 [2RH][REM]
 host ateatree, no couch
 34m29s (est 50m, wr 26m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ☆☆☆☆☆
 Youtube M-dQ1WxyTIQ+2
-Review: (Not yet reviewed)
+Review: A good GDQ run needs two things: interesting gameplay, and interesting commentary on the gameplay. This run provided neither. Much time was spent just cycling missions until a short one popped up. The party composition was never adequately explained. From what was, it seems like the primary speed factor is dungeon layout RNG. The host tried to prompt the runner to discuss things more, but though many words were said, little was engaging. I zoned out of this run while watching it live, and even on re-watch, it was tedious.
 
 Mega Man 6 (NES - Capcom 1993)
 Any%
@@ -1121,15 +1101,15 @@ Review: This game has probably the best first-person movement mechanics, and Bla
 -------------------------------FRIDAY--------------------------------
 
 Gunfire: Reborn (PC - Duoyi 2021)
-Qing Yan - Full Game - Reincarnation 1
+Qing Yan - Full Game - Reincarnation 8
 by Shockwve
 host JD Puppy, couch amyrlinn, munchakoopas, bryonato
-40m50s (est 25m, wr 7m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+40m50s (est 25m, wr 10m52s) [NF]
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★★
 Youtube XidvO44DOb8+3
-Review: (Not yet reviewed)
+Review: Genuinely one of the funniest runs I've ever seen - I had to pause more than once just to stop laughing. Shockwve deals with some absolutely hilarious RNG, plays like a champ even while dying to the final boss. Explanations are abbreviated but informative, to keep up with the pace of the run.
 
 Crash Bandicoot: N. Sane Trilogy (PC - Vicarious Visions 2017)
 Full Trilogy Any%
@@ -1158,22 +1138,22 @@ All Dark Magic, Pirate Mode, No OOB
 by TheSoundDefense
 host AnEternalEnigma, couch janglestorm
 1h06m22s (est 1h10m, wr 1h01m07s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube x2Bk1kyAHC0+4
-Review: (Not yet reviewed)
+Review: A solid metroidvania run. No glitches beyond a few animation cancels, but the NG+ aspect gives tons of fluid movement right from the start, and it just never lets up. Some cool on-the-fly item routing, too.
 
 Klonoa Phantasy Reverie Series (PC - Namco 1997, Monkey Craft 2022)
 Klonoa 1 Any% Easy Support Mode
 by Mr_Shasta
 host PippyInATopHat, couch nickrpgreen, wafflewhybread, kobazco
 43m33s (est 50m, wr 37m35s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube s_PovRhtLBM+0
-Review: (Not yet reviewed)
+Review: A charming 2.5D platformer, there's some interesting skips but not much in the way of movement tech. But the tricks are spaced out just enough that there's no long blocks of downtime, always something interesting going on, and Shasta always kills it on commentary.
 
 VVVVVV (PC - Terry Cavanagh 2010)
 Any% Glitchless
@@ -1201,12 +1181,12 @@ Final Fight 3 (SNES - Capcom 1995)
 Any% Easy
 coop by JaekRock, Space Coast Gaming [WRHs]
 host SquidDilla, couch johnnnygo, lrock617
-19m48s (est 25m, wr 20m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+19m42s (est 25m, wr 20m58s) [WR]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube nLTV7N25g4Q+3
-Review: (Not yet reviewed)
+Review: A pretty straightforward bmup run, but a very clean one. Nothing flashy or super technical, just good old play-game-good, with solid commentary.
 
 Shinobi III: Return of the Ninja Master (Genesis - Sega 1993)
 Expert
@@ -1382,46 +1362,44 @@ Any%
 by Jaxler [WRH]
 host Musical_Daredevil, couch corundumcore, tempystral, nestani
 41m48s (est 50m, wr 39m46s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube qf__wTI5nao+5
-Review: (Not yet reviewed)
+Review: WTF, how is a tie-in to a Flash game this good a speedrun? There's a ton of neat tech, completely breaking the game in several ways, all quite handily explained by the excellent couch. 
 
 Tony Hawk's Underground (PC - Neversoft 2003)
 Beginner Any%
 by Biglaw
 host Musical_Daredevil, couch shockwve, PARTY MAN X
 34m53s (est 37m, wr 32m41s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube b6bjJ3rJ4zM+3
-Review: (Not yet reviewed)
-WRs: shnazz joerandom purpic, Biglaw pb 33m44s igt
+Review: I don't know what they did different with this run, but it stands well above all the other skate-game runs I've seen. There's no time to set up context or deep tech explanations, it's just a non-stop barrage of "okay now we're doing this".
 
 Spelunky 2 (PC - Mossmouth 2020)
 Spelunker Trials Any%
 by Lavableman
 host Musical_Daredevil, couch swiftalu, fimbz
-23m04s (est 20m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+23m04s (est 20m, wr not found)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube CGCe09aFapk+3
-Review: (Not yet reviewed)
-WRs: (couldn't find category)
+Review: A non-randomised mod pack that demands far more precise movement than the base game. Interesting, but the runner suffered from a serious case of nerves, and bemoaning every mistake really dragged the run down. Worth checking out for Spelunky fans but otherwise skippable.
 
 Ori and the Blind Forest Definitive Edition (PC - Moon 2015, 2016)
 All Skills No OOB/TA
 by Primorix
 host Musical_Daredevil, couch covertmuffin
 29m24s (est 35m, wr 26m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube jPdnR0sAqO4+0
-Review: (Not yet reviewed)
+Review: Hyper-polished execution combined with immaculate commentary. A must-see for those of you that love deep explanations of all the little tricks that go into going fast.
 
 Billy Hatcher and the Giant Egg (GC via Wii - Sonic Team 2003)
 Any%
