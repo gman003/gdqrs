@@ -603,3 +603,147 @@ Skill   ★★☆☆☆
 Fun     ★★☆☆☆
 Youtube EsN59OGwnoQ+85
 Review: This feels like a very unpolished run. Even the newest strats seemed basic, and the low-level movement did not impress. Unsurprising, from a game that only two people seem to run, and not a *bad* run by any stretch, but it was unremarkable.
+
+[[[CASTLEVANIA BLOCK]]]
+
+Castlevania (NES - Konami 1986)
+Any%
+by Komrade
+host Yen24, couch MikeKanis, Skybilz, (not introduced)
+12m59s (est 15m, wr 11m27s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube Kz1f-THEfjM+33
+Review: A tricky run, for its short length. Lots of tight strategies for damage-clips or boss kills, even just item pickups are carefully routed, but it's all well-explained. Dry, but at this length, it doesn't even begin to become tedious. A solid start to Castlevania Block.
+
+Castlevania III (NES - Konami 1989)
+Sypha Route
+by MikeKanis
+host Prolix, couch Komrade, Puwexil, Skybilz
+31m51s (est 35m, wr 28m34s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube wRLqVYi-px4+32
+Review: It's an OG-style Castlevania, but with enough tech and complexity to stand up to a longer run. Some neat clips, and some neat improv when things went wrong.
+
+Castlevania: Bloodlines (Genesis - Konami 1994)
+John Morris Any% Expert Difficulty [BIDWAR]
+by Klaige [WRH]
+host Prolix, couch Breakdown, PJ, Romscout
+30m30s (est 35m, wr 29m42s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube yQdDEXg36HA+26
+Review: On paper, this shouldn't have been as good as it is. The main weapon is OP, the best movement tech is very rarely usable, and bosses swing from "instantly dead" to "tedious slog". But Klaige and his couch just made everything so engaging.
+
+Castlevania: Circle of the Moon (GBA - KCE Kobe 2001)
+All Bosses Magician Mode [BIDWAR]
+by darrenville [WRH]
+host Prolix, couch TrUShade [3RH], RedWave, Nupperz
+28m10s (est 43m, wr 25m38s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube B5hlNjS86yo+24
+Review: Probably the most busted run of Castlevania Block this year, but still showing off a decent amount of the game. Very clean execution of some tough tricks and tougher movement, though there was some unfortunately long downtime.
+
+[[[/CASTLEVANIA BLOCK]]]
+
+Dragon Warrior III (NES - Chunsoft 1988)
+Any%
+by vaxherd [WRH]
+host Prolix, couch NESCardinality, Puwexil, philosoraptor42 [3RH]
+1h09m55s (est 1h20m, wr 44m44s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube foRvzO8kQC8+6
+Review: The entire run is RNG-manipped. The entire thing. All of it. Like half the run requires perfect movement, and even with tile-based movement, that's not easy. And most of it is memorized! The only lookups vaxherd seemed to need was to figure out where he was in the RNG seed. This is a very technical run, and some very costly mistakes led to some repetition, but it's still an impressive technical achievement.
+
+[[[SONIC BLOCK]]]
+
+Sonic Adventure DX: Director's Cut (PC - Sonic Team 1998, 2003)
+Sonic's Story
+by JustFlandre
+host Lizstar, couch (not introduced)
+33m32s (est 36m, wr 29m24s) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube Uoval0SwqOY+50
+Review: Collision? Story triggers? Nah, this is Sonic Adventure, we don't have time for that! Lots of clipping and falling out-of-bounds, among other physics abuses, and a nice lighthearted tone through it all.
+
+Sonic Spinball (Genesis - STI 1993)
+Any%
+by Zaxon96 [WRH]
+host Lizstar, couch AlecK47 [3RH], Chronoon (?), mike89, KickassPancakes
+16m53s (est 20m, wr 9m37s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube H_Q8GiwatQE+13
+Review: A difficult game to speedrun, as the few tricks it has are inconsistent at best. But it's also so unlike other speedruns that it's worth checking out, anyways.
+
+Sonic the Hedgehog 2 (Genesis - STI 1992)
+Sonic + Tails
+by mike89
+host Lizstar, couch AlecK47 [3RH], Chronoon (?), KickassPancakes, Zaxon96
+23m37s (est 25m, wr 19m19s rta)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube tSlPqCDgQVE+3
+Review: This felt like two consecutive runs. The front half is played mostly as-intended, the speed tech is down to just execution and routing. The back half is full of skips and glitches, still quite technical (and not always well-explained) but visually quite flashy.
+
+Sonic 3 and Knuckles (Genesis - STI 1994)
+Sonic + Tails Any%
+by mike89
+host Lizstar, couch AlecK47 [3RH], Chronoon (?), KickassPancakes, Zaxon96
+45m22s (est 48m, wr 36m36s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube GccTQXjuoNo+20
+Review: This run adds even more tricks to the repertoire. Some just for swag. There's very little downtime, mostly just replaying sections after botching a trick, and the couch had hella energy. Easily the highlight of Sonic Block this year.
+
+[[[/SONIC BLOCK]]]
+
+[[[METROID BLOCK]]]
+
+Metroid: Zero Mission (GBA - Nintendo R&D1 2004)
+100% Normal 
+race Dragonfangs vs CScottyW [WRH] vs john_unfil [2RH] vs samthedigital [3RH]
+host MapleSR, couch Kirbymastah, Krunchylex, Eagle
+1h10m27s, 1h11m38s, 1h12m17s, DNF (est 1h20m, wr 1h09m44s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube yUL9qBlbRVg+30
+Review: Not the easiest run to follow, due to route divergences, but the couch was having a blast and the runners were kicking ass. What more can you ask for?
+
+Metroid: Samus Returns (3DS - MercurySteam 2017)
+Any%
+by Mr_Shasta [3RH]
+host MapleSR, couch Jarvix, Hubert (?), TheUltimateStooges
+1h47m35s (est 1h55m, wr 1h33m11s)
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
+Youtube duayBju29b0+0
+Review: A run with a lot of rough edges, but also a lot of love put into it. There's very few actual tricks, and those there are are executed very inconsistently. I believe a cause was later uncovered, but that shows just how early in the game's life this run was. Yet Shasta manages to put on a charming show.
+
+Super Metroid (SNES - Nintendo R&D1 1994)
+100% Map Completion
+by oatsngoats [WRH]
+host Agama, couch GrandPooBear, Caleb, (not introduced?)
+1h24m16s (est 1h25s, wr 1h20m40s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube 59nyyuXLJ00+0
+Review: A somewhat arbitrary run, cutting out the tedious item-get jingles of 100%, and adding in a few locations not seen in any other categories. The couch focused more on banter than on commentary, but Super Metroid is a well-known speed game at this point, most watchers don't exactly need shinesparks explained to them.
+
+[[[/METROID BLOCK]]]

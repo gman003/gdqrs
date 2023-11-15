@@ -474,6 +474,17 @@ body {
 			--color-bg-cont: #070707;
 			font-family: monospace;
 		}
+		:host(.metroid_block) {
+			--color-fg-head: #00f870; /* light green */
+			--color-fg-fade: #00f870; /* light green */
+			--color-fg-cont: #c01800; /* dark orange */
+			--color-bg-head: #006800; /* dark green */
+			--color-bg-cont: #f8c000; /* light orange */
+			font-family: monospace;
+		}
+		:host(.metroid_block) .run .score-stars {
+			color: var(--color-bg-head);
+		}
 		
 		.run {
 			width: 100%;
@@ -553,7 +564,7 @@ body {
 	<div id="browser">
 		<h1>Select Marathon</h1>
 		<div class="container">
-			<a class="sgdq" href="sgdq2018.txt" onclick="loadMarathon('sgdq2018')">SGDQ 2018<span>(34% - 53/155)</span></a>
+			<a class="sgdq" href="sgdq2018.txt" onclick="loadMarathon('sgdq2018')">SGDQ 2018<span>(42% - 65/155)</span></a>
 			<a class="agdq" href="agdq2019.txt" onclick="loadMarathon('agdq2019')">AGDQ 2019<span>(99% - 139/140)</span></a>
 			<a class="sgdq" href="sgdq2019.txt" onclick="loadMarathon('sgdq2019')">SGDQ 2019<span>(99% - 147/148)</span></a>
 			<a class="agdq" href="agdq2020.txt" onclick="loadMarathon('agdq2020')">AGDQ 2020<span>(100% - 146/146)</span></a>
@@ -1049,6 +1060,9 @@ function loadReviews(input){
 				break;
 			case "MEGA MAN":
 				run_element.classList.add("megaman_block");
+				break;
+			case "METROID":
+				run_element.classList.add("metroid_block");
 				break;
 			case "MYST":
 				run_element.classList.add("myst_block");
