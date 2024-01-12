@@ -969,3 +969,235 @@ Skill   ★★★☆☆
 Fun     ★★★★☆
 Youtube 1SG0ZkQ033E+15
 Review: A tricky run from a great runner. TMR wasn't quite as high-energy as some of his more legendary runs, and the run gets a bit one-note, but it's still a ton of fun.
+
+------------------------------THURSDAY-------------------------------
+
+A Hat in Time (PC - Gears for Breakfast 2017)
+Any%
+race flarebear vs ConnorAce
+host Mike Uyama, couch COUCH
+55m06s (est HhMMm, wr HhMMmSSs)
+Youtube Gcc3pGyebgA
+Review: (not yet reviewed)
+NM: Delisted, presumaby because ConnorAce cheated his ClusterTruck submission for SGDQ19
+
+Celeste (PC - Maddy Makes Games 2018)
+Any%
+race TGH [WRH] vs yoshipro [2RH]
+host Mike Uyama, couch SecksWrecks, DevilScroll, Maddy Thorson (then Matt) [DEV], Noel Berry [DEV], Kevin Regamey (I think? his mic was off) [DEV], 
+35m31s, 36m26s (est 40m, wr 30m47s igt)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
+Youtube KS0QeQ1zXxI+34
+Review: An astoundingly tight race of an amazing game. The biggest drawback is that there's so little downtime, you can't pay attention to both runners.
+
+Pepsiman (PS1 - KID 1999)
+Cutscene%
+by Boyks
+host Mike Uyama, couch TheFlyingMarlin, (inaudible), GranPooBear, Pepsiman
+25m48s (est 26m, wr 19m26s rta)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
+Youtube NeYOmLlzz3E+28
+Review: There may be some speed tech, but Pepsiman as a game is just so resistant to speedrunning. Nobody's watching it for that. We're watching for the memes. The glorious, wonderful memes.
+
+Getting Over It with Bennett Foddy (PC - Bennett Foddy 2017)
+Glitchless%
+by MONTYvsTHEWORLD
+host FrenchToast, couch (not introduced)
+2m43s (est 5m, wr 1m27s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube 6fMMBMWiiSA+9
+Review: One of the meme games of the year, this run is so fast that they almost complete a second run in the five-minute window. Not much time for commentary, but it's one of the fastest speedruns out there.
+
+Miner Ultra Adventures (PC - Sinned Games 2017)
+Any%
+by Konasumi [WRH]
+host FrenchToast, couch ChairGTables (?), Skellecat, Forgiven
+9m04s (est 15m, wr 7m45s)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
+Youtube cTVxsrDy0Do+11
+Review: A very jank Brazilian-made platformer, apparently based on a popular character. Silly and too short to wear out interest.
+
+Roundabout (PC - No Goblin 2014)
+ESports Speedrun Mode
+by GNU Order [WRH]
+host FrenchToast, couch BigHonkinStudio, (inaudible), (inaudible)
+12m14s (est 11m, wr 10m15s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube aQbJR2MHC-U+8
+Review: A lot of Silly Block games are more "competent casual playthrough" than speedruns, but this one actually feels like a speedrun. Not *that* much tech to it, but it's got the vibes of a collectathon platformer run. And we got some good couch banter to make up for skipping the cutscenes.
+
+Live (PC - empty assembly 2017)
+Beat the Game
+by LifeL1ke [WRH]
+host FrenchToast, couch (not introduced)
+7m59s (est 11m, wr 4m39s)
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
+Youtube LdBJOdVyLpA+18
+Review: "Alright, this is a very strange game" is about the best introduction one could make. It's a surreal game even by the Mario-defined standards of 2D platformers. Kind of a sloppy speedrun but that is not at all the focus here.
+
+Stilt Fella (PC - September Games 2017)
+Any%
+by PHatHome666
+host FrenchToast, couch (not introduced)
+9m19s (est 20m, no wr)
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
+Youtube gxeUEzOJehc+13
+Review: You remember QWOP? Yeah, it's that sort of manually-moving-limbs game. Sadly, the speed strat in most levels is "try this fast but random thing, retry until you win".
+NM: Steam says this came out in 2020 but yeah no
+
+Club Drive (Jaguar - Atari 1994)
+All Races (2 Laps)
+by PeteDorr [WRH]
+host FrenchToast, no couch
+10m05s (est 13m, wr 9m54s)
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
+Youtube vOFqLg0fWTw+20
+Review: The energy of this run was as low as the framerate. Neat to see a Jaguar game at GDQ, and PeteDorr layed down some interesting history, but it wasn't weird enough to live up to Silly Block standards, and you could really feel the 5AM vibes.
+
+Bio Miracle Bokutte Upa (NES - Konami 1988)
+Normal Difficulty
+by EnchantressOfNumbers [WRH]
+host Calyrica, couch AuthorBlues [3RH], Skybilz, (inaudible)
+27m19s (est 30m, wr 28m47s rta) [WR]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
+Youtube VUHK93I7UhE+20
+Review: This is still the depths of Silly Block, with a platformer starring a baby, but for some reason EON and couch play this like a serious technical speedrun. It's not bad - especially not with the world record - but it feels out-of-place. 
+
+Yo! Noid 2 (PC - Dustin Bragg 2017)
+Any%
+by AlucardX60
+host Calyrica, couch Konasumi
+13m15s (est 12m, wr 9m31s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube _lYkXbeqF1Q+20
+Review: A very silly game-jam game, just jank enough for a glitchy speedrun while not breaking in bad ways. It's a game that's in on the joke, unlike half the audience apparently. This run deserved more laughs than it got.
+
+Jungle King Tar-chan: World Tour Rumble (SNES - Bandai 1994)
+Any%
+by Aweglib [2RH]
+host Calyrica, couch JohnCarls, AuthorBlues [WRH], HorseDad
+23m40s (est 30m, wr 20m05s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube qJjz3Xzsa6s+141
+Review: Alright, new petition, move Silly Block out of the dead hours of the morning. A run like this would have been spectacular, if there had been a crowd to get hype for it and if the couch hadn't been nearly asleep. 
+
+Pac-Man 2: The New Adventures (Genesis - Namco 1994)
+Any%
+by PARTY MAN X [2RH]
+host Calyrica, couch EnchantressOfNumbers
+24m15s (est 30m, wr 21m57s)
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
+Youtube G3nzsiCh-WU+91
+Review: This is just such a bizarre game. It's worth watching, if you've never seen this game before, just to experience how *weird* it is. But it's sadly not a great speedrun, and more "strange" than "silly".
+
+Silver Grapple (PC - Jamie Rollo 2017)
+Any% Good Ending
+by Ivan [2RH]
+host LLK, couch SpikeVegeta, (not introduced)
+13m54s (est 20m, wr 10m29s)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube jY4oINuMKOw+26
+Review: A game that's just a bit too busted to be interesting. Once the main mechanic is introduced, it's swiftly used for out-of-bounds, racing straight to the end with a minimum of actual gameplay.
+
+Gift (PC - rxi 2018)
+Any%
+by SecksWrecks [WRH]
+host LLK, no couch
+5m50s (est 10m, wr 4m13s igt)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube oBwWHWDmxj8+25
+Review: A neat bite-sized game-jam platformer, with an impressively tight speedrun. Nothing you haven't seen before, but usually you see it on hotly-contested speed games.
+
+El Viento (Genesis - Wolf Team 1991)
+Any%
+by belthegor
+host LLK, couch (not introduced)
+15m29s (est 14m, wr 12m44s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube YF_LJZTILsA+28
+Review: A fast-moving action-platformer, an unfortunate death requiring a level repeat hurt the pacing, especially with a run this short.
+
+Xeodrifter (PC - Renegade Kid 2014)
+Any%
+by JBuzzyBee [2RH]
+host Protomagicalgirl, couch RPDack (?), Pizza, Bretts (?)
+15m51s (est 18m, wr 14m20s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube pVCRHphHhC8+26
+Review: A neat little metroidvania, there's some interesting boss quick-kill strats but nothing too spectacular.
+
+Titan Souls (PS4 - Acid Nerve 2015)
+Hard Mode 100%
+by Zic3 [WRH]
+host Protomagicalgirl, couch SNeaky, Scrublord [2RH], Shark35
+23m10s (est 24m, wr 20m24s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
+Youtube zaUpwt9LLmo+36
+Review: Pretty much a pure boss-rush game, with not much done to make it interesting. Half the fights are over as soon as they begin, giving very little time to show off the gameplay, and the walks between sections are pretty empty.
+
+A Story About My Uncle (PC - Gone North 2014)
+Any% No Fling
+by TheRealVincentio [WRH]
+host Protomagicalgirl, couch (not introduced?)
+32m34s (est 35m, wr 27m40s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube e_Hk6c2WLaY+76
+Review: First-person hookshot platformer. If that doesn't sell you on the run, it's probably not for you. The gameplay is good, when you can see it - some unintended routes through dark levels are basically staring at a black screen for minutes at a time - but some decent couch work and a lack of other downtime makes up for it.
+
+Strider (NES - Capcom 1989)
+Any%
+race Elipsis vs NME vs Mr Magnificent
+host Protomagicalgirl, couch Darkman78, JimmyPoopins
+4m10s, 4m24s, 6m34s (est 5m, wr 3m34s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube BO5GmYgZZTo+114
+Review: I highly recommend this race for everyone who enjoyed the Strider on-stage tutorial at AGDQ2018, but if you didn't? It probably falls pretty flat.
+
+The Legend of Zelda (NES - Nintendo EAD 1986)
+Low%
+race beeteas vs Eunos [2RH] vs LackAttack24 [WRH]
+host Sooraya, couch DarkwingDuck, RTDrone (?), (inaudible), (inaudible)
+36m20s, 48m33s, 1h01m30s (est 1h00m, wr 31m42s)
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★☆☆☆
+Youtube Oo0LVPu2QIM+48
+Review: Well, it wasn't much of a race, but holy *crap* this was a difficult run. This is not an easy game even casually - *beating* it without a single heart container, let alone doing so quickly, is insane. Very easy to watch, too, the only non-obvious tech is forcing bomb drops, pretty simple to understand.
