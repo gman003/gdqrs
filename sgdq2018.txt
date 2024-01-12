@@ -837,3 +837,135 @@ Skill   ★★★★☆
 Fun     ★★★☆☆
 Youtube EKY7yozEqek+30
 Review: A tight race of Monkey Ball custom levels, designed for those who were too good to still be challenged by the vanilla levels. The couch slacked a bit on commentary, but somehow Geoff narrates the whole thing while running it, absolutely insane.
+
+Spider-Man: Web of Fire (32X - BlueSky 1996)
+Beat the Game
+by PeteDorr [WRH]
+host Sooraya, no couch
+8m26s (est 13m, wr 8m30s) [WR]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube bf6GDbHY53Y+0
+Review: An obscure game for an obscure platform, with a better speedrun than you'd expect. The web movement is pretty advanced, and there's a few tricky clips. It's not the most hotly-contested WR, but an on-stage WR it is.
+
+Spider-Man & Venom's Maximum Carnage (SNES - Software Creations 1994)
+Any%
+by Ninjaofsorts [WRH]
+host Sooraya, couch LRock, FatalLoki, DrumBoardist
+19m19s (est 22m, wr 17m15s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube OfdLjtVkStE+0
+Review: A generally straightforward brawler. Not too many tricks or glitches, but some very clean execution, and good use of intended skips make this a solid speedrun to watch.
+
+Batman Returns (SNES - Konami 1993)
+Mania
+by LRock [WRH]
+host Arlynia, couch PJ (?), Mike Uyama, TacoBelmont
+25m20s (est 26m, wr 23m38s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube XPTVFtZ0d9o+0
+Review: A straightforward (if autoscroller-heavy) bmup. The most tense moments were keeping infinite combos going through some *extremely* tanky bosses, which is pretty underwhelming for a speedrun. Worth watching if you've gotten your butt kicked by this game, but skippable otherwise.
+
+Contra: Shattered Soldier (PS2 - KCE Tokyo 2002)
+Any% All Stages
+race Aquas [WRH] vs Crak Atak [3RH] vs TheDrifter18 [2RH]
+host Arlynia, couch Mike Uyama
+32m10s, 33m24s, DNF (est 35m, wr 31m27s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube wMEtHXDt0nM+5
+Review: Too full of autoscrollers and cycle-based bosses to be a great speedrun, and too random and inconsistent to be a great race. It's not bad by any stretch, but probably more for the deep action gamers than for a general audience.
+
+High Hell (PC - Terri Vellmann, Doseone 2017)
+Any%
+by SNeaky [WRH]
+host Arlynia, couch (inaudible), SkateMan222 (?), Scrublord
+9m29s (est 25m, wr 5m21s igt)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube 5pLSUKRqKgI+0
+Review: A short, twitchy sort of shooter, but the verticality of the levels opens up some pretty neat shortcuts, and it's got a lightning pace.
+
+Shadow Warrior Classic Redux (PC - 3D Realms 1997, General Arcade 2013)
+Any% no ssl
+by Ignite
+host CovertMuffin, couch (not introduced?)
+15m37s (est 25m, wr 12m28s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube tmNVAg9vT3Y+0
+Review: A shooter from the Doom era, lots of quicksaving to pull off ridiculous grenade hops or zoom past enemies without needing to shoot them. The humor of the game perhaps has not aged well, but the energy of the runner makes up for it.
+
+Sublevel Zero Redux (PC - Sigtrap 2015)
+Normal Any%
+by roncli [WRH]
+host CovertMuffin, couch Cney, Squigga
+25m25s (est 30m, wr 16m59s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube Glm3jjW85Gs+4
+Review: A modern roguelike take on the 6DOF shooter. Some unfortunate level RNG gave a lot of downtime, and neither the movement nor combat is particularly impressive. Still, a rare enough genre to be worth checking out.
+
+Thief: The Dark Project (PC - Looking Glass 1998)
+Any% Normal OldDark
+by Psych0sis [WRH]
+host CovertMuffin, couch Doc-Ill
+33m23s (est 42m, wr 30m45s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
+Youtube 0M01gzCyNvo+50
+Review: There's a lot of cool stuff in this run - neat glitches, clever movement, bold strats. Unfortunately, it's very hard to see most of it, due to the game being played almost entirely in the dark.
+
+Metal Gear Solid: The Twin Snakes (Gamecube - Silicon Knights 2004)
+Extreme
+by plywood
+host SakuraTsubasa, couch DailyMae, CarcinogenSDA, PDPreciousRoy, DracoDan, Metal Glenn Solid
+1h04m39s (est 1h12m, wr 57m48s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube -RhgIqMDR3E+22
+Review: This was kind of just a run. Not much in the way of glitches, not even that much tech. The route is so scripted that there's no room for improvement over a typical walkthrough. There's some good commentary on display, and very clean execution, but I'm sad to say, this run just didn't impress.
+
+The Legend of Zelda: Four Swords Adventures (Gamecube - Nintendo EAD 2004)
+Any%
+by Zmaster91
+host SakuraTsubasa, couch GanRay, MunchaKoopas, DB
+2h08m59s (est 2h17m, wr 2h03m23s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube dQvEQK8KMcU+17
+Review: One of the more obscure Zelda titles, this isn't super optimized but ZMaster is clearly pushing it forward. The commentators are regularly amazed he's even attempting certain tricks, let alone consistently getting them. If this were shorter, it would be an easy recommendation, but two hours of it is a bit much. At least it's almost entirely gameplay - very few cutscenes, not much dead time of any sort.
+
+Super Mario 3D Land (3DS - Nintendo EAD Tokyo 2011)
+Warpless
+by zeldacubed1 [WRH]
+host YellowKillerBee, couch Kosmic [2RH], SuperSonic, Jarbitz
+1h06m14s (est 1h10m, wr 1h03m26s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube 1zKxWewzlBY+16
+Review: A little low-energy for a primetime run like this, but still enjoyable. A few mistakes couldn't mar the impressive precision on display, and kept up for a full hour.
+
+Cuphead (PC - Studio MDHR 2017)
+Full Clear / 100% (Regular, Legacy)
+by TheMexicanRunner [3RH]
+host YellowKillerBee, couch Patato123, (inaudible), MetroidMcFly
+50m14s (est 55m, wr 39m50s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube 1SG0ZkQ033E+15
+Review: A tricky run from a great runner. TMR wasn't quite as high-energy as some of his more legendary runs, and the run gets a bit one-note, but it's still a ton of fun.
