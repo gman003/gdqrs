@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2024====================
-=========Raising $1,089,430 for the Prevent Cancer Foundation========
+=========Raising $2,515,881 for the Prevent Cancer Foundation========
 =========================January 14-20, 2024==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -182,7 +182,6 @@ Skill   N/R
 Fun     N/R
 Youtube dJfDYZzr-v8
 Review: (not yet reviewed)
-NM: make sure this doesn't break the site
 
 LONG LIVE THE AXE (PC - owch 2018)
 100%
@@ -447,7 +446,7 @@ Review: (not yet reviewed)
 Orbo's Odyssey (PC - Feverdream 2023)
 All Gears
 by BystanderTim
-host musical_daredevil, couch COUCH
+host musical_daredevil, no couch
 10m04s (est 14m, wr 8m13s)
 Overall N/R
 Skill   N/R
@@ -642,7 +641,7 @@ host frozenflygone, couch Corvimae, Sunnymuffin
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube OnWCx_j_tD0
 Review: A snappier JRPG speedrun than many we've seen in the past, even Octopath I. Grinding is brief and cutscenes are skipped, but there's still a ton of work needed to get to the game's superboss. And then beat him blindfolded.
 
 Hades (PC - Supergiant 2020)
@@ -653,7 +652,7 @@ host Quacksilver, couch nnevic, cgull
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★★☆
-Youtube YOUTUBE_ID
+Youtube djMbPyOqj4Y
 Review: An absurdly tight race. The mod takes away *most* of the RNG, but there's still just enough to keep things spicy.
 
 Hades (PC - Supergiant 2020)
@@ -664,7 +663,7 @@ host Quacksilver, couch nnevic, cgull
 Overall ★★★★☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube R2sb1PifXkM
 Review: How? How can you be this good at the game? How can you be this in sync with each other? I talk to *myself* more while gaming than they needed to, and they made it look absolutely easy.
 
 Bloodstained: Ritual of the Night (PC - Artplay 2019)
@@ -675,12 +674,12 @@ host Nichole Goodnight, couch Dr4gonblitz, AshSaidHi
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 5hUGmn-qrYM
 Review: This category is basically a boss rush, and Bobbeigh just *melts* through the bosses. No fancy tech, no intricate setups, he is just Good At Video Game, and it's amazing to watch.
 
 ------------------------------WEDNESDAY------------------------------
 
-Granny (PC - DVloper 2018)
+Granny (PC - DVloper 2017, 2019, 2021)
 The Nanthology
 by Maxylobes
 host Nichole Goodnight, couch Bird650, Starwin
@@ -690,7 +689,6 @@ Skill   ★★☆☆☆
 Fun     ★★★★☆
 Youtube aOooxIH9mHc
 Review: Low budget horror games, now in trilogy form! Gameplay leaned more towards casual than speedrunning, but holy crap, this was hilarious, I don't even mind.
-NM: Might be full series? 2 was 2019 and 3 was 2021
 
 Resident Evil 2 Remake (PC - Capcom 2019)
 Claire 1st Hardcore No Damage Attempt [BIDWAR]
@@ -735,7 +733,6 @@ Skill   N/R
 Fun     N/R
 Youtube uaWgDMyqkog
 Review: (not yet reviewed)
-NM: assumed OldDark
 
 Ducktales: Remastered (PC - Wayforward 2013)
 Any% Easy
@@ -752,28 +749,30 @@ Disney Gargoyles Remastered (PC - Disney 1995, Empty Clip 2023)
 Enhanced - Easy Any%
 by Cypherin
 host Threach, couch anarchy, AshSaidHi, Brutal_Melo
-16m37s (est 17m, wr HhMMmSSs)
+16m37s (est 17m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube WLdyfq87FKs
 Review: (not yet reviewed)
+NM: find WR
 
-Teenage Mutant Ninja Turtles (Arcade via PC - DEVELOPER YEAR)
+Teenage Mutant Ninja Turtles (Arcade via PC - Konami 1989)
 Any% 1CC
-by LRock617
+by LRock617 [3RH]
 host TrainerAnade, couch Cypherin, Rotorstorm331, TempestMask1000
-18m58s (est 20m, wr HhMMmSSs)
+18m58s (est 20m, wr 13m48s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube H_1MXWEnUnY
 Review: (not yet reviewed)
+NM: assumed Medium difficulty, also assumed successful 1CC
 
 Goof Troop (SNES - Capcom 1993)
 Co-op (U)
 coop by Bbforky, swordsmankirby [2RHs]
-host TrainerAnade, couch COUCH
+host TrainerAnade, no couch
 19m57s (est 23m, wr 17m19s)
 Overall N/R
 Skill   N/R
@@ -872,7 +871,7 @@ Review: Half an hour of collecting items, then a ninety-minute chain of boss rus
 Super Mario 64 (N64 - Nintendo EAD 1996) [BONUS GAME 2]
 16 Star Drum%
 by CZR
-host ateatree, couch COUCH
+host ateatree, couch Thormungandr, 360Chrism
 23m06s (est 24m, wr 14m35s normal controller)
 Overall ★★★★☆
 Skill   ★★★☆☆
@@ -950,7 +949,7 @@ Fun     N/R
 Youtube DCrti0BRnxc
 Review: (not yet reviewed)
 
-Brilliant Bob (PC - DEVELOPER YEAR)
+Brilliant Bob (PC - Zonitron 2015)
 Any%
 by GaryJGames [WRH]
 host Shado_Temple, couch amyrlinn, grimwav
@@ -1068,7 +1067,7 @@ Review: (not yet reviewed)
 Kirby & The Amazing Mirror (GBA - Flagship 2004)
 3 Player Co-op Any%
 coop by Kobazco, Mr_Shasta, swordsmankirby
-host Quacksilver, couch COUCH
+host Quacksilver, no couch
 22m12s (est 25m, no wr)
 Overall N/R
 Skill   N/R
@@ -1129,7 +1128,7 @@ Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
 Youtube U51lSID4VuM
-Review: On many measures, this wasn't a great speedrun. Technical issues invalidated it right off the bat. The strats are almost always "run on old patch and use busted weapons" or "pile bunker while they stand still for cutscene". It has neither the difficulty nor the depth of a Dark Souls run (in case you expected this to be a soulslike). But if you spent an entire day slogging it out with the autonomous PCA craft, BALTEUS, seeing its energy shields broken and massive damage inflicted to one-cycle it is still pretty satisfying. And bringing in actual scientists to talk about the plausibility of it, use it as a springboard for current advances, is fascinating.
+Review: On many measures, this wasn't a great speedrun. Technical issues invalidated it right off the bat. The strats are almost always "run on old patch and use busted weapons" or "pile bunker while they stand still for cutscene". It has neither the difficulty nor the depth of a Dark Souls run (in case you expected this to be a soulslike). But if you spent an entire day slogging it out with the autonomous PCA craft, BALTEUS, seeing its pulse armor broken and massive damage inflicted to one-cycle it is still pretty satisfying. And bringing in actual scientists to talk about the plausibility of it, use it as a springboard for current advances, is fascinating.
 NM: catch the science couch's real names on replay
 
 Super Mario Maker 2 (Switch - Nintendo EPD 2019)
@@ -1151,18 +1150,18 @@ host Brutal_Melo, couch Bryonato, Chronos
 Overall ★★★☆☆
 Skill   ★★★★☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube ioMsOsBRKhs
 Review: Even on legendary, these players are so good that they make the combat trivial. I think they only ever died to each other (in banter-filled coop shenanigans), or themselves (as part of speed strats). There's a good mix of out-of-bounds broken-ness and more as-intended speedrunning. And of course, moments after mentioning they were on WR pace, one of the computers died.
 
 Bomb Rush Cyberfunk (PC - Team Reptile 2023)
 Any%
 by Storied [WRH]
 host Bobby Blackwolf, couch bryonato, Helix, shovelclaws
-HhMMmSSs (est 1h10m, wr 48m31s)
+56m59s (est 1h10m, wr 48m31s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Y4wY2xPj2dI
 Review: (not yet reviewed)
 
 -------------------------------FRIDAY--------------------------------
@@ -1171,11 +1170,11 @@ The Last of Us: Remastered (PS4 via PS5 - Naughty Dog 2013, 2014)
 Any%
 by Yoranto [WRH]
 host Critique Quartz, couch Mattmatt
-HhMMmSSs (est 2h35m, wr 2h20m39s)
+2h27m01s (est 2h35m, wr 2h20m39s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube tvmzh38ZD24
 Review: (not yet reviewed)
 NM: make sure it's not the full Part 1 remake, leaderboards seem correct
 
@@ -1183,356 +1182,375 @@ Sprawl (PC - MAETH 2023)
 Any%
 by bloodthunder [2RH]
 host Shado_Temple, couch REVEL
-HhMMmSSs (est 35m, wr 21m38s rta)
+23m24s (est 35m, wr 21m38s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube bh5TgV86B0k
 Review: (not yet reviewed)
 
 Tom Clancy's Splinter Cell: Chaos Theory (PC - Ubisoft Montreal 2005)
 Any%
 by Distro [WRH]
 host Shado_Temple, couch NoSleepCoffee
-HhMMmSSs (est 50m, wr 42m19s rta)
+44m48s (est 50m, wr 42m19s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube k-iwkdACJuw
 Review: (not yet reviewed)
 
 Viewfinder (PC - Sad Owl Studios 2023)
 Any%
 by Zoochable [WRH]
 host Shado_Temple, couch bobbyburm, bryonato, Ozmourn
-HhMMmSSs (est 30m, wr 23m43s)
+34m08s (est 30m, wr 23m43s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube UfUqxdkNZ5E
 Review: (not yet reviewed)
 
 Gravity Rush Remastered (PS4 - Japan Studio 2012, Bluepoint 2015)
 Any%
 by Raine_BT
 host j0kerr, couch Bastion_Blue_Succubus, Singing Muffin
-HhMMmSSs (est 1h40m, wr 1h23m15s)
+1h40m05s (est 1h40m, wr 1h23m15s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube yU5l6FyRXaQ
 Review: (not yet reviewed)
 
 Spark the Electric Jester 3 (PC - Feperd Games 2022)
 Any%
 by shovelclaws [2RH]
 host j0kerr, couch Jedi_Ad, Themimik
-HhMMmSSs (est 1h15m, wr 58m49s rta)
+1h09m57s (est 1h15m, wr 58m49s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 2AbMvLevS44
 Review: (not yet reviewed)
 
 Undertale (PC - Toby Fox 2015)
 True Pacifist, Glitchless
 race Shayy [WRH] vs mrlink2k [2RH]
-host ateatree, couch COUCH
-HhMMmSSs (est 1h50m, wr 1h46m35s)
+host ateatree, no couch
+1h48m43s, 1h49m37s (est 1h50m, wr 1h46m35s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube y_eyqO68coA
 Review: (not yet reviewed)
 
 Luminescent (SNES - Nintendo EAD 1990; TheBourgyman 2021)
 Any%
-by GlitchCat7
+by GlitchCat7 [3RH]
 host CovertMuffin, couch BK, JankPickle, TheBourgyman [DEV]
-HhMMmSSs (est 50m, wr HhMMmSSs)
+41m36s (est 50m, wr 30m08s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Wci3ZUfr_ps
 Review: (not yet reviewed)
 
 Dark Souls (PC - From 2011)
 Any% No Wrong Warp
 by Regole [WRH]
 host CovertMuffin, couch Ashewyn, QueueKyoo [2RH]
-HhMMmSSs (est 55m, wr 37m43s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+44m51s (est 55m, wr 37m43s igt) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube 3G2cdYFCsTg
+Review: Categories like this are usually about actually playing the game, while still using glitches. But this didn't really scratch that itch? Most of the bosses are just melted, enemies are avoided, and movement is rarely complicated.
 
 Borderlands 2 (PC - Gearbox 2012)
 Any% (2 Player)
 coop by UnjustAction, Deceptix_ [WRHs]
 host CovertMuffin, couch utsu, zzrules21
-HhMMmSSs (est 1h25m, wr 1h17m37s rta)
+1h21m08s (est 1h25m, wr 1h17m37s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube STtWyKERKS4
 Review: (not yet reviewed)
 
 Risk of Rain Returns (PC - Hopoo 2023)
 Any%
 by scaz
 host Mr. Game and Shout, couch Altairis, Furon
-HhMMmSSs (est 20m, wr 8m32s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+18m22s (est 20m, wr 8m32s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube Q27Z1g28zyM
+Review: Far too little time to properly explain a roguelike like this, even with a softlock and an entire second run happening. And it's zoomed out enough to not be visually apparent what's going on. Those who've sunk a hundred hours into Risk of Rain will probably be amazed, but it's not a great run for outsiders.
+
+Aragami (PC - Lince Works 2016)
+NG No OoB
+by Amyrlinn
+host Mr. Game and Shout, couch Shockwve, LadyCyndaquil, MonkeyMan
+25m40s (est 29m, no wr?)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
+Youtube oc_skQVei9o
+Review: A pretty straightforward run of a "Dishonored without cutscenes" ninja game, but wow, this couch are *electric*. They could have made filing taxes fun to watch.
 
 Super Mario Bros. Wonder (Switch - Nintendo EPD 2023)
 Any%
 by JankPickle
 host Mr. Game and Shout, couch Dangers, GlitchCat7, Kosmic
-HhMMmSSs (est 1h45m, wr 1h22m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h25m55s (est 1h45m, wr 1h22m59s) [PB]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube o3IBKAjvf7U
+Review: Such a new game, so clearly far from its potential, but it's interesting how quickly it's been broken like this. And four decades of cumulative 2D Mario experience has laid a strong foundation, making a much more polished run than other games this recent.
 
 Resident Evil 4 (PC - Capcom 2023)
-New Game Professional Any%
+NG Professional Any%
 by spicee
 host iggyzig, couch CaptainEzekiel, KatLink, MsGraciana
-HhMMmSSs (est 2h00m, wr 1h41m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h58m07s (est 2h00m, wr 1h41m58s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube EppAs2dGa9c
+Review: A run that's always riding on the edge of disaster, but never quite tips over it. RE4 enemies, OG or remake, are more aggressive than in prior games, so the walk-briskly-past strat isn't nearly as safe. *Mostly* played as-intended, other than that - glitches exist but not often, nor skipping too much content.
 
 Resident Evil 4 Separate Ways (PC - Capcom 2023) [BONUS GAME 3]
 NG Professional
 by CaptainEzekiel
 host iggyzig, couch KatLink, Nyiddle, spicee [3RH]
-HhMMmSSs (est 1h00m, wr 41m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+54m24s (est 1h00m, wr 41m57s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube 88NcJDpINcM
+Review: It's more RE4 Remake. But it doesn't do anything the main-game run didn't do, and has even less time for the route to be polished.
 
 The Legend of Zelda: Majora's Mask (N64 via Wii VC - Nintendo EAD 2000)
 100% NMG Relay
 relay by Marco8641 [WRH], morpheus080, popesquidward [2RH], dopezzera
-host Brutal_Melo, cartridgeblowers, couch COUCH
-HhMMmSSs (est 4h55m, solo wr 4h30m49s)
+host Brutal_Melo, cartridgeblowers, no couch
+4h52m13s (est 4h55m, solo wr 4h30m49s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube NXuwBQzBnBI
 Review: (not yet reviewed)
-NM: Confirm platform
 
 ------------------------------SATURDAY-------------------------------
 
 Steelrising (PC - Spiders 2022)
 Any% Unrestricted
-by NicowithaC
-host AttyJoe, couch COUCH
-HhMMmSSs (est 50m, wr HhMMmSSs)
+by NicowithaC [WRH]
+host AttyJoe, couch CaptainEzekiel, DemonicRobots, TobiThrows
+37m13s (est 50m, wr 31m46s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube eBHMjffxxdI
 Review: (not yet reviewed)
 
 Mega Serval (PC - Syaxamaphone 2022)
 Any%
-by Mikan
-host AttyJoe, couch COUCH
-HhMMmSSs (est 28m, wr HhMMmSSs)
+by Mikan [2RH]
+host AttyJoe, no couch
+25m44s (est 28m, wr 22m40s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube CtHN4fuUsyY
 Review: (not yet reviewed)
 
 Astalon: Tears of the Earth (PC - LABS Works 2021)
 Black Knight mode
-by Flagalstan
-host AttyJoe, couch COUCH
-HhMMmSSs (est 20m, wr HhMMmSSs)
+by Flagalstan [3RH]
+host AttyJoe, couch altabiscuit
+15m58s (est 20m, wr 13m58s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Zl0TfBqNEUU
 Review: (not yet reviewed)
 
 Star Fox 64 (N64 - Nintendo EAD 1997)
 2K%
 by adamX0315
-host AttyJoe, couch COUCH
-HhMMmSSs (est 40m, wr HhMMmSSs)
+host AttyJoe, couch Argick, CMM1215, Smoopasm
+32m33s (est 40m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube KcIVUiYrqzI
 Review: (not yet reviewed)
 
 Magical Tetris Challenge (N64 - Capcom 1998)
-Magical Tetris (Normal)
-by FFR Pro 21
-host AttyJoe, couch COUCH
-HhMMmSSs (est 15m, wr HhMMmSSs)
+Magical Tetris (Expert) [INCENTIVE]
+by FFR Pro 21 [WRH]
+host AttyJoe, couch Piepusher11
+28m38s (est 15m, wr 9m29s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube poRR7pEgxBo
 Review: (not yet reviewed)
 
-Go! Go! Hamster Chef! (PC - DEVELOPER YEAR)
+Go! Go! Hamster Chef! (PC - Matt Henry 2023)
 Inbounds
 by Char_bunny
-host Jaypeg, couch COUCH
-HhMMmSSs (est 18m, wr HhMMmSSs)
+host Jaypeg, couch critiquequartz, enbyzee, lizzyberry
+14m05s (est 18m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Kw8OFRyBUt4
 Review: (not yet reviewed)
 
 Ghostwire: Toyko (PC - Tango 2022)
 Any% Standard
 by nyiddle [WRH]
-host CovertMuffin, couch bryonato, Chronos
-HhMMmSSs (est 1h15m, wr 1h06m45s rta)
+host CovertMuffin, couch CaptainEzekiel, DemonicRobots
+1h09m20s (est 1h15m, wr 1h06m45s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube _U7Tpxw9ueA
 Review: (not yet reviewed)
 
 Sonic Origins Plus (PC - Sonic Team 1991, 1992, 1993, 1994, 2022, 2023)
 Anniversary Mode Relay
 relay by itsflyingfox, JoeyBaby69, Sonikkustar, SuperSonic
-host Jaypeg, couch COUCH
-HhMMmSSs (est 2h30m, wr HhMMmSSs)
+host Jaypeg, couch Argick, Hibnotix
+2h26m46s (est 2h30m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube PKBcVhE_OqI
 Review: (not yet reviewed)
 
 Fire Emblem Awakening (N3DS - Intelligent Systems 2012)
 Normal Mode
-by Kirbymastah
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 50m, wr HhMMmSSs)
+by Kirbymastah [WRH]
+host Bobby Blackwolf, couch Aleck47, Quo [3RH]
+50m52s (est 50m, wr 32m44s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube E65hbSwlHzA
 Review: (not yet reviewed)
-
-Lost Judgment (PC - Ryu Ga Gotoku 2021)
-Kaito Files Any%
-by Froob
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 1h00m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+NM: assumed Normal/Classic NG
 
 Mario Kart 64 (N64 - Nintendo EAD 1996)
 All Cups (Skips)
-by kazn
-host Bobby Blackwolf, couch COUCH
-HhMMmSSs (est 27m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+by kazn [2RH]
+host Bobby Blackwolf, couch Brody64, Weatherton
+28m20s (est 27m, wr 22m58s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube rOUJJp1XE9M
+Review: A tough game to run live, since so many of the skips are so inconsistent. Kaz wasn't 100% on them but got the backups and at least went for everything that anyone goes for in All Cups runs, and he had a great crew doing commentary for him.
 
 Super Mario Bros. The Lost Levels (FDS - Nintendo R&D4 1986)
-Warpless 8-4
-by? Kosmic, GTAce
-host Xenadir, couch COUCH
-HhMMmSSs (est 25m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+All Levels [INCENTIVE]
+race Kosmic [WRH] vs GTAce [2RH]
+host Xenadir, couch Supersonic_, TheHaxor
+38m37s, 39m12s (est 25m, wr 36m43s rta)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube Qacb1HkFUgk
+Review: The proto-kaizo game gets speedrun, and it did not let them beat it easily. Lots of scrambling to recover powerups, but that kept the race close.
 
-Elden Ring vs Sekiro (PC - From YEAR) [BIDWAR]
-Any% Unrestricted vs Any%
-by Mitchriz
-host Xenadir, couch COUCH
-HhMMmSSs (est 20m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: Add year when bidwar settled
+Elden Ring (PC - From 2022) [BIDWAR]
+Any% Unrestricted
+by Mitchriz [3RH]
+host Xenadir, couch Blanxz, SpikeVegeta
+18m30s (est 20m, wr 3m56s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
+Youtube Yuh7Eg38IuU
+Review: The skills tested by a speedrun are often quite different from those tested by a normal playthrough, but this takes it to an extreme. It's just clipping. Some obscure sequence of frame-perfect inputs that will zip you out of bounds, which if done correctly can despawn bosses and beat the game. There's some intellectual joy in seeing a game beaten this quickly, but done this way, it's surprisingly boring.
 
 Lies of P (PC - Neowiz Games 2023)
 Any%
-by blanxz
-host Xenadir, couch COUCH
-HhMMmSSs (est 1h00m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+by blanxz [WRH]
+host Bobby Blackwolf, couch Mitchriz [3RH], NicowithaC
+55m33s (est 1h00m, wr 41m56s lrt)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube BzpA-5rXtBI
+Review: A longer soulslike run, but IMO the better one. A wider array of tricks to do shorter skips, and some actual combat (and requisite building of character). And for such a new game, with no existing series to build off, it was impressively polished.
+
+Trepang2 (PC - Trepang Studios 2023)
+Any% Unrestricted
+by bloodthunder [2RH]
+host Bobby Blackwolf, couch CovertMuffin, Maxylobes
+52m45s (est 55m, wr 43m02s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube boJzlMCbPdM
+Review: A neat little FEAR-like. Playing on Easy trivializes the combat but there's still a good mix of in-bounds and out-of-bounds movement, with a very fluid system.
+
+Lost Judgment (PC - Ryu Ga Gotoku 2021)
+Kaito Files Any%
+by Froob [3RH]
+host Bobby Blackwolf, couch DECosmic, Tapioca
+54m06s (est 1h00m, wr 48m39s rta)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube 5lFDrfoo8uE
+Review: The smoothest commentary of all time returns, this time with a game that *isn't* four hours long. I don't know why he even has a couch - Froob probably knows these games better than some of the people who worked on them, and keeps up a buttery stream of plot synopses and gameplay explanations that is second to none.
 
 The Legend of Zelda: Tears of the Kingdom (Switch - Nintendo EPD 2023)
-Any%
+Any% (pre v1.2.1)
 by gymnast86
-host Kungfufruitcup, couch COUCH
-HhMMmSSs (est 1h00m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host Kungfufruitcup, couch PippyInATopHat, TheKingsPride
+49m04s (est 1h00m, wr 41m39s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube sDnk-g8r-38
+Review: Like its predecessor, this game's Any% is "clear the tutorial then charge directly at final boss", each taking up about half the run. But now, through the power of downpatching, there's all kinds of item duplication glitches and some out-of-bounds movement - in enough different ways to require gymnat86's trademark tech primers.
 
 Baldur's Gate 3 (PC - Larian 2023) [BONUS GAME 4]
 All Acts
 by maeeeeee
-host Kungfufruitcup, couch COUCH
-HhMMmSSs (est 35m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host Kungfufruitcup, couch Chronos, delph, tomatoangus
+33m21s (est 35m, wr 23m24s rta)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
+Youtube seXnImnUrvo+0
+Review: In most games, speed strats are somewhat unconventional. So in a game that deliberately supports many unconventional solutions, the speed strats get really, really weird. It's great. Spoiler warnings, though.
+
+Baldur's Gate 3 (PC - Larian 2023) [BONUS GAME 4]
+Any% [BONUS]
+by maeeeeee [WRH]
+host Kungfufruitcup, couch Chronos, delph, tomatoangus
+7m12s (est 8m, wr 4m32s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube seXnImnUrvo+2942
+Review: Mostly a retread of the main run, using a premade protagonist with a special early ending. Nothing special but if you wanted more, after the main run and showcase, this will do it.
 
 Final Fantasy V Pixel Remaster (PC - Square 1992, Square Enix 2021)
 Any% Cutscene Remover
 by Zic3
-host Prolix, couch COUCH
-HhMMmSSs (est 2h35m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-
-
-
-Metal Gear Solid 2: Sons of Liberty (PC - Konami 2001)
-European Extreme
-by dlimes13
-host Prolix, couch COUCH
-HhMMmSSs (est 1h15m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host Prolix, couch FoxyJira, WoadyB
+3h00m37s (est 2h35m, wr 3h00m55s no remover)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube amyuJjTe5gk
+Review: The good parts: fast menuing, no long cutscenes, no long grinds, and some interesting JRPG mechanics to abuse. The bad parts: some brutal RNG, and no good explanation of a near-runkiller that cost a massive amount of time. Mistakes happen, but even after rewatching a bit, I'm not sure what even happened, just that it lead to many repeats of a simple random encounter, trying to survive it. Explaining those disruptions from the plan is far more interesting than tossing over to donations while trying to quietly get things back on track. Still not a bad run, if you like JRPGs, but a disappointing one.
