@@ -152,36 +152,35 @@ Review: (not yet reviewed)
 The Typing of the Dead (PC - WOW 2000)
 Arcade%
 by peaches [WRH]
-host MTGJoeD, couch GoatedQuest
+host MTGJoeD, couch GoatedQuest, Elysara
 28m56s (est 30m, wr 28m08s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube i2UOCwcSsBY
-Review: (not yet reviewed)
+Review: Other than some optimization on dialogue, the main skill here is just "type fast". And that's the main skill of the game, so it's barely different from a casual run. But wow! Dude can type fast.
 
 Ganbare Goemon 2: Kiteretsu Shougun Magginesu (SNES - Konami 1993)
 Any%
 by Teleo1 [WRH]
 host Peace Egg, couch Janglestorm, KLM
 40m44s (est 43m, wr 37m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 40NOGtiiVV4
-Review: (not yet reviewed)
+Review: A pretty simple run, just playing through an action-platformer. No speed tech to speak of - and with this many autoscrollers, it's not like it would help much. Some good couch energy, leaning into the zany feel of the game, helps save it from tedium, but it's nothing special.
 
 Hime's Quest (GBC via GBP - Poppy Works 2022)
 Any%
 by skateman222 [WRH]
 host Peace Egg, couch Janglestorm, Zic3
 18m34s (est 26m, wr 18m51s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube X952yZs9ms8
-Review: (not yet reviewed)
-NM: verify this platform/dev info
+Review: A Game Boy Color game? In the 2020s? Sure, it's pretty short even casually, but it's just exploitable enough to be interesting, while having some of the polish you'd expect from a contemporary game. A bite-sized treat of a run.
 
 Marble Madness II (Arcade - Atari 1990, 2022)
 Any%
@@ -218,14 +217,14 @@ Review: (not yet reviewed)
 
 Pitfall: The Lost Expedition (Gamecube - Edge of Reality 2004)
 Any%
-by Blupee [WRH]
-host Critique Quartz, couch Avasam, GaryJGames, JaymanW [2RH]
-24m36s (est 25m, wr 23m04s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Blupee [2RH]
+host Critique Quartz, couch Avasam, GaryJGames, JaymanW [3RH][REM]
+24m36s (est 25m, wr 23m09s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube T5N6OXQtW-M
-Review: (not yet reviewed)
+Review: Not every overlooked game is a hidden gem. This isn't a bad run by any means, it has some major sequence breaks, lots of skips, generally pretty busted. It's just not that interesting, especially with how often the screen is unwatchably dark (unclear if tech issues, or just how the game is). Perfectly fine filler, but nothing special.
 
 Worms Reloaded (PC - Team17 2010)
 Campaign (No Level Skips)
@@ -254,11 +253,11 @@ Any%
 by Derek_MK [WRH]
 host Xenadir, couch amyrlinn, isBullets
 14m18s (est 20m, wr 11m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube Yx0WPAdjxgI
-Review: (not yet reviewed)
+Review: A pretty short speedrun, interesting mostly for just how easily the game can be broken. No time for deep tech or story primers, just skip two levels at a time.
 
 Manifold Garden (PC - William Chyr 2019)
 Reverse Tree Order
@@ -369,11 +368,11 @@ Any% All Skips
 by Mitchriz
 host Nichole Goodnight, couch maxylobes
 16m36s (est 20m, wr 12m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube G-R_4Kst4gU
-Review: (not yet reviewed)
+Review: A bit simple of a speedrun - a mix of don't-mess-up, know-the-shortcuts, and a few physics tricks - but very approachable, and a fun atmosphere.
 
 Silent Hill 2 (PC - Team Silent 2001) [BONUS GAME 1]
 Hard/Hard
@@ -444,15 +443,15 @@ Youtube r5pb9JYmfpg
 Review: (not yet reviewed)
 
 Backyard Skateboarding (PC - Humongous 2004)
-Any% OG
-by peterafro [2RH]
-host musical_daredevil, couch yoshipro101
-13m48s (est 15m, wr 15m49s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Any% GOTY
+by peterafro [3RH]
+host musical_daredevil, no couch
+13m48s (est 15m, wr 11m28s rta)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube QSDcqPoYutQ
-Review: (not yet reviewed)
+Review: Nobody cared. That's all I can say about this run, nobody seemed to care. The runner gave stumbling and confusing commentary. The couch didn't show up. The category was listed wrong on the site. Even after tech issues forced a pause, they couldn't be bothered to move the mouse cursor off-screen. It's a play-game-good run that isn't even played well. We've seen better runs as emergency improv.
 
 Orbo's Odyssey (PC - Feverdream 2023)
 All Gears
@@ -470,11 +469,11 @@ Any%
 by Doublevil [WRH]
 host musical_daredevil, couch Sybert
 32m16s (est 34m, wr 27m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube CFrErWh7pWA
-Review: (not yet reviewed)
+Review: It started off slow, but as more abilities get unlocked, the speed tech expands drastically. A pretty good run, but don't expect much from commentary - it's functional but it's pretty low-energy.
 
 Bad Dudes (NES - Data East 1988, 1989)
 Any%
@@ -492,12 +491,11 @@ Any%
 by chessjerk [2RH]
 host Jaypeg, couch yelsraek
 31m11s (est 30m, wr 12m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube zb6ik3hk1xE
-Review: (not yet reviewed)
-NM: assumed US
+Review: I'd always assumed this was just a simple Breakout clone. And in a way it is, but it's also much more fluid and much, much, *much* harder. And then Chessjerk demolishes it - doing an RNG manip on the first level, just to show how the WR does the run, before going into pure play-game-good.
 
 Gimmick! (NES - Sunsoft 1992)
 Any% (Zipless)
@@ -1009,13 +1007,13 @@ Review: (not yet reviewed)
 Zadette (PC - Le Club des Sacs 2021)
 Better Gamer%
 by Neetsel [WRH]
-host Peace Egg, couch Tenmicu [2RH], NPC
+host Peace Egg, couch FlannelKat, NPC, Tenmicu [2RH][REM]
 14m25s (est 18m, wr 10m14s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube sSaQFYzqjDI
-Review: (not yet reviewed)
+Review: A sort of deliberately-bad game, it's got some funny ludic jokes but they wear thin after just fifteen minutes. Fun, but hardly the best Awful Block run. Or even the best Zadette run at a GDQ. Still enough to get a few laughs.
 
 Virtual Hydlide (Saturn - T&E Soft 1995)
 Any% Set Seed
@@ -1069,11 +1067,11 @@ Any%
 by Sunnymuffin [WRH]
 host THEKyleThomas, couch Asheevee [3RH], bobbyburm, Troyofathyns
 1h28m35s (est 1h35m, wr 1h27m31s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube Pht0KUQsMAw
-Review: (not yet reviewed)
+Review: It's like if someone took a metroidvania, and replaced all the combat with increasingly mind-blowing puzzles. The speed tech is limited, a very play-game-good sort of run, but it's worth it just to see how crazy the late-game puzzles get. My only regret is that I'm now spoiled on a few of the big gameplay twists, now that I want to play it.
 
 Kirby & The Amazing Mirror (GBA - Flagship 2004)
 3 Player Co-op Any%
@@ -1180,63 +1178,62 @@ Review: (not yet reviewed)
 The Last of Us: Remastered (PS4 via PS5 - Naughty Dog 2013, 2014)
 Any%
 by Yoranto [WRH]
-host Critique Quartz, couch Mattmatt
+host Critique Quartz, no couch
 2h27m01s (est 2h35m, wr 2h20m39s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube tvmzh38ZD24
-Review: (not yet reviewed)
-NM: make sure it's not the full Part 1 remake, leaderboards seem correct
+Review: Where to even start? May as well begin with the run itself. There's some tech here, a few major skips via out-of-bounds, and a lot of minor checkpoint abuse or enemy despawning, but it's just not enough to keep a run this long, engaging, and there's just so many cutscenes, so much waiting around, especially early in the game. Delving into the plot and lore might have filled that space, with how story-heavy a game this is, but Yoranto seemed to spend more time talking about the TV show than about the actual game he was playing. When he was talking at all - he had planned on having a couch, but events precluded that, and he was left with just the host to try to get any sort of conversation going.
 
 Sprawl (PC - MAETH 2023)
 Any%
 by bloodthunder [2RH]
-host Shado_Temple, couch REVEL
+host Shado_Temple, couch REVEL [DEV]
 23m24s (est 35m, wr 21m38s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube bh5TgV86B0k
-Review: (not yet reviewed)
+Review: A parkour-heavy shooter with some very abusable movement tech. Kind of short, and the commentary meandered a lot, but there's some interesting stuff here. The skill ceiling seems very high, this could go far as a speed game.
 
 Tom Clancy's Splinter Cell: Chaos Theory (PC - Ubisoft Montreal 2005)
 Any%
 by Distro [WRH]
 host Shado_Temple, couch NoSleepCoffee
 44m48s (est 50m, wr 42m19s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube k-iwkdACJuw
-Review: (not yet reviewed)
+Review: There's a lot of clever planning here, pressing up against the limitations of the AI to run through everything. But man, this was just some of the lowest-energy commentary since GDQ went back to in-person events. I found myself paying more attention to the dialogue than the runner or couch. Their explanations worked, it was just delivered in such a droning way.
 
 Viewfinder (PC - Sad Owl Studios 2023)
-Any%
+100% [INCENTIVE]
 by Zoochable [WRH]
-host Shado_Temple, couch bobbyburm, bryonato, Ozmourn
-34m08s (est 30m, wr 23m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Shado_Temple, couch bobbyburm [3RH], bryonato, Ozmourn
+34m08s (est 40m, wr 29m28s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube UfUqxdkNZ5E
-Review: (not yet reviewed)
+Review: Much like a glitchless Portal speedrun, in that it's puzzles being solved at lightning speed and frequently in unintended ways, but the only real glitches are a few tram ride skips. A bit hard to keep up with, but I don't think that was ever the point.
 
 Gravity Rush Remastered (PS4 - Japan Studio 2012, Bluepoint 2015)
 Any%
 by Raine_BT
-host j0kerr, couch Bastion_Blue_Succubus, Singing Muffin
+host j0kerr, couch Singing Muffin [REM]
 1h40m05s (est 1h40m, wr 1h23m15s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube yU5l6FyRXaQ
-Review: (not yet reviewed)
+Review: Too simple and basic a speedrun, to justify this much of a time sink to anyone but an existing Gravity Rush fan. The few glitches in use are either getting items early with menu shenanigans, or clipping out of bounds to fall for five minutes instead of play the game for six. Plot and character explanations could maybe have salvaged it, but neither runner nor couch managed more than a barebones summary. I'm sure if you're familiar, seeing the combat executed this well will amaze and wow you, but it didn't do much for the outsider.
 
 Spark the Electric Jester 3 (PC - Feperd Games 2022)
 Any%
 by shovelclaws [2RH]
-host j0kerr, couch Jedi_Ad, Themimik
+host j0kerr, couch Jedi_Ad [REM], Themimik
 1h09m57s (est 1h15m, wr 58m49s rta)
 Overall ★★★☆☆
 Skill   ★★☆☆☆
@@ -1247,7 +1244,7 @@ Review: I always like when GDQ shows off speed games that don't quite have enoug
 Spark the Electric Jester 3 (PC - Feperd Games 2022)
 All Levels [BONUS]
 by shovelclaws
-host j0kerr, couch Jedi_Ad, Themimik
+host j0kerr, couch Jedi_Ad [REM], Themimik
 9m21s (est 10m, no wr)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
@@ -1293,11 +1290,11 @@ Any% (2 Player)
 coop by UnjustAction, Deceptix_ [WRHs]
 host CovertMuffin, couch utsu, zzrules21
 1h21m08s (est 1h25m, wr 1h17m37s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube STtWyKERKS4
-Review: (not yet reviewed)
+Review: This run takes a while to hit its stride, and is never all that flashy or demanding of a speed game, but once they found their groove, it was a hella fun watch. Probably more of a treat for fans than to outsiders, but perfectly watchable with no prior experience.
 
 Risk of Rain Returns (PC - Hopoo 2023)
 Any%
