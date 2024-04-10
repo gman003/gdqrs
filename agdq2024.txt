@@ -141,13 +141,13 @@ Review: A short, glitchy category, taking longer to explain before starting than
 TimeShift (PC - Saber 2007)
 Casual - Single Segment
 by Shockwve
-host MTGJoeD, couch amyrlinn, churchnsarge
+host MTGJoeD, couch amyrlinn, churchnsarge [REM]
 1h06m23s (est 1h15m, wr 46m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube 2Ukq-wsn3fk
-Review: (not yet reviewed)
+Review: A sloppy run, but an enjoyable run nontheless. Shockwve forgot to quicksave so often that it became a running joke, and he just ran with it all the way to the finish line. And the speed tech's interesting, too, if studded with autoscrollers.
 
 The Typing of the Dead (PC - WOW 2000)
 Arcade%
@@ -209,11 +209,11 @@ Any%
 by Zic3 [3RH]
 host Critique Quartz, couch NallyQ, Skateman222
 21m24s (est 22m, wr 19m56s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube VQM20GuTN4c
-Review: (not yet reviewed)
+Review: Playing the game more-or-less as intended can be interesting, when that gameplay is varied and polished. This kind of just... isn't. It's a game too rote to be an interesting speedrun, but too competently-made to be a broken speedrun. It's just there.
 
 Pitfall: The Lost Expedition (Gamecube - Edge of Reality 2004)
 Any%
@@ -229,24 +229,24 @@ Review: Not every overlooked game is a hidden gem. This isn't a bad run by any m
 Worms Reloaded (PC - Team17 2010)
 Campaign (No Level Skips)
 by Mablak [WRH]
-host Critique Quartz, couch RuffledBricks
+host Critique Quartz, couch RuffledBricks [REM]
 41m54s (est 52m, wr 39m52s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YsXt0xJUbLM
-Review: (not yet reviewed)
+Review: A run heavy on memorizing precise setups to clear each level in as few turns as possible. Arguably glitchless, though one of the AI manips was clearly unintended. A bit long for what it is, but pretty engaging regardless.
 
 Cassette Beasts (PC - Bytten 2023)
 Any% Seeded
 by Corvimae
 host Quacksilver, couch AChocolateOrange, EpicYoshiMaster, frozenflygone
 39m28s (est 45m, wr 33m35s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube AgyRq2mT6Fw
-Review: (not yet reviewed)
+Review: An indie Pokemon-like, the run is still pretty primitive and the execution is not yet well-polished. But they had such a great crew on the couch that it's a fun watch, anyways. And the seeded RNG makes it a much more skill-focused run, even if it's not at its full potential yet.
 
 LEGO Bionicle (GBA - Saffire 2001)
 Any%
@@ -423,24 +423,24 @@ Review: (not yet reviewed)
 Dead Space (PC - Motive 2023)
 Any% Unrestricted (Story)
 by sharkhat87 [2RH]
-host AshSaidHi, couch Meta, NervyDestroyer [3RH], Patrick Quinn
+host AshSaidHi, couch Meta, NervyDestroyer [3RH], Patrick Quinn [DEV]
 1h55m14s (est 2h00m, wr 1h39m11s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube NO9INocrinU
-Review: (not yet reviewed)
+Review: A newer game, so the speedrun isn't exceptionally well-polished, and the low difficulty makes it less tense than most horror game runs. But there was some great commentary and a lot of little tech, spread across the run. Easy to follow but still impressive. And having a QA dev on the couch is always welcome - particularly one this into speedrunning!
 
 Contrast (PC - Compulsion 2013)
 Any%
 by NallyQ
 host musical_daredevil, couch Ecdycis
 15m19s (est 18m, wr 11m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube r5pb9JYmfpg
-Review: (not yet reviewed)
+Review: The game isn't that long casually, but getting it down to this size, involves skipping almost everything. They spend more time out of bounds than in it, and that unfortunately makes things hard to watch. There's a decent chunk where even the player isn't rendered, you're just looking at a skybox for a few minutes. And with a run this short, commentary has to focus on barebones narration, no space for interesting tidbits or fun tangents. It's perfectly watchable, just not the most entertaining run.
 
 Backyard Skateboarding (PC - Humongous 2004)
 Any% GOTY
@@ -480,11 +480,11 @@ Any%
 by burst_error [WRH]
 host musical_daredevil, couch Apesmeister, Bassguy4, Gunstarheroes
 15m17s (est 16m, wr 14m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube bIxqpdlSz68
-Review: (not yet reviewed)
+Review: Just a clean bmup run. Short, simple, and to the point.
 
 Arkanoid (NES - Taito 1986)
 Any%
@@ -498,16 +498,15 @@ Youtube zb6ik3hk1xE
 Review: I'd always assumed this was just a simple Breakout clone. And in a way it is, but it's also much more fluid and much, much, *much* harder. And then Chessjerk demolishes it - doing an RNG manip on the first level, just to show how the WR does the run, before going into pure play-game-good.
 
 Gimmick! (NES - Sunsoft 1992)
-Any% (Zipless)
-by Ryan Ford
+Best Ending (Zipless) [INCENTIVE]
+by Ryan Ford [WRH]
 host Jaypeg, couch Bean, Teleo
-12m29s (est 9m, wr 8m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+12m29s (est 14m, wr 9m48s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube QogXkRU-XJY
-Review: (not yet reviewed)
-NM: may have upgraded to Best Ending
+Review: A platformer with some neat movement tech, but maybe not as deep as it first appears. Or maybe it's just impossible to get into, in a run this short.
 
 Panic Restaurant (NES - EIM 1992)
 Any% (US)
@@ -715,11 +714,11 @@ Lvl 1% Sorcerer
 by Funkmastermp [2RH]
 host AshSaidHi, couch amyrlinn, Shockwve
 37m37s (est 32m, wr 20m47s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube J9ulF6CxWRQ
-Review: (not yet reviewed)
+Review: A run unfortunately heavy on RNG, savescumming, and some repetitive duping grinds. Take all that away and I'm not even sure what was left, besides a marginally-interesting ability combo. It just doesn't have any of the things I'd expect to enjoy in a Diablo run - no crazy builds, no high APM, no clever map reads.
 
 Paper Mario: The Thousand-Year Door (Gamecube via Wii - Intelligent Systems 2004)
 Any%
@@ -759,12 +758,12 @@ Enhanced - Easy Any%
 by Cypherin
 host Threach, couch anarchy, AshSaidHi, Brutal_Melo
 16m37s (est 17m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube WLdyfq87FKs
-Review: (not yet reviewed)
-NM: find WR
+Review: A very straightforward run - the commentary was dominated by discussion of the cartoon, or arguing about pizza. I liked the positive vibes, I just didn't find the speedrun at all interesting.
+NM: cannot find WR - not on SRC, not on Google
 
 Teenage Mutant Ninja Turtles (Arcade via PC - Konami 1989)
 Any% 1CC
@@ -779,15 +778,15 @@ Review: (not yet reviewed)
 NM: assumed Medium difficulty, also assumed successful 1CC
 
 Goof Troop (SNES - Capcom 1993)
-Co-op (U)
-coop by Bbforky, swordsmankirby [2RHs]
+Co-op (JP 3) [INCENTIVE]
+coop by Bbforky, swordsmankirby [WRHs]
 host TrainerAnade, no couch
-19m57s (est 23m, wr 17m19s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+19m57s (est 23m, wr 18m57s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube fHs3WFMULRw
-Review: (not yet reviewed)
+Review: It's a game composed almost entirely of sliding-block puzzles and boss fights. Extremely well-polished, for a game this obscure and a category this niche - I think the runners got their WR in the GDQ practice room.
 
 Bluey: The Videogame (PC - Artax 2023)
 Any%
@@ -919,11 +918,11 @@ Any%
 by Gargon100 [3RH]
 host Shado_Temple, couch Bassguy4, Burst_Error, N30V3N0M
 13m38s (est 13m, wr 10m55s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube mG9aAagx-_c
-Review: (not yet reviewed)
+Review: Confusing gameplay, stilted explanations, and a complete lack of humor. Not the best start to Awful Block.
 
 Sneak King (XbC - Blitz Games 2006)
 50%
@@ -939,13 +938,13 @@ Review: It's an old meme, sir, but it checks out. No speed tech beyond a good ro
 Ninja Gaiden (Game Gear - Japan System House 1991)
 Any%
 by infinitemystery
-host Shado_Temple, couch grumpmeister
+host Shado_Temple, couch grumpmeister [REM]
 9m50s (est 12m, wr 7m51s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube QkY_lhTFzH0
-Review: (not yet reviewed)
+Review: Maybe if the commentator hadn't disappeared for a third of the run, we'd have gotten a better explanation for why this game is Awful. As it is, it just seems like an unfair, punishing, and somewhat clunky game - in other words, a faithful Ninja Gaiden experience.
 
 The Last Ninja (NES - System 3 1990)
 Beat The Game
@@ -974,13 +973,11 @@ Full Show
 by tbcr
 host Shado_Temple, couch Neetsel, Spocklan116
 34m22s (est 30m, wr 15m07s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube 2aAxNNl-fS8
-Review: (not yet reviewed)
-NM: Assumed "Fort Boyard. Le défi"
-NM: Assumed Any%, it's the only category
+Review: Just a very weird run. Most of it was spent just explaining the game show it was based on, to us Boyard-less Americans. The run itself is a minigame collection, but none of them seemed to be executed well. I was never clear whether things were being failed because it's faster, because it's part of the category rules, or just because the runner was messing up.
 
 Skull Island: Rise of Kong (PC - IguanaBee 2023)
 Any%
@@ -994,15 +991,15 @@ Youtube WBO5ZpY13Dk
 Review: The infamously "bad" game of 2023 (though in reality, just given far too little budget and dev time), turns out to be an okay speedrun? It's almost all "get out of bounds and go straight to the end", but quarter-hour run, that's about all you need.
 
 Tintin In Tibet (SNES - Infogrames 1995)
-Any% Normal
+Any% Hard [INCENTIVE]
 by Neetsel [WRH]
 host Peace Egg, couch FlannelKat, NPC
-24m51s (est 30m, wr 22m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+24m51s (est 30m, wr 22m28s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube aZt5T8k4Ov0
-Review: (not yet reviewed)
+Review: There is a risk, when playing an awful game too well, that you fail to show just how bad the game is. That bit this run - Neetsel made it look like a pretty normal, mediocre 16-bit platformer, the kind that makes for typical late-night GDQ filler. And it was fine even by those standards, just not what you'd expect from Awful Block.
 
 Zadette (PC - Le Club des Sacs 2021)
 Better Gamer%
@@ -1018,13 +1015,13 @@ Review: A sort of deliberately-bad game, it's got some funny ludic jokes but the
 Virtual Hydlide (Saturn - T&E Soft 1995)
 Any% Set Seed
 by Mechalink [2RH]
-host Peace Egg, couch NPC?
-27m11s (est 45m, wr 30m48s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Peace Egg, couch NPC
+27m11s (est 45m, wr 30m48s) [WR]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube tpW1OVdBNGI
-Review: (not yet reviewed)
+Review: What happens when you put way too much work into perfecting a speedrun of a game this terrible? It becomes a much more entertaining speedrun, it turns out. Skipping as much Virtual Hydlide as possible is certainly the way to play it, and finding a seed to cut out as much overworld trudging as possible only makes it better. And frame-perfect tricks become much easier at 4fps.
 
 [[[/AWFUL BLOCK]]]
 
@@ -1042,14 +1039,14 @@ NM: assumed current patch
 
 Skator Gator 3D (PC - Weathered Sweater 2023)
 Any%
-by? Ozmourn [2RH], allison8bit [WRH]
+race, Ozmourn [2RH] vs allison8bit [WRH]
 host TheKingsPride, couch Quacksilver, shovelclaws
-11m42s (est 15m, wr 8m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+11m07s, 11m42s (est 15m, wr 8m54s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube Uq_Ui33n8dA
-Review: (not yet reviewed)
+Review: As a race, it mostly comes down to a few big tricks, scattered through the run. But there's enough of them that there was never much downtime, and no single one skipped enough for the race to be a foregone conclusion. Plus - game is heckin cute.
 
 Shovel Knight: Treasure Trove (PC - Yacht Club 2014, 2019)
 Plague of Shadows 100% [BIDWAR]
@@ -1078,11 +1075,11 @@ Kirby & The Amazing Mirror (GBA - Flagship 2004)
 coop by Kobazco, Mr_Shasta, swordsmankirby
 host Quacksilver, no couch
 22m12s (est 25m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube Glz--_qPFIk
-Review: (not yet reviewed)
+Review: Delightfully chaotic. It's basically three simultaneous and separate speedruns, which is impossible to track but a blast to watch.
 
 Castlevania III: Dracula's Curse (NES - Konami 1989)
 Any% Famicom / Sypha
@@ -1356,11 +1353,11 @@ The Legend of Zelda: Majora's Mask (N64 via Wii VC - Nintendo EAD 2000)
 relay by Marco8641 [WRH], morpheus080, popesquidward [2RH], dopezzera
 host Brutal_Melo, cartridgeblowers, no couch
 4h52m13s (est 4h55m, solo wr 4h30m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube NXuwBQzBnBI
-Review: (not yet reviewed)
+Review: There's a lot to like about this run. There's a ton of different, interesting tricks. There's plain old good execution. There's robust commentary and fun banter. There's also, unfortunately, a ton of autoscrollers, unskippable cutscenes, and repetition, because this run is five hours long. It is easily one of the better five-hour-long runs, but it is still a five-hour-long run. If you're up for five hours of N64 Zelda, you'll be quite happy, but I suspect most of us will have our fill before half the runners have gotten to touch a controller.
 
 ------------------------------SATURDAY-------------------------------
 
@@ -1412,34 +1409,34 @@ Magical Tetris Challenge (N64 - Capcom 1998)
 Magical Tetris (Expert) [INCENTIVE]
 by FFR Pro 21 [WRH]
 host AttyJoe, couch Piepusher11
-28m38s (est 15m, wr 9m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+28m38s (est 18m, wr 9m29s)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube poRR7pEgxBo
-Review: (not yet reviewed)
+Review: Lot of deaths for a speedrun! The runner pointed the finger at bad RNG - and certainly, the game seems to have a lot of RNG - but I saw a lot of misplays, too. Either way, failing stages this many times, makes for neither an impressive nor an entertaining speedrun.
 
 Go! Go! Hamster Chef! (PC - Matt Henry 2023)
 Inbounds
 by Char_bunny
 host Jaypeg, couch critiquequartz, enbyzee, lizzyberry
 14m05s (est 18m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube Kw8OFRyBUt4
-Review: (not yet reviewed)
+Review: It's an extremely simple speedrun - a casual second-playthrough might have come in under estimate. But having the couch act out every cutscene pulled this run together - yes, it's just a cutesy animal story-game, definitely not anything more than that, but they make it worth watching.
 
 Ghostwire: Toyko (PC - Tango 2022)
 Any% Standard
 by nyiddle [WRH]
-host CovertMuffin, couch CaptainEzekiel, DemonicRobots
+host CovertMuffin, couch DemonicRobots
 1h09m20s (est 1h15m, wr 1h06m45s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube _U7Tpxw9ueA
-Review: (not yet reviewed)
+Review: A straightforward play-game-good run. I suspect the route and tech are far from optimized yet, but the level of execution polish is impressive for such a recent and overlooked game.
 
 Sonic Origins Plus (PC - Sonic Team 1991, 1992, 1993, 1994, 2022, 2023)
 Anniversary Mode Relay
