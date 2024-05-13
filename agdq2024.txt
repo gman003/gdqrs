@@ -197,12 +197,12 @@ LONG LIVE THE AXE (PC - owch 2018)
 100%
 by Ukobarrywewa [WRH][ORH]
 host Peace Egg, couch Synthy
-21m32s (est 28m, wr 21m23s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+21m32s (est 28m, wr 21m23s) [NV]
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube MY7yT0t3xvM
-Review: (not yet reviewed)
+Review: A surreal game can be fun to play, but it's challenging to watch if you never get any context. There's some fun to be found in extremely video-game sentences, and it's short enough that maybe an explanation couldn't have fit, but I found it hard to feel invested in.
 
 A Bug's Life (PS1 - Traveller's Tales 1998)
 Any%
@@ -264,12 +264,22 @@ Reverse Tree Order
 by Ozmourn [WRH]
 host Xenadir, couch bobbyburm, hatkirby, RUBIEHART
 28m11s (est 35m, wr 26m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube KGJvrC0Nax4
-Review: (not yet reviewed)
-NM: Assumed wall clip allowed
+Review: An exceptionally busted first-person puzzler, but the tech is mostly clips and save glitches. There's some laser-fast puzzling on occasion but this is very much focused on unintended gameplay.
+
+Manifold Garden (PC - William Chyr 2019)
+Any% Secret End [BONUS]
+by Ozmourn
+host Xenadir, couch bobbyburm, hatkirby, RUBIEHART
+2m20s (est 5m, wr 1m58s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube KGJvrC0Nax4+1955
+Review: Just a quick show-off of the fastest any% route. Nothing you didn't see in the main run - almost literally.
 
 inFAMOUS: Festival of Blood (PS3 - Sucker Punch 2011)
 Any%
@@ -401,11 +411,11 @@ Any% Zerg Campaign
 by 7thAce [WRH]
 host MTGJoeD, couch Ectar [3RH], GiantGrantGames [REM]
 1h31m59s (est 1h40m, wr 1h24m29s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube aG6udyjUydk
-Review: (not yet reviewed)
+Review: Though prone to the APM excesses of classic RTS games, this was still a solid speedrun for outsiders. Glitches are minimal - cutscene skips, really - but AI abuse is rampant and execution is impressive to watch. And it's all meticulously explained.
 
 -------------------------------TUESDAY-------------------------------
 
@@ -414,11 +424,11 @@ New Game Normal
 by Reclaimer [WRH]
 host MTGJoeD, couch Kap
 1h35m12s (est 1h39m, wr 1h30m43s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube zXpsEOYCOsQ
-Review: (not yet reviewed)
+Review: An impressive spectacle-fighter run, with some tight movement and ludicrous mashing speed, but not that engaging to outsiders. I don't think you need to be a series fan to appreciate this properly, but you may need to be a genre fan.
 
 Dead Space (PC - Motive 2023)
 Any% Unrestricted (Story)
@@ -458,11 +468,11 @@ All Gears
 by BystanderTim
 host musical_daredevil, no couch
 10m04s (est 14m, wr 8m13s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube ZuC-6F6lPJ8
-Review: (not yet reviewed)
+Review: A short speedrun of a short game is not usually a surprise. What is a surprise is when it gets this much shorter, simply by pushing the game's movement mechanics this hard. This run *feels* fast, even though it lacks skips or glitches.
 
 Super Cable Boy (PC - Sørb 2020)
 Any%
@@ -511,35 +521,35 @@ Review: A platformer with some neat movement tech, but maybe not as deep as it f
 Panic Restaurant (NES - EIM 1992)
 Any% (US)
 by janglestorm
-host Jaypeg, couch JSR_, Skateman222
+host Jaypeg, couch Skateman222, JSR_ [REM]
 15m29s (est 17m, wr 13m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube LWzexDr_uWQ
-Review: (not yet reviewed)
+Review: A by-the-books run of a by-the-books platformer. There's nothing special about it - but then, does there really need to be?
 
 Tempo (32X - Sega 1995)
 Any%
 by Hibnotix [3RH]
 host Jaypeg, couch Lizstar
 20m26s (est 30m, wr 19m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube NnMKg2x3zRA
-Review: (not yet reviewed)
+Review: A silly, if simple, run. A charming game from a niche platform, the speedrun is nothing special but it's a fun lightning-paced Let's Play.
 
 Tape to Tape (PC - Excellent Rectangle 2023)
 Easy Campaign
 by cavecavecave
-host TrainerAnade, couch Hastan
+host TrainerAnade, couch Hastan [CM]
 19m45s (est 30m, wr 16m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube nc3mjdfx37Q
-Review: (not yet reviewed)
+Review: I was never able to understand what was meant to be skillful about this speedrun. Maybe if I had any experience playing hockey games, a hockey roguelike would have more appeal. On top of that, the run suffered from audio mixing issues - the couch was inaudible over the game, and even the runner could sometimes not be heard well.
 
 The Legend of Zelda (NES - Nintendo EAD 1986)
 100% [INCENTIVE]
@@ -736,22 +746,22 @@ Any% Normal NewDark [BIDWAR]
 by Psych0sis
 host Threach, no couch
 41m55s (est 38m, wr 30m09s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube uaWgDMyqkog
-Review: (not yet reviewed)
+Review: Surprisingly lively, for a couchless run at 6am in the middle of the week. The commentary was very off-the-cuff, not slick and rehearsed, but it felt very genuine as they rambled from glitches to plot to speedrunning history. Struggled a bit with some clips, and had a few long stretches of donations, but still a solid run.
 
 Ducktales: Remastered (PC - Wayforward 2013)
 Any% Easy
 by Roach788
 host Threach, couch DukeFireBird
 35m16s (est 37m, wr 35m03s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 3QL4BDYBvPY
-Review: (not yet reviewed)
+Review: Just a clean run of the game, save two small skips. It's well-explained but far from a technical run. It's Ducktales. What more can I say?
 
 Disney Gargoyles Remastered (PC - Disney 1995, Empty Clip 2023)
 Enhanced - Easy Any%
@@ -770,12 +780,11 @@ Any% 1CC
 by LRock617 [3RH]
 host TrainerAnade, couch Cypherin, Rotorstorm331, TempestMask1000
 18m58s (est 20m, wr 13m48s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube H_1MXWEnUnY
-Review: (not yet reviewed)
-NM: assumed Medium difficulty, also assumed successful 1CC
+Review: This is one for the fans. If you know the game, if you've struggled to beat it yourself, I'm sure this is an impressive and enrapturing accomplishment, and you should ignore my low rating and watch it anyways. If not? It looks like just a basic, repetitive bmup run, with the most interesting thing being one glitch to skip an autoscroller.
 
 Goof Troop (SNES - Capcom 1993)
 Co-op (JP 3) [INCENTIVE]
@@ -859,11 +868,11 @@ Any%
 by Tonkotsu
 host frozenflygone, couch Mr_Shasta, AltaBiscuit, Murmilio [REM]
 1h20m42s (est 1h30m, wr 1h11m32s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube RiDEPp6bdSs
-Review: (not yet reviewed)
+Review: A bit of a strange run. The first half is pretty typical RPG speedrunning, well-routed and well-executed ordinary gameplay. Then the back half is glitchy pixel-vomit skip-to-the-end, capped off with a boss fight built around an exceptionally broken build.
 
 The Legend of Zelda: Ocarina of Time (N64 via Wii VC - Nintendo EAD 1998)
 MST
@@ -962,11 +971,11 @@ Any%
 by GaryJGames [WRH]
 host Shado_Temple, couch amyrlinn, grimwav
 13m23s (est 20m, wr 13m20s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YTNy1LxK6_Y
-Review: (not yet reviewed)
+Review: There's only one glitch to this run (that the speedrun actually tries to use), but it's short enough to not wear itself out, repeating that one trick. The extra effort on commentary and production was noticeable.
 
 Fort Boyard: The Challenge (DOS - Microids 1995)
 Full Show
@@ -1030,12 +1039,11 @@ Any%
 by Jaxler
 host TheKingsPride, couch CorundumCore
 17m24s (est 20m, wr 11m39s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube TFPWb8rDnVs
-Review: (not yet reviewed)
-NM: assumed current patch
+Review: A very low-downtime run - it's short, but it's nonstop movement, and very fluid movement at that. I sometimes struggled to parse the game's visuals, but the explanations kept things on track, and it's over before you know it.
 
 Skator Gator 3D (PC - Weathered Sweater 2023)
 Any%
@@ -1053,11 +1061,11 @@ Plague of Shadows 100% [BIDWAR]
 by MooMooAkai [2RH]
 host TheKingsPride, couch Troyofathyns
 1h16m16s (est 1h10m, wr 1h09m22s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube LwoxukAFuSE
-Review: (not yet reviewed)
+Review: Perhaps the greatest run ever, on the narrow criterion of "best speedrunner noises". You really do get a sense of just how close to the line speedrunners are playing, with this brutal retro action-platformer.
 
 COCOON (PC - Geometric Interactive 2023)
 Any%
@@ -1164,11 +1172,11 @@ Any%
 by Storied [WRH]
 host Bobby Blackwolf, couch bryonato, Helix, shovelclaws
 56m59s (est 1h10m, wr 48m31s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube Y4wY2xPj2dI
-Review: (not yet reviewed)
+Review: An impressive run for such a new game - even as a Team Reptile fan, I didn't know they'd released a Jet Set-like - there's several moments of incredibly fast movement. Unfortunately, there's also a lot of autoscrollers and cutscenes, and the excellent couch banter isn't always enough to fill the void.
 
 -------------------------------FRIDAY--------------------------------
 
@@ -1366,33 +1374,33 @@ Any% Unrestricted
 by NicowithaC [WRH]
 host AttyJoe, couch CaptainEzekiel, DemonicRobots, TobiThrows
 37m13s (est 50m, wr 31m46s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube eBHMjffxxdI
-Review: (not yet reviewed)
+Review: A soulslike, perhaps an overlooked one, but the speedrun isn't a bad one. Not as polished, nor as difficult, as the Fromsoft originals, but it's still a shorter run by virtue of being a less sprawling game. It's a nice balance - still got some tricks and tech, but less repetition, better pacing.
 
 Mega Serval (PC - Syaxamaphone 2022)
 Any%
 by Mikan [2RH]
 host AttyJoe, no couch
 25m44s (est 28m, wr 22m40s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube CtHN4fuUsyY
-Review: (not yet reviewed)
+Review: This had potential, had good ideas, but it just didn't execute them right. The speedrun seemed promising - Mega Man with more momentum in the movement - but sloppy execution and minimal gameplay commentary handicapped it. Leaning into the "Kemono Friends fangame" angle worked better, but still fell short, with dry delivery of animal facts, and way too much time spent reading donations.
 
 Astalon: Tears of the Earth (PC - LABS Works 2021)
 Black Knight mode
 by Flagalstan [3RH]
 host AttyJoe, couch altabiscuit
 15m58s (est 20m, wr 13m58s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube Zl0TfBqNEUU
-Review: (not yet reviewed)
+Review: Running these already-fast alternate modes makes for curious speedruns. There's less need for careful routing or glitches, when the game just hands you everything you need. But it's a good way to get another bite of Astalon into GDQ. This might be a run mainly for existing fans, but it's a solid run.
 
 Star Fox 64 (N64 - Nintendo EAD 1997)
 2K%
@@ -1453,13 +1461,12 @@ Fire Emblem Awakening (N3DS - Intelligent Systems 2012)
 Normal Mode
 by Kirbymastah [WRH]
 host Bobby Blackwolf, couch Aleck47, Quo [3RH]
-50m52s (est 50m, wr 32m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+50m52s (est 50m, wr 32m44s) [NV]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube E65hbSwlHzA
-Review: (not yet reviewed)
-NM: assumed Normal/Classic NG
+Review: A disappointment I've had with other Fire Emblem runs, is the reliance on auto-battle. Letting the AI do everything for you is uninteresting. Awakening uses it much more sparsely, and is a better run for it. The strats are simple and well-explained, the menuing speed is unbelievable, and the memes are on point. Invalidated due to using wireless bonus items in lieu of grinding for an RNG drop.
 
 Mario Kart 64 (N64 - Nintendo EAD 1996)
 All Cups (Skips)
