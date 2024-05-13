@@ -1033,7 +1033,7 @@ Review: A surprise hit run. An obscure game basically no-one has even heard of..
 Looney Tunes (Game Boy - Sunsoft 1992)
 All Levels
 by WinnerBit [2RH]
-host SmoothOperative, couch AuthorBlues, Yoshi_zilla, JayHawker, Mr_Shasta, Yuuki_Akiyama
+host SmoothOperative, couch AuthorBlues, Mr_Shasta, CardsOfTheHeart, JayHawker, Yuuki_Akiyama, Yoshi_zilla
 11m32s (est 15m, wr 10m14s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
@@ -1044,7 +1044,7 @@ Review: A fun little run. Too short to really get into the swing of things, and 
 Rhino Rumble (Game Boy - Formula 2002)
 any%
 by WinnerBit [2RH]
-host SmoothOperative, couch AuthorBlues, Yoshi_zilla, JayHawker, Mr_Shasta, Yuuki_Akiyama
+host SmoothOperative, couch AuthorBlues, Mr_Shasta, CardsOfTheHeart [WRH]
 15m24s (est 16m, wr 12m39s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
