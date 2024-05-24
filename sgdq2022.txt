@@ -725,15 +725,16 @@ Review: The most traditional game of Sonic Block. It had a nice blend of "play g
 [[[/SONIC BLOCK]]]
 
 Tunic (PC - Andrew Shouldice 2022)
-Any%
-by Sunnymuffin [2RH]
-host LattMackey, couch Corvimae, Andrew Shouldice [DEV] by phone, Kevin Regamey [DEV] by phone
-49m28s (est 35m, wr 20m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+True Ending NMG [INCENTIVE]
+by Sunnymuffin [3RH]
+host LattMackey, couch Corvimae, Andrew Shouldice [DEV][REM], Kevin Regamey [DEV][REM]
+49m28s (est 40m, wr 28m34s) [NV]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube kW8enjt8mPo+8
-Review: (Skipped, even the dev said not to watch if you want to play it casually)
+Review: The run is a bit on the fragile side - even with safety strats, any error is punishing - but the commentary was great. Two devs, even by phone, is a recipe for greatness, and Dicey knew way more about the speedrun than most dev commentators we've heard before. Beware of spoilers, though - especially given that this is True Ending. Seriously, don't watch this if Tunic is still on your backlog. The joy of this game is discovering things for yourself.
+NM: Assumed NMG
 
 Advance Wars (GBA - Intelligent Systems 2001)
 Any% No Map Glitch
