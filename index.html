@@ -568,11 +568,11 @@ body {
 			<a class="agdq" href="agdq2019.txt" onclick="loadMarathon('agdq2019')">AGDQ 2019<span>(99% - 139/140)</span></a>
 			<a class="sgdq" href="sgdq2019.txt" onclick="loadMarathon('sgdq2019')">SGDQ 2019<span>(99% - 147/148)</span></a>
 			<a class="agdq" href="agdq2020.txt" onclick="loadMarathon('agdq2020')">AGDQ 2020<span>(100% - 146/146)</span></a>
-			<a class="sgdq" href="sgdq2020.txt" onclick="loadMarathon('sgdq2020')">SGDQ 2020<span>(99% - 148/150)</span></a>
+			<a class="sgdq" href="sgdq2020.txt" onclick="loadMarathon('sgdq2020')">SGDQ 2020<span>(99% - 149/150)</span></a>
 			<a class="agdq" href="agdq2021.txt" onclick="loadMarathon('agdq2021')">AGDQ 2021<span>(100% - 151/151)</span></a>
 			<a class="sgdq" href="sgdq2021.txt" onclick="loadMarathon('sgdq2021')">SGDQ 2021<span>(100% - 150/150)</span></a>
-			<a class="agdq" href="agdq2022.txt" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 148/150)</span></a>
-			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(98% - 123/126)</span></a>
+			<a class="agdq" href="agdq2022.txt" onclick="loadMarathon('agdq2022')">AGDQ 2022<span>(99% - 149/150)</span></a>
+			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(98% - 124/126)</span></a>
 			<a class="agdq" href="agdq2023.txt" onclick="loadMarathon('agdq2023')">AGDQ 2023<span>(100% - 151/151)</span></a>
 			<a class="sgdq" href="sgdq2023.txt" onclick="loadMarathon('sgdq2023')">SGDQ 2023<span>(99% - 137/138)</span></a>
 			<a class="agdq" href="agdq2024.txt" onclick="loadMarathon('agdq2024')">AGDQ 2024<span>(99% - 140/141)</span></a>
@@ -688,6 +688,9 @@ body {
 				<h3>Filter By People</h3>
 				<label><input type="text" name="runner" placeholder="(eg. TheMexicanRunner)" />Runner(s)</label>
 				<label><input type="text" name="crew" placeholder="(eg. SpikeVegeta)" />Couch &amp; Crew</label>
+				<label><input type="checkbox" name="proximity" checked value="inperson"/>In-Person</label>
+				<label><input type="checkbox" name="proximity" checked value="remote"/>Remote</label>
+				
 				<p>Tip: Search "[WRH]" to find only runs by world record holders, or "race" to find competitive races.</p>
 			</div>
 			<div>
@@ -1013,6 +1016,15 @@ function loadReviews(input){
 			continue;
 		}
 		
+		var proximity = lines[2].includes("[REM]") ? "remote" : "inperson"; // TODO: add hybrid?
+		if (current_marathon == "2020 - SGDQ"
+			|| current_marathon == "2021 - AGDQ"
+			|| current_marathon == "2021 - SGDQ"
+			|| current_marathon == "2022 - AGDQ"
+			|| current_marathon == "2023 - AGDQ"){
+			proximity = "remote"; // all of them were online for these events
+		}
+		
 		run_element.appendChild(createSlot("game", title_re[1]));
 		run_element.appendChild(createSlot("plat", definePlatforms(title_re[2])));
 		run_element.appendChild(createSlot("dev",  title_re[3]));
@@ -1043,6 +1055,7 @@ function loadReviews(input){
 		run_element.setAttribute("category", lines[1].toLowerCase());
 		run_element.setAttribute("runner", lines[2].toLowerCase());
 		run_element.setAttribute("crew", lines[3].toLowerCase());
+		run_element.setAttribute("proximity", proximity);
 		// TODO: NBs, NMs, etc?
 		
 		switch (current_block){
@@ -1116,17 +1129,22 @@ function refreshFilters(){
 			allowedRatings.push(element.attributes.rating.value);
 		}
 	}
-	
 	var allowedDurations = [];
 	for (element of document.querySelectorAll("input[name=duration]").values()){
 		if (element.checked){
 			allowedDurations.push([parseInt(element.attributes.min.value), parseInt(element.attributes.max.value)]);
 		}
 	}
+	var allowedProximity = [];
+	for (element of document.querySelectorAll("input[name=proximity]").values()){
+		if (element.checked){
+			allowedProximity.push(element.value);
+		}
+	}
+	
 	var durationMinimum = document.getElementsByName("duration-min")[0].value;
 	var durationMaximum = document.getElementsByName("duration-max")[0].value;
 	var requireWR = document.getElementsByName("duration-wr")[0].checked;
-	
 	var allowedRunner = document.getElementsByName("runner")[0].value.toLowerCase();
 	var allowedCrew = document.getElementsByName("crew")[0].value.toLowerCase();
 	var allowedGame = document.getElementsByName("game")[0].value.toLowerCase();
@@ -1141,7 +1159,6 @@ function refreshFilters(){
 		if (allowedRatings.length){
 			passed = passed && allowedRatings.includes(element.attributes.rating.value);
 		}
-		
 		if (allowedDurations.length){
 			var subpassed = false;
 			for (durations of allowedDurations){
@@ -1149,6 +1166,10 @@ function refreshFilters(){
 			}
 			passed = passed && subpassed;
 		}
+		if (allowedProximity.length){
+			passed = passed && allowedProximity.includes(element.attributes.proximity.value);
+		}
+		
 		if (durationMinimum){
 			passed = passed && parseInt(element.attributes.duration.value) >= parseInt(durationMinimum);
 		}
@@ -1379,17 +1400,6 @@ function onYouTubeIframeAPIReady() {
 		},
 		events: {}
 	});
-	
-	return;
-	
-	// check URL params, see if we should shortcut into a marathon
-	let params = new URLSearchParams(document.location.search);
-	let marathon = params.get("m");
-	if (marathon != null){
-		loadMarathon(marathon, false);
-	} else {
-		hideAllContentBut('browser');
-	}
 }
 
 // check URL params, see if we should shortcut into a marathon
