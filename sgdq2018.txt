@@ -1201,3 +1201,125 @@ Skill   ★★★★★
 Fun     ★★☆☆☆
 Youtube Oo0LVPu2QIM+48
 Review: Well, it wasn't much of a race, but holy *crap* this was a difficult run. This is not an easy game even casually - *beating* it without a single heart container, let alone doing so quickly, is insane. Very easy to watch, too, the only non-obvious tech is forcing bomb drops, pretty simple to understand.
+
+The Legend of Zelda: Oracle of Seasons (GBC - Flagship 2001)
+Any%
+by mghtymth
+host Sooraya, couch Zmaster91, VB__
+1h56m56s (est 2h03m, wr 1h42m03s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube DH805WdXSew+65
+Review: A surprisingly glitchless run, compared to most Zeldas. It doesn't even have much in the way of minor skips. It's just well-optimized, well-executed gameplay, and sometimes that's all it takes.
+NM: checking WRs in 2024, no pre-2019 runs for Any%, assuming split from All Essences?
+
+Paper Mario (N64 via Wii U VC - Intelligent Systems 2000)
+Any%
+by imglower
+host MapleSR/Grimelios, couch JCog, Max Hillman, Butterlord, Kendall
+1h54m09s (est 1h55m, wr 1h41m59s) [NV]
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
+Youtube 2bGKTD5KN0o+37
+Review: This just had too much downtime to ever find its groove. A slog of cutscenes at the start. Repeating the same trick during the middle. A brick wall of RNG at the end. There's some cool skips involved, but only strong fans will want to watch the whole thing to find them.
+
+DeadCore (PC - 5 Bits 2014)
+NWNM NG (No Wall Clips No Mega Jumps New Game)
+by imawakka [WRH]
+host Agama, couch Prolix, Count Goobie (?), Helix
+16m39s (est 25m, wr 14m49s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube HYQfQbNKxa4+0
+Review: A rather neat first-person platformer. This is now known as the No Major Glitches category - so plenty of stuff that cuts corners or skips sections of a level, but nothing that bypasses actually playing the game. And it's easily watchable even without having played the game before, very intuitive.
+
+Deus Ex (PC - Ion Storm 2000)
+Any%
+by Heinki
+host Agama, couch KingDime, StMillion, Alex, JamaicanBacon
+45m08s (est 52m, wr 35m51s rta)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube _vCFq-jr4U4+7
+Review: A 45-minute-long glitchfest. Nothing too elaborate, nor a huge amount of variety, but if you want to see the game's many intended mechanics completely ignored in favor of clipping and limbo states, you'll find it in spades here.
+
+Deus Ex: Mankind Divided (PC - Eidos Montreal 2016)
+Any%
+by Heinki [3RH]
+host Agama, couch KingDime, StMillion, Alex, JamaicanBacon
+48m41s (est 1h05m, wr 44m09s rta) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
+Youtube gb7ELhdtnFY+2
+Review: The frequency with which Heinki threw things over to donation-reading says a lot about how little interesting stuff happens in this run. Yeah, there's some wonky out-of-bounds skips, and some clever strats to run through levels safely without stopping. But by the half-hour mark, there's nothing new added. I don't even remember the couch ever saying a word.
+
+Deus Ex: Mankind Divided (PC - Eidos Montreal 2016)
+A Criminal Past Any% [BONUS]
+by Heinki [2RH]
+host Agama, couch KingDime, StMillion, Alex, JamaicanBacon
+12m51s (est 15m, wr 7m21s rta)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube gb7ELhdtnFY+2985
+Review: Half the run was occupied retrying one trick that just wouldn't work. Easily skippable, unless you're *really* into reboot-era Deus Ex.
+
+Prey (PC - Arkane 2017)
+No OoB
+by Lifel1ke [WRH]
+host theboyks, couch CovertMuffin, BloodThunder, SlackerRipper (?), Metro72
+44m30s (est HhMMm, wr 42m11s rta)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube JKq3e_nEUpA+3
+Review: (not yet reviewed)
+
+Super Mario Bros. (NES - Nintendo EAD 1985)
+Warpless
+race RoyLGamer vs Kosmic [WRH] vs SuperSonic71087 vs RetroBob_
+host Skybilz, couch Aweglib, Rupert83, LackAttack24
+19m42s, 20m00s, 23m42s, 23m47s (est 32m, wr 19m02s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube YUlNnpLv5XA+20
+Review: A very dynamic race, but with this many errors, it's hard to feel like it was peak Mario gameplay. Still, can't blame them for going for risky strats to show off on the big stage.
+
+Super Mario Bros. (NES - Nintendo EAD 1985)
+Any% One-Handed [BONUS]
+by Kosmic [WRH]
+host Skybilz, couch Aweglib, Rupert83, LackAttack24, RoyLGamer, SuperSonic71087, RetroBob_
+6m16s (est 20m, wr 4m59s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube YUlNnpLv5XA+1872
+Review: It's Mario! With one hand! Faster than I could beat it, at least. You'd be mistaken for thinking it's just a mediocre SMB run, were it not for the hand-cam.
+
+Super Mario Bros. 3 (NES - Nintendo EAD 1988)
+All Forts
+race mitchflowerpower [WRH] vs grandpoobear [2RH]
+host Skybilz, couch Aweglib, CujoHSV, JohnCarls
+58m34s, NF (est 1h00m, wr 45m52s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube APl7Wk8Nx00+16
+Review: The hottest Mario runners, with a full hour of excellent stage chemistry? The technical problems only gave more fuel for their banter, and the gameplay was pretty tight as well. We even got a bonus Any% run squeezed in.
+
+Super Mario World (SNES - Nintendo EAD 1990)
+All Castles & Forts, Small Only
+by rezephos [WRH]
+host Skybilz, couch CThorn, TNT, AuthorBlues, Xander, TwitchMaster
+1h09m10s (est 1h12m, wr 42m25s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube 0vrGeE9At9k+19
+Review: Just an hour of really good Super Mario World. It's not a kaizo hack, so the skill is more about consistently performing risky strats on regular levels - but outside one *really* risky strat, rezy nailed them all. Some fun couch banter, too.
