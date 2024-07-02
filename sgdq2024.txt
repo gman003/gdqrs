@@ -1,5 +1,5 @@
 ====================SUMMER GAMES DONE QUICK 2024=====================
-===========Raising $0,128,219 for Doctors Without Borders============
+===========Raising $0,310,108 for Doctors Without Borders============
 ========================June 30-July 6, 2024=========================
 
 -------------------------------SUNDAY--------------------------------
@@ -208,147 +208,168 @@ host selcouthmind, couch eon, sharif
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube tHSEkDlMrLw
 Review: (not yet reviewed)
 
 Lone Fungus (PC - Basti 2023)
 True Ending (Explorer)
 by Quacksilver [3RH]
 host selcouthmind, couch allison8bit
-37m00s (est 37m, wr 28m27s igt)
+33m47s (est 37m, wr 28m27s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube UDfx2N9mBEw
 Review: (not yet reviewed)
-NM: pb 29m43s
 
 Turnip Boy Robs A Bank (PC - Snoozy Kazoo 2024)
 Any% (Playstyle A)
 by happybythree [2RH]
 host selcouthmind, couch Carson Kompon [REM][DEV], Jaypeg, EldritchWolfie
 30m22s (est 40m, wr 20m52s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube -lNZmH9O3qY
+Review: Dang. Just a cute little roguelike, pretty simple speed tech but fun to watch.
 
 Chameleon Twist (N64 - Japan System Supply 1997)
 All Levels
 by LivelyRaccoon
 host Kungfufruitcup, no couch
-HhMMmSSs (est 25m, wr 18m40s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 19m56s
+23m15s (est 25m, wr 18m40s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube gG3xOaVD650
+Review: A very unique sort of platformer, with a set of movement mechanics that provide some novel speed tech. The door clips are maybe the most normal part of the run. At this length, it's worth checking out for that alone.
 
 Kirby 64: The Crystal Shards (N64 via Switch - HAL Laboratory 2000)
 100%
 by Curtissimo41 [WRH]
 host Kungfufruitcup, couch graample, Mr_Shasta, swordsmankirby
-HhMMmSSs (est 1h10m, wr 1h06m11s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h07m22s (est 1h10m, wr 1h06m11s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube t-9Wn32DjYY
+Review: Maintaining an RNG manipulation over such a long run, makes for a strangely technical Kirby game. The core gameplay is still simple, but the demands for consistency go through the roof. An interesting change of pace from previous Kirby runs I've seen.
+
+[[[SONIC BLOCK]]]
 
 Sonic Project 06 (PC - ChaosX 2019)
-Any%
+Sonic Any% [BIDWAR]
 by Stelmo98 [2RH]
 host Kungfufruitcup, couch Gordon Ramsay
-HhMMmSSs (est 28m, wr 24m32s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+33m48s (est 28m, wr 24m32s rta)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube 7nOt9CKc2hY
+Review: Sonic '06 speedruns are far better than the game itself ever was. But what if the game was good? Turns out, it's still a good speedrun - P-06 has a ton of interesting movement options, nothing broken in the way of the original but still plenty of cuts and tricks. And this debut is accompanied by some breakneck self-commentary, detailing every little bit that goes into going fast.
 NM: technically unreleased, sr.c lists as 2019
-NM: assumed Sonic
+NM: recheck time the actual run ended, went straight into the bonus stuff
 
 Sonic Robo Blast 2 (PC - Sonic Team Junior 1998)
 Sonic - All Emeralds
 by Argick
-host Kungfufruitcup, no couch
-HhMMmSSs (est 40m, wr 28m56s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: runner not ranked?
+host Kungfufruitcup, Ginnja, Bobbeigh, TinyTim
+36m06s, 32m44s igt (est 40m, wr 28m56s igt)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube uA_ubz2yc18
+Review: An interesting Sonic fangame, in the Doom engine of all things. A clean play-game-good run, not much in the way of glitches, all set to Argick's patented motormouth self-commentary.
 
 Sonic the Hedgehog 3 & Knuckles (Genesis - STI 1994)
-All Emeralds
+All Emeralds - Tails
 by TheSoundDefense [WRH]
 host Mr. Game and Shout, couch Aleck47, Argick, KeiperDontCare
-HhMMmSSs (est 1h00m, wr 53m59s)
+58m12s (est 1h00m, wr 51m58s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube Vrtz4iDDayw
+Review: After reviewing speedruns for years, sometimes it's good to be reminded just how crazy some of this stuff is. Having a first-time watcher on the couch, to go 'woah' and 'wtf' to the screen wraps and glitches, or gasp at how close the optimal route comes to dying, brings some of that energy back.
+
+[[[/SONIC BLOCK]]]
+
+Pepper Grinder (PC - MP2 2024)
+Any%
+by shovelclaws [3RH]
+host Mr. Game and Shout, couch BobbyBurm, Talia
+31m55s (est 35m, wr 27m00s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube a1E65o5vnYk
 Review: (not yet reviewed)
-NM: assumed Sonic
 
 Bomberman 64 (N64 - Hudson Soft 1997)
 100%
 by LivelyRaccoon [WRH]
 host Mr. Game and Shout, couch Keewy
-HhMMmSSs (est 1h45m, wr 1h24m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h41m39s (est 1h45m, wr 1h24m54s)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube jM-4lu85yPE
+Review: I'm sure there is someone out there who will enjoy this. The soft-spoken commentary, the sedate gameplay, the repetition, this would make excellent background noise. But as a speedrun, on the GDQ main stage? I'm sorry, I was just bored. The only parts that raised the energy levels above lethargic, were the mistakes.
 
 Spelunky (PC - Mossmouth 2008, 2013)
 All Journal Entries
 by Hectique [WRH]
-host Jaypeg, couch cloiss
-HhMMmSSs (est 50m, wr 24m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: assumed remake, due to category
+host Jaypeg, couch cloiss, Hobtor
+32m14s (est 50m, wr 24m43s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube leHSNbbDqmM
+Review: Yet another roguelike - seems to be a theme of the day - but the RNG in this one is a bit more manageable. Or at least mitigatable. Between the on-screen tracker and the commentary, it was easy enough for this outsider to follow, but the appeal is probably stronger for fellow spelunkers.
 
 Balatro (PC - LocalThunk 2024) [BONUS GAME 1]
 3 Deck Random Seed, Skipless
 by Cixah
 host Jaypeg, couch Amyrlinn, cloiss [WRH], MonkeyMan
-HhMMmSSs (est 45m, wr 22m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: assumed 1.0.0 white; runner pb 30m03s
+51m53s (est 45m, wr 22m43s) [NV]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube EVJDx8b_EWI
+Review: A poker roguelike - so RNG stacked on RNG. Not surprising, then, that the run technically failed, but it completed with two out of the three decks so you saw plenty enough. It's all menuing and trying to build a sufficiently busted deck to beat the gauntlet the game throws down at you.
+NM: assumed 1.0.0 white; runner pb 30m03s 
 
 Celeste Custom Maps: Monika's D-Sides (PC - Maddy Makes Games 2018; Monika523 2018)
 Dny%
 by carrarium [WRH]
 host Jaypeg, couch AverageImposter, Lmjacks
-HhMMmSSs (est 1h10m, wr 52m24s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h06m09s (est 1h10m, wr 52m24s igt)
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★★★☆
+Youtube uO7ERzPirdA
+Review: I had been feeling rather proud of myself for beating a few B-sides recently. I have not yet attempted any of the even-harder C-sides. The level pack calling itself D-sides? These are bullshit. These are absolute unmitigated bullshit and Carrie *annihilates* them. You should not be able to be this good at video games.
+
+Celeste Custom Maps: Monika's D-Sides (PC - Maddy Makes Games 2018; Monika523 2018)
+Epilogue Moon Berry
+by carrarium
+host Jaypeg, couch AverageImposter, Lmjacks
+HhMMmSSs (no est, no wr)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
 Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+Review: Less a speedrun, and more a walkthrough of the most absurdly difficult challenge in the mod. A good cap-off to the hour-plus of Celeste kaizo madness, but you'll want to have watched the main run first.
 
 Metroid Fusion (GBA - Nintendo R&D1 2002)
 100%
 by monkeysmb [2RH]
 host ateatree, couch KrunchyLex, mikefood
-HhMMmSSs (est 1h45m, wr 1h34m30s rta)
+1h37m08s (est 1h45m, wr 1h34m30s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube hxY21m8dNHk
 Review: (not yet reviewed)
 NM: assumed Normal; pb 1h03m00s igt
 
@@ -358,11 +379,11 @@ Poppy Playtime: Chapter 3 (PC - Mob 2024)
 Any% OoB Unrestricted
 by Nerd_Squared
 host ateatree, no couch
-HhMMmSSs (est 20m, wr 9m01s rta)
+11m39s (est 20m, wr 9m01s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Udlq7AXxn4A
 Review: (not yet reviewed)
 NM: runner pb 9m57s lrt
 
@@ -370,11 +391,11 @@ Alan Wake 2 (PS5 - Remedy 2023)
 Alan% (Initiation Only)
 by suavepeanut
 host ateatree, couch SweetPeebs
-HhMMmSSs (est 1h05m, no wr)
+56m36s (est 1h05m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube x35z8csQFAg
 Review: (not yet reviewed)
 NM: seems to be a new partial-game category for GDQ
 
@@ -386,14 +407,14 @@ HhMMmSSs (est 55m, wr 46m48s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 9fyHwP7H9yg
 Review: (not yet reviewed)
 
 Outlast 2 (PC - Red Barrels 2017)
 No Checkpoint Killing (Cutscene Skip)
 by sharkhat87 [WRH][ORH]
 host hockeybabbler, couch Nerd_Squared, sirkyle95
-HhMMmSSs (est 45m, wr 37m34s rta)
+34m14s (est 45m, wr 37m34s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -404,11 +425,11 @@ Maid of Sker (PS5 - Wales 2020)
 Console Glitchless (Bad Ending)
 by Asuka424 [2RH]
 host hockeybabbler, couch Eiko the Blue, Mouseshy
-HhMMmSSs (est 38m, wr 34m07s igt)
+37m27s (est 38m, wr 34m07s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 7jzNS1a7ytw
 Review: (not yet reviewed)
 NM: assumed Easy; pb 37m04s
 
@@ -416,7 +437,7 @@ Castlevania Legends (Switch - KCE Nagoya 1997, 2023)
 Any% (Standard Mode)
 by TempestMask1000
 host JD Puppy, couch Leonrecon2, LoZCardsfan23
-HhMMmSSs (est 33m, wr 19m06s)
+26m39s (est 33m, wr 19m06s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -428,7 +449,7 @@ Haunted Castle (PS4 - Konami 1987, 2016)
 1CC Attempt
 by LRock617
 host JD Puppy, couch Bobbeigh, Cypherin, Elipsis
-HhMMmSSs (est 15m, wr 10m39s)
+12m15s (est 15m, wr 10m39s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -440,19 +461,18 @@ Star Trek DS9: Crossroads of Time (SNES - Novotrade 1995)
 Any%
 by Sathdresh [2RH]
 host JD Puppy, no couch
-HhMMmSSs (est 36m, wr 31m05s)
+33m39s (est 36m, wr 31m05s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
-NM: pb 31m35s
 
 Terminator: SkyNET (DOS - Bethesda 1996)
 Any%
 by tbcr [WRH]
 host JD Puppy, no couch
-HhMMmSSs (est 18m, wr 12m31s)
+17m16s (est 18m, wr 12m31s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -463,7 +483,7 @@ Killing Time (Mac - Studio 3DO 1995, 1997)
 Good Ending
 by tbcr [WRH]
 host JD Puppy, no couch
-HhMMmSSs (est 40m, wr 30m20s)
+30m19s (est 40m, wr 30m20s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -475,7 +495,7 @@ Star Wars: The Force Unleashed (PC - LucasArts 2008)
 Any%
 by LifeL1ke [2RH]
 host JD Puppy, couch danejerus
-HhMMmSSs (est 20m, wr 11m43s lrt)
+23m17s (est 20m, wr 11m43s lrt)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -487,7 +507,7 @@ Virtual Boy Wario Land (Virtual Boy - Nintendo R&D1 1995)
 Any%
 by swordsmankirby [WRH]
 host JD Puppy, couch Allegro
-HhMMmSSs (est 22m, wr 17m20s igt)
+24m01s (est 22m, wr 17m20s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
