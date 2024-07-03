@@ -1,5 +1,5 @@
 ====================SUMMER GAMES DONE QUICK 2024=====================
-===========Raising $0,310,108 for Doctors Without Borders============
+===========Raising $0,457,616 for Doctors Without Borders============
 ========================June 30-July 6, 2024=========================
 
 -------------------------------SUNDAY--------------------------------
@@ -418,7 +418,7 @@ host hockeybabbler, couch Nerd_Squared, sirkyle95
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube a92nnlvcDLc
 Review: (not yet reviewed)
 
 Maid of Sker (PS5 - Wales 2020)
@@ -441,7 +441,7 @@ host JD Puppy, couch Leonrecon2, LoZCardsfan23
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube gCqC5gfGN58
 Review: (not yet reviewed)
 NM: used leaderboards for GB version, Switch might be different? pb for that version is 36m50s
 
@@ -453,7 +453,7 @@ host JD Puppy, couch Bobbeigh, Cypherin, Elipsis
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 8ZW6cvXIrVQ
 Review: (not yet reviewed)
 NM assumed normal; no record found
 
@@ -465,7 +465,7 @@ host JD Puppy, no couch
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube aFYvYf78PUc
 Review: (not yet reviewed)
 
 Terminator: SkyNET (DOS - Bethesda 1996)
@@ -476,20 +476,8 @@ host JD Puppy, no couch
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube sTiQfhowoVg
 Review: (not yet reviewed)
-
-Killing Time (Mac - Studio 3DO 1995, 1997)
-Good Ending
-by tbcr [WRH]
-host JD Puppy, no couch
-30m19s (est 40m, wr 30m20s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: used any%
 
 Star Wars: The Force Unleashed (PC - LucasArts 2008)
 Any%
@@ -499,9 +487,21 @@ host JD Puppy, couch danejerus
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 1TY6XwdIE7U
 Review: (not yet reviewed)
 NM: pb 10m07s igt
+
+Killing Time (Mac - Studio 3DO 1995, 1997)
+Good Ending
+by tbcr [WRH]
+host JD Puppy, no couch
+30m19s (est 40m, wr 30m20s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube ylNKL_x1V4k
+Review: (not yet reviewed)
+NM: used any%
 
 Virtual Boy Wario Land (Virtual Boy - Nintendo R&D1 1995)
 Any%
@@ -511,192 +511,186 @@ host JD Puppy, couch Allegro
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube mn8sDLYrlP0
 Review: (not yet reviewed)
 
 Dodo Peak (PC - Moving Pieces 2024)
 All Levels, NG+
 by Uncle Slam [WRH][ORH]
 host spef, couch Asuka424
-HhMMmSSs (est 29m, wr 23m50s)
+24m35s (est 29m, wr 23m50s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube dlnEknefglU
 Review: (not yet reviewed)
 NM: unreleased
 
 Ninja Gaiden (NES - Tecmo 1988)
-Any%
+Low%
 by The Retro Runner [WRH]
 host spef, couch Lozcardsfan, Slackanater
-HhMMmSSs (est 15m, wr 11m32s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+23m47s (est 20m, wr 12m08s)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube RgvNlJc87To
+Review: This was a fine run... up until it wasn't. Not WR pace, but smooth sailing up to the final boss, in this infamously hard game. And then - death. Restart the entire last level. Death again. And again. Doing even this took more skill in the game than I'll ever have, but it's not fun to watch.
 
 Little Samson (NES - Takeru 1992)
-Any% Easy (No Oob)
-by Ryan Ford
-host spef, couch stevetvonline
-HhMMmSSs (est 16m, wr 8m48s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 9m18s
+Any% Normal (No Oob) [INCENTIVE]
+by Ryan Ford [3RH]
+host spef, couch stevetvonline, StringBeanString
+17m35s (est 23m, wr 12m45s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube spL-pU3v5jk
+Review: An obscure NES gem getting a nice speedrun. Nothing too remarkable about it, just a fun, clean speedrun. Not everything *needs* something special.
 
 Mega Man X5 (PS1 - Capcom Studio 3 2000)
 Any%
-by Starwin
-host spef, couch Giygasblues, slurpeeninja
-HhMMmSSs (est 27m, wr 48m32s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+by Starwin [3RH]
+host spef, couch Giygasblues, slurpeeninja, UltraUberness
+25m35s (est 27m, wr 20m02 rta)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube y3k0ZRjU_kU
+Review: This is what happens when running gags trip. Far too much time was given over to lolrandom humor, and even the lack of proper game commentary became a subject for jokes. But I didn't find any of them funny. Kind of a shame, a Mega Man game that cuts out the repeated fights could have been pretty interesting.
 
 Mega Man 4 (NES - Capcom 1991)
 Any%
 by ColonelFatso [3RH]
-host lydlbutton, no couch
-HhMMmSSs (est 43m, wr 36m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 37m08s
+host lydlbutton, couch COUCH
+38m47s (est 43m, wr 36m58s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube hRXCxXIGkVY
+Review: A pretty straightforward Mega Man run. No big clips or exploits, just playing the game well to go fast. The commentary suffered a bit from a forced running gag, but did enough actual explaining to keep the run engaging.
 
 Sunset Riders (SNES - Konami 1991, 1993)
 Beat the Game (Co-op) - Normal
 coop by JaekRock, Space Coast Gaming [WRHs]
 host lydlbutton, couch JohnnyGo, TheRetroRunner
-HhMMmSSs (est 25m, wr 18m47s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+19m29s (est 25m, wr 18m47s)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
+Youtube CN_ULNJiduc
+Review: A pretty basic coop run-and-gun, not much speed tech besides "not dying" and "knowing where enemies will spawn". So Team Space Rock brought out the big guns with the gimmicks - costumes, fake accents, the whole song and dance routine. It's like a sneak preview of Silly Block.
 
-Chibi-Robo! (Gamecube via Wii - Skip 2005)
+Chibi-Robo! (Wii - Skip 2005)
 1v1 Lockout Bingo Race
-race by Kobazco, Jaxler
-host lydlbutton, couch shovelclaws, SingleScoop
-HhMMmSSs (est 1h10m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+race Kobazco vs Jaxler
+host lydlbutton, couch shovelclaws, SingleScoop, Haxxi
+58m08s (est 1h10m, no wr)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube Ej0BxAQb-aA
+Review: Not the easiest thing to follow - Chibi-Robo is sort of a genre unto itself - but the commentary and visual aids keep you in the loop. And between the game's novelty, and lockout bingo focusing on arbitrary goals, watching is a very unique experience.
 
 Katamari Forever (PS3 - Genki 2009)
 All Goals (Any)
-by Harutomo [WRH]
-host Nichole Goodnight, couch Enzor_AU
-HhMMmSSs (est 1h00m, wr 53m06s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+by Harutomo [WRH][REM]
+host Nichole Goodnight, couch Enzor_AU [REM]
+54m45s (est 1h00m, wr 53m06s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube Ibve2lAKvdU
+Review: It's Katamari. That's really the biggest factor in whether you'll like this or not. Going remote (especially with a non-English-fluent runner) made it less connected, but solo commentary while the runner focuses on the game is also a fine way to do a run.
 
 Blazing Chrome (PC - JoyMasher 2019)
 Arcade Mode (Normal) - Gun
-by Kirthar [2RH]
-host Nichole Goodnight, couch PoloDX
-HhMMmSSs (est 30m, wr 21m07s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 21m08s igt, 23m41s rta
+by Kirthar [2RH][REM]
+host Nichole Goodnight, couch PoloDX [REM]
+25m30s (est 30m, wr 21m07s igt)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube I17h2SGc4_Q
+Review: A nifty-looking run-and-gun, in the vein of a spruced-up Contra, and no glitches I can remember, just smooth shooting. If that sounds interesting, give this a shot, it's only half an hour.
 
 Astral Chain (Switch - PlatinumGames 2019)
 Any％
-by Ratyu [WRH]
-host Nichole Goodnight, couch Kap, Shemcat [3RH]
-HhMMmSSs (est 45m, wr 33m25s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+by Ratyu [WRH][REM]
+host Nichole Goodnight, couch Kap [REM], Shemcat [3RH][REM]
+41m02s (est 45m, wr 33m25s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube pfefm1qyiY0
+Review: A run entirely based on a particular glitch to outright skip 90% of the game, that isn't particularly easy to understand or explain. There's other tricks, and some ordinary combat execution, but that's the core of the run.
 
 Quake II Enhanced (PC - id 1997; Nightdive 2023)
 N64 Maps - Easy - 100% Kills/100% Secrets
-by Greenalink [WRH]
-host Nichole Goodnight, couch the_kovic
-HhMMmSSs (est 38m, wr 30m22s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+by Greenalink [WRH][REM]
+host Nichole Goodnight, couch the_kovic [REM]
+34m31s (est 38m, wr 30m22s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube TGCmGvFRCNo
+Review: A run unfortunately hampered by technical problems. The runner's PC ran slower than normal, causing some issues executing certain tricks. Others were due to being remote, the commentator and host talking over each other. Despite that, it's still a pretty interesting speedrun - part collectathon, part shooter.
 
 Dishonored (PC - Arkane 2012)
 Glitchless
-by FOK [3RH]
-host Nichole Goodnight, couch lurven [WRH]
-HhMMmSSs (est 30m, wr 35m28s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 36m31s lrt
+by FOK [3RH][REM]
+host Nichole Goodnight, couch lurven [WRH][REM]
+27m21s (est 30m, wr 35m28s lrt)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube IrP7SP6Y5JY
+Review: "Glitchless" does not mean "as intended". The focus is so much on blinking about the map like a hummingbird on crack, that the last few levels are done pacifist simply because it's faster than picking up your weapons again. But wow, it's an impressive feat of movement.
 
 Like A Dragon Gaiden: The Man Who Erased His Name (PC - Ryu Ga Gotoku 2023)
 Any%
 by tapioca [3RH]
 host Bobby Blackwolf, couch pmcTrilogy, safesea
-HhMMmSSs (est 1h30m, wr 1h20m49s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 1h14m14s lrt
+1h25m42s (est 1h30m, wr 1h20m49s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube l7J09wrJbjs
+Review: A more gameplay-focused commentary than we've gotten before, in Yakuza runs. Perhaps not the greatest choice - the combat tech leans heavily on a few powerful moves - but it's done with enough vibrancy to keep you engaged through the ninety-minute run. Though - much like the game itself - perhaps more aimed at series longtimers than at newcomers.
 
 Mass Effect 2 (PC - Bioware 2010)
-Any% NG+
-by Sanjan [2RH]
+No One Left Behind NG+
+by Sanjan [WRH]
 host Bobby Blackwolf, couch Corvimae, MikeWave
-HhMMmSSs (est 1h08m, wr 1h02m26s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: maybe remaster?
-NM: pb 1h02m32s lrt
+1h14m02s (est 1h18m, wr 1h10m38s rta)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube R781Wf6E6aw
+Review: It's a very broken run, this. Two broken weapons (and a busted trick) to blaze through the combat, though not without risk. Frequent though not universal out-of-bounds or other glitches. And then some routing to make sure every party member survives the suicide mission (accompanied by some prop comedy).
 
 Outer Wilds (PC - Mobius 2019)
 100% Base Game Shipless
 by ptminsker [WRH]
-host Mr. Game and Shout, couch Brungo, Jeffrey Yu, Toesty
-HhMMmSSs (est 1h15m, wr 49m19s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host Mr. Game and Shout, couch Brungo, Jeffrey Yu [DEV], Toesty [DEV]
+1h16m07s (est 1h15m, wr 49m19s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube M1wD9R5LJV8
+Review: Not as much of a non-sequitur as it sounds - if you've played more than 100 hours of Kerbal, go ahead and give this a shot. The shipless category means doing orbit transfers and high-speed docking with just spacesuit thrusters and excessive recoil. It's ridiculous and I am *here* for it. Plus, some juicy deets from devs on the couch.
 
 Undertale Yellow (PC - TeamUTY 2016)
-True Pacifist
-by KyoshiCadre [WRH]
+All Golden Items [INCENTIVE]
+by KyoshiCadre
 host Mr. Game and Shout, couch AstrasEvolution, Shayy, WooffleDee
-HhMMmSSs (est 1h17m, wr 1h09m49s)
+1h21m20s (est 1h17m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube _lXTH-tKgog
 Review: (not yet reviewed)
+NM: Was True Pacifist, seems to now be both?
 
 ------------------------------WEDNESDAY------------------------------
 
@@ -704,11 +698,11 @@ My Friendly Neighborhood (PC - Szymanski Bros 2023)
 CEO%
 by Slyton [WRH]
 host Kungfufruitcup, couch danejerus, John Szymanski [DEV], Nerd_Squared
-HhMMmSSs (est 38m, wr 32m16s)
+36m32s (est 38m, wr 32m16s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube -B2SnfA-zlQ
 Review: (not yet reviewed)
 NM: assumed NMG Normal No Cheats
 
@@ -716,7 +710,7 @@ Lufia II: Rise of the Sinistrals (SNES - Neverland 1995)
 Any% NMG No Manip
 by puwexil
 host Kungfufruitcup, hockeybabbler, no couch
-HhMMmSSs (est 4h20m, wr 3h51m15s)
+4h16m50s (est 4h20m, wr 3h51m15s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -727,13 +721,12 @@ Gunbrella (PC - Doinksoft 2023)
 Any%
 by Ozmourn [3RH]
 host hockeybabbler, couch allison8bit, blackheartwings, Zic3
-HhMMmSSs (est 1h00m, wr 54m09s)
+1h01m45s (est 1h00m, wr 54m09s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
-NM: pb 55m29s
 
 Sly 3: Honor Among Thieves (PS3 - Sucker Punch 2005, 2010)
 Episode 1
