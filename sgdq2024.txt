@@ -1,5 +1,5 @@
 ====================SUMMER GAMES DONE QUICK 2024=====================
-===========Raising $1,957,915 for Doctors Without Borders============
+===========Raising $2,547,330 for Doctors Without Borders============
 ========================June 30-July 6, 2024=========================
 
 -------------------------------SUNDAY--------------------------------
@@ -45,7 +45,7 @@ host Bobby Blackwolf, couch Giygasblues, LVCreed, Starwin
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube iInfXtKA468
+Youtube iInfXtKA468+2599
 Review: A quick special stage run, won't make much sense without watching the main MM9 run. Not because they explained all the tech there, just because that's where all the running jokes started.
 
 Ratchet & Clank (PS2 via PS3 - Insomniac 2002)
@@ -62,7 +62,7 @@ Review: The neat thing here is the sheer variety of movement tech on display. It
 Splatoon 3: Side Order (Switch - Nintendo EPD 2022, 2024)
 NG+ (Marie's Palette)
 by TonesBalones
-host Bobby Blackwolf, no couch
+host Bobby Blackwolf, couch KingJ0444
 28m43s (est 30m, wr 17m23s rta)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
@@ -144,7 +144,7 @@ NM: pb 31m51s
 Afterimage (PC - Aurogon Shanghai 2023)
 The Essential Restricted/NMG
 by kurushiidrive [WRH][ORH]
-host SporadicErratic, no couch
+host SporadicErratic, couch Helix
 51m55s (est 1h15m, wr 48m07s rta)
 Overall N/R
 Skill   N/R
@@ -167,7 +167,7 @@ NM: pb 17m03s
 Shinobi (PS2 - Overworks 2002)
 Moritsune Any% Normal
 by Cypherin
-host SporadicErratic, couch Brutal Melo, DECosmic, GrimShins
+host SporadicErratic, couch Brutal Melo, DECosmic, PleasantlyTwstd
 1h03m33s (est 1h10m, wr 57m30s)
 Overall N/R
 Skill   N/R
@@ -190,7 +190,7 @@ Review: (not yet reviewed)
 Live A Live (PC - Square Enix 2022)
 Twilight of Edo Japan, Present Day, Prehistory
 by bramhallthefifth
-host THEKyleThomas, couch TempestMask1000
+host THEKyleThomas, couch TempestMask1000, CountGooby
 49m04s (est 45m, no wr)
 Overall N/R
 Skill   N/R
@@ -273,7 +273,7 @@ NM: recheck time the actual run ended, went straight into the bonus stuff
 Sonic Robo Blast 2 (PC - Sonic Team Junior 1998)
 Sonic - All Emeralds
 by Argick
-host Kungfufruitcup, Ginnja, Bobbeigh, TinyTim
+host Kungfufruitcup, couch Ginnja, Bobbeigh, TinyTim
 36m06s, 32m44s igt (est 40m, wr 28m56s igt)
 Overall ★★★☆☆
 Skill   ★★★☆☆
@@ -378,7 +378,7 @@ NM: assumed Normal; pb 1h03m00s igt
 Poppy Playtime: Chapter 3 (PC - Mob 2024)
 Any% OoB Unrestricted
 by Nerd_Squared
-host ateatree, no couch
+host ateatree, couch Slyton
 11m39s (est 20m, wr 9m01s rta)
 Overall N/R
 Skill   N/R
@@ -390,7 +390,7 @@ NM: runner pb 9m57s lrt
 Alan Wake 2 (PS5 - Remedy 2023)
 Alan% (Initiation Only)
 by suavepeanut
-host ateatree, couch SweetPeebs
+host ateatree, couch SweetPeebs, AstridTheHorrorGirl
 56m36s (est 1h05m, no wr)
 Overall N/R
 Skill   N/R
@@ -436,7 +436,7 @@ NM: assumed Easy; pb 37m04s
 Castlevania Legends (Switch - KCE Nagoya 1997, 2023)
 Any% (Standard Mode)
 by TempestMask1000
-host JD Puppy, couch Leonrecon2, LoZCardsfan23
+host JD Puppy, couch Leonrecon2, LoZCardsfan23, Cypherin
 26m39s (est 33m, wr 19m06s)
 Overall N/R
 Skill   N/R
@@ -460,7 +460,7 @@ NM assumed normal; no record found
 Star Trek DS9: Crossroads of Time (SNES - Novotrade 1995)
 Any%
 by Sathdresh [2RH]
-host JD Puppy, no couch
+host JD Puppy, couch Cypherin, Xytoriak
 33m39s (est 36m, wr 31m05s)
 Overall N/R
 Skill   N/R
@@ -482,7 +482,7 @@ Review: (not yet reviewed)
 Star Wars: The Force Unleashed (PC - LucasArts 2008)
 Any%
 by LifeL1ke [2RH]
-host JD Puppy, couch danejerus
+host JD Puppy, couch danejerus, ripchip
 23m17s (est 20m, wr 11m43s lrt)
 Overall N/R
 Skill   N/R
@@ -529,7 +529,7 @@ NM: unreleased
 Ninja Gaiden (NES - Tecmo 1988)
 Low%
 by The Retro Runner [WRH]
-host spef, couch Lozcardsfan, Slackanater
+host spef, couch Lozcardsfan, Slackanater, Aquas
 23m47s (est 20m, wr 12m08s)
 Overall ★☆☆☆☆
 Skill   ★☆☆☆☆
@@ -709,7 +709,7 @@ NM: assumed NMG Normal No Cheats
 Lufia II: Rise of the Sinistrals (SNES - Neverland 1995)
 Any% NMG No Manip
 by puwexil
-host Kungfufruitcup, hockeybabbler, no couch
+host Kungfufruitcup, hockeybabbler, couch dowolf, Gyre
 4h16m50s (est 4h20m, wr 3h51m15s)
 Overall N/R
 Skill   N/R
@@ -753,7 +753,7 @@ Review: A pretty straightforward stealthy-action run, no big technical glitches 
 Void Stranger (PC - System Erasure 2023)
 True Ending (Lillie, No Special Brands)
 by Spirialis [WRH]
-host selcouthmind, couch aco, koralreef
+host selcouthmind, couch aco, koralreef, Evansfight
 33m58s (est 35m, wr 28m52s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
@@ -764,7 +764,7 @@ Review: A very weird sort of game - it has many of the vibes of a heavily-glitch
 Kirby Air Ride (Gamecube via Wii - HAL Laboratory 2003)
 Air Ride All Tracks
 race 1davidj [2RH] vs Pearstrike [3RH]
-host selcouthmind, no couch
+host selcouthmind, couch mook, thrice
 20m14s, 20m19s (est 21m, wr 16m57s igt)
 Overall ★★★☆☆
 Skill   ★★☆☆☆
@@ -826,7 +826,7 @@ host Lanaruse, couch JohannVonVorst, Pr0tal
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube t7a5Tlqol9g
+Youtube i7LD4BrEvGg
 Review: Source-engine madness at its best. Bhopping, Ahopping, door clips, yesclipping, the gang's all here. The race was not so competitive, and the commentary leaned heavily towards inside baseball, so it's maybe not the best entry point to Half-Life speedrunning, but it should still be a fun watch for outsiders.
 
 Super "Sonic Saves the World" World (SNES - Nintendo EAD 1990; YMM 2023)
@@ -881,7 +881,7 @@ host Argick, couch gwonkee, MrSir71
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube hDIc5Bol5wU
 Review: A bonus run of the hardest single level. If you sank eighty minutes into the main course, this is an easy dessert, but it'll make a poor appetizer I think.
 
 Destiny (Xb1 - Bungie 2014) [BONUS GAME 2]
@@ -929,6 +929,8 @@ Skill   N/R
 Fun     N/R
 Youtube iOIp7S_TTsw
 Review: (not yet reviewed)
+
+[[[SILLY BLOCK]]]
 
 Golf It! (PC - Perfuse 2017)
 Wrong Hole Only
@@ -1039,7 +1041,7 @@ host SporadicErratic, couch Brandino
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube https://youtu.be/MBkh92xaD9M
+Youtube MBkh92xaD9M
 Review: (not yet reviewed)
 
 SUSHI SOUL UNIVERSE (PC - Kusoisaito 2023)
@@ -1070,12 +1072,14 @@ Stuart Little 2 (PS1 - Magenta 2002)
 Any%
 by Jaxler [3RH]
 host Quacksilver, couch Helix, Kobazco, Nestani
-35m56s (est 40m, wr HhMMmSSs)
+35m56s (est 40m, wr 33m33s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YAx-sIvW7kw
 Review: (not yet reviewed)
+
+[[[/SILLY BLOCK]]]
 
 Jitsuroku Powerful Yakyuken Slugger Yamada (PC - Digimecha 2023)
 All Levels
@@ -1114,7 +1118,7 @@ Review: (not yet reviewed)
 Mario Kart DS (DS - Nintendo EAD 1 2005)
 32 Tracks
 by Abel [WRH]
-host Jaidlyn, no couch
+host Jaidlyn, couch MikeyLORR, puddings
 53m44s (est 55m, wr 52m15s)
 Overall N/R
 Skill   N/R
@@ -1163,7 +1167,7 @@ host Jaidlyn, no couch
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube L0kVR9AIQqA+1805
 Review: (not yet reviewed)
 
 Halo 3 (PC - Bungie 2007, 343 Industries 2014, 2019)
@@ -1204,7 +1208,7 @@ Review: (not yet reviewed)
 Castlevania: Symphony of the Night (Xb360 - KCE Tokyo 1997, 2007)
 Reverse Boss Order
 by Dr4gonBlitz [WRH]
-host Xenadir, no couch
+host Xenadir, couch adef, CavemanDCJ
 1h02m38s (est 1h10m, wr 57m51s) [NV]
 Overall ★★★☆☆
 Skill   ★★★☆☆
@@ -1215,7 +1219,7 @@ Review: Just a crazy run. Tons of glitches needed just to make it possible, with
 Kingdom Hearts 2 Final Mix HD (PC - Square Enix PD1 2005, 2007, 2014; Alvaro 2020)
 Critical Any% (PC Modded)
 by ninten866
-host lydlbutton, couch SpikeVegeta
+host lydlbutton, couch SpikeVegeta, Jhobz, thar_c1
 2h30m20s (est 2h35m, wr 2h13m33s)
 Overall N/R
 Skill   N/R
@@ -1273,7 +1277,7 @@ NM: assumed Glitched
 Fire Emblem: The Sacred Stones (GBA - Intelligent Systems 2004)
 Ephraim Route
 by Nestani [3RH]
-host spef, no couch
+host spef, couch PleasantlyTwstd
 1h14m44s (est 1h25m, wr 1h03m06s)
 Overall N/R
 Skill   N/R
@@ -1283,10 +1287,10 @@ Review: (not yet reviewed)
 NM: pb 1h06m59s rta
 
 Nickelodeon All-Star Brawl 2 (PC - Fair Play Labs 2023)
-Campaign (New Game+) [BIDWAR]
+Campaign (NG+) - Garfield [BIDWAR]
 by limy
 host spef, couch Helix, Kobazco
-24m45s (est 27m, wr HhMMmSSs)
+24m45s (est 27m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1319,7 +1323,7 @@ Review: (not yet reviewed)
 The Legend of Zelda: A Link to the Past (SNES - Nintendo EAD 1991)
 All Dungeons (Swordless)
 by Glan
-host Char_bunny, couch Chexhuman
+host Char_bunny, couch Chexhuman, twin
 1h13m06s (est 1h00m, wr 47m57s)
 Overall ★★★☆☆
 Skill   ★★★☆☆
@@ -1346,9 +1350,8 @@ host savage_octagon, no couch
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube uNeIyEgeEBY+975
+Youtube uNeIyEgeEBY+962
 Review: Just what this run needed, even more chaos. It's a bit of a mess, but not an unenjoyable one.
-TODO: confirm good timestamp, this is a quick dirty one
 
 The Legend of Zelda: Twilight Princess (Wii - Nintendo EAD 2006; AECX, lunarsoap5, et al 2023)
 Co-op Randomizer
@@ -1364,7 +1367,7 @@ Review: One of 3D Zelda's greatest, teamed up with the most engaging goofball in
 Super Mario Bros. (NES - Nintendo EAD 1985)
 Any%
 by GTAce
-host Argick, no couch
+host Argick, couch adef
 5m23s (est 6m, wr 4m54s)
 Overall ★★★★☆
 Skill   ★★★★☆
@@ -1391,7 +1394,7 @@ host Argick, couch taliasr, Wed
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube XuzAVXp6pUk+1036
 Review: A pretty quick bonus run, too short to really explain itself. But the base run was short enough, this is an extension worth watching.
 
 Yellow Taxi Goes Vroom (PC - Panik Arcade 2024)
@@ -1408,7 +1411,7 @@ Review: A neat little oddball of a game getting a race, but the game kind of shi
 Evil Zone (PS1 - Yuke's Future 1999)
 Tournament Finals
 competition, Tainam0 vs Alymra vs CavemanDCJ vs Cane
-host Argick, couch - Dr4gonBlitz, bryonato
+host Argick, couch Dr4gonBlitz, bryonato
 ~1h10m (est 50m, no wr - showcase)
 Overall ★★★☆☆
 Skill   ★★★☆☆
@@ -1546,7 +1549,7 @@ Review: (not yet reviewed)
 Gravity Circuit (PC - Domesticated Ant 2023)
 Any% Normal Mode
 by GaussMkII
-host musical_daredevil, couch Gordon Ramsay, Stelmo
+host musical_daredevil, couch Gordon Ramsay, Stelmo, TempestMask1000
 48m42s (est 53m, wr 44m33s rta)
 Overall N/R
 Skill   N/R
@@ -1663,9 +1666,9 @@ Overall ★★★★☆
 Skill   ★★★★★
 Fun     ★★★★☆
 Youtube AN8Gr0C6MZI
-Review: (not yet reviewed)
+Review: The granddaddy of speed games, gets a proper race for the first time in a while. And what a race! It wasn't always the closest, but commentators did a great job pointing out where competitors were gaining on each other, made for a thrilling ride.
 
-Super Mario Maker 2 (Switch - Nintendo EPD 2019, levels TODO) [BONUS GAME 4]
+Super Mario Maker 2 (Switch - Nintendo EPD 2019) [BONUS GAME 4]
 Troll Level Race
 race, CarlSagan42 vs juzcook
 host Char_bunny, couch jneen, Marble
@@ -1673,63 +1676,39 @@ host Char_bunny, couch jneen, Marble
 Overall ★★★☆☆
 Skill   ★☆☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube MKK4fN_8xdk
 Review: The whole point of a troll level is to make the player look like an idiot. So they're not so much the stars of the show, as the butt of the joke - with the skill being entirely on the level creator's side. Fortunately we had some good work on the couch, to try to explain what was going on.
+TODO: get level creator names
 
 Elden Ring (PC - From 2022)
 Any% Glitchless
 by blanxz
-host Brutal Melo, couch Mitchriz, spicee
-HhMMmSSs (est 1h25m, wr 54m40s)
+host Brutal Melo, couch Mitchriz, spicee, LilAggy
+1h10m42s (est 1h25m, wr 54m40s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube HxfaFmhzUno
 Review: (not yet reviewed)
-NM: pb 56m27s
+
+Elden Ring (PC - From 2022)
+Shadow of the Erdtree - Messmer Showcase
+by blanxz
+host Brutal Melo, couch Mitchriz, spicee, LilAggy
+26m06s (est 30m, no wr - showcase)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube fhY7L1y4HgU
+Review: (not yet reviewed)
 
 Super Mario RPG Remake (Switch - Square 1996, ArtePiazza 2023)
 Normal RTA
 by V0oid [WRH]
 host Xenadir, couch Iceblue, pidgezero_one, SpikeVegeta
-HhMMmSSs (est 2h45m, wr 2h30m44s)
+2h38m18s (est 2h45m, wr 2h30m44s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-
-
-
-GAME (PLATFORM - DEVELOPER YEAR)
-CATEGORY
-by RUNNER
-host HOST, couch COUCH
-HhMMmSSs (est HhMMm, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-
-Portal Reversed Map Order (PC - Valve 2007, MyrolTwitch 2017)
-Glitchless
-by zoreo
-host savage_octagon, couch COUCH
-HhMMmSSs (est 12m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-
-Ecco: The Tides of Time (Genesis - Novotrade 1994)
-Any%
-by GrimShins [WRH]
-host selcouthmind, no couch
-HhMMmSSs (est 35m, wr 32m05s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
+Youtube z4AK3G4c2B4
 Review: (not yet reviewed)
