@@ -132,14 +132,13 @@ Review: (not yet reviewed)
 Silent Hill (PS2 - Team Silent 1999)
 NG All Bosses
 by DeathTropes [2RH]
-host TheKingsPride, no couch
+host TheKingsPride, couch maxylobes, juh0, shmumbler
 54m36s (est 58m, wr 31m43s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube fx0AWkDrI7E
-Review: (not yet reviewed)
-NM: pb 31m51s
+Review: As a speedrun, it's nothing too special, a lot of just walking in straight lines, but DeathTropes executes it well. The banter, though, really shined - even if the shouting 'Cheryl' jokes wear thin for you, there's plenty of other good chemistry.
 
 Afterimage (PC - Aurogon Shanghai 2023)
 The Essential Restricted/NMG
@@ -165,16 +164,15 @@ Review: (not yet reviewed)
 NM: pb 17m03s
 
 Shinobi (PS2 - Overworks 2002)
-Moritsune Any% Normal
-by Cypherin
+Joe Musashi Any% Normal [INCENTIVE]
+by Cypherin [2RH]
 host SporadicErratic, couch Brutal Melo, DECosmic, PleasantlyTwstd
-1h03m33s (est 1h10m, wr 57m30s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h03m33s (est 1h15m, wr 43m55s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube groWT2O3cdY
-Review: (not yet reviewed)
-NM: runner not ranked?
+Review: A pretty straightforward play-game-good run, but it's impressively clean and the couch is having a great time, between detailing all the little optimizations that go into it.
 
 NecroVisioN: Lost Company (PC - Farm 51 2010)
 Any%
@@ -366,12 +364,11 @@ Metroid Fusion (GBA - Nintendo R&D1 2002)
 by monkeysmb [2RH]
 host ateatree, couch KrunchyLex, mikefood
 1h37m08s (est 1h45m, wr 1h34m30s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
 Youtube hxY21m8dNHk
-Review: (not yet reviewed)
-NM: assumed Normal; pb 1h03m00s igt
+Review: A ridiculously clean run, nailing trick after trick after trick. And then some hilarious roasting between runner and couch and occasionally donators. Truly an excellent run.
 
 -------------------------------TUESDAY-------------------------------
 
@@ -380,12 +377,11 @@ Any% OoB Unrestricted
 by Nerd_Squared
 host ateatree, couch Slyton
 11m39s (est 20m, wr 9m01s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube Udlq7AXxn4A
-Review: (not yet reviewed)
-NM: runner pb 9m57s lrt
+Review: This is one that will surely impress players of the series, since the game gets absolutely destroyed. But it offers little to us outsiders - the tech is just basic prop-flying to out of bounds, there's a long (relatively) autoscroller, and not enough time for any of the lore I assume this lite horror game must have. It's cleanly executed, but not impressive.
 
 Alan Wake 2 (PS5 - Remedy 2023)
 Alan% (Initiation Only)
@@ -437,13 +433,12 @@ Castlevania Legends (Switch - KCE Nagoya 1997, 2023)
 Any% (Standard Mode)
 by TempestMask1000
 host JD Puppy, couch Leonrecon2, LoZCardsfan23, Cypherin
-26m39s (est 33m, wr 19m06s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+26m39s (est 33m, wr 19m06s) [PB]
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube gCqC5gfGN58
-Review: (not yet reviewed)
-NM: used leaderboards for GB version, Switch might be different? pb for that version is 36m50s
+Review: This run, I think, tried to do too many things. It tried to be a deep, technical run, with lots of commentary, though it didn't seem that complex. It also piled on meme after meme - shouting "orb!", doing the Colossus scream from X-Men, all that. And then it also spent a lot of time trying to be a solemn commemoration. And all of those kept running over each other - tech explainers getting cut off by hollering, then abruptly cutting to a dedication. And to top it all off, this wasn't even that interesting as a speedrun - the best part was the novelty of a Game Boy classicvania, which didn't get touched on enough IMO. Castlevania fans will probably still enjoy this, but I can't say I did.
 
 Haunted Castle (PS4 - Konami 1987, 2016)
 1CC Attempt
@@ -504,15 +499,15 @@ Review: (not yet reviewed)
 NM: used any%
 
 Virtual Boy Wario Land (Virtual Boy - Nintendo R&D1 1995)
-Any%
+100% [INCENTIVE]
 by swordsmankirby [WRH]
 host JD Puppy, couch Allegro
-24m01s (est 22m, wr 17m20s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+24m01s (est 25m, wr 20m27s igt)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube mn8sDLYrlP0
-Review: (not yet reviewed)
+Review: Obviously the draw here is the novelty of the console - this is just the second Virtual Boy run, and the first in-person. But beneath that, it's a solid platformer, not the most technical or demanding, but fluid in motion. It's got a bit too much downtime to be a must-watch, but it's worth seeing for reasons beyond just "is a Virtual Boy game".
 
 Dodo Peak (PC - Moving Pieces 2024)
 All Levels, NG+
@@ -937,11 +932,11 @@ Wrong Hole Only
 race blondkayvon vs Gondor vs Jaypeg
 host PippyInATopHat, couch happybythree
 20m03s (est 30m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★★
 Youtube xBgPMc6yOr4
-Review: (not yet reviewed)
+Review: Easily some of the funniest commentary in GDQ history. It's a good thing I only caught this on VOD, because I had to keep pausing to laugh.
 
 Monster Party (NES - Human Entertainment 1989)
 Any%
@@ -958,14 +953,13 @@ NM: pb 15m42s
 Birds Aren't Real: The Game (PC - USC Games 2023)
 Any%
 by allison8bit
-host PippyInATopHat, couch BystanderTim, Quacksilver
+host PippyInATopHat, couch BystanderTim, Quacksilver as "Deep Chirp"
 7m14s (est 9m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube s020frfHrk0
-Review: (not yet reviewed)
-NM: multiple games on steam called "Bird's Aren't Real", but think this is correct
+Review: You've got to *commit* to the bit. They had all the ingredients for a Silly Block standout - costumes, props, running gags. They just didn't go hard enough with them, to earn full-on guffaws. Chuckles, sure, you probably won't *dislike* this run. It's just not one of the better runs in the block, this year.
 
 Arzette: The Jewel of Faramore (PC - Seedy Eye 2024)
 Any% Casual
@@ -983,11 +977,11 @@ Any%
 by Konception
 host PippyInATopHat, couch PrincessAshfire, sharif, swooce
 13m15s (est 16m, wr 12m07s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube wN8ou31x-jU
-Review: (not yet reviewed)
+Review: Some games are fun to watch played well, because they have such high skill ceilings that reward better and better skill. This is not one of those. The platforming is downright terrible - it's been in Awful Block before - but Kon (just Kon, for this run) gets through it well. It's mostly just an excuse to make silly jokes, though.
 
 Mad Panic Coaster (PS1 via PS2 - Hakuhodo 1997)
 Any%
@@ -1003,13 +997,13 @@ Review: (not yet reviewed)
 Muscle March (Wii - Namco Bandai 2009)
 All Levels
 by juh0 [WRH]
-host SporadicErratic, no couch
+host SporadicErratic, couch Ecdycis, Shmumbler, Starwin
 15m05s (est 18m, wr 14m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
 Youtube NlRi7N0vNaQ
-Review: (not yet reviewed)
+Review: An absurdist Wiiware title, pretty much an autoscroller as far as the speedrun goes, but the couch antics are on point.
 
 City Bus Driver Simulator (PC - Atomic Fabrik 2022)
 Any%
@@ -1062,11 +1056,11 @@ Zoombinis (PC - TERC 2015)
 by Amyrlinn
 host Quacksilver, no couch
 16m57s (est 13m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube U3e27Adc9wM
-Review: (not yet reviewed)
+Review: Speedrunning an edutainment game? It's got some novelty factor to it, but I guess I'm a bit too old to remember this one from school. Probably a fun time if you do, though.
 
 Stuart Little 2 (PS1 - Magenta 2002)
 Any%
@@ -1139,14 +1133,14 @@ Review: (not yet reviewed)
 
 Tetris The Grand Master (Switch - Arika 1998, 2022)
 Master Mode
-by AraneaCharlotte
-host Jaidlyn, couch margot
-14m05s (est 15m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by AraneaCharlotte [REM]
+host Jaidlyn, no couch
+14m05s (est 15m, no wr?) [NF]
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube xE71ZIJKNEw
-Review: (not yet reviewed)
+Review: High-level tetris play is impressive to watch. TGM is one of the better variants of the game for that lightning-fast, smooth gameplay. This? Wasn't it. The intended run imploded - the speed strats are inherently risky - and the back half was just showing off 20G mode. My biggest complaint was actually the host - cutting off the runner's explanation, then delivering a long ad read over the most critical moment of the run.
 
 Rabbit and Steel (PC - mino_dev 2024)
 4P Hard Showcase
@@ -1185,14 +1179,13 @@ NM: pb 1h09m08s
 Ken Griffey, Jr. Presents Major League Baseball (SNES - Software Creations 1994)
 Win A Game
 by JSR_, Peanut Butter (🐶)
-host Lanaruse, couch Gruntiatus, SpikeVegeta, Threach
+host Lanaruse, couch Gruntiatus, Threach
 29m48s (est 30m, human wr 10m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆★☆★
+Fun     ★★★☆☆
 Youtube m2FZKJ4QBdA
-Review: (not yet reviewed)
-NM: JSR pb 10m41s, PB pb 21m22s
+Review: I probably didn't need to review this one, because you already know whether you want to watch this, based purely on how much you like dogs. This is a shameless novelty run, and that's fine. But to analyze it - a dog playing Gyromite worked, because the game was built around commanding a somewhat recalcitrant partner (R.O.B.). Baseball, felt a bit more like JSR was playing the game, via a very laggy and inconsistent controller. I'll give them points for the baseball theatrics, but whether that will carry the run for you is hard to say. It was, at least, more fun to watch than *actual* baseball.
 
 Sekiro: Shadows Die Twice (PC - From 2019)
 Hitless Any%
@@ -1221,11 +1214,11 @@ Critical Any% (PC Modded)
 by ninten866
 host lydlbutton, couch SpikeVegeta, Jhobz, thar_c1
 2h30m20s (est 2h35m, wr 2h13m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube ftBkv6qmyus
-Review: (not yet reviewed)
+Review: It's not much you haven't seen, if you've seen previous Kingdom Hearts runs. But it's also a really good iteration of those runs. Smooth but detailed commentary, a mod to cut out autoscrollers, clean execution. It's not as rambunctious as some runs, perhaps, but it keeps the focus on the speedrun.
 
 -------------------------------FRIDAY--------------------------------
 
@@ -1267,12 +1260,22 @@ All Main Quests
 by musical_daredevil
 host spef, couch AlecK47, Forrest, Zebogo
 22m34s (est 26m, wr 16m50s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube ky0u39JoDL0
-Review: (not yet reviewed)
-NM: assumed Glitched
+Review: This game frequently gets busted, just playing it casually. As a speedrun? It gets sledgehammered. By the end, it's basically just noclipping to murder everyone that needs murdering. It's hilarious - but still not easy to pull off.
+
+The Elder Scrolls III: Morrowind (PC - Bethesda 2002)
+Any% [BONUS]
+by musical_daredevil
+host spef, couch AlecK47, Forrest, Zebogo
+3m35s (est 4m, wr 2m50s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube ky0u39JoDL0+1451
+Review: Oh, it turns out you can just yeet yourself straight to the end of the main quest, and finish the game in under five minutes. It's too fast to allow proper explanations, so it relies on the previous All Main Quests run to do the heavy lifting, but it also repeats a good bit of it, so consider this an optional dessert.
 
 Fire Emblem: The Sacred Stones (GBA - Intelligent Systems 2004)
 Ephraim Route
@@ -1481,24 +1484,23 @@ Crimzon Clover: World EXplosion (PC - Yotsubane 2011, 2021)
 Arrange Original
 by Raelcun
 host TheKingsPride, couch Char_bunny
-31m24s (est 45m, wr 32m46s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+31m24s (est 45m, no wr - showcase)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube ntsbLX-oi7I
-Review: (not yet reviewed)
-NM: assumed Arcade Original ? TODO: confirm wr
+Review: The perennial shmup high-score showcase of the marathon. This one had relatively simpler mechanics, but a much harder to read screen, and execution seemed less polished than previous runs, lots of unintended deaths. Enjoyable, but not the best we've seen.
 
 Omno (PC - Inkyfox 2021)
 Any%
 by Ish
-host TheKingsPride, no couch
+host TheKingsPride, no Ozmourn
 30m42s (est 32m, wr 26m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 2df0hE3X06w
-Review: (not yet reviewed)
+Review: It's a run with a lot of skips, of various sizes, all using fairly straightforward (if unintended) movement. Simple to follow, even with some clunky commentary delivery, and short enough to not run out of variety or things to talk about. It's not spectacular, but it's 4AM on the final day, it doesn't have to be.
 
 Lords of Exile (PC - Squidbit 2024)
 Any% Lyria
@@ -1573,11 +1575,11 @@ Quest For Glory II: Trial By Fire (DOS - Sierra 1990)
 by davidtki
 host happybythree, couch Swimfan
 21m35s (est 25m, wr 17m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube ok0D2LliWa4
-Review: (not yet reviewed)
+Review: A pretty basic speedrun, but it keeps moving at a pretty decent clip. Fast menuing and command entry, a few big glitches, and a streamlined route, combine to form a nice run.
 
 Donkey Kong Country 3 (GBA - Rare 1996, 2005)
 Any%
@@ -1707,8 +1709,8 @@ Normal RTA
 by V0oid [WRH]
 host Xenadir, couch Iceblue, pidgezero_one, SpikeVegeta
 2h38m18s (est 2h45m, wr 2h30m44s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube z4AK3G4c2B4
-Review: (not yet reviewed)
+Review: Upsides: Lot of precise execution for a JRPG, good commentary, very clean run, incredible enthusiasm. Downside: as the marathon finale, like half the couch chatter is about pushing for the final donation goal.
