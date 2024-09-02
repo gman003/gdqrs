@@ -179,11 +179,11 @@ Any%
 by Gulch2 [WRH]
 host THEKyleThomas, couch AstridTheHorrorGirl, shmumbler [3RH]
 23m34s (est 32m, wr 19m04s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube urI_EybBBw8
-Review: (not yet reviewed)
+Review: A very weird plot for a game, but also a very, very broken speedrun. It's almost all out-of-bounds flings, save for an unfortunately long autoscroller. I wish we'd gotten a bit more about the actual game, because the speed tech got kind of repetitive, but I suppose there was only so much time.
 
 Live A Live (PC - Square Enix 2022)
 Twilight of Edo Japan, Present Day, Prehistory
@@ -297,11 +297,11 @@ Any%
 by shovelclaws [3RH]
 host Mr. Game and Shout, couch BobbyBurm, Talia
 31m55s (est 35m, wr 27m00s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube a1E65o5vnYk
-Review: (not yet reviewed)
+Review: A really solid run, of what could be a really nice speed game. The movement is fluid, already quite polished but clearly has room to grow, and the levels have enough variety to give it legs. I would welcome seeing this game again, with more time for the run to develop, but it's already quite good.
 
 Bomberman 64 (N64 - Hudson Soft 1997)
 100%
@@ -411,11 +411,11 @@ No Checkpoint Killing (Cutscene Skip)
 by sharkhat87 [WRH][ORH]
 host hockeybabbler, couch Nerd_Squared, sirkyle95
 34m14s (est 45m, wr 37m34s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube a92nnlvcDLc
-Review: (not yet reviewed)
+Review: Between the mod, and the suggestibility of walls, this speedrun basically bears no resemblance to normal gameplay. It's very low on downtime, always something going on, but that something is more often clipping through fences or negating fall damage, than anything you'd see in a casual run. It's not uninteresting, but I can see why it's a bit niche of a speed game.
 
 Maid of Sker (PS5 - Wales 2020)
 Console Glitchless (Bad Ending)
@@ -717,22 +717,22 @@ Any%
 by Ozmourn [3RH]
 host hockeybabbler, couch allison8bit, blackheartwings, Zic3
 1h01m45s (est 1h00m, wr 54m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube y4dZeXNoHfA
-Review: (not yet reviewed)
+Review: This was not a bad run.  The couch was better than you'd expect from early-hours filler. The problem is just that it is a *new* run. There's one really powerful trick, used in a few places, but much of the run is spent playing as-intended, or in long cutscenes. Execution is better than casual, for sure, but nothing compared to other speedruns. If the game gets some better skips, over the less interesting parts of the game, or perfects the movement a bit more, it'll be a real treat to come back and watch this larval version. But as of now? Eh.
 
 Sly 3: Honor Among Thieves (PS3 - Sucker Punch 2005, 2010)
 Episode 1
 by Nave357
 host OhHeyItsKara, couch XevenstevensX, Zic3
 58m59s (est 1h00m, wr 55m55s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube v0TimT6g-uw
-Review: (not yet reviewed)
+Review: I'm sure there was a ton of micro-optimization going on here, but all the notable speed tech was just ways to skip cutscenes, often by just restarting the console. And even with that, way too much of this run was cutscenes or autoscrollers to get an easy recommend. At least the cutscenes were funny?
 
 Sly Cooper: Thieves in Time (PS3 - Sucker Punch 2013)
 Episode 1 Any%
@@ -988,11 +988,11 @@ Any%
 by Joester98 [WRH]
 host SporadicErratic, couch Ecdycis [3RH]
 34m49s (est 40m, wr 34m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube VqpDUwI2cDo
-Review: (not yet reviewed)
+Review: A very weird and silly game - but also clearly a hard one. Most of the speed tech is just "don't die", but there's a few other elements that avoid making it just an autoscroller. So it's a rare Silly Block entry that's also a perfectly watchable speed game on its own.
 
 Muscle March (Wii - Namco Bandai 2009)
 All Levels
@@ -1099,15 +1099,15 @@ Youtube ukTQ-BKHdAo
 Review: Just a tiny bite of gameplay, but turns out Celeste translates wonderfully to 3D. No cutscenes, no tutorials, just pure collectathon platformer challenges.
 
 Pokemon White 2 (DS - Game Freak 2012)
-Any%
-by TTS4life [2RH]
+Any% Challenge Mode [INCENTIVE]
+by TTS4life [3RH]
 host OhHeyItsKara, couch EtchyOk, Swiftalu, Tuckerlerat
-3h24m58s (est 3h25m, wr 3m08s29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+3h24m58s (est 3h25m, wr 3h13m21s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube 5I0YI2xZBqA
-Review: (not yet reviewed)
+Review: The upgrade to Challenge Mode (altering trainer's parties to make them harder) makes the battle strats a lot more interesting, and there's some cool RNG manipulation at the start... but this is just such a long run. The early-game energy fades, and then it gets snarled in Team Plasma cutscenes, and then it gets so overleveled that even the Cynthia bonus at the end is a pushover. If you like Pokemon runs on the dry side, focused on gameplay, this is what you're looking for, but it's not for everyone.
 
 Mario Kart DS (DS - Nintendo EAD 1 2005)
 32 Tracks
@@ -1191,12 +1191,12 @@ Sekiro: Shadows Die Twice (PC - From 2019)
 Hitless Any%
 by Mitchriz
 host Xenadir, couch LilAggy, Parkenharbor
-37m05s (est 40m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+37m05s (est 40m, no wr?) [NV]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube 2m-YAWJcjjQ
-Review: (not yet reviewed)
+Review: It doesn't quite manage to be hitless, or even damageless, but it's still no easy task to play the game this cleanly, this quickly.
 
 Castlevania: Symphony of the Night (Xb360 - KCE Tokyo 1997, 2007)
 Reverse Boss Order
@@ -1227,22 +1227,22 @@ Any%
 by BloodThunder
 host happybythree, no couch
 31m27s (est 40m, wr 25m19s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YeQ_8QDyyEw
-Review: (not yet reviewed)
+Review: It's a bit simple of a run - turning all the difficulty down, and using some save glitches to get out-of-bounds. But BT makes a good show of it, and it's fun to see the new im-sim hotness on the main stage.
 
 Tony Hawk's Pro Skater 1, 2, 3, and 4 (N64, PC - Edge of Reality, Neversoft 1999, 2000, 2001, 2002)
 100% (1), All Goals & Golds (2, 3), Any% (4)
 by PARTY MAN X
 host happybythree, couch Biglaw
 1h15m19s (est 1h16m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube oK5mlpJ6Ubk
-Review: (not yet reviewed)
+Review: The first half of this run - the first three games - was one of the best THPS runs I've seen. Engaging, rapid-fire, well-commentated. But when it went into THPS4, the pace suddenly dropped, everything came with dead time, and even the commentary was aware that the run was shifting into low gear. This made me much more interested in future early THPS runs, but reinforced just how much I find the later games boring to watch.
 
 Mr. Run and Jump (PC - Graphite Lab 2023)
 Any%
@@ -1507,23 +1507,22 @@ Any% Lyria
 by DanTheVP [WRH]
 host musical_daredevil, couch Argick, Bobbeigh
 32m32s (est 34m, wr 25m45s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube 1le5P2lTT1c
-Review: (not yet reviewed)
-NM: assumed Speedrun Mode
+Review: A solid little Shinobi-like, at least when playing as this character. There's not much speed tech besides playing the game well, but it's a fun game to watch being played well.
 
-Levelhead (XbSX - Butterscotch Snenanigans 2020)
+Levelhead (XbSX - Butterscotch Shenanigans 2020)
 Any%
 by IllegallySam [2RH]
-host musical_daredevil, couch BScotchKarl, KingJ0444
+host musical_daredevil, couch Quo, BScotchKarl [DEV][REM]
 46m04s (est 50m, wr 42m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube duBc0SE9A9U
-Review: (not yet reviewed)
+Review: A neat little platformer, nothing special, but it's a competent speedrun with some dev commentary. I expect anyone who enjoyed the game, will get a real kick out of this.
 
 Hyperbolica (PC - CodeParade 2022)
 Any%
@@ -1586,11 +1585,11 @@ Any%
 by Tonkotsu [2RH]
 host happybythree, couch Glan, V0oid
 52m39s (est 55m, wr 49m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube mq2clsXBGrg
-Review: (not yet reviewed)
+Review: A very clean run, but not the most interesting one. An early slate of levels were trivialized by intended skips, many later levels were broken by unintended skips. A lot of what remained, was autoscrollers, or auto-scrollery bosses. Some of the skips were cool, and the execution was *tight* when it mattered, but there was more dead time than I'd have liked.
 
 Kirby's Adventure (NES - HAL Laboratory 1993)
 100% NMG [INCENTIVE]
