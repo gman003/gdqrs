@@ -123,11 +123,11 @@ Any% Rosa (Infinite Climax)
 by a_variety_pack [WRH]
 host TheKingsPride, couch PippyInATopHat
 1h26m56s (est 1h20m, wr 1h25m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube OfJCWUV1F3Y
-Review: (not yet reviewed)
+Review: An extremely polished performance of this brutally hard, borderline-1HKO category. Bayo players are sure to be impressed, but the game has a bit too many autoscrollers to keep its momentum up, and relies on the same strats for much of the run. It's still good, and Pack absolutely killed it, but it's a run that would have benefited from more brevity.
 
 Silent Hill (PS2 - Team Silent 1999)
 NG All Bosses
@@ -145,11 +145,11 @@ The Essential Restricted/NMG
 by kurushiidrive [WRH][ORH]
 host SporadicErratic, couch Helix
 51m55s (est 1h15m, wr 48m07s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube GXEJ4vnYxW4
-Review: (not yet reviewed)
+Review: A game I'd never heard of, being run at the late hours, by a GDQ newcomer, who's the only person on the SRC leaderboard. I was not expecting a good run - but I got a great one. Fantastic movement, excellent commentary, some boss-melting strats. And though most of the commentary is focused on the tech, there's some charm to it, not just a recitation, and it sprinkles some humor in. A real hidden gem of the marathon.
 
 Smart Ball (SNES - Game Freak 1991)
 Any%
@@ -189,25 +189,23 @@ Live A Live (PC - Square Enix 2022)
 Twilight of Edo Japan, Present Day, Prehistory
 by bramhallthefifth
 host THEKyleThomas, couch TempestMask1000, CountGooby
-49m04s (est 45m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+49m04s (est 48m, no wr)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube B3he20DHVrA
-Review: (not yet reviewed)
-NM: Assumed remake
-NM: looks like three individual chapters being run, no good category for?
+Review: Not the most difficult speedrun, but the anthology setup makes for a rapid barrage of great bite-sized JRPG runs. You get just enough time to explain the basic story, the gameplay, and the main tricks, and then it's on to something new, with very little in the way of downtime.
 
 Puggsy (Genesis - Traveller's Tales 1993)
 Any%
 by Drex [2RH]
 host selcouthmind, couch eon, sharif
 26m50s (est 28m, wr 24m22s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube tHSEkDlMrLw
-Review: (not yet reviewed)
+Review: This is a hard run to describe, because very little stands out about it. It does nothing wrong, but also nothing special. It has some tricks, mostly abusing physics off items, and it got some mileage out of the bizarre story, but it feels like something I've seen a hundred times before. It's a filler run - and it does the job of filling that time. Fans of odd Genesis platformers should give it a shot, but I won't blame anyone for skipping this.
 
 Lone Fungus (PC - Basti 2023)
 True Ending (Explorer)
@@ -388,23 +386,22 @@ Alan% (Initiation Only)
 by suavepeanut
 host ateatree, couch SweetPeebs, AstridTheHorrorGirl
 56m36s (est 1h05m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube x35z8csQFAg
-Review: (not yet reviewed)
-NM: seems to be a new partial-game category for GDQ
+Review: The best part of this run is the epic shenanigans they get up to, during long live-action cinematics. The worst part of this run is how many long live-action cinematics it has. When there is actually speedrunning happening, it's good speedrunning - we get all kinds of out-of-bounds nonsense, skipping various amounts of the game. But then the pace will slam to a stop so we can watch cutscenes, not even playing the game, let alone speedrunning it. There's still stuff worth watching here, but expect something more akin to old JRPG runs than a modern action game.
 
 Doom 64 (PC - Midway 1997; Nightdive 2020)
 Watch Me Die - Speed
 by ZELLLOOO [WRH]
 host hockeybabbler, couch bryonato, peaches
 49m15s (est 55m, wr 46m48s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube 9fyHwP7H9yg
-Review: (not yet reviewed)
+Review: Wow. This was just an incredible run. Even as easy as he makes it look, this still looks brutally difficult, just non-stop classic FPS action. There's a handful of skips, via unintended platforming, and some tech involving spawn manipulation, but 90% of it is SR40 and murdering anything that gets in your way, before it reduces your health to 0. Excellent and entertaining commentary, with the only detraction being a late push for a donation incentive that crowded out the couch chatter.
 
 Outlast 2 (PC - Red Barrels 2017)
 No Checkpoint Killing (Cutscene Skip)
@@ -445,12 +442,11 @@ Haunted Castle (PS4 - Konami 1987, 2016)
 by LRock617
 host JD Puppy, couch Bobbeigh, Cypherin, Elipsis
 12m15s (est 15m, wr 10m39s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 8ZW6cvXIrVQ
-Review: (not yet reviewed)
-NM assumed normal; no record found
+Review: An obscure arcade entry in the Castlevania series. The movement is even clunkier than most classic 'vanias, and it's quite short, but it's also coin-guzzlingly unfair, so seeing it wrecked like this is fun.
 
 Star Trek DS9: Crossroads of Time (SNES - Novotrade 1995)
 Any%
@@ -468,11 +464,11 @@ Any%
 by tbcr [WRH]
 host JD Puppy, no couch
 17m16s (est 18m, wr 12m31s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube sTiQfhowoVg
-Review: (not yet reviewed)
+Review: I wonder if we could have known this was a Bethesda game, just from the glitches? It has a lot of the broken physics that Daggerfall and Morrowind speedruns use, just not quite as busted in a more linear game like this. Unfortunately, in a run this short, struggling to nail even one trick can sap the pace, and 6AM is a hard hour to bring the hype in, but it's still not a bad run.
 
 Star Wars: The Force Unleashed (PC - LucasArts 2008)
 Any%
@@ -692,25 +688,36 @@ NM: Was True Pacifist, seems to now be both?
 My Friendly Neighborhood (PC - Szymanski Bros 2023)
 CEO%
 by Slyton [WRH]
-host Kungfufruitcup, couch danejerus, John Szymanski [DEV], Nerd_Squared
+host Kungfufruitcup, couch danejerus, John Szymanski [DEV][REM], Nerd_Squared
 36m32s (est 38m, wr 32m16s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube -B2SnfA-zlQ
-Review: (not yet reviewed)
+Review: A clean, well-paced run, with excellent commentary (including the main dev!). It's light on both glitches and downtime, no autoscrollers or unskippable cutscenes. It's just a good speedrun, what more can I say?
 NM: assumed NMG Normal No Cheats
 
 Lufia II: Rise of the Sinistrals (SNES - Neverland 1995)
 Any% NMG No Manip
 by puwexil
-host Kungfufruitcup, hockeybabbler, couch dowolf, Gyre
-4h16m50s (est 4h20m, wr 3h51m15s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Kungfufruitcup, hockeybabbler, couch dowolf, Gyre, sent
+4h16m50s (est 4h25m, wr 3h51m15s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube B4iXiojY7Oo
-Review: (not yet reviewed)
+Review: It's missing a lot of the JRPG marathon staples. The menuing is unremarkable. The battle routing involves no flashy combos or game-breaking abuses, just lots of healing and some battle items. But it makes up for it with more intricate overworld movement than any other 16-bit JRPG speedrun - the Zelda dungeon influences are clearly felt. And it's well-commentated, explaining everything that's going on, both in the run and the story.
+
+Lufia II: Rise of the Sinistrals (SNES - Neverland 1995)
+Any% ACE [BONUS]
+by puwexil
+host hockeybabbler, couch dowolf, Gyre
+3m15s (est 5m, wr 51s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube ysUHj6k_V1E
+Review: It's a gimmick run, using some menu shenanigans to trigger the credits almost as soon as the intro cutscene is over, but it's a funny and well-explained gimmick. If you liked the glitch-heavy Gen-1 pokemon runs, this is for you. Or if you just finished the four-hour NMG run and want something for dessert.
 
 Gunbrella (PC - Doinksoft 2023)
 Any%
@@ -897,11 +904,11 @@ Terran Campaign Any%
 by shox [WRH]
 host AttyJoe, couch lordofdabu, Sai
 32m19s (est 39m, wr 31m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube 3yxvxvwyFo8
-Review: (not yet reviewed)
+Review: Blazing-fast APM and absurd micro? Yep, it's a vintage RTS run. This one adds a large helping of AI exploits and softlock-prevention abuse. I don't think it will change the minds of genre skeptics, but it's an excellent showing of the game.
 
 The Talos Principle 2 (PC - Croteam 2023)
 Any%
@@ -919,11 +926,11 @@ Any%
 by teddyras [2RH]
 host PippyInATopHat, no couch
 29m03s (est 30m, wr 24m25s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube iOIp7S_TTsw
-Review: (not yet reviewed)
+Review: It's not a Silly Block game, but it sure seems like one. Chalk it up to late-night madness and a janky Super Monkey Ball clone instead. Very sloppy, struggling to get through in places, but it's funny to watch it go off the rails only to somehow get back on.
 
 [[[SILLY BLOCK]]]
 
@@ -943,12 +950,11 @@ Any%
 by The Retro Runner
 host PippyInATopHat, no couch
 16m07s (est 20m, wr 15m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 3mXj-nrsRVo
-Review: (not yet reviewed)
-NM: pb 15m42s
+Review: A quirky little action-platformer, but not silly enough to be a standout in Silly Block, nor a deep enough speedrun to be interesting on those merits.
 
 Birds Aren't Real: The Game (PC - USC Games 2023)
 Any%
@@ -1017,15 +1023,15 @@ Youtube k65ruAOKfjc
 Review: (not yet reviewed)
 
 Leaf Blower Man: This Game Blows! (PC - Unbound Creations 2023)
-NG+, Ad-Free
+NG+, With Ads [INCENTIVE]
 by Asuka424 [2RH]
 host SporadicErratic, couch danejerus
-19m36s (est 16m, wr 17m45s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+19m36s (est 19m, wr 15m39s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube gSl9prH4mpg
-Review: (not yet reviewed)
+Review: An excellently silly game, and not a bad speedrun on top of it. Best I don't try to explain any of the jokes, just enjoy this one.
 
 Wild Woody (Sega CD - Sega Multimedia 1995)
 Beat the Game
@@ -1067,25 +1073,25 @@ Any%
 by Jaxler [3RH]
 host Quacksilver, couch Helix, Kobazco, Nestani
 35m56s (est 40m, wr 33m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube YAx-sIvW7kw
-Review: (not yet reviewed)
+Review: A shovelware collectathon platformer, from the heyday of shovelware collectathon platformers - but somehow, a highlight of Silly Block? There's a decent speedrun here, with the autoscrollers made up for by couch antics, and some hilarious banter to top it all off.
 
 [[[/SILLY BLOCK]]]
 
 Jitsuroku Powerful Yakyuken Slugger Yamada (PC - Digimecha 2023)
 All Levels
 by Sean_A [WRH]
-host Quacksilver, couch happybythree, killingpepsi [3RH]
-14m31s (est 20m, wr 15m35s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Quacksilver, couch happybythree, killingpepsi [3RH], blåhaj (🦈)
+14m31s (est 20m, wr 15m35s) [WR?]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube w7EOOIh3pGs
-Review: (not yet reviewed)
-TODO: find dev credits!
+Review: We come now to the frayed edges of Silly Block, with this low-budget baseball-tinged demon-slaying brawler. It's a unique thing, for sure - and not even a bad speedrun. The tech is limited but more than enough to fill fifteen minutes, even if you don't find "low-budget baseball-tinged demon slaying" to be interesting on its own.
+TODO: confirm wr is valid?
 
 Celeste 64: Fragments of the Mountain (PC - Maddy Makes Games 2024)
 100%
@@ -1147,22 +1153,22 @@ Rabbit and Steel (PC - mino_dev 2024)
 coop by koralreef, aco, Spirialis, frozenflygone
 host Jaidlyn, no couch
 28m52s (est 35m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube L0kVR9AIQqA
-Review: (not yet reviewed)
+Review: A weird combination of bullet hell and MMO raid, this is a hard game to read, as an outsider. Maybe better explanations would have helped, but it's too fast-paced for that to help but so much. I think this is just a run for people who've played the game and can grok what's going on. Otherwise, just enjoy the bunny ears, the charming attempts at explaining the story, and the bullet-hell dodging.
 
 Rabbit and Steel (PC - mino_dev 2024)
-4P Lunar Red Darkhouse
+4P Lunar Showcase
 coop by koralreef, aco, Spirialis, frozenflygone
 host Jaidlyn, no couch
-16m49s (est 12m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+16m49s (est 12m, no wr - showcase)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube L0kVR9AIQqA+1805
-Review: (not yet reviewed)
+Review: A bonus run at an even harder difficulty, but with fewer explanations, also more difficult to follow. Probably amazing for those who've played the game, but if you weren't enthralled by the main run, you won't miss anything by skipping this.
 
 Halo 3 (PC - Bungie 2007, 343 Industries 2014, 2019)
 4p Co-op Legendary
@@ -1305,23 +1311,22 @@ Any%
 by McHooper [2RH]
 host Char_bunny, couch j0kerr
 46m47s (est 55m, wr 41m34s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube xgXMEmoUMp4
-Review: (not yet reviewed)
-NM: pb 40m28s lrt
+Review: A pretty standard kart racer - complete with some ludicrous skips. There's levels beaten in seconds, and levels beaten entirely normally, and even one or two levels with decent skips but still normal racing. The bots are unthreatening and there's none of the RNG mess you see in Mario Kart, so if you're looking for a more technical sort of run, this might be just the thing.
 
 Stardew Valley (PC - ConcernedApe 2016)
 Skull Caverns 100 Glitchless 4 Player
 coop by Piano_Addict, Lichatton, Terpretor, JulsJewels
 host Char_bunny, no couch
-42m13s (est 55m, wr 43m23s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+42m13s (est 55m, wr 43m23s) [WR]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube hcFBSP2g5Sg
-Review: (not yet reviewed)
+Review: I'm sorry, but it's just really hard to move past a run where more time is spent repeatedly sleeping, to skip through seasons, than actually doing the dungeon crawl the category is supposed to be about? This run was 60% filler, 30% setup, and 10% actual speedrun. And then when things actually happened, they happened too fast to commentate. It had some zany energy but I just couldn't enjoy it.
 
 The Legend of Zelda: A Link to the Past (SNES - Nintendo EAD 1991)
 All Dungeons (Swordless)
@@ -1473,11 +1478,11 @@ Extreme NG+
 by JosephJoestar316 [2RH]
 host TheKingsPride, couch MetalGlennSolid
 1h57m35s (est 2h00m, wr 1h56m20s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube XlZoQT-kHes
-Review: (not yet reviewed)
+Review: The unavoidable problem that runs of this game face, is the massive autoscroller right in the middle. That would kill the pacing of even the most exciting runs. But even outside that, this isn't a particularly enthralling game. It often feels as if it's locked into the same speed as a casual run, and even when describing the tech, it comes off more as "tricks to keep the AI from further wasting your time" than anything. Joestar makes a valiant attempt but this just isn't a game that's interesting to watch.
 NM: pb 1h59m46s TODO: confirm PB
 
 Crimzon Clover: World EXplosion (PC - Yotsubane 2011, 2021)
@@ -1552,11 +1557,11 @@ Any% Normal Mode
 by GaussMkII
 host musical_daredevil, couch Gordon Ramsay, Stelmo, TempestMask1000
 48m42s (est 53m, wr 44m33s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube NuvHgy6mFe4
-Review: (not yet reviewed)
+Review: Yet another entry in the Mega Man-like genre, but one that easily earns its place by avoiding some of the more irritating conventions of the genre. Fast, clean movement, quick boss strats, and a little bit of routing logic. It's light on glitches but great on commentary. Definitely worth checking out, if you're at all interested.
 
 Penny's Big Breakaway (PC - Evening Star 2024)
 Any% Restricted
