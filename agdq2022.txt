@@ -619,14 +619,14 @@ Review: A less busted run than the last, though whether that's down to coding or
 
 Final Fantasy VII Remake Intergrade (PS5 - Square Enix BD1 2021)
 INTERmission Normal Any%
-by GenericallyNamed [3RH], DutchPotato [2RH]
+race GenericallyNamed [3RH] vs DutchPotato [2RH]
 host TheCrankMachine, couch steamed_hams_with_cheese, WoadyB
 48m35s, 50m34s (est 52m, wr 47m37s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube ZmqFfj3y0vo+0
-Review: (Skipped because I haven't played Remake yet, no spoilers plz. Will review once I finish a casual playthru.)
+Review: I think this would have been better as a solo run, than a race. It's too linear to allow for interesting variations in route, and the runners steadily separated, leaving no interesting comebacks or exchanges of position. By the back half, they weren't even doing the same fights at the same time, so attention fixated on the leader.
 
 Returnal (PS5 - Housemarque 2021)
 Fresh File Any%

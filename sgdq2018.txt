@@ -1496,14 +1496,82 @@ Review: A fantastically tight race, even if much of it was RNG. No complex glitc
 
 [[[/MEGA MAN BLOCK]]]
 
+Bionic Commando Rearmed 2 (Xb360 via Xb1 - Fatshark 2011)
+Any%
+by PJ
+host LLK, couch Klaige, MURPHAGATOR!
+1h01m37s (est 1h00m, no wr?)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube tK6v0QrIXa8+0
+Review: A pretty simple, but solid, run. Yes, there's lots of goofing around, but there's a decent speedrun underneath the 'AAAAAAA's.
+
+Goof Troop (SNES - Capcom 1993)
+Co-Op
+coop by swordsmankirby, Bbforky [3RHs]
+host LLK, couch authorblues, johncarls, FFR Pro 21
+18m53s (est 24m, wr 18m05s rta)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
+Youtube pscALD_dgSg+0
+Review: This is just a really tight run. The two runners are gears in the machine, executing exactly what needs to be done to get through the screen quickly.
+NM: Assumed US difficulty
+
+Kingdom Hearts Final Mix (PS4 - Square 2002, 2012, 2017)
+Any% (Level 1 Proud Mode)
+by MistMaster1 [WRH]
+host SakuraTsubasa, couch JHobbs, Bizkit047 [3RH], SpikeVegeta
+2h45m37s (est 3h05m, wr 2h39m47s lrt)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube gdC0x9cIMxs+36
+Review: Even top-notch commentary and three karaoke breaks, isn't enough to make this run all that engaging. Yes, it's hard, and that's impressive, but there just isn't enough variety in the speedrun to make it impressive for three hours. But if you're already into hard Kingdom Hearts runs, have some familiarity with the game and the challenge, this probably hits the spot. Like I said, there's great commentary and execution.
+NM: Used WR for "Level 1", is proud mode separate?
+
+Super Mario 64 (N64 - Nintendo EAD 1996)
+70 Star
+race, cheese05 [WRH] vs Puncayshun
+host YellowKillerBee, couch (inaudible), Simply, Cobra, PrincessViviana
+50m38s, 52m47s (est 1h00m, wr 47m34s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube AH6hc_zn6-U+54
+Review: A tense race, not quite neck-and-neck but competitive throughout. And it's of a game that's just so ridiculously polished, and has speed tech for almost every level. There's no down time, just go, go, go.
+
+The Legend of Zelda: The Wind Waker HD (Wii U - Nintendo EAD 2002, 2013)
+Any%
+by CLG Linkus7 [WRH]
+host YellowKillerBee, couch SpikeVegeta, gymnast86 [2RH]
+1h28m27s (est 1h15m, wr 1h02m29s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube PPLytsTfCcE+56
+Review: This was a very good run, until it wasn't. A little rough at the start, with several tries needed to nail the very first trick of the game, but it was all clear sailing from there. Even the then-novel barrier skip was first-try. But it hit a very rough point after this, which sours the whole experience. I recommend watching up to 1h13m (video timer), then skipping to 1h24m.
+NM: Used Any% Unrestricted
+
 Celeste (PC - Maddy Makes Games 2018)
-C-Side
+Any%
 TAS by DevilSquirrel, KDT, Kilaye
-tasbot dwangoAC, host Raelcun, couch yoshipro, Hornlitz, TGH_Sr, Covert_Muffin, otdq, Kevin Regamey [DEV]
-5m25s, 4m09s igt (no est, human wr 5m54s igt)
+tasbot dwangoAC, host Raelcun, couch yoshipro [2RH], Hornlitz, TGH_Sr [WRH], Covert_Muffin, otdq, Kevin Regamey [DEV]
+28m54s, 25m21s igt (est 37m, human wr 30m47s igt)
 Overall ★☆★☆★
 Skill   ☆★☆★☆
 Fun     ★☆★☆★
+Youtube BEcv7BD1q9o+146
+Review: This game is pretty TAS-like even when humans are playing. When you let an actual machine at it? It's nuts. Nothing super broken, it goes through every screen the humans do, it just does it even more blindingly fast.
+
+Celeste (PC - Maddy Makes Games 2018)
+All C-Sides
+TAS by DevilSquirrel, KDT, Kilaye
+tasbot dwangoAC, host Raelcun, couch yoshipro, Hornlitz, TGH_Sr, Covert_Muffin, otdq, Kevin Regamey [DEV]
+5m25s, 4m09s igt (no est, human wr 5m54s igt)
+Overall ☆★☆★☆
+Skill   ★☆★☆★
+Fun     ☆★☆★☆
 Youtube BEcv7BD1q9o+2138
 Review: A secret surprise TAS that even some of the couch weren't told about. Even years later, I've yet to beat all the B-Sides, so seeing the even harder C-Sides annihilated like this is just... peak TAS.
-NM: Assumed "All C-Sides"
