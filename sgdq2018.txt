@@ -1575,3 +1575,228 @@ Skill   ★☆★☆★
 Fun     ☆★☆★☆
 Youtube BEcv7BD1q9o+2138
 Review: A secret surprise TAS that even some of the couch weren't told about. Even years later, I've yet to beat all the B-Sides, so seeing the even harder C-Sides annihilated like this is just... peak TAS.
+
+------------------------------SATURDAY-------------------------------
+
+Super Metroid (SNES - Nintendo R&D1 1994)
+0%
+TAS by Sniq, total
+tasbot dwangoAC, host Raelcun, couch QualityChris, TopsyTurve, Freyaspirit, Oatsngoats, Stump, MediaMagnet
+7m07s (est 7m, human wr 12m41s)
+Overall ★☆★☆★
+Skill   ☆★☆★☆
+Fun     ★☆★☆★
+Youtube T_oDcRKzoHI+20
+Review: A TAS that has a bit of fun with arbitrary code execution, though not so elaborate as some that have been shown. It's still more of a gimmick than a speedrun, but it's an interesting gimmick.
+
+F-Zero GX (Gamecube - Amusement Vision 2003)
+TASBot%
+by 1davidj, E-Dragon, jagg2zero, CGN, superSANIC
+tasbot dwangoAC, host Raelcun, couch 1davidj, MediaMagnet, numbers
+~17m (est 10m, no wr - showcase)
+Overall ☆★☆★☆
+Skill   ★☆★☆★
+Fun     ☆★☆★☆
+Youtube ZFi_ihcU8i4+0
+Review: The first six minutes or so are the actual tool-assisted speedruns, some genuinely impressive but enjoyably short single-track TASes. After that, it's a bunch of ACE shenanigans, which could be interesting to read about but there's just no way to explain properly in a video segment.
+
+Pokemon Blue/Yellow (GB - Game Freak 1996, 1998)
+Glitchless 2 Games 1 Controller
+by MeGotsThis
+host Yen24, couch shenanagans_, TIKevin83, Swaph [WRH], Keizaron
+2h58m36s (est 2h47m, no wr?) [NV]
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube 2AsZf3JnCIg+177
+Review: A very interesting run, controlling two games at once that diverge just enough to cause constant problems while still being doable. Unfortunately, three hours is just a long run, and the strategies settle into a routine. Invalidated by not finishing Yellow, lost a battle while over estimate and proceeded to just finish Blue instead of reset.
+NM: YT comment from TiKevin83 lists Swaph as WRH at the time, but I never found the leaderboard
+
+Star Wars Jedi Knight: Dark Forces II (PC - LucasArts 1997)
+Any%
+by ysalamiri [2RH]
+host Calyrica, couch Indy, (not introduced)
+29m09s (est 30m, wr 25m04s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube nb6nXSOPNgA+18
+Review: There's a lot of tricks in this run, enough to completely ignore enemies and combat except for a few mandatory (and easy) boss fights. But they're undercut by using quicksave/quickload to retry them, sometimes a dozen times. Not unusual for a speedrun of an FPS of this era, but still worth pointing out.
+
+Star Wars Jedi Knight: Mysteries of the Sith (PC - LucasArts 1998)
+Any%
+by ysalamiri [2RH]
+host Calyrica, couch Indy, (not introduced)
+20m37s (est 25m, wr 17m10s lrt)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube zRj9hWZI1Ww+4
+Review: Much like the preceding run - the run turns this game from a shooter to a platformer, moving quickly between objectives and sometimes routing in secrets to earn speed upgrades. But without a movement system designed for platforming, it's less interesting.
+
+Super Star Wars: The Empire Strikes Back (SNES - Sculptured 1993)
+Any%
+by Indy
+host Calyrica, couch MPG, SpikeVegeta, (not introduced)
+42m47s (est 45m, wr 38m32s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube rPRme3muDVk+31
+Review: An infamously hard game, but the speedrun is basically "get the weapon upgrades ASAP, try not to die". Lots of fun banter though.
+
+Hob (PC - Runic 2017)
+Any% No Clip (One-Handed)
+by halfcoordinated [WRH]
+host theboyks, couch munchakoopas, vulajin, seckswrecks
+49m57s (est 55m, wr 46m49s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube hqPrY8a28QM+48
+Review: This run would have been good enough, even with both hands. Seeing it done with just one? It's not the most impressive feat we've seen, but it's still pretty neat.
+NM: Used "No FPS Abuse"
+
+I Am Bread (PC - Bossa 2015)
+Bagel Race
+by Nerd_Squared [WRH][ORH]
+host theboyks, couch BloodThunder
+5m53s (est 10m, wr 5m31s lrt)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube IgIuMwnwJc0+24
+Review: It's a six-minute run. That's barely enough time to explain the game, simple as it is.
+
+Ratchet: Deadlocked (PS3 - Insomniac 2005)
+NG+ No EGS
+by Davie
+host Nikasaur, couch (not introduced)
+46m07s (est 50m, wr 37m36s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube Nlg6KzmeR7U+28
+Review: The couch brought the hype, but I wish they'd brought some better commentary, instead. It seemed to distract from the run more than it added. The runner executed very well and even commentated decently, but there was clearly more going on than he had time to describe.
+
+Spyro 2: Ripto's Rage (PS1 - Insomniac 1999)
+14 Talisman
+by AlexDest
+host Nikasaur, couch AprilCake, ChrisOBC, WattC517 (?), EZScape
+28m48s (est 32m, wr 25m02s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube fHH-0IHZqmk+49
+Review: A clean, smooth run. Many levels skipped almost entirely by strategic glitches, making for a short and simple watch.
+
+Crash Bandicoot: N. Sane Trilogy (PS4 - Vicarious Visions 2017)
+Crash 1 Any%
+by CameronVengenz [WRH]
+host Nikasaur, couch JHobbs, ViolentGamer, DeafCow (?)
+48m34s (est 1h02m, wr 58m38s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube 0VL-LjV750Q+42
+Review: A competent display, and one Crash fans will find more impressive than I did. For me, at least, it was hard to see a gap between just playing the game well, and a top-level speedrun. Sure, there's tight cycles to make, but that only elevates it so much above the casual replay.
+
+Kirby's Dream Land (GB - HAL 1992)
+Beat Extra Mode
+by eBloodyCandy [2RH]
+host Protomagicalgirl, couch swordsmankirby, Mr_TrueShane (?)
+12m51s (est 15m, wr 11m38s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube xfQylC7rt2E+40
+Review: A tiny run, even with a softlock and restart. Extra Mode avoids the big problem of Kirby runs, which is the low base difficulty, but this first outing still has the simplest mechanics and movement. Maybe not the best starting point, if you want to check out Kirby runs - but on the other hand, it's a fast and easy watch.
+
+Kirby's Adventure (NES - HAL 1993)
+100% NMG
+by swordsmankirby [WRH]
+host Protomagicalgirl, couch eBloodyCandy, Mr_TrueShane (?)
+49m06s (est 55m, wr 48m56s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube ZY44JxszeFo+30
+Review: The run is simple, but the execution was *tight*. There's a handful of minor clips here and there, but it feels like the epitome of 100%, no major glitches, kirby runs.
+
+New Super Mario Bros. 2 (3DS - Nintendo EAD 2012)
+Warpless
+by eddaket
+host Protomagicalgirl, couch AlecK47, Keizaron, Nerd_Squared
+53m03s (est 1h00m, wr 47m22s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube nZ4uO5PsE8E+34
+Review: A rare Mario run with almost nothing in the way of glitches or skips. The closest it comes is bypassing some autoscroller sections, by platforming without the slow-moving platform you're intended to rely on. It's not quite as polished a run as more mainline games, but it's still a respectable run, worth watching for Mario diehards.
+
+Undertale (PC - Toby Fox 2015)
+All Yellow Credits
+by SnowieY101 [2RH]
+host SakuraTsubasa, couch CookiePocalypse, Shay, BBC, (inaudible)
+1h36m10s (est 1h25m, wr 1h32m27s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube WnDBZTRXd7s+0
+Review: (not yet reviewed)
+NM: if inaudible was TGH, he was WRH at time
+
+Super Mario Maker (Wii U - Nintendo EAD 2015)
+3v3 Blind Level Race
+race, Team Stay Hydrated (CarlSagan, grandpoobear, jaku) vs Team Jebaited (failstream, GlitchCat7, Cliffy)
+host SakuraTsubasa, couch Golden, SpikeVegeta, TheDragonFeeny (?)
+~48m (est 1h00m, no wr)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube PLJ4WDhlJ-o+76
+Review: Not quite as balanced as future blind races, but it's frenetic, chaotic fun to watch anyways. Two teams racing through never-before-seen levels, trading off the hot seat at every death. It doesn't take much knowledge to watch, and the couch does a great job bringing the hype.
+
+Super Mario Maker (Wii U - Nintendo EAD 2015)
+Hard Levels Showcase
+by GlitchCat7, grandpoobear, Failstream, CarlSagan, Cliffy
+host SakuraTsubasa, no couch
+~20m (est 30m, no wr - showcase)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube PLJ4WDhlJ-o+3382
+Review: Five runners, showing off their skills on levels of their own choosing (and in most cases, creation). Short and sweet and a tasty dessert to follow on from the relay race.
+
+The Legend of Zelda: Ocarina of Time (N64 - Nintendo EAD 1998)
+Bingo
+by Runnerguy2489
+host Prolix, couch JenSling, PsiMarth, (not introduced?)
+1h13m06s (est 1h30m, no wr)
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★★☆☆
+Youtube vVu7WWpjWnU+95
+Review: It's a nice shakeup from speedruns - still racing to play the game fast, but this time completing a set of random objectives instead of just "beat the game". Runner shows off some incredibly deep knowledge, keeping up constant commentary even while executing trick after trick to break the game wide open. We even got a history lesson during a long cutscene, leaving absolutely no down time in this blazing run.
+
+Super Mario Odyssey (Switch - Nintendo EPD 2017)
+Any%
+by NicroVeda [WRH]
+host Prolix, couch TriX (?), SmallAnt1 (?), BayLeef, SpikeVegeta
+1h03m58s (est 1h07m, wr 1h02m19s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
+Youtube 1b37FvBpujI+77
+Review: Just a straight hour of platforming, so clean you could eat off it. There were only so many tricks that truly impressed, but there was no end of little bits of tech to squeeze out a few dozen frames. An impressive level of polish for such a new release.
+
+Final Fantasy VI (SNES - Square 1994)
+Glitchless 100% (All Characters & Espers)
+by puwexil
+host CovertMuffin, Nikasaur, couch TinaHacks, takaze (?), Vulajin, musical guest Sumichu
+6h53m00s (est 7h00m, no wr) [NV]
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube lsUE2xzr4qM+102
+Review: One of the greatest JRPGs ever made, getting pounded into submission. No glitches, just a methodical route and a few hours of holding on to an encounter manipulation. It's exactly what you want out of a glitchless RPG run, encyclopedeic knowledge of the game and careful planning. Even the cutscenes are generally on the shorter side, and they have stage antics (like a live opera performance) for the longer ones. Invalidated by forgetting to actually pick up one esper.
