@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2025====================
-========Raising $0,160,404 for the Prevent Cancer Foundation=========
+========Raising $0,359,131 for the Prevent Cancer Foundation=========
 =========================January 5-12, 2025==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -254,7 +254,7 @@ host Jaidlyn, couch chessjerk, puwexil
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube qdkLgOEKsOs
 Review: (not yet reviewed)
 NM: pb 36m16s
 
@@ -266,7 +266,7 @@ host Threach, couch Nichole Goodnight, FlannelKat
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube HPjJbwzn9k8
 Review: (not yet reviewed)
 NM: not ranked? also assumed Any%, there's also Triple Crown 100%; and assumed Unrestricted
 
@@ -278,7 +278,7 @@ host Threach, couch Dylan Gedig, SeaAverage
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube VOmg_LBpfAU
 Review: (not yet reviewed)
 
 Puyo Puyo Puzzle Pop (iOS - h.a.n.d 2024)
@@ -289,7 +289,7 @@ host Threach, couch limy_sr, Ozmourn
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube irrMEuBET_c
 Review: (not yet reviewed)
 NM: Android? iOS?
 
@@ -297,11 +297,11 @@ Rain World: Downpour (PC - Videocult 2017, 2023)
 Rivulet - Story
 by ICED
 host Threach, couch WhitePaaws
-MMmSSs (est 47m, wr 28m48s rta)
+41m05s (est 47m, wr 28m48s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube aDS0RuYvDr4
 Review: (not yet reviewed)
 NM: pb 32m57s igt
 
@@ -309,126 +309,160 @@ Rabbids Go Home (PC - Ubisoft Montpelier 2009)
 All Missions
 race Jaxler [3RH] vs vaen
 host SatanHerself, couch LunaticJ
-MMmSSs (est 55m, wr 45m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: jax pb 46m15s, vaen pb 46m33s
+47m42s, 48m10s [NV] (est 55m, wr 45m29s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube sOj0I_Zz56Q
+Review: An interesting sort of kart platformer. Unexpectedly good, not as busted as you'd expect from a Europe-only partial PC port of a Wii game, but still having well-developed speed tech. One run invalidated by a softlock, just started the next level in sync with the other runner instead of restarting.
 
 UFO 50 (PC - Mossmouth 2024)
 Various Games Showcase
 by GrayGooGlitch, burst_error, Spooty, Python
-host SatanHerself, couch COUCH
-MMmSSs (est 50m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host SatanHerself, no couch
+56m11s (est 50m, no wr - showcase)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube 38vug-2rROI
+Review: A selection of four games out of the fifty in the collection. Very nice for variety, even if the runs themselves boil down to play-game-good.
+NM: todo list exactly which games played
 
 Super Meat Boy (PC - Team Meat 2010)
 Any%
 by shredberg
-host SatanHerself, couch PetresInc
-MMmSSs (est 21m, wr 17m27s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 17m37s
+host SatanHerself, couch Spilled OJ, Metallama
+20m10s (est 21m, wr 17m27s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
+Youtube 8_ByOm1WcTg
+Review: The grandaddy of grueling indie precision platformers. It's fast and hard and has some bonkers strats, all explained as well as possible in such a breakneck run.
 
 Super Mario Maker for Nintendo 3DS (3DS - Nintendo Software Technology 2016)
-SMC Any% No Auto
+SMC Any% (No Autoscrollers)
 by Charbunny [3RH]
 host savage_octagon, THEKyleThomas, couch Lizzyberry, Bobbeigh
-MMmSSs (est 1h15m, wr 1h47m26s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h10m05s (est 1h15m, wr 1h47m26s rta with autoscrollers)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube lL2WMTqlUXo
+Review: It takes a while for the levels to get difficult, but it's got great commentary, both informative and funny. And skipping the autoscrollers keeps it from ever getting too dull.
+NM: is there any No Auto wr?
+
+Super Mario Maker for Nintendo 3DS (3DS - Nintendo Software Technology 2016)
+SMC World 19 Showcase
+by Charbunny
+host savage_octagon, THEKyleThomas, couch Lizzyberry, Bobbeigh
+8m29s (est 10m, no wr - showcase)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: "no auto" not found; pb 1h48m25s
-NM: something seems fucky with this estimate given the records
+Review: Just a fast bonus run, showing off some of the hardest levels in the run. Not being part of any category but ILs, the marathon strats aren't super polished, but it's still fun to see.
 
 Sonic Origins (PC - Sega Technical Institute 1994, Sonic Team 2022)
 Sonic & Knuckles - Amy & Tails, NG+
 by SnowballSMB
-host Jaypeg, couch COUCH
-MMmSSs (est 42m, wr 51m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: not ranked? or is "Sonic 3 & Knuckles" not the right category?
+host Jaypeg, no couch
+34m33s (est 42m, wr 51m38s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube unzH4KishOU
+Review: It's a pretty straightforward Sonic run, no fancy clips or glitches. Just lots of clean execution and good use of abilities. Being a run of Origins-specific characters adds some novelty, but it's a run aimed at Sonic megafans more than series onlookers.
+NM: wtf is with this leaderboard?
+
+Have A Nice Death (PC - Magic Design 2023)
+Fresh File Any%
+by allison8bit
+host Jaypeg, couch Quacksilver
+21m01s (est 28m, wr 18m03s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube w3xAyK5TeiU
+Review: A bite-sized roguelike run. From the commentary, it just got good enough RNG to absolutely melt bosses, which made it kind of dull, actually. I'm sure players of the game will be suitably impressed, but I can't say that I was.
+NM: pb 20m29s lrt
 
 Metroid Prime (Wii - Retro 2002)
 Any% Inbounds
 race edzan [3RH] vs Vertigo [WRH]
 host Jaypeg, couch COUCH
-MMmSSs (est 1h35m, wr 1h19m17s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h20m10s, 1h23m25s (est 1h35m, wr 1h19m17s rta)
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★★☆☆
+Youtube 4AiTOb3jxj8
+Review: An exceptional race - by in-game time, one runner tied WR, and they were neck-and-neck throughout the majority of the game. Limiting them to staying inbounds doesn't do much to stop the sequence breaks or skips, but keeps it at least mostly recognizable as the game we casually played.
 NM: igt wr tied 56m igt, edzan pb 58m igt 1h21m29s rta
+NM: vertigo tied WR igt!
 
 The Legend of Zelda: Breath of the Wild (Switch - Nintendo EPD 2017) [BONUS GAME 1]
 Any% 2 Players 1 Controller
 2p1c by Player5, mikeysgone [WRHs]
 host klinkit, couch TheRealNoman, RequiemOfSpirit
-MMmSSs (est 33m, wr 26m35s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: assumed no limit
+28m56s (est 33m, wr 26m35s, 1p1c wr 23m09s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube 27wvhVy3rJQ
+Review: This run could have made it in, even without the 2p1c gimmick. This beat the last non-gimmick Any% run of the game, by an entire minute. It's incredibly skip-heavy, ending with a chain of boss fights that have been routed to perfection.
 
 Red Dead Redemption: Undead Nightmare (PC - Rockstar San Diego 2010, 2024)
 Any%
 by Rigi [WRH]
 host klinkit, couch Joshimuz
-MMmSSs (est 1h00m, wr 50m38s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+54m35s (est 1h00m, wr 50m38s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube Pn_9sglOpfk
+Review: Unsurprisingly, this felt a lot like GTA runs. The speedrun here is all in the routing - it's a lot of moving between missions, but without quite so much freedom as, say, a collectathon. Neat to see, but nothing spectacular.
+NM: timer stopped way late
 
 Horizon Forbidden West (PS5 - Guerilla 2022)
-NG+ Story
+NG+ Ultra Hard [INCENTIVE]
 by Bdud5 [WRH]
-host Xenadir, couch actualuse, Xem, Syn
-MMmSSs (est 1h45m, wr 1h35m15s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Xenadir, couch actualuse, Syn
+1h41m44s (est 1h50m, wr 1h37m18s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube 1MXjfG82or4
+Review: This run has a little bit of everything. Some tough fights, taken down skillfully. Some routing optimization. A splash of out-of-bounds, here and there. A lot of little animation skips or shortcuts. But it's so spaced out, or so similar, that it all blurs together. A good one for Horizon fans, but a hard sell to outsiders.
+
+Horizon Forbidden West (PS5 - Guerilla 2022)
+All Relic Ruins [BONUS]
+by Bdud5
+host Xenadir, couch actualuse, Syn
+6m27s (est 9m, no wr?)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+Review: A snack-sized bonus run, just a rapid-fire series of short puzzle rooms getting bypassed by clips or unintended platforming.
+NM: claimed WR 7m37s?
+
+-------------------------------TUESDAY-------------------------------
 
 Yakuza (PS3 - New Entertainment 2005, 2012)
 Any%
 by BigNoNo [WRH]
 host OhHeyItsKara, couch Froob, Panduhmonium
-MMmSSs (est 2h00m, wr 1h53m53s)
+1h57m49s (est 2h00m, wr 1h53m53s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube rlKI5-0ayiU
 Review: (not yet reviewed)
-
--------------------------------TUESDAY-------------------------------
 
 Shenmue (PC - Sega AM2 1999)
 Any% TimeSkip
 by Maxylobes
 host HockeyBabbler, couch Froob, Tojimaru, DECosmic
-MMmSSs (est 3h20m, no wr?)
+3h17m42s (est 3h20m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -439,22 +473,22 @@ Beat Slayer (PC - ByteRockers 2024)
 Easy + Ult Kick
 by Amyrlinn [WRH][ORH]
 host Asuka424, couch bbrosef
-MMmSSs (est 40m, wr 33m05s)
+37m39s (est 40m, wr 33m05s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube OBzlbVswew8
 Review: (not yet reviewed)
 
 Pru the Pigeon (PC - kurigamedev 2024)
 Any%
 by swooce [2RH]
 host Asuka424, couch Konception, Corvimae
-MMmSSs (est 16m, wr 11m25s)
+17m38s (est 16m, wr 11m25s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 0E07MLrrw5A
 Review: (not yet reviewed)
 NM: pb 11m36s
 
@@ -462,11 +496,11 @@ Conquests of the Longbow: The Legend of Robin Hood (PC - Sierra Online 1991)
 Low%
 by Lemming
 host Asuka424, couch thewoofs, davidtki
-MMmSSs (est 20m, wr 15m21s)
+21m12s (est 20m, wr 15m21s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube MXiMuP4ICag
 Review: (not yet reviewed)
 NM: not on leaderboard, a new lowest % was recently found
 
@@ -474,18 +508,18 @@ G-Saviour (PS2 - Atelier Sai 2000)
 Any%
 by pmcTRILOGY [WRH]
 host Asuka424, couch DBcade, Froob, DECosmic
-MMmSSs (est 30m, wr 24m04s)
+27m57s (est 30m, wr 24m04s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube RjB0kEpL8ww
 Review: (not yet reviewed)
 
 Vengeful Guardian: Moonrider (PC - JoyMasher 2023)
 Beat The Game
 by DanTheVP [3RH]
 host Asuka424, couch COUCH
-MMmSSs (est 45m, wr 35m55s)
+38m06s (est 45m, wr 35m55s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -497,7 +531,7 @@ VA-11 Hall-A: Cyberpunk Bartender Action (Switch - Silenam 2016, 2019)
 NG+ Perfect Service (Console)
 by a_variety_pack [2RH]
 host JD Puppy, couch PippyInATopHat
-MMmSSs (est 35m, wr 29m53s)
+31m50s (est 35m, wr 29m53s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -508,7 +542,7 @@ Dandy & Randy DX vs Dumpy & Bumpy (PC - DEVELOPER YEAR)
 Co-op Normal
 coop by swordsmankirby, Bbforky
 host JD Puppy, couch COUCH
-MMmSSs (est 25m, wr MMmSSs)
+19m51s (est 25m, wr MMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
