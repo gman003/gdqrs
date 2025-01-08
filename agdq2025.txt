@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2025====================
-========Raising $0,359,131 for the Prevent Cancer Foundation=========
+========Raising $0,573,257 for the Prevent Cancer Foundation=========
 =========================January 5-12, 2025==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -523,7 +523,7 @@ host Asuka424, couch COUCH
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube yojOlfnMv2g
 Review: (not yet reviewed)
 NM: pb 37m38s
 
@@ -535,7 +535,7 @@ host JD Puppy, couch PippyInATopHat
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube f3nmiINJDxo
 Review: (not yet reviewed)
 
 Dandy & Randy DX vs Dumpy & Bumpy (PC - DEVELOPER YEAR)
@@ -546,7 +546,7 @@ host JD Puppy, couch COUCH
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube g6HxTl1q9EE
 Review: (not yet reviewed)
 NM: D&R by Asteristic 2022, D&B by Programancer 2021
 
@@ -554,131 +554,146 @@ Castlevania: Portrait of Ruin (PC - Konami 2006, 2024)
 Richter Any%
 by Lonely [WRH]
 host JD Puppy, couch Bobbeigh
-MMmSSs (est 35m, wr 26m08s)
+27m52s (est 35m, wr 26m08s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube AwubiOOaF0c
 Review: (not yet reviewed)
 
 Unicorn Overlord (Switch - Vanillaware 2024)
 Any% Story
 by Kuro* [3RH]
 host JD Puppy, couch Crak_atak, theoretically_moss
-MMmSSs (est 24m, wr 19m18s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 19m34s
+21m22s (est 24m, wr 19m18s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube 9Ks3UpkmfA0
+Review: A pretty short run, by tactics-game standards, but an interesting one, with very little downtime.
 
 Ys VIII: Lacrimosa of Dana (PC - Nihon Falcom 2016, 2018)
 All Story Bosses
 by bramhallthefifth [2RH]
 host Threach, couch KingJO444, GhostKumo
-MMmSSs (est 1h30m, wr 1h10m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h19m57s (est 1h30m, wr 1h10m58s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube e5NyZBOHZWk
+Review: A heavily glitched run, melting bosses with a damage glitch and manipulating world state with cutscene glitches. Not super easy to follow, but it had some fun moments.
+NM: todo Any% bonus run
+
+Ys VIII: Lacrimosa of Dana (PC - Nihon Falcom 2016, 2018)
+Any% [BONUS]
+by bramhallthefifth [2RH]
+host Threach, couch KingJO444, GhostKumo
+MMmSSs (est 15m, wr 10m55s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: assumed Easy
-NM: pb 1h16m34s
+Review: A short addon run, showing how the glitches of the main run can be abused to warp to credits. Unfortunately reliant on the explanations in the main run, so it can only work as a dessert, not an appetizer.
 
 Spyro: Reignited Trilogy (PC - Insomniac 1998, Toys for Bob 2018)
 Spyro 1 - Any% NBS
 by toastedkat [WRH]
 host Threach, couch chaimyyyy [3RH], DylanJayFox
-MMmSSs (est 50m, wr 43m32s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+45m53s (est 50m, wr 43m32s rta)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube S3hj4M9EEXk
+Review: A momentum-heavy collectathon. There's a low skill floor, mostly evident in the boss fights, but also a high skill ceiling. Some of the late-game sections were quite impressive, keeping up speed for entire levels.
 
 F-Zero GX (Gamecube - Amusement Vision 2003)
 All Tracks Max Speed
 by FifanGX [WRH]
 host Skybilz, couch 1davidj, AKC12
-MMmSSs (est 1h10m, wr 1h01m06s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h10m33s (est 1h10m, wr 1h01m06s)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube Li4cbwf_YRQ
+Review: A dry, technical speedrun. There's a good bit of tech here, and every track has something that needs explanation, but I'll admit, it blurs together after a while.
 
 Super Sheffy World 2: The Quest for 5 Shells (SNES - westslasher2 2019; Nintendo EAD 1990)
-Any%
+100% [INCENTIVE]
 by revolug [WRH]
 host Skybilz, couch Thabeast721, GlitchCat7
-MMmSSs (est 22m, wr 11m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+26m56s (est 22m, wr 16m37s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube V20N4od8JYY
+Review: Kaizo SMW is always a treat. This one was maybe not the smoothest run, but with a game that's hard even by kaizo standards, that's hardly unexpected. We get lots and lots of shell tech, and a few really neat gimmick levels.
 
 Super Mario Bros. (NES - Nintendo EAD 1985)
-Any% STA
-race? by GTAce, SuperSonic, scalpel, JeremyMKW
+Any% Simultaneous Time Attack
+races, GTAce vs SuperSonic vs scalpel vs JeremyMKW
 host Skybilz, couch Jay_the_Wook, FlibidyDibidy
-MMmSSs (est 30m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: no clue what category this is?
+~30m (est 30m, wr 4m54s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube G0ONr2lloM0
+Review: An exceptionally cool piece of technology - taking the feeds from four separate consoles, and synchronizing them on one display, down to the framerule, as they do repeated any% runs. And some of them were really good runs!
+NM: todo get some of the better run times
+
+D/Generation (Amiga - Robert Cook 1991)
+Random Seed
+by tbcr [WRH][ORH]
+host Skybilz, no couch
+16m37s (est 20m, no wr?)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube zwK7PTdZo10
+Review: A quick filler run. The fact that it's an Amiga run is unfortunately the most remarkable thing about it - it's pretty slow gameplay and has little in the way of speed tech.
 
 Ratchet & Clank: Going Commando (PS2 via PS3 - Insomniac 2003)
 Max%
 by Xem [WRH]
 host selcouthmind, couch Djura_ddos, SkitzTCB, marathonman
-MMmSSs (est 2h50m, wr 2h37m47s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: check console; WR is same RTA and LRT
+2h47m47s (est 2h50m, wr 2h37m47s rta)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube NmrIvD1UNFI
+Review: This is the most impressive Ratchet run I think I've seen at GDQ. There's some cool glitches, a lot of technical gameplay optimization, and some very efficient routing. But wow, three hours is more Ratchet than I needed. Do stick around for the post-run opera performance though - it's only a leaderboard of three, but I'd put this as the best opera singing at a GDQ.
 
 The Last of Us: Left Behind - Remastered (PS5 - Naughty Dog 2014, 2022)
 Grounded
 by AnthonyCaliber [WRH]
-host Mr. Game and Shout, couch COUCH
-MMmSSs (est 40m, wr 29m24s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: check console, make sure this is the PS5 remaster not the PS4 remaster on PS5
-NM: assumed Grounded Glitchless
+host Mr. Game and Shout, couch adef
+31m40s (est 40m, wr 29m24s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube GlTbn5GGFMQ
+Review: There was really only one impressive segment in this run, a combat arena towards the end. It was a really good segment - but I'm not sure it was worth all the buildup. I'm sure the cinematic scenes were wonderful casually, built up great characters, but in a speedrun they just come across as wasting our time.
 
 Dead Rising Deluxe Remaster (PC - Capcom PS1 2006, 2024)
 Ending A NG
 by Ecdycis
-host Mr. Game and Shout, couch COUCH
-MMmSSs (est 43m, wr 28m25s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: assumed 72H mode, Normal; pb 29m36s lrt
+host Mr. Game and Shout, couch Sweedola, Froob, NallyQ
+39m35s (est 43m, wr 28m25s lrt)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube yEy-LU4zfbc
+Review: A goofy sort of run for the fuzzy start of Horror Block. It's mostly skateboarding around zombies, punctuated by some fights. But the remaster makes for a much smoother speedrun, and Ecdycis and his couch make it charming.
 
 Silent Hill 2 (PC - Bloober 2024)
-New Game Light Restricted
-by CaptainEzekiel [2RH]
+New Game Hard Restricted
+by CaptainEzekiel [3RH]
 host Charbunny, couch Bobbeigh, Maxylobes, Ecdycis
-MMmSSs (est 2h05m, wr 1h57m15s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 1h52m50s lrt
+2h15m35s (est 2h10m, wr 1h55m00s lrt)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube a90YAF9r6UE
+Review: As expected of a glitchless horror run, it's mostly dodging past mob spawns while flitting from one inexplicable puzzle to another, punctuated by a handful of boss fights. Most of the enjoyment is going to come either from explaining the lore, or ribbing the game, and this is a prime candidate for both.
 
 ------------------------------WEDNESDAY------------------------------
 
@@ -686,34 +701,34 @@ Condemned: Criminal Origins (PC - Monolith 2005, 2006)
 Any%
 by Draiga [2RH]
 host Nichole Goodnight, couch Maxylobes, Gulch2 [3RH]
-MMmSSs (est 1h22m, wr 56m29s)
+1h08m00s (est 1h22m, wr 56m29s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube t9v6FBDPv60
 Review: (not yet reviewed)
 
 Crow Country (PC - SFB 2024)
 Any% Restricted Survival Horror
 by RJsmangit
 host Nichole Goodnight, couch COUCH
-MMmSSs (est 23m, wr 19m48s rta)
+22m04s (est 23m, wr 19m48s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 5PGedqPKQc0
 Review: (not yet reviewed)
 NM: pb 16m14s lrt
 
 Resident Evil: Deadly Silence (DS - Sapcom 2006)
 Jill (Classic, Bad Ending)
 by Bobbeigh
-host Nichole Goodnight, couch COUCH
-MMmSSs (est 34m, wr 26m23s)
+host Nichole Goodnight, couch CaptainEzekiel, Ecdycis, NallyQ
+30m08s (est 34m, wr 26m23s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube wGHBWOUn9TM
 Review: (not yet reviewed)
 NM: pb 29m47s
 
@@ -721,56 +736,57 @@ Resident Evil Survivor (PS1 - Tose 2000)
 New Game Easy
 by Punchy [WRH]
 host TheKingsPride, couch COUCH
-MMmSSs (est 40m, wr 36m36s)
+37m34s (est 40m, wr 36m36s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube uB9FGE3KqLM
 Review: (not yet reviewed)
 
 Warhammer 40,000: Space Marine (PC - Relic 2011)
 Any%
 by Failracer [WRH]
 host TheKingsPride, couch COUCH
-MMmSSs (est 1h10m, wr 59m40s)
+1h01m36s (est 1h10m, wr 59m40s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube mIVvMyQ7XFA
 Review: (not yet reviewed)
 
 Crypt Custodian (PC - Kyle Thompson 2024)
 Any% EASY
 by 八月朔日いなり aka Inari Houzumi [2RH]
-host TheKingsPride, couch COUCH
-MMmSSs (est 55m, wr 40m00s igt)
+host TheKingsPride, couch Beniolite
+43m05s (est 55m, wr 40m00s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube WLco8t-mCw0
 Review: (not yet reviewed)
 NM: pb 40m25s
 
 White Day: A Labyrinth Named School (PC - ROI 2015, 2017)
-Any% Route Choice
+So-yeong Any% [BIDWAR]
 by shmumbler
 host Jaidlyn, couch SweetPeebs
-MMmSSs (est 15m, wr MMmSSs)
+18m29s (est 15m, wr 29m03s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 4UdVD3gqkaI
 Review: (not yet reviewed)
+NM: double-check the category and WR, this seems fucky
 
 Descent Maximum (PC - Parallax 1996)
 Hotshot Any%
 by Spooty [WRH]
-host Jaidlyn, couch COUCH
-MMmSSs (est 33m, wr 41m43s)
+host Jaidlyn, couch Gromfalloon
+26m49s (est 33m, wr 41m43s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube FVXgW_O5GUI
 Review: (not yet reviewed)
 NM: check credits, if this is DOS version, 1996, if PS1, 1997, if Windows, 2006
 NM: wr from just "Descent", played on PC
@@ -779,11 +795,11 @@ Crossroad OS (PC - Daisy Games 2023)
 Any%
 by allison8bit [WRH]
 host Jaidlyn, couch Quacksilver, selcouthmind
-MMmSSs (est 15m, wr 13m44s)
+18m46s (est 15m, wr 13m44s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Vhj2b9hrQpo
 Review: (not yet reviewed)
 NM: alt credit "Guy", literally just "Guy"
 
@@ -791,7 +807,7 @@ Batman Forever: The Arcade Game (Arcade - Probe Entertainment 1996)
 1CC Attempt
 by LRock617 [WRH]
 host Jaidlyn, couch sharif, Starwin, giygasblues
-MMmSSs (est 26m, wr 23m46s)
+24m11s (est 26m, wr 23m46s)
 Overall N/R
 Skill   N/R
 Fun     N/R
