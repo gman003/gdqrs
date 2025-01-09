@@ -897,7 +897,7 @@ Super Mario 64 (N64 - Nintendo EAD 1996)
 A-Button Challenge
 tas showcase by rcombs
 host Melo Acevedo, couch 1ted59, DanPark, BillyWAR
-MMmSSs (est 28m, no wr - showcase)
+29m08s (est 28m, no wr - showcase)
 Overall ★☆★☆★
 Skill   ☆★☆★☆
 Fun     ★☆★☆★
@@ -1252,31 +1252,33 @@ Review: (not yet reviewed)
 
 Children of the Sun (PC - Rene Rother 2024)
 Any%
-by BobbyBurm
+by BobbyBurm [2RH]
 host selcouthmind, couch SatanHerself
-MMmSSs (est 26m, wr MMmSSs)
+MMmSSs (est 26m, wr 18m39s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: pb 15m21s lrt
 
 BPM: Bullets Per Minute (PC - Awe 2020)
 Skuld : Clear All Rooms : Easy
 by JamesSwan
 host selcouthmind, couch Rile_Soe, GFitty, Amyrlinn
-MMmSSs (est 25m, wr MMmSSs)
+MMmSSs (est 25m, wr 10m22s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: pb 13m48s, last on leaderboards lol
 
 Castlevania: Dracula X (SNES via Wii U VC - Konami 1995)
 Bad Ending (Catacomb Shortcut)
-by Hensachi60
-host ClockworkOphelia, couch SBDWolf
-MMmSSs (est 22m, wr MMmSSs)
+by Hensachi60 [WRH]
+host ClockworkOphelia, couch SBDWolf [2RH]
+MMmSSs (est 22m, wr 13m20s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1285,20 +1287,21 @@ Review: (not yet reviewed)
 
 Gimmick! 2 (PC - Bitwave 2024)
 Any%
-by SBDWolf
+by SBDWolf [WRH]
 host ClockworkOphelia, couch Gustav Idstrom, Niklas Istenes
-MMmSSs (est 37m, wr MMmSSs)
+MMmSSs (est 37m, wr 25m47s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: assumed Assisted, not ranked in Gimmick difficulty
 
 Frogun Encore (PC - Molegato 2024)
 Any%
-by TheHellfridge
+by TheHellfridge [WRH]
 host ClockworkOphelia, couch dtraitor
-MMmSSs (est 30m, wr MMmSSs)
+MMmSSs (est 30m, wr 19m55s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1309,18 +1312,19 @@ No One Can Stop Mr. Domino! (PS1 - Artdink 1998)
 Any% Slow
 by Hibnotix
 host ClockworkOphelia, couch GBSaysHi
-MMmSSs (est 15m, wr MMmSSs)
+MMmSSs (est 15m, wr 10m19s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: pb 11m09s
 
 ane-san (TG-16CD - NEC Avenue 1995)
 Any%
-by irukan
+by irukan [WRH]
 host ClockworkOphelia, couch fuso_shikine
-MMmSSs (est 18m, wr MMmSSs)
+MMmSSs (est 18m, wr 14m14s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1329,9 +1333,9 @@ Review: (not yet reviewed)
 
 10 Second Ninja X (PC - Four Circle 2016)
 All Stars
-by WDN2010
+by WDN2010 [WRH]
 host ClockworkOphelia, couch COUCH
-MMmSSs (est 18m, wr MMmSSs)
+MMmSSs (est 18m, wr 14m12s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1340,37 +1344,40 @@ Review: (not yet reviewed)
 
 Disruptor (PS1 - Insomniac 1996)
 Any% Regular NTSC-J
-by Nick Astalos
+by Nick Astalos [2RH]
 host Jaypeg, couch COUCH
-MMmSSs (est 27m, wr MMmSSs)
+MMmSSs (est 27m, wr 21m53s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: pb 22m56s
 
 Final Fantasy VII Rebirth (PS5 - Square Enix CBU1 2024)
 Any% Easy
-by Woadyb
+by Woadyb [3RH]
 host ateatree, Jaypeg, couch HeroicSpiritGamer, The_Sid
-MMmSSs (est 6h15m, wr MMmSSs)
+MMmSSs (est 6h15m, wr 5m47s33s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: pb 5h55m39s
 
 Grand Theft Auto: Vice City (PC - Rockstar North 2002)
 Tightened Vice
-by EnglishBen
+by EnglishBen [3RH]
 host chibicarrera, couch KZ_FREW, Joshimuz
-MMmSSs (est 1h20mm, wr MMmSSs)
+MMmSSs (est 1h20mm, wr 59m45s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
 NM: if Definitive, also dev Grove Street 2021
+NM: pb 1h09m04s
 
 Fresh Hops (SNES - MorrieTheMagpie 2024; Nintendo EAD 1990)
 100%
