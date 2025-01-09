@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2025====================
-========Raising $0,573,257 for the Prevent Cancer Foundation=========
+========Raising $0,794,018 for the Prevent Cancer Foundation=========
 =========================January 5-12, 2025==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -811,7 +811,7 @@ host Jaidlyn, couch sharif, Starwin, giygasblues
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube iRv-m-MzZr8
 Review: (not yet reviewed)
 NM: assumed Arcade, Robin
 
@@ -819,203 +819,227 @@ Gauntlet IV (Genesis - M2 1993)
 Quest Mode "Good Ending" 4-Player
 coop by Hold em Joe, walkingeye, Preevs, Elzo [WRHs]
 host Jaidlyn, couch COUCH
-MMmSSs (est 40m, wr 36m10s)
+41m19s (est 40m, wr 36m10s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube OL3F-RryYT0
 Review: (not yet reviewed)
 
 Sonic Lost World (PC - Sonic Team 2013, Sega Europe 2015)
 Any% Wingless
 by CriticalCyd [WRH]
 host klinkit, couch Brandino59, Gedrith
-MMmSSs (est 1h15m, wr 1h08m48s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h14m41s (est 1h15m, wr 1h08m48s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube jmFZPcMwZic
+Review: A straightforward run, but cleanly done, with a good mix of as-intended execution and glitching.
 
-Sonic X Shadow Generations (PC - Sonic Team 2011, 2024)
+Shadow Generations (PC - Sonic Team 2011, 2024)
 Any%
 by AlphaDolphin [WRH]
 host klinkit, couch Brandino59, Labrys, 1davidj
-MMmSSs (est 1h17m, wr 1h09m03s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h11m38s (est 1h17m, wr 1h09m03s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube dJ_UxcHNqTk
+Review: A basic but competent run. Did you enjoy Shadow Generations, and want to see it played better than you did? AlphaDolphin plays much better than you, and adds in a few skips and tricks to go even faster. But it's not a speedrun that's had much time to really be worked out, yet, feels too close to a casual run. But all the series lore being explained was fun enough.
 
 Pokemon Let's Go, Pikachu!/Eevee! (Switch - Game Freak 2018)
-Any% Pikachu/Eevee
-by Etchy
-host chibicarrera, couch NewAmber, kerbis54, eddaket
-MMmSSs (est 3h05m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+Any% Eevee
+by Etchy [2RH]
+host chibicarrera, couch NewAmber [WRH], kerbis54, eddaket
+3h02m16s [NF] (est 3h05m, wr 2h57m20s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube hKw1mFnuPhQ
+Review: It has more on-the-fly rerouting than most Pokemon runs, but the route itself felt a lot less challenging. It's an excellent game for novice speedrunners to get into, but it's a hard sell to watch. Something for the real Pokemaniacs, but if you've never liked the series, this won't be the run to change your mind.
 
 New Super Mario Bros. Wii (Wii - Nintendo EAD 2009)
 Any% While Playing Piano
 by Wes
 host Skybilz, couch ateatree, KingJO444, TrainerAnade
-MMmSSs (est 45m, wr 23m54s while not playing piano)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+41m20s (est 45m, wr 23m54s while not playing piano)
+Overall ★★★★☆
+Skill   ★☆★☆★
+Fun     ★★★★★
+Youtube vuaWJ-40hFY
+Review: Playing NSMB with head/foot controls, while playing the soundtrack on piano? Yeah. Sure. That's a speedrun now. Neither the gameplay nor the music would be that impressive on its own, but combined? Wow. That's just a ridiculous level of multitasking.
 
 Donkey Kong Country: Tropical Freeze (Switch - Retro 2014)
 Any% Original Mode
 by spikevegeta [3RH]
 host Skybilz, couch KeiperDontCare, Riekelt, GhostKumo
-MMmSSs (est 1h30m, wr 1h22m30s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 1h24m52s
+1h28m03s (est 1h30m, wr 1h22m30s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★★
+Youtube oKrH7E0fvro
+Review: It's easy to forget that, as great as Spike is on the couch, he's also a really good speedrunner. When he's not goofing off in this run, he's pulling off some pretty sick platforming. And then he gets distracted doing a bit, and you see just how easy it is to screw up. I'm planning to watch it again just to pay more attention to the actual speedrunning, not the top-notch couch banter - and the run was so good, that even though it happened less than an hour ago, I'm still down to watch it again.
+NM: todo add the bonus level at the end?
 
 Fallout: New Vegas (PC - Obsidian 2010) [BONUS GAME 2]
-All Romances
+All Sleeping Partners + Any%
 by tomatoanus as tomatoangus
 host Melo Acevedo, couch CJItsallGewd, CovertMuffin, bryonato
-MMmSSs (est 30m, wr 20m18s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: assumed All Sleeping Partners, pb 17m45s lrt
+40m02s (est 40m, wr 20m18s 10m07s rta)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube HtUKlxIbUK8
+Review: I don't even know where to start, with this run. On the speedrun side, you've got some workhorse glitches that break the game wide open, turn the "All Romances" into a flit around the map. And then on the shenanigans side - prop comedy, witty banter, some cheeky shade at the family-friendly event rules they're playing under. An overall excellent speedrun.
 
 Super Mario 64 (N64 - Nintendo EAD 1996)
 A-Button Challenge
 tas showcase by rcombs
 host Melo Acevedo, couch 1ted59, DanPark, BillyWAR
 MMmSSs (est 28m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆★☆★
+Skill   ☆★☆★☆
+Fun     ★☆★☆★
+Youtube lrb-b0n2fRY
+Review: A good introduction to ABC strats, and very smoothly presented. I think some of these were even new, at least improvements in time if not cutting out an A press.
+
+Super Mario 64 (N64 - Nintendo EAD 1996)
+1 Key [BONUS]
+tas showcase by rcombs
+host Melo Acevedo, couch 1ted59, DanPark, BillyWAR
+4m18s (est 5m, closest human wr 6m16s)
+Overall ☆★☆★☆
+Skill   ★☆★☆★
+Fun     ☆★☆★☆
 Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+Review: It's a TAS you've almost certainly seen elsewhere, but seeing the game demolished so completely will never get old.
 
 Rocket League (PC - Psyonix 2015)
 Workshop Map Speedrun Showcase
 by ThundaSurge
 host Melo Acevedo, couch Lethamyr, blaku, Plumato
-MMmSSs (est 50m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+50m01s (est 50m, no wr - showcase)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
+Youtube iMft32TvjRg
+Review: I got tired of this showcase, long before it finished. I think there were just too many maps focused on consistency and endurance, rather than a quick flash of skill. It all blurred together before the halfway mark. Yes, seeing someone fly a car like this is stunning at first - I *have* played Rocket League, I could never pull this off - but an hour of it was more than I could take.
+NM: add bonus run?
 
 The Elder Scrolls V: Skyrim (PC - Bethesda 2011)
 Main Quest
 by pekkanen [3RH]
-host Melo Acevedo, couch Sickliff
-MMmSSs (est 32m, wr 27m35s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Melo Acevedo, couch tomatoanus as tomatoangus, chronos, musical_daredevil
+43m05s (est 32m, wr 27m35s rta)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube u4RzOF9e850
+Review: A mess of a run. It's about 90% staring at the save menu or loading screens, for reasons that perhaps can't be easily explained but no attempt was made. Something went wrong, or maybe even several somethings, but even that was inscrutable. No amount of wild cheering for the phrase "horse tilt" could make this enjoyable.
+
+------------------------------THURSDAY-------------------------------
+
+The Elder Scrolls V: Skyrim (PC - Bethesda 2011)
+Level 1-80 [BONUS]
+by pekkanen [3RH]
+host Melo Acevedo, couch tomatoanus as tomatoangus, chronos, musical_daredevil
+23m49s (est 13m, no wr?) [NV]
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ☆☆☆☆☆
 Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 21m53s lrt
+Review: Somehow a step down from the main run, and just as far over estimate. If things had gone *properly*, we'd still have been staring at an alchemy menu for multiple minutes while grinding levels, even with all the glitches active. Things did not go properly. Invalidated (though this doesn't even seem to be a real category) by using console commands to bypass a trick that kept failing.
 
 Superman 64 (N64 - Titus Interactive 1999)
 Any%
 by BradHarmar [WRH]
 host SatanHerself, couch Kiddblur, HungryEd
-MMmSSs (est 33m, wr 29m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-
-------------------------------THURSDAY-------------------------------
+33m14s (est 33m, wr 29m33s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube YNIsfpvzGwc
+Review: Kicking off Awful Block with one of the vintage Worst Games. The game is suitably broken, with wall clips in pretty much every indoor level, and the run has a pretty fast route, to boot. Unfortunately, the best individual piece of speed tech is setting the screen size to 20%, to reduce (but somehow not eliminate) lag. So expect to squint a lot.
 
 Bite Night (PC - Rowdy Turtle 2023)
 Any%
-race, Konception vs swooce
+race, Konception [3RH] vs swooce [2RH]
 host SatanHerself, couch dragoR1n, PrincessAshfire
-MMmSSs (est 15m, wr MMmSSs)
+12m46s (est 15m, wr 9m49s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube -q-dIKUXH90
 Review: (not yet reviewed)
+NM: swooce pb 9m58s, kon 10m09s
 
 Golf With Your Grandmother (PC - Nevsram 2021)
 5 Holes
 by KingJO444
 host SatanHerself, couch Phillie, Xem, Jaxler
-MMmSSs (est 18m, wr MMmSSs)
+19m06s (est 18m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube KpnzFxo7Vuw
 Review: (not yet reviewed)
 
 Rex Ronan: Experimental Surgeon (SNES - Sculptured 1994)
 Any%
-by giygasblues
+by giygasblues [3RH]
 host SatanHerself, couch Starwin
-MMmSSs (est 18m, wr MMmSSs)
+18m13s (est 18m, wr 13m20s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube PtO-jSyhOWE
 Review: (not yet reviewed)
+NM: pb 14m33s
 
 Oscar (SNES - Flair 1993, Titus 1996)
 Any%
-by janglestorm
+by janglestorm [WRH]
 host SatanHerself, couch NPC, iceblue, brossentia
-MMmSSs (est 18m, wr MMmSSs)
+14m45s (est 18m, wr 13m10s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube BtxSEBgmznw
 Review: (not yet reviewed)
 
 Inspector Gadget: Gadget's Crazy Maze (PS1 - Vision Media Engineering 2001)
 Any%
 coop by Starwin, Crak_atak
 host Asuka424, couch Slurpeeninja, giygasblues
-MMmSSs (est 20m, wr MMmSSs)
+10m03s (est 20m, wr 48m18s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube tpLv9fpVTVs
 Review: (not yet reviewed)
+NM: not ranked? tf is with the WR?
 
 Bad Way (PC - Montee 2022)
 Any%
-by SweedOla
+by SweedOla [2RH]
 host Asuka424, couch shmumbler
-MMmSSs (est 30m, wr MMmSSs)
+26m04s (est 30m, wr 21m52s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube lejKfzJ8dCA
 Review: (not yet reviewed)
 
 Doronko Wanko (PC - Bandai Namco 2024)
 All Gifts
-by Cubsrule21
+by Cubsrule21 [WRH]
 host Asuka424, couch DelilahIsDidi, Aksannyi, selcouthmind
-MMmSSs (est 7m, wr MMmSSs)
+9m05s (est 7m, wr 5m11s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube mSqRcUso06I
 Review: (not yet reviewed)
 NM: this credit feels sus, verify?
 
@@ -1023,118 +1047,122 @@ Who Shot Johnny Rock? (DVD - American Laser Games 1991, 2001)
 Ace Difficulty
 by sharif
 host Asuka424, couch brossentia, Konception, LRock617
-MMmSSs (est 32m, wr MMmSSs)
+23m26s (est 32m, wr MMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube HczJtTQ2QKI
 Review: (not yet reviewed)
 
 Meegah Mem (PC - DEVELOPER YEAR)
 Any%
 by LV Creed
 host Asuka424, couch COUCH
-MMmSSs (est 10m, wr MMmSSs)
+4m52s (est 10m, wr MMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube SHTevUN3VLI
 Review: (not yet reviewed)
 NM: if this is MM2, Crapcom 2019, no MM1 seems to exist
 
 Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi (PS2 - IMJ 2004)
 Mission Mode All Stages Default%
-by DBcade
+by DBcade [WRH][ORH]
 host vanni_van, couch COUCH
-MMmSSs (est 40m, wr MMmSSs)
+31m58s (est 40m, wr 26m08s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube m1d4LVOSiv4
 Review: (not yet reviewed)
 
 Squirrel with a Gun (PC - Dee Dee Creations 2024)
 Any%
-by squirrelpascals
-host vanni_van, couch iswimfly, Gary_Asher, ItsServina
-MMmSSs (est 26m, wr MMmSSs)
+by squirrelpascals [WRH]
+host vanni_van, couch iswimfly [2RH], Gary_Asher [3RH], ItsServina
+28m39s (est 26m, wr 21m55s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube cqxK89znGT0
 Review: (not yet reviewed)
 
 Big Rigs: Over the Road Racing (PC - Stellar Stone 2003)
 100%
-by szcymanski
+by szcymanski [WRH]
 host vanni_van, couch ateatree, JamesSwan, dlsp
-MMmSSs (est 6m, wr MMmSSs)
+3m29s (est 6m, wr 3m01s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube jg9HaLywDL4
 Review: (not yet reviewed)
 
 Kevin Costner's Waterworld (PC - Interplay 1997)
 Any%
 by NPC
 host vanni_van, couch sharif, brossentia
-MMmSSs (est 12m, wr MMmSSs)
+11m42s (est 12m, wr MMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube gwlHDNF0aqE
 Review: (not yet reviewed)
 
 Hylics 2 (PC - Mason Lindroth 2020)
 Any%
 by RJsmangit
 host vanni_van, couch COUCH
-MMmSSs (est 27m, wr MMmSSs)
+37m54s (est 27m, wr 24m00s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 6Q2Y3qkROu0
 Review: (not yet reviewed)
+NM: pb 26m05s
 
 Flushed Away (Gamecube - Monkey Bar 2006)
 Any%
-by Kuro*
+by Kuro* [2RH]
 host OhHeyItsKara, couch Ozmourn, theoretically_moss
-MMmSSs (est 42m, wr MMmSSs)
+46m13s (est 42m, wr 37m29s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: pb 39m35s
 
 BZZZT (PC - KO.DLL 2023)
 Any% - Normal
 by ThePiPiper
 host OhHeyItsKara, couch OnixpectedOtter, Weptlong, sSolarist
-MMmSSs (est 25m, wr MMmSSs)
+22m19s (est 25m, wr 17m54s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: 19m43s
 
 RKGK / Rakugaki (PC - Wabisabi 2024)
 New Game+ Half Grafitti
 by limy
 host OhHeyItsKara, couch vaen, mau
-MMmSSs (est 40m, wr MMmSSs)
+35m26s (est 40m, wr 35m43s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: if aka "limga", runner is also WRH+ORH
 
 Star Wars: Dark Forces Remaster (PC - LucasArts 1995; Nightdive 2024)
 Any%
-by ripchip_
+by ripchip_ [WRH]
 host OhHeyItsKara, couch COUCH
-MMmSSs (est 25m, wr MMmSSs)
+MMmSSs (est 25m, wr 20m33s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1143,20 +1171,21 @@ Review: (not yet reviewed)
 
 Mario & Luigi: Partners in Time (DS - AlphaDream 2005)
 Any%
-by Tonkotsu
+by Tonkotsu [3RH]
 host happybythree, couch Migu, Snoion, GhostKumo
-MMmSSs (est 2h40m, wr MMmSSs)
+MMmSSs (est 2h40m, wr 2h15m39s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: pb 2h24m32s
 
 Windblown (PC - Motion Twin 2024)
 All Encounters - 3P
 coop by Ozmourn, ateatree, Xenadir
 host happybythree, couch COUCH
-MMmSSs (est 30m, wr MMmSSs)
+MMmSSs (est 30m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1165,9 +1194,9 @@ Review: (not yet reviewed)
 
 The Legend of Zelda: Tears of the Kingdom (Switch - Nintendo EPD 2023)
 All Dungeons
-by cloud
+by cloud [WRH]
 host PippyInATopHat, couch Glan, nukie, moistgoolash
-MMmSSs (est 2h50m, wr MMmSSs)
+MMmSSs (est 2h50m, wr 2h38m15s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1176,9 +1205,9 @@ Review: (not yet reviewed)
 
 Lies of P (PC - Neowiz Games 2023)
 Any% Glitchless
-by ColonelFats69
+by ColonelFats69 [WRH]
 host Lanaruse, couch Mitchriz, TimandTex
-MMmSSs (est 1h45mm, wr MMmSSs)
+MMmSSs (est 1h45mm, wr 1h30m09s lrt)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1189,18 +1218,19 @@ Call of Duty 4: Modern Warfare (PC - Infinity Ward 2007)
 Any%
 by bryonato
 host Lanaruse, couch BlueTarget, tomatoanus as tomatoangus, adef
-MMmSSs (est 1h38m, wr MMmSSs)
+MMmSSs (est 1h38m, wr 1h32m28s lrt)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: assumed Recruit; pb 1h33m06s lrt
 
 CHUNITHM LUMINOUS PLUS (Arcade - Sega 2024)
 Arcade Showcase
 by Beazat, Blaze, Raveille
 host TheKingsPride, couch COUCH
-MMmSSs (est 1h10m, wr MMmSSs)
+MMmSSs (est 1h10m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1209,9 +1239,9 @@ Review: (not yet reviewed)
 
 Hitman: Blood Money (PC - IO Interactive 2006)
 Rookie/SA
-by Alpha Brother
+by Alpha Brother [WRH]
 host selcouthmind, couch Meyanyo, Threeballer
-MMmSSs (est 25m, wr MMmSSs)
+MMmSSs (est 25m, wr 22m19s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
