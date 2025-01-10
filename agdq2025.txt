@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2025====================
-========Raising $0,794,018 for the Prevent Cancer Foundation=========
+========Raising $1,088,474 for the Prevent Cancer Foundation=========
 =========================January 5-12, 2025==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -1130,7 +1130,7 @@ host OhHeyItsKara, couch Ozmourn, theoretically_moss
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube E7PuPTeivW4
 Review: (not yet reviewed)
 NM: pb 39m35s
 
@@ -1142,7 +1142,7 @@ host OhHeyItsKara, couch OnixpectedOtter, Weptlong, sSolarist
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube aWLfOXy7Cro
 Review: (not yet reviewed)
 NM: 19m43s
 
@@ -1154,146 +1154,155 @@ host OhHeyItsKara, couch vaen, mau
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube yHo5jmGYr_o
 Review: (not yet reviewed)
 NM: if aka "limga", runner is also WRH+ORH
 
 Star Wars: Dark Forces Remaster (PC - LucasArts 1995; Nightdive 2024)
-Any%
-by ripchip_ [WRH]
-host OhHeyItsKara, couch COUCH
-MMmSSs (est 25m, wr 20m33s rta)
+All Secrets [INCENTIVE]
+by ripchip_ [WRH][ORH]
+host OhHeyItsKara, couch CovertMuffin, tbcr
+32m25s (est 36m, wr 30m27s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 0BRDe51esXU
 Review: (not yet reviewed)
 
 Mario & Luigi: Partners in Time (DS - AlphaDream 2005)
 Any%
 by Tonkotsu [3RH]
 host happybythree, couch Migu, Snoion, GhostKumo
-MMmSSs (est 2h40m, wr 2h15m39s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 2h24m32s
+2h25m40s (est 2h40m, wr 2h15m39s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube IuXeE9QmHzY
+Review: The challenge from this run is more like a rhythm game than most JRPGs. The battle strats are unremarkable, but pulling off the attack/parry minigames? Wow. We also got some glitches, skipping enough to make sure they were always underleveled. It's a very unique run - besides other M&L runs. Even among those, this one stands out.
 
 Windblown (PC - Motion Twin 2024)
 All Encounters - 3P
 coop by Ozmourn, ateatree, Xenadir
-host happybythree, couch COUCH
-MMmSSs (est 30m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host happybythree, no couch
+24m34s (est 30m, no wr)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube mbP6pDQ_x0M
+Review: Maybe I missed a crucial, never-repeated explanation, or maybe this is just a game that only makes sense once you've played it, but I just couldn't follow this run beyond the extremely basic "move and kill enemies". It wasn't information overload, or moving too fast, I just couldn't get a mental foothold. But it's got smooth movement and some roguelike builds, enough to keep me watching even without understanding.
 
 The Legend of Zelda: Tears of the Kingdom (Switch - Nintendo EPD 2023)
 All Dungeons
 by cloud [WRH]
 host PippyInATopHat, couch Glan, nukie, moistgoolash
-MMmSSs (est 2h50m, wr 2h38m15s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+2h27m47s (est 2h50m, wr 2h38m15s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube ZLIT3NmriRs
+Review: Well. It's a massive game, and requiring all dungeons actually be beaten ensures we see a good amount of it. But it's still an exploit-dense run, using all manner of glitches that are not easy to explain. It's well-commentated, not too hard to follow, but it's more a careful dismantling of the game than a kinetic blitz.
+
+Block Dude (TI-83 - Brandon Sterner 2001)
+Any%
+by adef
+host Lanaruse, couch Bobbyburm
+13m11s (est 18m, wr 7m43s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
+Youtube EOINI-QT-gs
+Review: How is a calculator game speedrun this good? Like there's actual skips and a real route. Even setting aside the (genuinely hilarious) couch banter, this was a fine run! Now if you'll excuse me, I need to go dig through my closet and see where my TI-84 got to.
 
 Lies of P (PC - Neowiz Games 2023)
 Any% Glitchless
 by ColonelFats69 [WRH]
 host Lanaruse, couch Mitchriz, TimandTex
-MMmSSs (est 1h45mm, wr 1h30m09s lrt)
+1h43m46s (est 1h45m, wr 1h30m09s lrt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube AG-jTrU5ndw
 Review: (not yet reviewed)
 
 Call of Duty 4: Modern Warfare (PC - Infinity Ward 2007)
 Any%
 by bryonato
 host Lanaruse, couch BlueTarget, tomatoanus as tomatoangus, adef
-MMmSSs (est 1h38m, wr 1h32m28s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: assumed Recruit; pb 1h33m06s lrt
+1h38m15s (est 1h38m, wr 1h32m28s lrt)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube 1PLtrQi-Q1w
+Review: It's a limited speedrun - there's a few skips, but it's mostly manipulating ally AI to advance faster, or quick strats to tear through firefights. And there's more than a few long autoscrollers. But it's a couch full of charisma and they came prepared, so it's still a banging time.
 
 CHUNITHM LUMINOUS PLUS (Arcade - Sega 2024)
 Arcade Showcase
-by Beazat, Blaze, Raveille
-host TheKingsPride, couch COUCH
-MMmSSs (est 1h10m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-
-Hitman: Blood Money (PC - IO Interactive 2006)
-Rookie/SA
-by Alpha Brother [WRH]
-host selcouthmind, couch Meyanyo, Threeballer
-MMmSSs (est 25m, wr 22m19s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+by Beazat [REM], Blaze [REM], Raveille [REM]
+host TheKingsPride, no couch
+~1h50m (est 1h50m, no wr - showcase)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube D-658yiF_28
+Review: Rhythm game showcases are a narrow tightrope to walk. You need to do things that are impressive, even for people who've never heard of the game before it shows up on the schedule. But you also need to do enough different things, to fill out your time slot without turning into repetition, and that's where I find a lot of these Japanese rhythm games falter. This one, too, turns into a soup of unreadable colors and a barrage of electronica runs, but only towards the end. In the main run, there's some recognizable meme songs and some variety in the challenge that even newcomers can see - they saved the stuff that only makes sense to serious players, for the second showcase.
 
 -------------------------------FRIDAY--------------------------------
+
+Hitman: Blood Money (PC - IO Interactive 2006)
+Professional/SA [INCENTIVE]
+by Alpha Brother [WRH]
+host selcouthmind, couch Meyanyo, Threeballer
+33m46s (est 35m, wr 23m23s rta)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube hUDFzfPmuvQ
+Review: (not yet reviewed)
 
 Children of the Sun (PC - Rene Rother 2024)
 Any%
 by BobbyBurm [2RH]
 host selcouthmind, couch SatanHerself
-MMmSSs (est 26m, wr 18m39s rta)
+21m41s (est 26m, wr 18m39s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 1ktYA3zONP4
 Review: (not yet reviewed)
 NM: pb 15m21s lrt
 
 BPM: Bullets Per Minute (PC - Awe 2020)
-Skuld : Clear All Rooms : Easy
+Skuld : 100% Clear : Easy [INCENTIVE]
 by JamesSwan
 host selcouthmind, couch Rile_Soe, GFitty, Amyrlinn
-MMmSSs (est 25m, wr 10m22s)
+18m00s (est 30m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube sYz-LX6ba74
 Review: (not yet reviewed)
-NM: pb 13m48s, last on leaderboards lol
+NM: no 100% cat?
 
 Castlevania: Dracula X (SNES via Wii U VC - Konami 1995)
 Bad Ending (Catacomb Shortcut)
 by Hensachi60 [WRH]
 host ClockworkOphelia, couch SBDWolf [2RH]
-MMmSSs (est 22m, wr 13m20s)
+15m52s (est 22m, wr 13m20s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube JRFmgYwaSAc
 Review: (not yet reviewed)
 
 Gimmick! 2 (PC - Bitwave 2024)
-Any%
+True Ending [INCENTIVE]
 by SBDWolf [WRH]
 host ClockworkOphelia, couch Gustav Idstrom, Niklas Istenes
-MMmSSs (est 37m, wr 25m47s)
+37m58s (est 48m, wr 35m37s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube -WyLkddZXZU
 Review: (not yet reviewed)
 NM: assumed Assisted, not ranked in Gimmick difficulty
 
@@ -1301,56 +1310,56 @@ Frogun Encore (PC - Molegato 2024)
 Any%
 by TheHellfridge [WRH]
 host ClockworkOphelia, couch dtraitor
-MMmSSs (est 30m, wr 19m55s igt)
+25m03s (est 30m, wr 19m55s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 81Joyq4QQBI
 Review: (not yet reviewed)
 
 No One Can Stop Mr. Domino! (PS1 - Artdink 1998)
 Any% Slow
 by Hibnotix
 host ClockworkOphelia, couch GBSaysHi
-MMmSSs (est 15m, wr 10m19s)
+14m29s (est 15m, wr 10m19s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 2siipoyNlfs
 Review: (not yet reviewed)
 NM: pb 11m09s
 
 ane-san (TG-16CD - NEC Avenue 1995)
-Any%
+All Characters [INCENTIVE]
 by irukan [WRH]
 host ClockworkOphelia, couch fuso_shikine
-MMmSSs (est 18m, wr 14m14s)
+17m22s (est 20m, wr 15m25s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube mBivTnrKaEk
 Review: (not yet reviewed)
 
 10 Second Ninja X (PC - Four Circle 2016)
 All Stars
 by WDN2010 [WRH]
 host ClockworkOphelia, couch COUCH
-MMmSSs (est 18m, wr 14m12s)
+15m53s (est 18m, wr 14m12s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube b8a0JSdkMHE
 Review: (not yet reviewed)
 
 Disruptor (PS1 - Insomniac 1996)
 Any% Regular NTSC-J
 by Nick Astalos [2RH]
 host Jaypeg, couch COUCH
-MMmSSs (est 27m, wr 21m53s)
+23m56s (est 27m, wr 21m53s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube lP8VZAT8wEc
 Review: (not yet reviewed)
 NM: pb 22m56s
 
@@ -1358,13 +1367,14 @@ Final Fantasy VII Rebirth (PS5 - Square Enix CBU1 2024)
 Any% Easy
 by Woadyb [3RH]
 host ateatree, Jaypeg, couch HeroicSpiritGamer, The_Sid
-MMmSSs (est 6h15m, wr 5m47s33s)
+6h12m34s (est 6h15m, wr 5m47s33s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
 NM: pb 5h55m39s
+NM: bonus after?
 
 Grand Theft Auto: Vice City (PC - Rockstar North 2002)
 Tightened Vice
@@ -1383,12 +1393,14 @@ Fresh Hops (SNES - MorrieTheMagpie 2024; Nintendo EAD 1990)
 100%
 by frozenflygone
 host Charbunny, couch Corvimae, aco
-MMmSSs (est 45m, wr MMmSSs)
+MMmSSs (est 45m, wr 25m38s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube YOUTUBE_ID
 Review: (not yet reviewed)
+NM: assumed v1.0, only one runner's ranked on
+NM: pb 28m44s
 
 Nintendo World Championships: NES Edition (Switch - indieszero 2024)
 Legendary Trial
@@ -1416,7 +1428,7 @@ Tetris: The Grand Master (PS4 - Arika 1998, 2022; DEVELOPER YEAR)
 Multi Game Showcase
 by JBroms, spc, EricICX, Mackie
 host cartridgeblowers, couch COUCH
-MMmSSs (est 45m, wr MMmSSs)
+MMmSSs (est 45m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1427,7 +1439,7 @@ Mario Kart 8 Deluxe (Switch - Nintendo EAD 2017)
 48 Tracks (DLC), 200cc, No Items
 by Bayesic
 host cartridgeblowers, couch Friz, MickyWinz, GanonSlayer
-MMmSSs (est 1h30m, wr MMmSSs)
+MMmSSs (est 1h30m, wr 1h25m49s)
 Overall N/R
 Skill   N/R
 Fun     N/R
