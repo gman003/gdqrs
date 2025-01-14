@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2025====================
-========Raising $1,088,474 for the Prevent Cancer Foundation=========
+========Raising $2,565,185 for the Prevent Cancer Foundation=========
 =========================January 5-12, 2025==========================
 
 -------------------------------SUNDAY--------------------------------
@@ -271,10 +271,10 @@ Review: (not yet reviewed)
 NM: not ranked? also assumed Any%, there's also Triple Crown 100%; and assumed Unrestricted
 
 Peglin (PC - Red Nexus 2022)
-Any% - Character [BIDWAR]
+Any% - Balladin [BIDWAR]
 by BystanderTim
 host Threach, couch Dylan Gedig, SeaAverage
-17m25s (est 30m, wr MMmSSs)
+17m25s (est 30m, wr 9m55s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -285,7 +285,7 @@ Puyo Puyo Puzzle Pop (iOS - h.a.n.d 2024)
 Challenge Adventure
 by Peas
 host Threach, couch limy_sr, Ozmourn
-12m11s (est 20m, wr MMmSSs)
+12m11s (est 20m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -359,7 +359,7 @@ host savage_octagon, THEKyleThomas, couch Lizzyberry, Bobbeigh
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube lL2WMTqlUXo+4305
 Review: Just a fast bonus run, showing off some of the hardest levels in the run. Not being part of any category but ILs, the marathon strats aren't super polished, but it's still fun to see.
 
 Sonic Origins (PC - Sega Technical Institute 1994, Sonic Team 2022)
@@ -389,7 +389,7 @@ NM: pb 20m29s lrt
 Metroid Prime (Wii - Retro 2002)
 Any% Inbounds
 race edzan [3RH] vs Vertigo [WRH]
-host Jaypeg, couch COUCH
+host Jaypeg, couch Icefire, Metroid0925, Mr_Whiskers
 1h20m10s, 1h23m25s (est 1h35m, wr 1h19m17s rta)
 Overall ★★★★☆
 Skill   ★★★★★
@@ -441,7 +441,7 @@ host Xenadir, couch actualuse, Syn
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE_ID
+Youtube 1MXjfG82or4+6246
 Review: A snack-sized bonus run, just a rapid-fire series of short puzzle rooms getting bypassed by clips or unintended platforming.
 NM: claimed WR 7m37s?
 
@@ -466,7 +466,7 @@ host HockeyBabbler, couch Froob, Tojimaru, DECosmic
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 5r-J1686Mu0
 Review: (not yet reviewed)
 
 Beat Slayer (PC - ByteRockers 2024)
@@ -518,7 +518,7 @@ Review: (not yet reviewed)
 Vengeful Guardian: Moonrider (PC - JoyMasher 2023)
 Beat The Game
 by DanTheVP [3RH]
-host Asuka424, couch COUCH
+host Asuka424, couch Bobbeigh, Quacksilver
 38m06s (est 45m, wr 35m55s)
 Overall N/R
 Skill   N/R
@@ -538,17 +538,17 @@ Fun     N/R
 Youtube f3nmiINJDxo
 Review: (not yet reviewed)
 
-Dandy & Randy DX vs Dumpy & Bumpy (PC - DEVELOPER YEAR)
+Dumpy & Bumpy (PC - Programancer 2021) [BIDWAR]
 Co-op Normal
-coop by swordsmankirby, Bbforky
-host JD Puppy, couch COUCH
-19m51s (est 25m, wr MMmSSs)
+coop by swordsmankirby, Bbforky [WRHs][ORHs]
+host JD Puppy, no couch
+19m51s (est 25m, wr 19m38s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube g6HxTl1q9EE
 Review: (not yet reviewed)
-NM: D&R by Asteristic 2022, D&B by Programancer 2021
+NM: alt game was Dandy & Randy DX vs by Asteristic 2022
 
 Castlevania: Portrait of Ruin (PC - Konami 2006, 2024)
 Richter Any%
@@ -588,11 +588,11 @@ Ys VIII: Lacrimosa of Dana (PC - Nihon Falcom 2016, 2018)
 Any% [BONUS]
 by bramhallthefifth [2RH]
 host Threach, couch KingJO444, GhostKumo
-MMmSSs (est 15m, wr 10m55s)
+11m54s (est 15m, wr 10m55s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE_ID
+Youtube e5NyZBOHZWk+4885
 Review: A short addon run, showing how the glitches of the main run can be abused to warp to credits. Unfortunately reliant on the explanations in the main run, so it can only work as a dessert, not an appetizer.
 
 Spyro: Reignited Trilogy (PC - Insomniac 1998, Toys for Bob 2018)
@@ -711,7 +711,7 @@ Review: (not yet reviewed)
 Crow Country (PC - SFB 2024)
 Any% Restricted Survival Horror
 by RJsmangit
-host Nichole Goodnight, couch COUCH
+host Nichole Goodnight, couch Maxylobes, Bobbeigh
 22m04s (est 23m, wr 19m48s rta)
 Overall N/R
 Skill   N/R
@@ -734,8 +734,8 @@ NM: pb 29m47s
 
 Resident Evil Survivor (PS1 - Tose 2000)
 New Game Easy
-by Punchy [WRH]
-host TheKingsPride, couch COUCH
+by Punchy [WRH][REM]
+host TheKingsPride, no couch
 37m34s (est 40m, wr 36m36s)
 Overall N/R
 Skill   N/R
@@ -745,8 +745,8 @@ Review: (not yet reviewed)
 
 Warhammer 40,000: Space Marine (PC - Relic 2011)
 Any%
-by Failracer [WRH]
-host TheKingsPride, couch COUCH
+by Failracer [WRH][REM]
+host TheKingsPride, no couch
 1h01m36s (est 1h10m, wr 59m40s)
 Overall N/R
 Skill   N/R
@@ -818,7 +818,7 @@ NM: assumed Arcade, Robin
 Gauntlet IV (Genesis - M2 1993)
 Quest Mode "Good Ending" 4-Player
 coop by Hold em Joe, walkingeye, Preevs, Elzo [WRHs]
-host Jaidlyn, couch COUCH
+host Jaidlyn, no couch
 41m19s (est 40m, wr 36m10s)
 Overall N/R
 Skill   N/R
@@ -912,7 +912,7 @@ host Melo Acevedo, couch 1ted59, DanPark, BillyWAR
 Overall ☆★☆★☆
 Skill   ★☆★☆★
 Fun     ☆★☆★☆
-Youtube YOUTUBE_ID
+Youtube E1JnfUC2yhQ
 Review: It's a TAS you've almost certainly seen elsewhere, but seeing the game demolished so completely will never get old.
 
 Rocket League (PC - Psyonix 2015)
@@ -948,7 +948,7 @@ host Melo Acevedo, couch tomatoanus as tomatoangus, chronos, musical_daredevil
 Overall ★☆☆☆☆
 Skill   ★☆☆☆☆
 Fun     ☆☆☆☆☆
-Youtube YOUTUBE_ID
+Youtube u4RzOF9e850+2720
 Review: Somehow a step down from the main run, and just as far over estimate. If things had gone *properly*, we'd still have been staring at an alchemy menu for multiple minutes while grinding levels, even with all the glitches active. Things did not go properly. Invalidated (though this doesn't even seem to be a real category) by using console commands to bypass a trick that kept failing.
 
 Superman 64 (N64 - Titus Interactive 1999)
@@ -1047,29 +1047,28 @@ Who Shot Johnny Rock? (DVD - American Laser Games 1991, 2001)
 Ace Difficulty
 by sharif
 host Asuka424, couch brossentia, Konception, LRock617
-23m26s (est 32m, wr MMmSSs)
+23m26s (est 32m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube HczJtTQ2QKI
 Review: (not yet reviewed)
 
-Meegah Mem (PC - DEVELOPER YEAR)
+Meegah Mem (PC - Crapcom 2017)
 Any%
-by LV Creed
-host Asuka424, couch COUCH
-4m52s (est 10m, wr MMmSSs)
+by LV Creed [WRH]
+host Asuka424, no couch
+4m52s (est 10m, wr 4m30s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube SHTevUN3VLI
 Review: (not yet reviewed)
-NM: if this is MM2, Crapcom 2019, no MM1 seems to exist
 
 Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi (PS2 - IMJ 2004)
 Mission Mode All Stages Default%
 by DBcade [WRH][ORH]
-host vanni_van, couch COUCH
+host vanni_van, no couch
 31m58s (est 40m, wr 26m08s rta)
 Overall N/R
 Skill   N/R
@@ -1113,8 +1112,8 @@ Review: (not yet reviewed)
 Hylics 2 (PC - Mason Lindroth 2020)
 Any%
 by RJsmangit
-host vanni_van, couch COUCH
-37m54s (est 27m, wr 24m00s)
+host vanni_van, couch Ayymart
+37m54s (est 28m, wr 24m00s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1342,8 +1341,8 @@ Review: (not yet reviewed)
 
 10 Second Ninja X (PC - Four Circle 2016)
 All Stars
-by WDN2010 [WRH]
-host ClockworkOphelia, couch COUCH
+by WDN2010 [WRH][REM]
+host ClockworkOphelia, couch verabagno [REM]
 15m53s (est 18m, wr 14m12s)
 Overall N/R
 Skill   N/R
@@ -1354,7 +1353,7 @@ Review: (not yet reviewed)
 Disruptor (PS1 - Insomniac 1996)
 Any% Regular NTSC-J
 by Nick Astalos [2RH]
-host Jaypeg, couch COUCH
+host Jaypeg, no couch
 23m56s (est 27m, wr 21m53s)
 Overall N/R
 Skill   N/R
@@ -1371,326 +1370,333 @@ host ateatree, Jaypeg, couch HeroicSpiritGamer, The_Sid
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 8JD2BZRjvh8
 Review: (not yet reviewed)
 NM: pb 5h55m39s
 NM: bonus after?
 
-Grand Theft Auto: Vice City (PC - Rockstar North 2002)
+Grand Theft Auto: Vice City (PC - Rockstar North 2002; DinosaurBytes 2023)
 Tightened Vice
 by EnglishBen [3RH]
 host chibicarrera, couch KZ_FREW, Joshimuz
-MMmSSs (est 1h20mm, wr 59m45s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: if Definitive, also dev Grove Street 2021
-NM: pb 1h09m04s
+1h36m27s (est 1h20m, wr 59m45s) [NV]
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube HwMroQd1-xQ
+Review: A hard-mode mod of the game, this is a run of highs and lows. When it's working right, it's a more intense, interesting version of the normal Any%. But when things are going wrong - and they often went wrong - they turn into long sequences of retrying, or falling back to safety saves. If the failures were due to the difficulty of the mod, that would be one thing, but most of them were technical, or RNG. Runner and couch did the best they could, but the game just wasn't cooperating today. The Loosened Vice mod showcase afterward was moderately funny, but not really a speedrun, and the mood was pretty dead by that point.
+NM: double-check mod author, used name runner used
 
 Fresh Hops (SNES - MorrieTheMagpie 2024; Nintendo EAD 1990)
 100%
 by frozenflygone
 host Charbunny, couch Corvimae, aco
-MMmSSs (est 45m, wr 25m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: assumed v1.0, only one runner's ranked on
-NM: pb 28m44s
+39m19s (est 45m, wr 25m38s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube BeHvclq42j0
+Review: Not the hardest kaizo we've seen, nor the most skillful, but possibly the funniest.
 
 Nintendo World Championships: NES Edition (Switch - indieszero 2024)
 Legendary Trial
-race? authorblues vs Skybilz vs GTAce vs EpicCrossover
+race, authorblues vs Skybilz vs GTAce vs EpicCrossover
 host Charbunny, couch spikevegeta, SuperSonic
-MMmSSs (est 30m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+25m10s, 25m36s, 26m10s, 27m56s (est 30m, wr 20m16s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube 3n3UG0XlfsY
+Review: A neat - and official - variety game, blitzing through a dozen-ish short challenges in NES games. It's not the closest race, nor are the runners exceptionally skilled at every game, but it's still quite fun to see.
 
 PS1 Mystery Vs. Tournament (PS1 - DEVELOPER YEAR)
 Tournament Finals
-by? CavemanDCJ, Joester98, Dr4gonBlitz, Cane
-host Charbunny, couch COUCH
-MMmSSs (est 1h00m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+tournament, Thabeast721 vs Mikan vs CaneOfPacci
+host Charbunny, couch CavemanDCJ, Dr4gonBlitz
+~40m (est 1h00m, no wr - tournament)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
+Youtube rXuSu782Fvg
+Review: A new feature to the GDQ main stage, this time they're playing random, usually bargain-bin games from the PS1. There's a strong advantage to those that have played them before, instead of going in blind, and each round is too brief to really develop a feel for each game, so don't expect top-notch gameplay. But as a goofy sort of showcase? It's pretty great, actually.
+NM: todo games, devs
 
-Tetris: The Grand Master (PS4 - Arika 1998, 2022; DEVELOPER YEAR)
-Multi Game Showcase
+Tetris: The Grand Master 2 (PS4 - Arika 2000, 2022)
+Showcase - Normal Mode, Death Mode
 by JBroms, spc, EricICX, Mackie
-host cartridgeblowers, couch COUCH
-MMmSSs (est 45m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host cartridgeblowers, no couch
+~20m (est 45m, no wr - showcase)
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★★★☆
+Youtube xhz2lQOp5SQ
+Review: It's tetris. You know what tetris is. But have you seen anyone stack blocks, this clean and fast? I mean, besides the other times this has shown up at GDQ. This is a more cursory look than the in-depth looks we've had before, but it leaves you wanting more, not outstaying its welcome.
+NM: todo more precise times
+
+Tetris: The Grand Master 3 (Arcade - Arika 2005)
+Showcase - Master Mode, Shirase Mode
+by Mackie, EricICX
+host cartridgeblowers, couch JBroms, spc
+~20m (est 45m, no wr - showcase)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
+Youtube xhz2lQOp5SQ+1188
+Review: The third iteration of the series gives them more tools to stack blocks, cleaner and faster, and oh boy do they stack clean and fast. Do I need to say anything else? I don't think I do.
+NM: todo more precise times
 
 Mario Kart 8 Deluxe (Switch - Nintendo EAD 2017)
 48 Tracks (DLC), 200cc, No Items
 by Bayesic
 host cartridgeblowers, couch Friz, MickyWinz, GanonSlayer
-MMmSSs (est 1h30m, wr 1h25m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h27m47s (est 1h30m, wr 1h25m49s) [PB?]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube g6knOxoZE44
+Review: It leans a bit more towards the serious, technical side, and it's a bit long for something this samey. But if you sank as many hours into the DLC tracks, as I did into base game, I'm sure you'll enjoy.
 
 Kaizo Mario World 3 (SNES - T. Takemoto 2017; Nintendo EAD 1990) [BONUS GAME 3]
 100%
-by lungfish3000
-host Quacksilver, couch COUCH
-MMmSSs (est 1h00m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+by lungfish3000 [WRH]
+host Quacksilver, couch Glitchcat7, Beekaay
+1h08m40s (est 1h00m, wr 39m17s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube sw_sbyvsP4I
+Review: A kaizo hack in the traditional, trolling style. Not quite so many kaizo blocks, just lots of stuff you have no chance of figuring out without trial and error, and a lot of RNG. Seeing the same segments attempted over and over saps some of the enthusiasm - but only some of it.
 
 jubeat copious APPEND (Arcade - Konami 2012)
 Showcase
 by PangaeaPanga
-host Quacksilver, couch COUCH
-MMmSSs (est 1h00m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host Quacksilver, couch Raysfire, Catastrophe573, Hedonic
+~1h05m (est 1h00m, no wr - showcase)
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★★★☆
+Youtube qtx768Ug_SY
+Review: An exceptional rhythm-game showcase. It starts off a bit slow, to give you some time to figure out how it's played, but it keeps ramping up from there. And it mostly avoids decaying into noise and random mashing, saving it for a few super-hard tracks near the end.
+
+------------------------------SATURDAY-------------------------------
 
 Super Mario World (SNES - Nintendo EAD 1990)
 96 Exit
 race, Vert vs Storster
 host j0kerr, couch matthewgaminglive, truman
-MMmSSs (est 1h30m, wr MMmSSs)
+1h26m18s, 1h28m03s (est 1h30m, wr 1h21m04s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube SEypB9L0f0k
 Review: (not yet reviewed)
+NM: todo priority rewatch, start from about 1h mark
 
-------------------------------SATURDAY-------------------------------
+Super Mario World (SNES - Nintendo EAD 1990)
+Small Only [BONUS]
+race, Vert vs Storster
+host j0kerr, couch matthewgaminglive, truman
+17m28s, 20m18s (est 20m, wr 14m38s)
+Overall N/R
+Skill   N/R
+Fun     N/R
+Youtube SEypB9L0f0k+5447
+Review: (not yet reviewed)
 
 Peggle Extreme (PC - PopCap 2007)
 Extreme Grand Master
-race SatanHerself vs HeliosWX
+race SatanHerself vs HeliosWX [WRH]
 host j0kerr, couch PoetryStud, Mannequin_Z
-MMmSSs (est 36m, wr MMmSSs)
+23m13s (est 36m, wr 16m39s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube CvwXV8ptXWU
 Review: (not yet reviewed)
+NM: satan pb 19m44s
 
 Metal Gear Solid (PC - Konami 1998)
-All Bosses Extreme
+All Bosses Extreme - Alternate Round [INCENTIVE]
 by MetalGlennSolid
 host HockeyBabbler, couch Pythonicus, MetroidMaster, Drakodan
-MMmSSs (est 1h02m, wr MMmSSs)
+1h04m04s (est 1h02m, wr 1h09m51s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube ntD8AkFvVwI
 Review: (not yet reviewed)
+NM: check estimate, category changed
 
 Super Monkey Ball Banana Rumble (Switch - Ryu Ga Gotoku 2024)
 World Tour
-race Helix vs Moo
-host HockeyBabbler, couch COUCH
-MMmSSs (est 35m, wr MMmSSs)
+race Helix [2RH] vs Moo [WRH]
+host HockeyBabbler, couch iswimfly
+30m31s (est 35m, wr 12m56s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube uTNbVUu2P40
 Review: (not yet reviewed)
 
 Mega Man 10 (Wii - Inti Creates 2010)
 Any% Normal Bass
-race Slurpeeninja vs Phil7
+race Slurpeeninja [3RH] vs Phil7
 host HockeyBabbler, couch Ppotdot1, MrCab55
-MMmSSs (est 40m, wr MMmSSs)
+34m34s (est 40m, wr 31m29s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube kmrHDSwUCFY
 Review: (not yet reviewed)
 
 Gothic (PC - Piranha Bytes 2001)
 No OoB
 by PokerFacowaty
-host vanni_van, couch COUCH
-MMmSSs (est 20m, wr MMmSSs)
+host vanni_van, no couch
+19m39s (est 20m, wr 9m46s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube -evoqJa5TVI
 Review: (not yet reviewed)
+NM: pb 11m52s lrt
 
 Deus Ex (PC - Ion Storm 2000)
 Any%
 by Vahisht
-host vanni_van, couch COUCH
-MMmSSs (est 42m, wr MMmSSs)
+host vanni_van, no couch
+42m58s (est 42m, wr 32m25s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Fgcn5a261P8
 Review: (not yet reviewed)
+NM: assumed user.ini edits; pb 33m50s lrt
 
 Ape Escape 2 (PS2 - SCE Japan 2002)
 Any%
 by Riekelt
 host vanni_van, couch rijiku, Joester98
-MMmSSs (est 1h00m, wr MMmSSs)
+56m22s (est 1h00m, wr 50m30s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube rUC_KnG0JNw
 Review: (not yet reviewed)
+NM: pb 54m49s
 
 Road Runner's Death Valley Rally (SNES - ICOM Simulations 1992)
 Any%
-by gameO
+by gameO [WRH]
 host JD Puppy, couch janglestorm, Lenophis
-MMmSSs (est 26m, wr MMmSSs)
+23m06s (est 26m, wr 20m53s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube S-h_vZdZ7A0
 Review: (not yet reviewed)
 
 Ristar (Genesis via Switch - Sega 1995)
 Hard Any%
 by Mackie
-host JD Puppy, couch COUCH
-MMmSSs (est 40m, wr MMmSSs)
+host JD Puppy, no couch
+33m39s (est 40m, wr 33m57s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Q8OAzGrCaig
 Review: (not yet reviewed)
+NM: assumed (JP), not ranked?
 
 The SpongeBob SquarePants Movie (XbC - Heavy Iron 2004)
 No Pause Storage
-by BubbleBass
+by BubbleBass [2RH]
 host JD Puppy, couch TediousThrone, Actualchatterteeth, Jaxler
-MMmSSs (est 1h12m, wr MMmSSs)
+1h05m46s (est 1h12m, wr 1h00m49s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 4xEdQqhWV2Q
 Review: (not yet reviewed)
+NM: pb 1h03m56s
 
 Pokemon Omega Ruby/Alpha Sapphire (3DS - Game Freak 2002, 2014)
 Any%
 race Sanjan vs Corvimae
 host frozenflygone, couch tpat, GretaIceVixen
-MMmSSs (est 3h15m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+3h11m46s, 3h14m54s (est 3h15m, wr 2h52m09s, 2h53m57s) [NV]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube s2mALuq-SkM
+Review: It's a long run with a very careful route to follow. Almost every fight has something that needs to be pointed out, some threat they have to work around (or just hope to get lucky on). But it's also three hours of friends goofing around and joking, to fill the dead time inevitable in such a long run.
 
 Elden Ring (PC - From 2022)
 DLC Lockout Bingo
 bingo, adef vs CaptainDomo
 host Xenadir, couch Mitchriz
-MMmSSs (est 2h00m, wr MMmSSs)
+1h34m08s (est 2h00m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 8bngHevehrg
 Review: (not yet reviewed)
 
 Elden Ring (PC - From 2022)
 Saxophone-Controlled Boss Showcase
 by Dr. Doot
-host Xenadir, couch Thormungandr
-MMmSSs (est 20m, wr MMmSSs)
+host Xenadir, couch Thormungandr, PT
+29m22s (est 20m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube yaCvZd7iOkM
 Review: (not yet reviewed)
 
 Crazy Taxi (Dreamcast - Sega AM3 1999, 2000)
 Crazy Box
-by chuckles825
-host Xenadir, couch COUCH, backing band 2dos, Metallama, The Sound Defense, SquidDilla
-MMmSSs (est 16m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+by chuckles825 [2RH]
+host Xenadir, no couch, backing band 2dos, Metallama, The Sound Defense, SquidDilla
+~20m (est 16m, wr 13m36s)
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★★
+Youtube G4AomNJHzHk
+Review: What do you do if you have a run that mostly speaks for itself? Let it speak for itself, while putting on the loudest spectacle possible. It's half speedrun, half punk-rock concert. I don't even like punk and I had a blast.
+NM: todo get actually run time, with pausing
+NM: assumed NG
 
 The Legend of Zelda: Ocarina of Time (N64 via Wii VC - Nintendo EAD 1998; Testrunner et al 2018)
 No Logic Randomizer
 by ZFG
 host cartridgeblowers, Melo Acevedo, couch adef, Runnerguy2489, Vidya James
-MMmSSs (est 3h40m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+3h37m43s (est 3h40m, no wr)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube 4nUZtFL7jLs
+Review: In a normal randomizer speedrun, glitches are used to try to save time, maybe get ahead of where the logic expected you to be. Here, it's mandatory. It takes an absolute wealth of game knowledge, and a skill at improvisation, to finish this at all, let alone in a marathon.
 NM: Assumed same rando devs as last time
 
 The Legend of Zelda: Echoes of Wisdom (Switch - Grezzo 2024) [BONUS GAME 4]
-Any%
-by Glubbers
-host Lanaruse, couch Glan, LunaticJ, cloud
-MMmSSs (est 50m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+Any% Restricted
+by Glubbers [2RH]
+host Lanaruse, couch Glan, cloud
+46m50s (est 50m, wr 42m53s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
+Youtube V1WDaRLXqiY
+Review: It's still a developing speedrun, but already, there's some major skips involved. The execution might not be polished to a shine, but Glubbers presents them very well. Add in some finale hype, and you've got a wonderful run.
+NM: "Conductor Sparky" also listed on couch?
 
 Super Metroid (SNES - Nintendo R&D1 1994)
 Map Randomizer
 race Andy vs Oatsngoats vs imyt vs Eddie
-host Lanaruse, couch COUCH
-MMmSSs (est 1h20m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-
-
-
-GAME (PLATFORM - DEVELOPER YEAR)
-CATEGORY
-by RUNNER
-host HOST, couch COUCH
-MMmSSs (est MMm, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-
-
-
-The Adventures of Tintin: Prisoners of the Sun (SNES - Infogrames 1997)
-Any% Normal
-by Neetsel
-host vanni_van, couch COUCH
-MMmSSs (est 34m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host Lanaruse, no couch
+1h05m53s, 1h05m54s, 1h08m34s, 1h19m50s (est 1h20m, no wr)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
+Youtube ckKkywPtHAQ
+Review: Four of the top-level runners, racing through the most randomized randomizer I think we've seen. And even after an hour, first place came down to the second. The commentary plays second fiddle to banter and trash-talk, but it's fun trash-talk - though I do wish we had at least a basic tracker somewhere. Still, an excellent end to the marathon.
