@@ -135,35 +135,33 @@ Restricted Any%
 coop by Dr_Pi, Zojalyx [2RHs]
 host ateatree, couch CountGooby, CovertMuffin
 26m57s (est 32m, wr 25m31s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube xys2DgOlaz8
-Review: (not yet reviewed)
-NM: assumed NOCUT5, pb 26m44s
+Review: Even the runners were surprised how smoothly this run went. All the tricks that were supposed to be inconsistent? First try, every time. There unfortunately isn't much in the way of low-level tech, just that handful of big skips, but it's still a fun enough watch.
 
 Van Helsing (PS2 - Saffire 2004)
 Any%
 by DECosmic [WRH]
 host j0kerr, couch Asuka424, pmcTRILOGY
 36m19s (est 40m, wr 30m11s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube mQcZ8i1cl-8
-Review: (not yet reviewed)
+Review: I don't know if something was wrong with the video capture, or if the game's just like that, but it was too dark to see much, for much of the run. I felt similarly about the commentary - sure, it was there, it described what was going on, but it didn't do much to explain *why*. There were a few good couch gags, but overall, it's a run that's just sort of there.
 
 Turok 2: Seeds of Evil (PC - Iguana 1998, Nightdive 2017)
 Any%
 by Rifampin [2RH]
 host j0kerr, couch SemiNoLemonStars, Bird650
 52m42s (est 55m, wr 45m41s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube Hnfi-xZA01c
-Review: (not yet reviewed)
-NM: pb 49m29s
+Review: Just kind of too long a run, for what it has to offer. There's one important trick, repeated several times. For most of the run, the normal gameplay challenge is suspended, enemies can't damage you so it's just running to get keys. If this had been half as long, it wouldn't have worn out its tricks, but as it is, feels very padded-out.
 
 Grief Syndrome (PC - Twilight Frontier 2011)
 All Characters
@@ -452,11 +450,11 @@ Any%
 by BigNoNo [WRH]
 host OhHeyItsKara, couch Froob, Panduhmonium
 1h57m49s (est 2h00m, wr 1h53m53s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube rlKI5-0ayiU
-Review: (not yet reviewed)
+Review: There's several ways to make a run interesting to watch, for multiple hours. It can be a run jam-packed with different tricks and tech that need to be explained - this one relied on one weapon for most of the run, and spent more time just walking to fights than in them. It can delve deep into the story, explaining what's going on in all those cutscenes being skipped - this has worked well for previous runs of the series, but was absent here. If all else fails, you can lean on couch banter and jokes, but even that was notably absent. I think we heard more from the donation reader than the runner. There's just not much to appeal to you here, unless you really, *really* like Yakuza.
 
 Shenmue (PC - Sega AM2 1999)
 Any% TimeSkip
@@ -709,39 +707,37 @@ Youtube t9v6FBDPv60
 Review: (not yet reviewed)
 
 Crow Country (PC - SFB 2024)
-Any% Restricted Survival Horror
-by RJsmangit
+Any% Restricted - Murder of Crows [INCENTIVE]
+by RJsmangit [WRH]
 host Nichole Goodnight, couch Maxylobes, Bobbeigh
-22m04s (est 23m, wr 19m48s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+22m04s (est 25m, wr 22m37s rta)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube 5PGedqPKQc0
-Review: (not yet reviewed)
-NM: pb 16m14s lrt
+Review: It's PS1-style horror, but with some modern design sensibilities to smooth it out. There's nothing too special about it, but it's just very competently done. The commentary's excellent, and the run beat the RTA time of the world record. Sometimes that's all you really need.
 
-Resident Evil: Deadly Silence (DS - Sapcom 2006)
+Resident Evil: Deadly Silence (DS - Capcom 2006)
 Jill (Classic, Bad Ending)
 by Bobbeigh
 host Nichole Goodnight, couch CaptainEzekiel, Ecdycis, NallyQ
 30m08s (est 34m, wr 26m23s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube wGHBWOUn9TM
-Review: (not yet reviewed)
-NM: pb 29m47s
+Review: With cutscenes and door transitions skipped, and some features lifted from later games, this was like a better version of other Resident Evil 1 runs. But somehow, it still felt thin, too much time thrown over to donations because the gameplay wasn't deemed interesting enough to talk about. Still a fun watch for Rezzy fans, but skippable if you're not.
 
 Resident Evil Survivor (PS1 - Tose 2000)
 New Game Easy
 by Punchy [WRH][REM]
 host TheKingsPride, no couch
 37m34s (est 40m, wr 36m36s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube uB9FGE3KqLM
-Review: (not yet reviewed)
+Review: A weird spinoff of the franchise, free first-person movement but light-gun(-ish) shooting mechanics. The speedrun is heavily based on avoiding enemies entirely, exploiting some eccentricities of that gameplay formula. If you find other RE runs boring for how often they bypass zombies instead of shooting, this one takes that to extremes.
 
 Warhammer 40,000: Space Marine (PC - Relic 2011)
 Any%
@@ -755,16 +751,16 @@ Youtube mIVvMyQ7XFA
 Review: (not yet reviewed)
 
 Crypt Custodian (PC - Kyle Thompson 2024)
-Any% EASY
-by 八月朔日いなり aka Inari Houzumi [2RH]
-host TheKingsPride, couch Beniolite
+Any% Easy
+by Inari Houzumi [2RH][REM]
+host TheKingsPride, couch Beniolite [REM]
 43m05s (est 55m, wr 40m00s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube WLco8t-mCw0
-Review: (not yet reviewed)
-NM: pb 40m25s
+Review: The word that sums this run up best, I think, is "stiff". The runner's vtuber model may as well have been a static PNG. The commentator mostly stuck to a barebones play-by-play of the story, in correct but awkward English. The gameplay was skillful, so far as I could tell, but unless you could follow along with the commentary muted, you will probably find the full package lacking.
+NM: runner aka 八月朔日いなり
 
 White Day: A Labyrinth Named School (PC - ROI 2015, 2017)
 So-yeong Any% [BIDWAR]
@@ -1065,16 +1061,17 @@ Fun     N/R
 Youtube SHTevUN3VLI
 Review: (not yet reviewed)
 
-Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi (PS2 - IMJ 2004)
+Taisen! Bakudan Poi Poi (PS2 - IMJ 2004)
 Mission Mode All Stages Default%
 by DBcade [WRH][ORH]
 host vanni_van, no couch
-31m58s (est 40m, wr 26m08s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+31m43s (est 40m, wr 26m08s rta)
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube m1d4LVOSiv4
-Review: (not yet reviewed)
+Review: It's an absolute chaos fest. Attacks come in with no warning from all directions, bombs bounce around randomly, and many speedrunner noises are made. It feels more like a casual run than a speedrun, but it's still a good casual run.
+NB: GDQ listed as "Simple 2000 Series Ultimate Vol. 17: Taisen! Bakudan Poi Poi", abbreviated here
 
 Squirrel with a Gun (PC - Dee Dee Creations 2024)
 Any%
@@ -1098,40 +1095,38 @@ Fun     N/R
 Youtube jg9HaLywDL4
 Review: (not yet reviewed)
 
-Kevin Costner's Waterworld (PC - Interplay 1997)
-Any%
-by NPC
-host vanni_van, couch sharif, brossentia
-11m42s (est 12m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Kevin Costner's Waterworld (PC - Macaw45 2022)
+All Items [INCENTIVE]
+by NPC [WRH]
+host vanni_van, couch sharif, flannelkat, brossentia
+11m42s (est 15m, wr 10m20s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube gwlHDNF0aqE
-Review: (not yet reviewed)
+Review: It's a Simpsons gag, expanded into a deliberately-clunky fangame. Somehow the speedrun is decent, but the comedy is the star of the show. The couch mostly just lets the game's inherent joke shine through, no need to distract it with their own antics, and for a ten-minute run, it's pretty great.
 
 Hylics 2 (PC - Mason Lindroth 2020)
 Any%
 by RJsmangit
 host vanni_van, couch Ayymart
 37m54s (est 28m, wr 24m00s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube 6Q2Y3qkROu0
-Review: (not yet reviewed)
-NM: pb 26m05s
+Review: This run was unfortunately, quite disappointing. Not just because a few bosses kept going awry, and blowing past the estimate. Mostly because, well, the commentary didn't do much. The series is famously bizarre and surreal, I'd have loved to hear about what was going on, or who these characters were. Failing that, explaining the strategies being used, might have carried it. We didn't get that, either.
 
 Flushed Away (Gamecube - Monkey Bar 2006)
 Any%
 by Kuro* [2RH]
 host OhHeyItsKara, couch Ozmourn, theoretically_moss
 46m13s (est 42m, wr 37m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube E7PuPTeivW4
-Review: (not yet reviewed)
-NM: pb 39m35s
+Review: Like you'd expect from mid-oughts shovelware, it's a speedrun heavy on glitches, and not super polished. The execution is usually good, but a few struggle points pushed it past estimate. You'll hardly notice, the couch jokes keep things hopping.
 
 BZZZT (PC - KO.DLL 2023)
 Any% - Normal
@@ -1251,59 +1246,57 @@ Hitman: Blood Money (PC - IO Interactive 2006)
 Professional/SA [INCENTIVE]
 by Alpha Brother [WRH]
 host selcouthmind, couch Meyanyo, Threeballer
-33m46s (est 35m, wr 23m23s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+33m46s (est 35m, wr 23m23s rta) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube hUDFzfPmuvQ
-Review: (not yet reviewed)
+Review: This run was memorable for just how dumb and fast some of the strats could be, even on the hardest difficulty. Not every level has that level of AI manipulation, some are downright tedious, but it's got some good surreal comedy to it all.
 
 Children of the Sun (PC - Rene Rother 2024)
 Any%
 by BobbyBurm [2RH]
 host selcouthmind, couch SatanHerself
 21m41s (est 26m, wr 18m39s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 1ktYA3zONP4
-Review: (not yet reviewed)
-NM: pb 15m21s lrt
+Review: I'm sure this run will seem even more impressive once I play the game myself, but even as an outsider, it's got appeal. A brisk pace, quick inputs that still need precision, and it's obvious the route for this took some careful planning, even if I don't know what exactly that entailed. I'm not sure exactly who such a unique game's speedrun appeals to - maybe puzzle gamers? I got some Hitman vibes as well. But it's a short enough run, go ahead and take the gamble on it.
 
 BPM: Bullets Per Minute (PC - Awe 2020)
 Skuld : 100% Clear : Easy [INCENTIVE]
 by JamesSwan
 host selcouthmind, couch Rile_Soe, GFitty, Amyrlinn
 18m00s (est 30m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube sYz-LX6ba74
-Review: (not yet reviewed)
+Review: Maybe it just got an extremely lucky build, but it still put it to great use. It felt like speedrunning, not just RNG. I'd have liked a little more explanation of the basics, but it's easy enough to just pick up as it goes along, and the non-obvious stuff gets covered.
 NM: no 100% cat?
 
 Castlevania: Dracula X (SNES via Wii U VC - Konami 1995)
 Bad Ending (Catacomb Shortcut)
-by Hensachi60 [WRH]
-host ClockworkOphelia, couch SBDWolf [2RH]
+by Hensachi60 [WRH][REM]
+host ClockworkOphelia, couch SBDWolf [2RH][REM]
 15m52s (est 22m, wr 13m20s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube JRFmgYwaSAc
-Review: (not yet reviewed)
+Review: It's a run that gets everything done, but in a rough and sometimes clumsy way. The commentary was basic and lagged behind the stream, and the gameplay never had a chance to shine.
 
 Gimmick! 2 (PC - Bitwave 2024)
 True Ending [INCENTIVE]
-by SBDWolf [WRH]
-host ClockworkOphelia, couch Gustav Idstrom, Niklas Istenes
+by SBDWolf [WRH][REM]
+host ClockworkOphelia, couch Gustav Idstrom [DEV][REM], Niklas Istenes [DEV][REM]
 37m58s (est 48m, wr 35m37s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube -WyLkddZXZU
-Review: (not yet reviewed)
-NM: assumed Assisted, not ranked in Gimmick difficulty
+Review: A neat little run, with some fun stories from the devs on the couch, and some very unique (save for the original NES game) movement mechanics.
 
 Frogun Encore (PC - Molegato 2024)
 Any%
@@ -1485,23 +1478,22 @@ Super Mario World (SNES - Nintendo EAD 1990)
 race, Vert vs Storster
 host j0kerr, couch matthewgaminglive, truman
 1h26m18s, 1h28m03s (est 1h30m, wr 1h21m04s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube SEypB9L0f0k
-Review: (not yet reviewed)
-NM: todo priority rewatch, start from about 1h mark
+Review: A somewhat casual race, but fitting given the number of autoscrollers and flyover levels. It has occasional spikes of difficult (but not kaizo-level) tricks, but a lot of it's just banter and jokes between the runners. It's good vibes, but not the most thrilling display of speed.
 
 Super Mario World (SNES - Nintendo EAD 1990)
 Small Only [BONUS]
 race, Vert vs Storster
 host j0kerr, couch matthewgaminglive, truman
 17m28s, 20m18s (est 20m, wr 14m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube SEypB9L0f0k+5447
-Review: (not yet reviewed)
+Review: A shorter, more trick-dense bonus race. But with more serious time needed, it's left standing on pure technical skill, and it's found wanting in comparison.
 
 Peggle Extreme (PC - PopCap 2007)
 Extreme Grand Master
