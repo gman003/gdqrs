@@ -168,24 +168,23 @@ All Characters
 by Froob [2RH]
 host j0kerr, couch PXMacaiah
 29m29s (est 32m, wr 27m07s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube cRBJPv402ug
-Review: (not yet reviewed)
+Review: This is a run, I think, almost exclusively for the Madoka Magica fans. If you know the game, or even the anime, this is probably quite enjoyable. But, uh, it took me longer than I care to admit to even realize this was a tie-in game. If you were expecting Froob's typical buttery-smooth, outsider-aimed introduction and play-by-play, you won't find it here. Instead, we got a passionate, heartfelt, but very niche run.
 NM: very sketchy citation on this dev
-NM: pb 21m37s igt
 
 Ruff City (PC - Jason Marrero 2023)
 Any% NWG
 by Seirea [WRH][ORH]
 host j0kerr, couch chessjerk, yelsraek, MadMegaX381
-14m39s (est 18m, wr 13m01s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+14m39s (est 18m, wr 13m01s) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube eAkGj2t4aYY
-Review: (not yet reviewed)
+Review: It's a pretty straightforward bmup run, with an aesthetic even this dog-hater found adorable. Technically invalidated by accidentally triggering the weapon glitch in a No Weapon Glitch run, but it didn't affect anything.
 
 New Super Lucky's Tale (PC - Playful 2020)
 Any%
@@ -204,11 +203,11 @@ Any%
 by MadMegaX381 [WRH]
 host happybythree, couch chessjerk, yelsraek, Seirea
 21m45s (est 25m, wr 19m41s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube vu14CH_u5-Y
-Review: (not yet reviewed)
+Review: The on-screen action is only sometimes scrutable, thanks to the game's focus on opaque clues that the speedrun entirely ignores. But other times it's a simple action-platformer, and it's always a good vessel for jokes and hardboiled noir accents, so it's still a good time.
 
 Snake Rattle 'n' Roll (NES - Rare 1990)
 Any% 2-Player
@@ -249,12 +248,11 @@ Any% No Credit Warp
 by Toorima [2RH]
 host Jaidlyn, couch chessjerk, puwexil
 40m09s (est 42m, wr 35m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube qdkLgOEKsOs
-Review: (not yet reviewed)
-NM: pb 36m16s
+Review: It's a lot like first-gen Pokemon runs, in that there's corruption glitches to absolutely wreck the intended story route. But it takes long enough to get to that point, that there's still space for some tight RNG manipulation, and even some intended (ish) gameplay.
 
 Pizza Possum (PC - Cosy Computer 2023)
 Co-op Triple Crown
@@ -460,12 +458,12 @@ Shenmue (PC - Sega AM2 1999)
 Any% TimeSkip
 by Maxylobes
 host HockeyBabbler, couch Froob, Tojimaru, DECosmic
-3h17m42s (est 3h20m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+3h17m42s (est 3h20m, no wr)
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube 5r-J1686Mu0
-Review: (not yet reviewed)
+Review: This is kind of just a slog of a run, even with a mod to skip through time. It felt like an entire hour was spent doing a ponderous forklift race, skipping to a cutscene, then skipping to end of day, then repeating. There were only two real glitches used in the entire thing, everything else played straight. We did get some quality story primer, and enough couch banter to keep it engaging, but it's still a long, slow-paced run.
 
 Beat Slayer (PC - ByteRockers 2024)
 Easy + Ult Kick
@@ -700,11 +698,11 @@ Any%
 by Draiga [2RH]
 host Nichole Goodnight, couch Maxylobes, Gulch2 [3RH]
 1h08m00s (est 1h22m, wr 56m29s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube t9v6FBDPv60
-Review: (not yet reviewed)
+Review: A fairly basic speedrun, mixing otherwise vanilla gameplay (and many cutscenes) with some out-of-bounds. Nothing spectacular, and it drags a bit, but only sometimes. Overall, a decent run.
 
 Crow Country (PC - SFB 2024)
 Any% Restricted - Murder of Crows [INCENTIVE]
@@ -962,58 +960,56 @@ Bite Night (PC - Rowdy Turtle 2023)
 Any%
 race, Konception [3RH] vs swooce [2RH]
 host SatanHerself, couch dragoR1n, PrincessAshfire
-12m46s (est 15m, wr 9m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+11m47s, 12m46s (est 15m, wr 9m49s)
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube -q-dIKUXH90
-Review: (not yet reviewed)
-NM: swooce pb 9m58s, kon 10m09s
+Review: A surreal trip of a game. I don't even want to describe it more, you're best going in blind. Don't expect all that much in terms of speed strats - there's gameplay, but not much. Just hang on and enjoy the ride.
 
 Golf With Your Grandmother (PC - Nevsram 2021)
 5 Holes
 by KingJO444
 host SatanHerself, couch Phillie, Xem, Jaxler
-19m06s (est 18m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+19m06s (est 18m, no wr) [NF]
+Overall ★★★☆☆
+Skill   ☆☆☆☆☆
+Fun     ★★★☆☆
 Youtube KpnzFxo7Vuw
-Review: (not yet reviewed)
+Review: This barely qualifies as a casual playthrough, let alone a speedrun. It's just a cheaply-made game built around one gag - but man, what a gag!
 
 Rex Ronan: Experimental Surgeon (SNES - Sculptured 1994)
 Any%
 by giygasblues [3RH]
 host SatanHerself, couch Starwin
 18m13s (est 18m, wr 13m20s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ☆☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ☆☆☆☆☆
 Youtube PtO-jSyhOWE
-Review: (not yet reviewed)
-NM: pb 14m33s
+Review: Is there some reason this was dominated by a loudmouth on the couch, doing cowboy impressions and throwing things over to donations every ten seconds? The runner, and the other two people on the couch, barely got any chance to speak - and what came in its place, seemed to have nothing to do with the game, the run, or really anything.
 
 Oscar (SNES - Flair 1993, Titus 1996)
 Any%
 by janglestorm [WRH]
 host SatanHerself, couch NPC, iceblue, brossentia
 14m45s (est 18m, wr 13m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube BtxSEBgmznw
-Review: (not yet reviewed)
+Review: It's a half-finished port of an Amiga/DOS game. Not nearly so terrible as other Awful Block games, but that does mean it can support an okay speedrun. It's just bad enough to be interesting.
 
 Inspector Gadget: Gadget's Crazy Maze (PS1 - Vision Media Engineering 2001)
-Any%
+Any% Coop + Cutscenes [INCENTIVE]
 coop by Starwin, Crak_atak
 host Asuka424, couch Slurpeeninja, giygasblues
-10m03s (est 20m, wr 48m18s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+10m03s (est 22m, wr 48m18s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube tpLv9fpVTVs
-Review: (not yet reviewed)
+Review: Well this is a trip of a run. It's slightly plagued by gigglefits, being well into the madness hours, but they're able to rein it in, let us actually hear what they're laughing at. There's even a decent speedrun under it all!
 NM: not ranked? tf is with the WR?
 
 Bad Way (PC - Montee 2022)
@@ -1021,11 +1017,11 @@ Any%
 by SweedOla [2RH]
 host Asuka424, couch shmumbler
 26m04s (est 30m, wr 21m52s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube lejKfzJ8dCA
-Review: (not yet reviewed)
+Review: A very busted game, giving SweedOla both plenty of tricks to execute, and plenty of material to joke about. A classic sort of Awful Block game.
 
 Doronko Wanko (PC - Bandai Namco 2024)
 All Gifts
@@ -1323,37 +1319,36 @@ NM: pb 11m09s
 
 ane-san (TG-16CD - NEC Avenue 1995)
 All Characters [INCENTIVE]
-by irukan [WRH]
-host ClockworkOphelia, couch fuso_shikine
+by irukan [WRH][REM]
+host ClockworkOphelia, couch fuso_shikine [REM]
 17m22s (est 20m, wr 15m25s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ☆☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ☆☆☆☆☆
 Youtube mBivTnrKaEk
-Review: (not yet reviewed)
+Review: Between audio mix issues, mumbling into microphones, and the language barrier, I could not understand a *single* complete sentence, from the time the run started to when the run ended. It was, literally, incomprehensible. With no commentary to explain the game or the run or the strats, we're left relying on the gameplay to speak for itself. And I'm sorry, but it looks bad here, too. It's a beat-em-up with no real combos, no effort to stack enemies together, bosses melt in seconds but seem to be just because the game is easy. If there was more to it than that, it was on the couch to explain.
 
 10 Second Ninja X (PC - Four Circle 2016)
 All Stars
 by WDN2010 [WRH][REM]
 host ClockworkOphelia, couch verabagno [REM]
 15m53s (est 18m, wr 14m12s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube b8a0JSdkMHE
-Review: (not yet reviewed)
+Review: This would have been a pretty good run, if anyone involved had felt at all enthusiastic about it. But they just didn't. Doing well, messing up, all done with the same tired monotone. I'm not sure if it was the remoteness, the language barrier, or just scheduling at the wrong hours, but it's hard to care about a run when it doesn't feel like the runner does. Which is a shame, because the speedrun didn't look that bad.
 
 Disruptor (PS1 - Insomniac 1996)
 Any% Regular NTSC-J
 by Nick Astalos [2RH]
 host Jaypeg, no couch
 23m56s (est 27m, wr 21m53s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube lP8VZAT8wEc
-Review: (not yet reviewed)
-NM: pb 22m56s
+Review: A Doom/Quake style of FPS, and a historical curiosity as Insomniac's first game. There's nothing too special about this run, but also nothing wrong with it. A perfectly fine run, just not a standout.
 
 Final Fantasy VII Rebirth (PS5 - Square Enix CBU1 2024)
 Any% Easy
@@ -1570,12 +1565,11 @@ Any%
 by Riekelt
 host vanni_van, couch rijiku, Joester98
 56m22s (est 1h00m, wr 50m30s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube rUC_KnG0JNw
-Review: (not yet reviewed)
-NM: pb 54m49s
+Review: It's a filler run, but it's high-quality filler. Even with no attachment to the franchise, it's got little tricks and strats everywhere to call out, even if few of them are all that impressive. And if you happen to like these games, I'm sure you'll have a blast.
 
 Road Runner's Death Valley Rally (SNES - ICOM Simulations 1992)
 Any%
