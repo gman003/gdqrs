@@ -1262,11 +1262,11 @@ True Pacifist, Glitchless
 race Shayy [WRH] vs mrlink2k [2RH]
 host ateatree, no couch
 1h48m43s, 1h49m37s (est 1h50m, wr 1h46m35s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube y_eyqO68coA
-Review: (not yet reviewed)
+Review: Blazing-fast menuing and some really good bullet-hell dodging make for a pretty good speedrun, but the runner ramblings are the cherry on top. Excellent chemistry and just a lot of fun.
 
 Luminescent (SNES - Nintendo EAD 1990; TheBourgyman 2021)
 Pride% [INCENTIVE]
