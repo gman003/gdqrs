@@ -1,5 +1,5 @@
 ====================SUMMER GAMES DONE QUICK 2025=====================
-===========Raising $1,012,590 for Doctors Without Borders============
+===========Raising $2,436,885 for Doctors Without Borders============
 ===========================July 6-13, 2025===========================
 
 -------------------------------SUNDAY--------------------------------
@@ -105,8 +105,6 @@ Youtube BM5Q_s_Sopg
 Review: The relentless begging to get the incentive met, distracted from the first half of the speedrun. The second half was dominated by redoing all the first levels, but with secrets this time. When there was commentary, it was talking over each other or spouting random jokes. It would have been better to just do the Easy Run and let it stand.
 NM: category changed mid-run, todo: update WR/estimate
 
--------------------------------MONDAY--------------------------------
-
 Lenna's Inception (PC - DEV YEAR)
 Perfect Ending (Blind Seeded)
 by SnowballSMB [WRH]
@@ -118,11 +116,13 @@ Fun     N/R
 Youtube Vmb9FwsDngM
 Review: (not yet reviewed)
 
+-------------------------------MONDAY--------------------------------
+
 Mega Man X4 (PS1 - Capcom 1997)
 X 100%
 race JohnnyGo vs ultrauberness
 host SatanHerself, couch ThisIsJayC, Starwin
-HhMMmSSs (est 50m, wr HhMMmSSs)
+49m16s, 51m50s (est 50m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -389,20 +389,20 @@ host chibicarrera, couch limy, PT
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★★☆
-Youtube YOUTUBE
+Youtube ICK163zJF4E
 Review: Another run carried hard by a charismatic couch and an enthusiastic audience. It's some out-of-bounds clips and platforming, sprinkled among just running through all the enemies or slugging it out in scripted wave fights. Fast-forwarding all the cutscenes left it with no dead time. But it was the banter that really makes this a run worth watching, despite the vocabulary constraints of a G-rated stream. But since this is my review site and I make the rules, I'll go ahead and say it for them: fuck nazis, whatever name they happen to call themselves this time.
 
 Blue Prince (PC - Dogubomb 2025)
 B Quest Bingo
 by BobbyBurm, RadRingtail
 host spef, couch Gelly, Flapjack
-1h14m30s (est 1h35m, no wr)
+1h00m29s, 1h14m30s (est 1h35m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube cirrfl1yQ2c
 Review: (not yet reviewed)
-NM: TODO several bonus runs follow, also race times
+NM: TODO several bonus runs follow?
 
 -------------------------------TUESDAY-------------------------------
 
@@ -560,13 +560,12 @@ Seafrog (PC - DEV YEAR)
 Kraken%
 race iswimfly [WRH] vs Jaxler [2RH]
 host JRisJunior, couch Ozmourn, shade_00 [REM][DEV]
-23m51s, HhMMmSSs (est 35m, wr 23m58s)
+23m51s, 30m49s (est 35m, wr 23m58s)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
 Youtube ykNBA2iYEkU
 Review: This looks like a nice, fun game, but this wasn't the best showing. The race widened and only got wider, the dev commentary was perfunctory. The speedrun all comes down to polish, not making mistakes, shaving off hairs of time everywhere, and it just didn't seem that polished.
-NM: record Jaxler's time, missed it
 
 Casual Birder (Playdate - DEV YEAR)
 100% [INCENTIVE]
@@ -583,7 +582,7 @@ The Legend of Zelda: Majora's Mask (N64 via Wii VC - Nintendo EAD 2000)
 All Masks NMG
 by thesausage [WRH]
 host KuritasKRT, couch Kuroshi, Imbued
-HhMMmSSs (est 2h30m, wr 2h12m11s)
+2h23m15s (est 2h30m, wr 2h12m11s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -618,7 +617,7 @@ Sonic Adventure 2: Battle (PC - Sonic Team USA 2001; DEV YEAR)
 Archipelago - Co-op Emerald Hunt
 coop by Emerldd, DawnSR
 host PippyInATopHat, couch Savac, Hexspeedruns
-HhMMmSSs (est 1h30m, no wr - randomizer)
+1h57m42s (est 1h30m, no wr - randomizer)
 Overall ★★★☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
@@ -861,7 +860,7 @@ host JamesSwan, couch Katie4, WitherMin
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE
+Youtube aSqokPegbuE
 Review: It's more Cuphead. The DLC doesn't substantially change anything, it's just more Cuphead. Do you want more Cuphead? Then watch this.
 
 Tetris 99 (Switch - Arika 2019)
@@ -932,8 +931,6 @@ Fun     ★★★☆☆
 Youtube wFjVLsPYIE4
 Review: We've seen SMO at many GDQs before. Top-level play is incredibly smooth and polished. How do you make it exciting again? How about *two* players, playing not just at the top level, but in perfect sync. It's under sixty minutes, and at least forty of them were the kind of thing that would be "the hardest trick" in any other game, and they just did. not. mess. up.
 
-------------------------------THURSDAY-------------------------------
-
 The Elder Scrolls IV: Oblivion Remastered (PC - Bethesda 2006, Virtuos 2025)
 All Main Quests Glitchless
 by CaptainEzekiel [2RH]
@@ -955,6 +952,8 @@ Skill   ★★☆☆☆
 Fun     ★★★☆☆
 Youtube mMhsypa58tA+3587
 Review: And here's where we see what can be done when you *try* to break the game. As you can tell by shaving fifty whole minutes off, it's pretty busted! I'm not sure it's worth watching solo, but as a post-run bit of dessert, it hits the spot.
+
+------------------------------THURSDAY-------------------------------
 
 AEW Fight Forever (PC - Yuke's 2023)
 Road to Elite
@@ -1041,7 +1040,7 @@ Nubby's Number Factory (PC - MogDogBlog 2025)
 Any% Random Seed
 race, FromDarkHell vs BystanderTim
 host Prolix, couch Biglaw, MogDog
-22m43s (est 30m, wr HhMMmSSs)
+22m43s, DNF (est 30m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1216,11 +1215,11 @@ Doom: The Dark Ages (PC - id 2025)
 Any%
 by BloodThunder
 host Bobby Blackwolf, couch Meta, Raitro_
-HhMMmSSs (est 55m, wr 42m20s)
+53m09s (est 55m, wr 42m20s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube OO81dO9R4mA
 Review: (not yet reviewed)
 NM: assumed Any%, Unrestricted, Classic difficulty, 100% Game Speed; still not ranked on it but only board with runs
 
@@ -1228,11 +1227,11 @@ Halo: Reach (PC - Bungie 2010)
 4 Player Legendary Co-op
 coop by Mankey, NervyDestroyer, Chronos, dyse [2RHs]
 host fletchisafurry, couch COUCH
-HhMMmSSs (est 1h15m, wr 57m51s)
+1h08m15s (est 1h15m, wr 57m51s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube Dbvwn6zRuTI
 Review: (not yet reviewed)
 NM: pb 1h00m06s
 
@@ -1242,22 +1241,22 @@ Neon White (PC - Angel Matrix 2022)
 White's Heaven Rush Race
 race, Nibareaux [3RH] vs bree12am vs FUFa vs Seika Lizette
 host fletchisafurry, couch whet, Cone
-HhMMmSSs (est 40m, wr 29m37s igt)
+33m58s, 34m01s, 34m25s, 36m57s (est 40m, wr 29m37s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 5pnH7wyJNOo
 Review: (not yet reviewed)
 
 Tony Hawk's Pro Skater 4 (PC - Neversoft 2002)
 Any%
 by PARTY MAN X
 host fletchisafurry, couch Biglaw
-HhMMmSSs (est 36m, wr 26m47s rta)
+36m42s (est 36m, wr 26m47s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 2s3rH3IScIc
 Review: (not yet reviewed)
 NM: pb 32m56s igt
 
@@ -1265,55 +1264,55 @@ Xenoblade Chronicles: Future Connected (Switch - Monolith 2010, 2020)
 Any% (Casual Mode)
 by NewAmber [3RH]
 host SatanHerself, couch NickPixels, GretaIceVixen
-HhMMmSSs (est 40m, wr 32m25s)
+34m01s (est 40m, wr 32m25s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube zAZmUckIYjY
 Review: (not yet reviewed)
 
 Chip 'n' Dale: Rescue Rangers 2 (NES - Capcom 1993)
 Beat the Game (1P2C)
 by swordsmankirby [WRH]
 host SatanHerself, couch Bbforky
-HhMMmSSs (est 15m, wr 11m18s)
+11m59s (est 15m, wr 11m18s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube efkoLEBzlmg
 Review: (not yet reviewed)
 
 Rockin' Kats (NES - Atlus 1991)
 Any%
 by Eldra
 host SatanHerself, couch Ppotdot1, Chelney, DarkTerrex
-HhMMmSSs (est 20m, wr 18m05s)
+19m13s (est 20m, wr 18m05s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 5WuS2RJcTJE
 Review: (not yet reviewed)
 
 Totally Rad (NES - Aicom 1990)
 Any%
 by BugDoctor [WRH]
 host SatanHerself, couch Vainx, ZeroCounts
-HhMMmSSs (est 20m, wr 13m37s)
+19m25s (est 20m, wr 13m37s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube QV8KKgDftr0
 Review: (not yet reviewed)
 
 Teenage Mutant Ninja Turtles II: The Arcade Game (NES - Konami 1990)
 Any%
 by BookOfGaming [WRH]
 host PippyInATopHat, couch TheAndySocialNetwork, tecolote1280, Rudy/RCX
-HhMMmSSs (est 35m, wr 30m28s)
+31m10s (est 35m, wr 30m28s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube XzLucJPPDB4
 Review: (not yet reviewed)
 NM: assumed NTSC-U
 
@@ -1321,46 +1320,46 @@ Strider (NES - Capcom 1989)
 Any% 2P1C
 2p1c by Elipsis, LRock617
 host PippyInATopHat, couch chessjerk, MadMega
-HhMMmSSs (est 20m, wr 3m28s 1p1c)
+12m13s (est 20m, wr 3m28s 1p1c)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube hwZ5VV8rG0o
 Review: (not yet reviewed)
 
 Mega Man 3 (NES - Capcom 1990)
 Any% Co-op
 coop by ColonelFatso, fastatcc
-host PippyInATopHat, couch Ppotdot1, DarkTerrex
-HhMMmSSs (est 37m, wr HhMMmSSs)
+host PippyInATopHat, couch Ppotdot1, DarkTerrex, ColonelFatso
+35m36s (est 37m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube ULA57icJ5ow
 Review: (not yet reviewed)
-NM: no coop category? also had ColFat listed on couch
+NM: no coop category? also check couch, it changed a few times
 
 Lumina Rush (PC - DEV YEAR)
 Full Run
 by Ben Albert
 host PippyInATopHat, couch COUCH
-HhMMmSSs (est 30m, wr 27m03s igt)
+26m45s (est 30m, wr 27m03s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube ppSjXIuOVgY
 Review: (not yet reviewed)
 NM: if aka "leeroysbro", WRH+ORH
 
 Sonic Heroes (Gamecube - Sonic Team 2003)
-Sonic or Chaotix [BIDWAR]
-by Katie4
+Chaotix [BIDWAR]
+by Katie4 [3RH]
 host PippyInATopHat, couch WitherMin, NyuSR, Freefall
-HhMMmSSs (est 53m, wr HhMMmSSs)
+50m01s (est 53m, wr 37m56s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube G993BA0oqAw
 Review: (not yet reviewed)
 NM: Sonic wr 42m32s, Chaotix wr 37m56s + 3RH; both assuming Unrestricted
 
@@ -1368,7 +1367,7 @@ Spelunky Series (PC - Mossmouth 2008, 2013, 2020)
 Spelunky Triathlon Any%
 by Hectique
 host PippyInATopHat, couch phinq, bumperoyster, cloiss
-HhMMmSSs (est 20m, no wr?)
+27m19s (est 20m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1380,11 +1379,11 @@ Pokemon X/Y (3DS - Game Freak 2013)
 Any%
 by Headbob [WRH]
 host Xenadir, couch Swiftalu, Etchy, zypotic
-HhMMmSSs (est 3h55m, wr 3h38m41s)
+3h55m13s (est 3h55m, wr 3h38m41s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 5xjT6zGi1Nw
 Review: (not yet reviewed)
 NM: assumed ENG
 
@@ -1392,127 +1391,126 @@ Metroid: Zero Mission (GBA - Nintendo R&D1 2004)
 100%
 by monkeysmb [2RH]
 host KuritasKRT, couch guyaverage, Ryan Ford
-HhMMmSSs (est 1h12m, wr 1h05m21s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h08m33s (est 1h12m, wr 1h05m21s rta)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE
-Review: (not yet reviewed)
+Review: Kind of just another Metroid run, but not a bad one. 100% tends to make gameplay easier, so a game that was already on the easier side of the series, benefits from the added routing complication. And it was just a good clean run.
 NM: assumed Normal
 
-Balatro (PC - Localthunk 2024)
-7 Deck (Random Seed, Skips)
-by cloiss [3RH]
-host KuritasKRT, couch Nerd_Squared, Hectique, Bomi
-HhMMmSSs (est 1h10m, wr 28m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: assumed v1.0.1 and White stake
-NM: pb 36m08s
-
 Super Mario Maker 2 (Switch - Nintendo EPD 2019; levels SaucePowder, GroggyP, Mozzart, MrElectrodude, Mang, Luwuka, BigRedBoy, Josh_Bones, Keenzzz, Kellyy, knowone, nickabuz, Quacken_Bush, wSacha)
-Relay Race
+Blind Relay Race
 relay race, Team Perfect Pixels (Isherwood81, LilKirbs, JankPickle, TheRileyC) vs Team Fast Frames (Thabeast721, shovda, Aldwulf, Caspur189)
 host cartridgeblowers, couch BeeKaay, CheesePopps, loop_hazard
-HhMMmSSs (est 1h45m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+~1h45m (est 1h45m, no wr)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★★
 Youtube YOUTUBE
-Review: (not yet reviewed)
+Review: These just don't get old. The gameplay would be acceptable for GDQ, even if they'd practiced it - but they're doing this with levels they've never seen before. And then we get an absolutely storybook plot, I don't even want to spoil the twists and turns for you. Might be a little hard for a complete outsider to follow, but even some casual Mario experience should keep you grounded.
+
+Balatro (PC - Localthunk 2024)
+8 Deck (Random Seed, Skips)
+by cloiss [3RH]
+host KuritasKRT, couch Nerd_Squared, Hectique, Bomi
+57m00s (est 1h10m, wr 28m26s 7deck)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube c_-IbbM_alA
+Review: It's a lot of blazing-fast menuing, on-the-fly strategizing, and knowing the game inside and out. It's also a lot of crazy banter and good jokes. We laughed, we groaned, we booed at a few points, but we had a blast watching it all unfold.
+NM: assumed v1.0.1 and White stake
+NM: pb 36m08s
 
 Pump It Up Phoenix (Arcade - Andamiro 2023)
 Showcase
 by ZELLLOOO
 host JD Puppy, couch Haru-kaze, jammitch!, SpitfireSenpaii
-HhMMmSSs (est 1h00m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+~1h05m (est 1h00m, no wr - showcase)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube vSgTFNqTObU
+Review: It's hard to explain exactly why this fell so flat for me. Maybe it was the repetition - the difficulty ramped up, yes, but it was hard to distinguish one song from another. They added some new challenges but mostly just got faster. The commentary gave history behind each song, but to an outsider very little of it mattered. If they'd given us some time to actually listen to the songs, maybe they'd be less of a blur, but maybe not, most sounded like the syncopated, arpeggio-filled mess that rhythm-game music often is, just a few tracks an outsider might recognize. Even the skill showcase stumbled, the last few songs seemed to be beyond the runner's ability (mostly by being absolutely impossible). Maybe I've just seen too many other rhythm-game runs - this was the third of the marathon - or maybe it just doesn't do anything the SGDQ2020 run didn't already do. But end of the day, all I can say is, I didn't enjoy this one much.
 
 Bloodborne (PS3 via PS5 - From 2015) [BONUS GAME 3]
 Any% Glitchless
 by blanxz
 host JD Puppy, couch Mitchriz, MikeWave
-HhMMmSSs (est 50m, wr 31m21s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: pb 30m36s igt
-
-------------------------------SATURDAY-------------------------------
+39m10s (est 50m, wr 31m21s rta)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube ipCOnf7lvAY
+Review: A surprisingly chill run, for a soulsborne. Still fairly technical, not a goofing-around run, but laid-back. And then it beat the time of the previous Any% Glitched run, showing just how much the run's progressed in the past six years.
 
 Monster Hunter Wilds (PC - Capcom 2025)
 Lockout Bingo
 bingo, blanxz vs CaptainDomo
 host klinkit, couch JalBagel, Mitchriz
-HhMMmSSs (est 1h30m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+1h26m03s (est 1h30m, no wr)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube dyhGhd4n03Q
+Review: A bit of a blowout, but an interesting bit of bingo. Very complicated game, but commentary explained things, mostly well. I'm sure the MH fans will enjoy this.
+
+------------------------------SATURDAY-------------------------------
 
 Monster Hunter Wilds (PC - Capcom 2025)
 4-Player Apex Showcase
 coop by Xenadir, Jaypeg, Gondor, happybythree
 host klinkit, couch COUCH
-HhMMmSSs (est 35m, no wr - showcase)
+24m16s (est 35m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube MHF_p8zfq40
 Review: (not yet reviewed)
 
 Marvel's Spider-Man 2 (PS5 - Insomniac 2023)
 All Collectibles/Bosses Relay
 relay by Bdud5, Pessilist
 host Asuka424, couch SeaAverage, SatanHerself
-HhMMmSSs (est 1h20m, no wr?)
+1h20m55s (est 1h20m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube n4knd4iafos
 Review: (not yet reviewed)
 
 Blasphemous (PC - The Game Kitchen 2019)
 Any% Glitched
 by Rocher [2RH]
 host Asuka424, couch BobbyBurm
-HhMMmSSs (est 20m, wr 14m14s rta)
+16m53s (est 20m, wr 14m14s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 6H_8zWfw7pA
 Review: (not yet reviewed)
 
 Cytadela (Amiga - Virtual Design 1995)
 Beat the Game
 by tbcr
 host Asuka424, couch COUCH
-HhMMmSSs (est 35m, no wr?)
+30m32s (est 35m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube kcRkriimOd4
 Review: (not yet reviewed)
 
 Batman: Vengeance (Gamecube - Ubisoft Montreal 2001)
 NewGame+
 by MTGJoeD [2RH]
 host Asuka424, couch fragmented_humanity, amegpie
-HhMMmSSs (est 55m, wr 39m48s)
+46m15s (est 55m, wr 39m48s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube FaI-JaOlMFE
 Review: (not yet reviewed)
 NM: pb 44m06s
 
@@ -1520,11 +1518,11 @@ Red Alliance (PC - DEV YEAR)
 Any% No Water Glitch
 by Meta
 host zokubun, couch Nikoheart, sharkhat87
-HhMMmSSs (est 16m, wr 8m47s rta)
+15m19s (est 16m, wr 8m47s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube pf56PtdRt4M
 Review: (not yet reviewed)
 NM: pb 12m43s lrt
 
@@ -1532,22 +1530,22 @@ Macbat 64 (PC - Siactro 2015)
 Any%
 by Kaspi [2RH]
 host zokubun, couch COUCH
-HhMMmSSs (est 12m, wr 10m09s)
+16m57s (est 12m, wr 10m09s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube jIf7XGrV4E8
 Review: (not yet reviewed)
 
 Tall: Twin's Tower (PS1 - DEV YEAR)
 Normal
 by Lizstar [2RH]
 host zokubun, couch MrGameAndShout, RUBIEHART
-HhMMmSSs (est 12m, wr 8m10s)
+8m53s (est 12m, wr 8m10s) [PB?]
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube JO_P7vewgvQ
 Review: (not yet reviewed)
 NM: pb 9m47s
 
@@ -1555,91 +1553,142 @@ Bo: Path of the Teal Lotus (PC - DEV YEAR)
 Any% NMG
 by Vysuals [WRH]
 host zokubun, couch MrSir71, Spilled OJ
-HhMMmSSs (est 1h12m, wr 1h05m35s rta)
+1h12m58s (est 1h12m, wr 1h05m35s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 0gngIeZ3H6Q
 Review: (not yet reviewed)
 
 Final Fantasy IX (PC - Square 2000)
 HD PC CutScene Remover
 by Sylleath
 host happybythree, couch Tyslata, Ayymart, moonblazewolf
-HhMMmSSs (est 3h45m, wr 3h23m59s rta)
+3h54m14s (est 3h45m, wr 3h23m59s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 4uOtaWRQfRs
 Review: (not yet reviewed)
 
 Super Mario Bros. 3 (NES - Nintendo EAD 1988)
-Any% All Fortresses
+All Fortresses
 by Czikubi [WRH]
-host Bobby Blackwolf, couch GTAce, mitchflowerpower [3RH]
-HhMMmSSs (est 47m, wr 42m45s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+host Bobby Blackwolf, couch GTAce, Tooma, OddLoop
+46m21s (est 47m, wr 42m45s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube S8DNZBhJGTU
+Review: A very polished run, but not above a little goofing around. A little something for everyone.
 NM: assumed "All Fortresses", any% doesn't seem to be part of it?
+
+Super Mario Bros. 3 (NES - Nintendo EAD 1988)
+Any% [BONUS]
+by Czikubi
+host Bobby Blackwolf, couch GTAce, Tooma, OddLoop
+4m01s (est 4m, wr 3m00s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube S8DNZBhJGTU+2925
+Review: It's a parlor trick of a speedrun, some fancy memory manipulation and glitching. Not even anything new, if you watched the main run - the same skip was used there, just going to World 8 instead of the ending. Neat, but just a novelty, and too short to even begin to explain it properly.
 
 Kirby Super Star Ultra (DS - HAL 2008)
 Any%
 tas by Sample
-host Bobby Blackwolf, couch Barely Alec
-HhMMmSSs (est 45m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: confirm Sample is TASer, not just presenter
-NM: what category is this? if "Beat RotK", human wr is 48m24s
+host Bobby Blackwolf, couch Barely Alec, Mr_Shasta
+42m26s (est 45m, human wr 48m24s)
+Overall ★☆★☆★
+Skill   ☆★☆★☆
+Fun     ★☆★☆★
+Youtube J7stukTieT4
+Review: A much more subdued TAS than most. It doesn't break the game in any massive ways, just plays it inhumanly well and gets inhumanly lucky. It's actually a nice change of pace.
 
 Celeste (PC - Maddy Makes Games 2018)
 All Hearts Race
 race, Lmjacks vs yujene [WRH]
 host Xenadir, couch kwan, Msushi
-HhMMmSSs (est 1h10m, wr 51m33s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h01m09s, 1h01m15s (est 1h10m, wr 51m33s igt)
+Overall ★★★★☆
+Skill   ★★★★★
+Fun     ★★★☆☆
+Youtube dMn6YJ-0fPs
+Review: Celeste runners are just something else. These B-Side, C-Side levels are hard enough casually, but they find ways to make them harder in the name of saving a few frames. An excellent race (if balanced a bit by waiting on the menu for the other to catch up), with one runner going for some bonkers new strats while the other stuck to the reliable ones.
+
+Celeste (PC - Maddy Makes Games 2018)
+Farewell Fake Heart [BONUS]
+race, Lmjacks vs yujene
+host Xenadir, couch kwan, Msushi
+4m08s, 5m12s (est 6m, no wr)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: lmjacks pb 53m17s
+Review: Just a quick follow-on to the main race, but the two very different approaches made it fascinating. If you want a quick preview before committing to an hour-long run, give this a whirl, you'll probably enjoy.
 
 Super Mario 64 (N64 - Nintendo EAD 1996)
 120 Star
 by beeve
 host Xenadir, couch Badroenis, GTM, Artemis
-HhMMmSSs (est 1h50m, wr 1h35m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h42m03s (est 1h50m, wr 1h35m28s)
+Overall ★★★☆☆
+Skill   ★★★★★
+Fun     ★★★☆☆
+Youtube eSoWyPvjIfc
+Review: It's a pretty dry run, focused on skill, very technical commentary. But uh. Holy shit. Carpetless? In a marathon? That was just the cherry on top of a run that's increasingly just 120 ILs, back to back.
+
+Super Monkey Ball: Touch & Roll (DS - New Entertainment 2006)
+Main Worlds
+by limy_sr [2RH]
+host OhHeyItsKara, couch Peas, Jaxler, LaurieDBunnykins
+27m11s (est 32m, wr 20m25s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube a0T3S0Ij-ig
+Review: It's a weird little branch off the Monkey Ball tree. Touch controls preclude the precise, frame-perfect strats of other games, making for a speedrun that's more just... playing the game normally, but really well and really fast. Which is what we get! Mission accomplished.
+
+Super Monkey Ball: Touch & Roll (DS - New Entertainment 2006)
+Mesh Mosh [BONUS]
+by limy_sr
+host OhHeyItsKara, couch Peas, Jaxler, LaurieDBunnykins
+4m37s (est 4m, no wr)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube YOUTUBE
-Review: (not yet reviewed)
+Review: It's a stalling-for-time-to-meet-the-donation-incentive run, but it's not bad. It's more of the same.
+
+Super Monkey Ball: Touch & Roll (DS - New Entertainment 2006)
+Studio One [BONUS]
+by limy_sr
+host OhHeyItsKara, couch Peas, Jaxler, LaurieDBunnykins
+3m39s (est 4m, no wr)
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
+Youtube YOUTUBE
+Review: Yep. This is more Monkey Ball. By this point it's really just a game being played while donations flood in.
 
 Mario Kart World (Switch2 - Nintendo EPD 2025) [BONUS GAME 4]
-Knockout Tours
+All Knockout Tours
 by Peas
 host OhHeyItsKara, couch limy, Helix, KingJO444
-HhMMmSSs (est 1h20m, wr 1h11m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: assumed "All Knockout Tours"
+1h12m27s (est 1h20m, wr 1h11m10s) [PB]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
+Youtube PDTswaVrKZ8
+Review: It's a very, *very* new game, so the speedrun is still developing. General series skills carry over, so it's played competently, but there's only a few of the tricky skips that you'd see in another Mario Kart run. But it's a neat look into a speedrun in progress, and the couch was an absolute riot. Unless you're really turned off by Chat seizing on a dumb meme and running away with it, you'll probably enjoy.
 
 Deltarune (PC - Toby Fox 2018, 2021, 2025)
-Chapter 1+2 All Bosses Glitchless
+All Chapters All Bosses Glitchless [INCENTIVE]
 by Shayy
-host Quacksilver, couch WooffleDee, ashmichda
-HhMMmSSs (est 1h35m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+host Quacksilver, couch Nhaar [3RH], WooffleDee, ashmichda [WRH]
+3h45m33s (est 3h45m, wr 3h29m52s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube IoQICkewfCo
+Review: It's a long run, and it doesn't fit into any neat categories. It doesn't do a lot of RPG things, like hyper-specific battle strategies. It's glitchless, so no huge skips there. The story goes mostly unexplained, enough to follow along if you've played but not risking too many spoilers if you haven't. The most impressive gameplay are some of the bullet hell dodges, which were cool, but rather far between. Really, the bulk of the run was just memes - starting with just Deltarune fandom, then devolving into late-night madness. It did get a heavy dose of finale donation-flooding, so maybe avoid if you dislike that, but it was a fun, messy end to the event.
