@@ -105,7 +105,7 @@ Youtube BM5Q_s_Sopg
 Review: The relentless begging to get the incentive met, distracted from the first half of the speedrun. The second half was dominated by redoing all the first levels, but with secrets this time. When there was commentary, it was talking over each other or spouting random jokes. It would have been better to just do the Easy Run and let it stand.
 NM: category changed mid-run, todo: update WR/estimate
 
-Lenna's Inception (PC - DEV YEAR)
+Lenna's Inception (PC - Bytten 2020)
 Perfect Ending (Blind Seeded)
 by SnowballSMB [WRH]
 host SatanHerself, no couch
@@ -122,7 +122,7 @@ Mega Man X4 (PS1 - Capcom 1997)
 X 100%
 race JohnnyGo vs ultrauberness
 host SatanHerself, couch ThisIsJayC, Starwin
-49m16s, 51m50s (est 50m, wr HhMMmSSs)
+49m16s, 51m50s (est 50m, wr 42m59s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -134,11 +134,11 @@ Any% Normal
 by Starwin [3RH]
 host SatanHerself, couch ultrauberness, giygasblues, MadMega
 24m07s (est 27m, wr 20m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube 1_QQq-ZCfzQ
-Review: (not yet reviewed)
+Review: I just really didn't like this run. Talking more about how the game's speedrun is basic hold-right-and-jump, than about the times it's *not*, doesn't give a good impression. And the "couch banter" was mostly cowboy accents and corpsing at their own jokes, which were mostly continuations of a bit from last GDQ (which I didn't even like then!). Late-night madness runs can be enjoyable, but this one wasn't.
 
 Astro Boy: Omega Factor (GBA - Treasure + Hitmaker 2003)
 Birth
@@ -151,7 +151,7 @@ Fun     N/R
 Youtube qPx3yoPIsmY
 Review: (not yet reviewed)
 
-Voidwrought (PC - DEV YEAR)
+Voidwrought (PC - Powersnake 2024)
 Any% (v1.0.7)
 by allison8bit [3RH]
 host Prolix, couch Quacksilver, ProfessorBurtch
@@ -189,15 +189,15 @@ NM: assumed Arcade Normal 1CC
 Hello Kitty: Roller Rescue (Gamecube - XPEC 2005)
 Any%
 by Segastar [2RH]
-host Jaidlyn, couch haxxi, dreaded_
+host Jaidlyn, couch haxxi, dreaded_, Jaxler
 33m50s (est 37m, wr 30m51s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube t-APJJu4LMM
-Review: (not yet reviewed)
+Review: Most of the fun is from explaining the bonkers setup for the game, and the blind couch reacts, but there *is* an okay speedrun under it all. Some just-barely-possible unintended platforming, some boss quick kills. The only real dead time is an autoscroller right at the end, and even that's not too long, so it's a great run if you want something fun, but still like, actually a speedrun.
 
-CODE Bunny (PC - DEV YEAR)
+CODE Bunny (PC - Seventh Star 2024)
 Axel%
 by Star Anise
 host Jaidlyn, couch myserval
@@ -233,7 +233,7 @@ Youtube TIJxNjnBwEU
 Review: (not yet reviewed)
 NM: assumed any%, not 1CC
 
-Spyro 3.5: Return to the Forgotten Realms (PS1 - DEV YEAR)
+Spyro 3.5: Return to the Forgotten Realms (PS1 - Insomniac 2000; Jeremy Thompson + HWD405 2023)
 Any%
 by Wed [WRH]
 host Jaidlyn, couch Ad129
@@ -248,15 +248,14 @@ The Talos Principle: Reawakened (PC - Croteam 2014, 2025)
 All Campaigns No FF
 by Pr0tal
 host Jaidlyn, couch BobbyBurm, Gelly
-23m12s (est 30m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+23m12s (est 30m, no wr)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube Ng9TBNnmp7Y
-Review: (not yet reviewed)
-NM: looks like each campaign is a separate category
+Review: Speedruns often shift how the game is played, and few do that more than Talos runners, who turned this slow puzzle game into a platformer. It's all clambering over walls or bringing boxes where they're not supposed to be. Fun, but even this short a run had more "nothing to say here, throw it over for donations" than I liked.
 
-MainFrames (PC - DEV YEAR)
+MainFrames (PC - Assoupi 2025)
 Any%
 by ryederek [WRH]
 host zokubun, couch coeur_de_liqueur, selcouthmind
@@ -410,7 +409,7 @@ Plants Vs Zombies (PC - PopCap 2009)
 Day-Night
 by SatanHerself
 host spef, couch limy, shovelclaws, rich_werner
-1h12m51s (est 1h15m, wr HhMMmSSs)
+1h12m51s (est 1h15m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -429,51 +428,49 @@ Fun     N/R
 Youtube iAnnFh6k160
 Review: (not yet reviewed)
 
-Get to Work (PC - DEV YEAR)
-Glitchless
+Get to Work (PC - Isto 2024)
+Glitchless (Top Grabs)
 by Mitchriz
-host sweetpeebs, couch Isto, Maxylobes
-14m58s (est 20m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host sweetpeebs, couch Stephen [DEV][REM], Maxylobes
+14m58s (est 20m, wr 8m11s igt)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube JLpDGmLnfWA
-Review: (not yet reviewed)
-NM: no idea what category this actually is, "No Top Grabs" maybe?
+Review: Somewhat surprisingly, the dev takes the lead here on commentating the speedrun. Which turns out to be some of the cleanest commentary you're likely to see, because dude knows his game's speedrun.
 
 Arctic Eggs (PC - Water Museum 2024)
 28 Stomachs Fed
 by teddyras [2RH]
 host sweetpeebs, couch Mr_Shasta
 32m04s (est 30m, wr 21m57s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
 Youtube CIXuOXKBlU0
-Review: (not yet reviewed)
+Review: How did this not make it into Silly Block? It's an egg-frying (and fish-frying, and cigarette-frying) simulator. Like yeah there's a postapocalyptic, totalitarian thing going on, but mostly you're just flipping eggs. An excellent watch if you like late-night madness runs, hampered only slightly by technical issues and skill issues.
 
-Hungry Ghosts (PS2 - DEV YEAR)
-Any% Default Weapons Character Choice
+Hungry Ghosts (PS2 - Deep Space 2003)
+Any% Default Weapons Christine [BIDWAR]
 by shmumbler [WRH][ORH]
 host sweetpeebs, couch DeathTropes, DECosmic
-14m46s (est 16m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+14m46s (est 16m, wr 13m43s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube iFShx1SaQTA
-Review: (not yet reviewed)
-NM: 13m50s if Christopher, 13m43s if Christine
+Review: They talked a lot about what makes this an interesting game. Unfortunately, I think they forgot to talk about what makes it a good speedrun. They bypass a lot of it by not getting enough karma, good or bad, to get any of the more specific endings, but they don't even describe what doing that entails. It makes me think I'd have been better off watching a casual LP.
 
-Finding Frankie (PC - DEV YEAR)
+Finding Frankie (PC - SUPERLOU 2024)
 Any% Inbounds
 by Nerd_Squared
 host Jaypeg, couch ateatree
 22m47s (est 25m, wr 18m19s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube S_V3d1pFYRM
-Review: (not yet reviewed)
+Review: The kid-friendly mascot horror game has become a GDQ fixture, but it's still good. This one brings in some interesting parkour, and there's enough funny moments to keep it from being too repetitive. The short runtime doesn't hurt either.
 
 Ao Oni (PC - noprops 2008)
 Any% RTA (15x Speed)
@@ -486,16 +483,16 @@ Fun     N/R
 Youtube 2WA2mp2hmnw
 Review: (not yet reviewed)
 
-En Garde! (PC - DEV YEAR)
-Any% Easy
-by Bouzny [WRH]
-host Lanaruse, couch Neetsel, MixMyu
-27m33s (est 25m, wr 21m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+En Garde! (PC - Fireplace 2023)
+Any% Hard [INCENTIVE]
+by Bouzny [WRH][REM]
+host Lanaruse, couch Neetsel [REM], MixMyu [REM]
+27m33s (est 28m, wr 21m28s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube pm1cwEM_vIw
-Review: (not yet reviewed)
+Review: It's a pretty neat modern brawler, but the skill involved isn't the easiest to see. It seems to be at a more strategic level, avoiding giving enemies the opportunity to attack you from the flanks instead of politely waiting their turn like every other game. 
 
 We Love Katamari REROLL+ Royal Reverie (PC - Namco 2005, Monkey Craft 2023)
 Roll Up the Sun
@@ -512,25 +509,24 @@ NM: pb 44m49s
 OneShot (PC - Future Cat 2016)
 Any%
 by KyoshiCadre [2RH]
-host Jaypeg, couch durrbill, Eliza, LaurieDBunnykins
+host Jaypeg, couch durrbill, Eliza [DEV], LaurieDBunnykins
 23m41s (est 24m, wr 22m15s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube zM63FJ-_Pz4
-Review: (not yet reviewed)
-NM: assumed 2016 one, not 2014 one
+Review: This run is proof that a great game, does not equal a great speed game. It's... mostly walking, some menuing, and a few glitches. It's neat if you're a fan, and there was some interesting dev commentary, but there's only so much you can do to play this game *faster*.
 
-Dr. Robotnik's Ring Racers (PC - DEV YEAR)
+Dr. Robotnik's Ring Racers (PC - KartKrew 2024)
 Rocket Cup
 by Mathcat [WRH][ORH]
-host JRisJunior, couch COUCH
+host JRisJunior, no couch
 13m30s (est 15m, wr 12m46s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube Q45zcoQT-JU
+Review: This could really have benefitted from a good couch. The runner struggled a bit to give good commentary while also playing the game. A lot of basic things got missed - I don't think even "it's a Sonic racing fangame" got explicitly stated, although you could have guessed as much. But some of the trick explanations flew over my head, because the fundamentals were skipped over. Still a neat run, and it's clearly tricky to play well, but unfortunately tricky to watch as well.
 NM: assumed Gear 2
 
 Mario Kart: Super Circuit (GBA via Switch - Intelligent Systems 2001)
@@ -556,7 +552,7 @@ Fun     ★★★☆☆
 Youtube L83bjubtRlI
 Review: An infamously weird game. Forrest simultaneously speedruns the game, and explaining the plot, which works really well if that's what you're into. It's not a bad speedrun, but that's not the main appeal here.
 
-Seafrog (PC - DEV YEAR)
+Seafrog (PC - OhMyMe 2025)
 Kraken%
 race iswimfly [WRH] vs Jaxler [2RH]
 host JRisJunior, couch Ozmourn, shade_00 [REM][DEV]
@@ -567,7 +563,7 @@ Fun     ★★☆☆☆
 Youtube ykNBA2iYEkU
 Review: This looks like a nice, fun game, but this wasn't the best showing. The race widened and only got wider, the dev commentary was perfunctory. The speedrun all comes down to polish, not making mistakes, shaving off hairs of time everywhere, and it just didn't seem that polished.
 
-Casual Birder (Playdate - DEV YEAR)
+Casual Birder (Playdate - Diego Garcia 2022)
 100% [INCENTIVE]
 by ZeroCounts [WRH][ORH]
 host JRisJunior, couch WitherMin, Vainx
@@ -613,7 +609,7 @@ Youtube -zh6I6Jwe2M
 Review: Just a really smooth platformer run. Inbounds or out, it's just chaining together all kinds of movement tech, making it look easy.
 NM: timer started late, retime
 
-Sonic Adventure 2: Battle (PC - Sonic Team USA 2001; DEV YEAR)
+Sonic Adventure 2: Battle (PC - Sonic Team USA 2001; PoryGone 2022)
 Archipelago - Co-op Emerald Hunt
 coop by Emerldd, DawnSR
 host PippyInATopHat, couch Savac, Hexspeedruns
@@ -682,29 +678,28 @@ Review: (not yet reviewed)
 
 ------------------------------WEDNESDAY------------------------------
 
-Dead Rising 3 (PC - Capcom Vancouver 2013)
+Dead Rising 3 (Xb1 via XbSX - Capcom Vancouver 2013)
 SUDR3ARHEEX+α ng+
-by Ecdycis
+by Ecdycis [WRH]
 host ateatree, couch NallyQ, SweedOla, texan_red_wolf
-57m20s (est 1h05m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+57m20s (est 1h05m, wr 57m45s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube oj6Gk4zOYds
-Review: (not yet reviewed)
-NM: wtf is this category?
+Review: It's an arcadey side mode exclusive to the console version - Super Ultra Dead Rising 3 Arcade Remix Hyper Edition EX+ α. No timer cycles to worry about, just go fast. It's a little samey for an hour-long run, and the speed tech is limited, but if anyone could make it interesting to watch for an hour, it'd be Ecdycis.
 
 Resident Evil HD Remaster (PC - Capcom Studio 4 2002, 2015)
-Any%
-by Pessimism
+Jill Best Ending
+by Pessimism [2RH]
 host Jaidlyn, couch Nyquil4Life, Draven12, BigNoNo
-56m52s (est 55m, wr HhMMmSSs)
+56m52s (est 55m, wr 54m44s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube yYsbYAddJUg
 Review: (not yet reviewed)
-NM: which character + difficulty? runner is 2RH in both NG, WRH in both Real Survival
+NM: assumed NG
 
 Still Wakes the Deep (PC - Chinese Room 2024)
 Any%
@@ -739,7 +734,7 @@ Fun     N/R
 Youtube aOjIgL7jGvI
 Review: (not yet reviewed)
 
-Astra and the New Constellation (PC - DEV YEAR)
+Astra and the New Constellation (PC - rarelikeaunicorn 2023)
 Any%
 by SecksWrecks [2RH]
 host fletchisafurry, couch shovda
@@ -785,7 +780,7 @@ Fun     N/R
 Youtube q_ONKe6JbmI
 Review: (not yet reviewed)
 
-Prison City (PC - DEV YEAR)
+Prison City (PC - Retroware 2023)
 Any% Modern
 by DanTheVP [2RH]
 host cartridgeblowers, couch Hank_Sinatra, Bobbeigh
@@ -796,7 +791,7 @@ Fun     N/R
 Youtube lG5yC-4z5lA
 Review: (not yet reviewed)
 
-Rayforce (PS4 - DEV YEAR)
+Rayforce (PS4 - Taito 1994, ININ 2023)
 Hi-Score Showcase
 by ColonelFatso
 host cartridgeblowers, couch Eldra, Hafkie, PheynixIgnition
@@ -811,7 +806,7 @@ Star of Providence (PC - Bigmode 2025)
 Normal F6 Unseeded
 by Lilac Vrt Olligoci
 host cartridgeblowers, couch PureQuestion
-23m14s (est 25m, wr HhMMmSSs)
+23m14s (est 25m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -820,15 +815,15 @@ Review: (not yet reviewed)
 NM: still not sure about category
 
 Backyard Baseball '97 (PC - Humongous 1997, Mega Cat 2024)
-Pick-up Game (Six Innings)
+Pick-up Game (Nine Innings) [INCENTIVE]
 by anarchy
 host savage_octagon, couch bryonato, Lazlo
-22m00s (est 22m, wr 7m17s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+31m06s (est 30m, wr 12m53s)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
 Youtube oPOxryMKrpo
-Review: (not yet reviewed)
+Review: I'm not really sure what made this a speedrun. Other than one trick to skip some animations, it seemed like a pretty normal game to me. But wow, the energy and effort put into the performance paid off, this was an unbelievably hype run.
 
 Pokemon Sword/Shield (Switch via Switch2 - Game Freak 2019)
 Eeveelution Trade Alt Main Showdown (Sylveon vs Vaporeon)
@@ -896,7 +891,7 @@ Fun     ★★★☆☆
 Youtube 1x85DQywhOM
 Review: The race got a bit far apart in the back half, but it added another cool element: the different strategies being employed. For something so linear, we got a surprising variety, bryo keeping it old-school while sapph went for the risky new tech. And it's still some very smooth movement from both of them.
 
-Synchronica (Arcade - DEV YEAR)
+Synchronica (Arcade - Bandai Namco 2015)
 Multiplayer Rhythm Games Showcase
 coop by sorobannist, Hedonic
 host sweetpeebs, couch SilentMystification, Houchi
@@ -908,7 +903,7 @@ Youtube 39MnAk_1o-s
 Review: This showcase did a lot of things right. It started off slow enough to tell us how the game works, and escalated pretty steadily throughout, not often having a song that just seemed like more of the previous. Aside from a self-indulgent bit at the end, pretty good, but nowhere near as jaw-droppingly difficult as some games we've seen.
 NM: game aka シンクロニカ
 
-Synchronica (Arcade - DEV YEAR)
+Synchronica (Arcade - Bandai Namco 2015)
 Four-Player Bonus Chart [BONUS]
 coop by sorobannist, Hedonic, SilentMystification, Houchi
 host sweetpeebs, no couch
@@ -916,7 +911,7 @@ host sweetpeebs, no couch
 Overall ★★☆☆☆
 Skill   ★☆☆☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE
+Youtube 39MnAk_1o-s+4391
 Review: A playthrough of a gimmick chart, designed for two players on each of the two screens. Potentially interesting, but doing it in no-fail mode because one runner has less than an hour of play in the game, kind of undercuts the whole "skill showcase" angle.
 NM: timer guy was asleep at the post, time from the VOD
 
@@ -942,6 +937,8 @@ Fun     ★★★☆☆
 Youtube mMhsypa58tA
 Review: Glitchless is perhaps a bit generous, but then, it's glitchless by Bethesda standards. Enough has changed from the OG version to be interesting to longtime watchers, and the commentary did a great job for newcomers.
 
+------------------------------THURSDAY-------------------------------
+
 The Elder Scrolls IV: Oblivion Remastered (PC - Bethesda 2006, Virtuos 2025)
 Any% [BONUS]
 by CaptainEzekiel [2RH]
@@ -952,8 +949,6 @@ Skill   ★★☆☆☆
 Fun     ★★★☆☆
 Youtube mMhsypa58tA+3587
 Review: And here's where we see what can be done when you *try* to break the game. As you can tell by shaving fifty whole minutes off, it's pretty busted! I'm not sure it's worth watching solo, but as a post-run bit of dessert, it hits the spot.
-
-------------------------------THURSDAY-------------------------------
 
 AEW Fight Forever (PC - Yuke's 2023)
 Road to Elite
@@ -972,13 +967,13 @@ NM: assumed Easy
 An Airport for Aliens Currently Run by Dogs (PC - Strange Scaffold 2021)
 Any%
 by pmcTRILOGY [WRH]
-host OhHeyItsKara, couch KZ_FREW, TV, Maxylobes
+host OhHeyItsKara, couch KZ_FREW, Tom Vinita [DEV][REM], Maxylobes
 25m07s (est 32m, wr 22m35s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube PevqoNW1ktg
-Review: (not yet reviewed)
+Review: There's some good elements here, but it never really seemed to click for me. It's not a very deep run, even the humor felt superficial. But then, I'm kind of a dog hater. Maybe I'm just not the target audience for it.
 
 Shaq Fu (SNES - Delphine 1994)
 Story Mode Easy
@@ -995,12 +990,12 @@ Catlateral Damage: Remeowstered (PC - Manekoware 2015, 2021)
 Procedural Gauntlet - All Stages
 by Retroverse
 host OhHeyItsKara, couch JNashty
-27m33s (est 25m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+27m33s (est 25m, no wr?) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 8NOxMQ7FJo0
-Review: (not yet reviewed)
+Review: Kind of a one-joke game, and a one-note speedrun. It's charming, assuming you like cats, but even I found it a little dull by the end. But maybe the gameplay is more enthralling if you've played the game, and have a better measure of the challenge. Invalidated by missing a few objectives.
 
 Mario Paint (SNES - Nintendo R&D1 + Intelligent Systems 1992)
 Gnat Attack 1-Loop
@@ -1029,26 +1024,25 @@ Standard Race Tournament (150cc)
 by Konception
 host Prolix, couch swooce, limy, PrincessAshfire
 14m34s (est 16m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
 Youtube j3_C-n2SMAI
-Review: (not yet reviewed)
+Review: It's a kart-ish racer, briefly sold in Burger Kings. The controls are (apparently) terrible, and the course design is questionable. But it's also goofy as hell, and this crew makes good use of it. A perfect hybrid for Awful Block or Silly Block.
 NM: leaderboards cover 50cc+100cc+150cc in series, not just 150cc
 
 Nubby's Number Factory (PC - MogDogBlog 2025)
-Any% Random Seed
+Any% Random Seed (Balogna Tony)
 race, FromDarkHell vs BystanderTim
-host Prolix, couch Biglaw, MogDog
-22m43s, DNF (est 30m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Prolix, couch Biglaw, MogDog [DEV][REM]
+22m43s, DNF (est 30m, wr 6m09s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube EUyynA0o2EI
-Review: (not yet reviewed)
-NM: leaderboards segregated by "Supervisor", too many to write here
+Review: An extremely random run, since not just which items are available, but what triggers those items have, is randomized. There were a few failed runs (restarting without bothering with the timer), and some infinite combos, but it's not something you can really follow. I certainly couldn't, and I don't think playing the game would have helped much. Just embrace the joy of the absurdity.
 
-BOWLOUT (PC - DEV YEAR)
+BOWLOUT (PC - Ultrapin Games 2025)
 Any%
 by zzrules21
 host Prolix, couch COUCH
@@ -1070,7 +1064,7 @@ Fun     N/R
 Youtube V_AU7Z1EwKw
 Review: (not yet reviewed)
 
-Rubber Bandits (XbSX - DEV YEAR)
+Rubber Bandits (XbSX - Flashbulb 2021)
 2 Players No Drop Out
 coop? by echo_tree, stevetvonline [2RHs]
 host Prolix, couch Ritzblues, Kingj0444
@@ -1093,17 +1087,16 @@ Youtube Hi9NIwtiR8s
 Review: (not yet reviewed)
 NM: no Deathless, only "Clear Any%"; if that's same, then WRH, 17m51s
 
-Skate Horse (PC - DEV YEAR)
+Skate Horse (PC - AmateurBirdwatcher 2025)
 Story
 by happybythree [3RH]
 host spef, couch Quacksilver, Jaypeg, Biglaw
 18m18s (est 20m, wr 10m34s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★★
 Youtube RVkF6-FDnS0
-Review: (not yet reviewed)
-NM: pb 13m34s
+Review: One of the silliest games and silliest runs that Silly Block has seen in a while. You're a horse on a skateboard escaping hell. The glitches are both helpful and more often, hurtful. The entire couch is wearing horse masks. It's just peak Silly Block. (And now to see if I wake up with a horse head in my bed tomorrow :P)
 
 Sega Marine Fishing (Dreamcast - Wow 2000)
 Very Hard Sixty Seconds [INCENTIVE]
@@ -1116,7 +1109,7 @@ Fun     ★★★★☆
 Youtube N_9o0-1WsCo
 Review: It's a short run, and I'm not entirely sure how one goes fast in it, but it hit some good comedy bits, and ended before the accents got annoying.
 
-Rose and Camellia (Switch - DEV YEAR)
+Rose and Camellia (Switch - Nigoro 2007, 2023)
 All Scenarios no DLC
 by juh0
 host spef, couch Nikoheart, yorkie
@@ -1187,7 +1180,7 @@ Youtube BRjps5Od0O0
 Review: I'm not even sure if I'll keep this on the site. It was a *fun* little game show, and bigger than their usual between-run activity. But it's not a speedrun. It's not a gameplay showcase. I don't typically review these, and I'm not sure how. It's Family Feud but with a speedrunning theme.
 NM: May remove, wasn't even remotely a speedrun or showcase
 
-Sayonara Mario World 2 (SNES - DEV YEAR)
+Sayonara Mario World 2 (SNES - Nintendo EAD 1990; margot 2022)
 Heart% [INCENTIVE]
 by Shoujo
 host chibicarrera aka cabanarera aka carbonera aka cataclysm aka cummerbund aka cheshirecat aka chicanery aka chimichanga aka candelabra aka chupacabra, couch BD, shovda, Amethyst_Rocks
@@ -1197,7 +1190,6 @@ Skill   ★★★★☆
 Fun     ★★★★☆
 Youtube LD8oMKZLBhU
 Review: It's a particularly strange kaizo hack, being run by some particularly strange people - and I consider both a compliment. It's like all gimmick levels, all stupidly hard, ludic masochism at its finest, accompanied by some of the most deranged banter to ever grace the main stage.
-NM: smw romhack by margot
 NM: this beats every time on SRC but Shoujo's not on SRC, so?
 
 Super Metroid (SNES - Nintendo R&D1 1994)
@@ -1287,11 +1279,11 @@ Any%
 by Eldra
 host SatanHerself, couch Ppotdot1, Chelney, DarkTerrex
 19m13s (est 20m, wr 18m05s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 5WuS2RJcTJE
-Review: (not yet reviewed)
+Review: It's a run without much to talk about. The game's remarkable mainly for what the developer would later do. If it happened to be a formative game for you, this will absolutely entertain, but it won't make the game special to anyone else. Perfectly competent but perfectly forgettable.
 
 Totally Rad (NES - Aicom 1990)
 Any%
@@ -1331,7 +1323,7 @@ Mega Man 3 (NES - Capcom 1990)
 Any% Co-op
 coop by ColonelFatso, fastatcc
 host PippyInATopHat, couch Ppotdot1, DarkTerrex, ColonelFatso
-35m36s (est 37m, wr HhMMmSSs)
+35m36s (est 37m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1339,7 +1331,7 @@ Youtube ULA57icJ5ow
 Review: (not yet reviewed)
 NM: no coop category? also check couch, it changed a few times
 
-Lumina Rush (PC - DEV YEAR)
+Lumina Rush (PC - Battered Lute 2024)
 Full Run
 by Ben Albert
 host PippyInATopHat, couch COUCH
@@ -1356,24 +1348,22 @@ Chaotix [BIDWAR]
 by Katie4 [3RH]
 host PippyInATopHat, couch WitherMin, NyuSR, Freefall
 50m01s (est 53m, wr 37m56s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube G993BA0oqAw
-Review: (not yet reviewed)
-NM: Sonic wr 42m32s, Chaotix wr 37m56s + 3RH; both assuming Unrestricted
+Review: The movement here comes as a nice step up in complexity from SADX and SA2, and Katie executes well enough to be impressive without being perfect enough to make it seem effortless.
 
 Spelunky Series (PC - Mossmouth 2008, 2013, 2020)
 Spelunky Triathlon Any%
 by Hectique
 host PippyInATopHat, couch phinq, bumperoyster, cloiss
-27m19s (est 20m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: assumed original, HD, 2
+27m19s (est 25m, no wr?) [NV]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube dXtHw3EidmE
+Review: It's a run that, for the most part, explains itself. Jumping, fall damage, ropes and bombs. The only thing that needed pointing out, was the incredibly bad luck - which went past "frustrating" and into "hilarious", without throwing off the estimate too much.
 
 Pokemon X/Y (3DS - Game Freak 2013)
 Any%
@@ -1395,7 +1385,7 @@ host KuritasKRT, couch guyaverage, Ryan Ford
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE
+Youtube aFOzd5AswkY
 Review: Kind of just another Metroid run, but not a bad one. 100% tends to make gameplay easier, so a game that was already on the easier side of the series, benefits from the added routing complication. And it was just a good clean run.
 NM: assumed Normal
 
@@ -1514,30 +1504,29 @@ Youtube FaI-JaOlMFE
 Review: (not yet reviewed)
 NM: pb 44m06s
 
-Red Alliance (PC - DEV YEAR)
+Red Alliance (PC - 2ndUp 2018)
 Any% No Water Glitch
 by Meta
 host zokubun, couch Nikoheart, sharkhat87
 15m19s (est 16m, wr 8m47s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube pf56PtdRt4M
-Review: (not yet reviewed)
-NM: pb 12m43s lrt
+Review: A nifty little HL2-like, right down to the speedrun full of clips and propflies. It's short and you don't get much vanilla-looking gameplay, but it's a nice quick run, doesn't last long enough to overstay.
 
 Macbat 64 (PC - Siactro 2015)
-Any%
+100% [INCENTIVE]
 by Kaspi [2RH]
-host zokubun, couch COUCH
-16m57s (est 12m, wr 10m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host zokubun, couch Shovelclaws
+16m57s (est 12m, wr 15m58s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube jIf7XGrV4E8
-Review: (not yet reviewed)
+Review: It's a pretty simple, straightforward run. Not hugely technical, but there's still some love that's been put into it, and at this length, it doesn't need any complication.
 
-Tall: Twin's Tower (PS1 - DEV YEAR)
+Tall: Twin's Tower (PS1 - Techno Soleil 2000)
 Normal
 by Lizstar [2RH]
 host zokubun, couch MrGameAndShout, RUBIEHART
@@ -1549,7 +1538,7 @@ Youtube JO_P7vewgvQ
 Review: (not yet reviewed)
 NM: pb 9m47s
 
-Bo: Path of the Teal Lotus (PC - DEV YEAR)
+Bo: Path of the Teal Lotus (PC - Squid Shock 2024)
 Any% NMG
 by Vysuals [WRH]
 host zokubun, couch MrSir71, Spilled OJ
@@ -1624,7 +1613,7 @@ host Xenadir, couch kwan, Msushi
 Overall ★★★☆☆
 Skill   ★★★☆☆
 Fun     ★★★☆☆
-Youtube YOUTUBE
+Youtube dMn6YJ-0fPs+3876
 Review: Just a quick follow-on to the main race, but the two very different approaches made it fascinating. If you want a quick preview before committing to an hour-long run, give this a whirl, you'll probably enjoy.
 
 Super Mario 64 (N64 - Nintendo EAD 1996)
