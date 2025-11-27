@@ -215,11 +215,11 @@ All Episodes
 by LaserTrap_ [WRH]
 host Jaidlyn, couch Brandino59, JankPickle [2RH], On Der Eh
 43m54s (est 48m, wr 41m52s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube Xt1BkvB0254
-Review: (not yet reviewed)
+Review: I doubt this is a well-known version of the game, but it's got some charm to it. Lots of clipping out of bounds, skipping large chunks of levels, but the aggressive enemies and limited healing makes it a very risky run. Clean execution and some good commentary, though it did lack a bit for variety.
 
 Teenage Mutant Ninja Turtles: Turtles in Time (Arcade via PC - Konami 1991, Digital Eclipse 2022)
 Arcade - Medium
@@ -407,14 +407,13 @@ NM: TODO several bonus runs follow?
 Plants Vs Zombies (PC - PopCap 2009)
 Day-Night
 by SatanHerself
-host spef, couch limy, shovelclaws, rich_werner
-1h12m51s (est 1h15m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host spef, couch limy, shovelclaws, rich_werner [DEV][REM]
+1h12m51s (est 1h15m, no wr)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube W9PN-M2Q3xA
-Review: (not yet reviewed)
-NM: no idea what category this actually is
+Review: I was not expecting this to be such a good run. Very fast-paced, no glitches but still tons of tech, a dev on phone getting his mind absolutely blown, and great commentary. About the only real downside was the absolutely horrendous audio quality on the phone link, I could not understand quite a few sentences. Shame, but it only barely held the run back.
 
 Uncharted 3: Drake's Deception (PS3 via PS5 - Naughty Dog 2011)
 Any%
@@ -533,12 +532,11 @@ Nitro Cups
 by Johanian
 host JRisJunior, couch IllegallySam, Seraphin1313
 33m45s (est 37m, wr 29m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube RBKPciCrsh8
-Review: (not yet reviewed)
-NM: pb 33m57s, probable PB?
+Review: It's definitely an outlier in the Mario Kart series - sort of like the SNES original, due to similar tech constraints, but with some ideas from later games. It's not quite as finely-polished, nor as loaded with skips, but it's nice and easy to follow, and it had enough going on that I wasn't bored. A full-series run from Johan might be a good late-night hours-filler.
 
 Dread Delusion (PC - Lovely Hellplace 2024)
 Any%
@@ -693,12 +691,11 @@ Jill Best Ending
 by Pessimism [2RH]
 host Jaidlyn, couch Nyquil4Life, Draven12, BigNoNo
 56m52s (est 55m, wr 54m44s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube yYsbYAddJUg
-Review: (not yet reviewed)
-NM: assumed NG
+Review: The word that came to mind most, when I sat down to write this review, was smooth. It all just flows together, the commentary, the gameplay, even the donations. It just never stumbled for more than a brief moment. Tech issues with the audio were the biggest flaw I found. It doesn't demand all that close attention, so if you're looking for some good background noise or easy watching, look no further, but I'd have liked a bit more depth.
 
 Still Wakes the Deep (PC - Chinese Room 2024)
 Any%
@@ -736,13 +733,13 @@ Review: It's a very Silent-Hilly sort of horror game, minimal and barebones comb
 Astra and the New Constellation (PC - rarelikeaunicorn 2023)
 Any%
 by SecksWrecks [2RH]
-host fletchisafurry, couch shovda
+host fletchisafurry, couch shovda, Carrarium
 13m46s (est 15m, wr 9m23s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube gRgvqolqxP8
-Review: (not yet reviewed)
+Review: Just a nice chill little PICO-8 platformer run. Is there much to it? No. Is it charming anyways? Yes.
 
 Quadrilateral Cowboy (PC - Blendo 2016)
 All Levels
@@ -978,11 +975,11 @@ Story Mode Easy
 by CountGooby [3RH]
 host OhHeyItsKara, couch DBcade, eBloodyCandy, SaucySR
 8m08s (est 10m, wr 6m20s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
 Youtube j4EduiX-ozI
-Review: (not yet reviewed)
+Review: It's a little too short to really find its groove, but this is a very silly game condensed into just eight minutes. You really can't go wrong watching it. It's very "spam this one attack to win", so it's not a technical run at all, but... were you really expecting that of Shaq Fu?
 
 Catlateral Damage: Remeowstered (PC - Manekoware 2015, 2021)
 Procedural Gauntlet - All Stages
@@ -1011,11 +1008,11 @@ Any%
 by Giga_7K [WRH]
 host OhHeyItsKara, couch shoehorse, Spock, tapioca
 1h12m47s (est 1h15m, wr 1h03m42s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube 31Ro_KzsWLc
-Review: (not yet reviewed)
+Review: This was unfortunately a bit of a slog to get through. This is much more Awful Block than Silly Block - but even then, it's not a *fun* sort of awful. It starts with a long money grind, then turns into a rat's nest of backtracking. Most of the run was just traversing the same areas over and over, running past enemies, not doing or saying anything interesting. There were a few good jokes but not enough to carry an hour-long run.
 
 Pocketbike Racer (XbC - Blitz 2006)
 Standard Race Tournament (150cc)
@@ -1056,11 +1053,11 @@ Any%
 by Helix
 host Prolix, couch Marxcie, Kobazco
 7m57s (est 10m, wr 6m41s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube V_AU7Z1EwKw
-Review: (not yet reviewed)
+Review: A unique setup for a racing game, and with a typically tongue-in-cheek Sega tone. The casual game is pretty much a speedrun already, and the skill ceiling's not quite high enough to make it that interesting - but those ridiculous cutscenes more than make up for it. Certainly one of the silliest games we've seen this block, and Helix did a great job highlighting it.
 
 Rubber Bandits (XbSX - Flashbulb 2021)
 2 Players No Drop Out
@@ -1216,14 +1213,13 @@ NM: assumed Any%, Unrestricted, Classic difficulty, 100% Game Speed; still not r
 Halo: Reach (PC - Bungie 2010)
 4 Player Legendary Co-op
 coop by Mankey, NervyDestroyer, Chronos, dyse [2RHs]
-host fletchisafurry, couch COUCH
+host fletchisafurry, no couch
 1h08m15s (est 1h15m, wr 57m51s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube Dbvwn6zRuTI
-Review: (not yet reviewed)
-NM: pb 1h00m06s
+Review: Not the easiest to follow, I missed a lot of cool tricks because I was looking at the wrong player's screen. The early game is packed with them, and even the RNG-heavy or autoscrollery chapters have a lot of cool dandori going on - plus, fun banter between them all.
 
 -------------------------------FRIDAY--------------------------------
 
@@ -1232,23 +1228,33 @@ White's Heaven Rush Race
 race, Nibareaux [3RH] vs bree12am vs FUFa vs Seika Lizette
 host fletchisafurry, couch whet, Cone
 33m58s, 34m01s, 34m25s, 36m57s (est 40m, wr 29m37s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube 5pnH7wyJNOo
-Review: (not yet reviewed)
+Review: A really fast-paced run. I think you'd struggle to fully grok it with just one player, let alone four. It wasn't easy to tell who was in the lead at any point, not knowing the levels, but commentary explained everything else well, and did a decent job telling you which screen to pay attention to. I do recommend focusing on just one, though, don't try to split across them all.
+
+Neon White (PC - Angel Matrix 2022)
+Rainbow Hell Rush Race
+race, bree12am [WRH] vs FUFa
+host fletchisafurry, couch whet, Cone
+13m08s, 13m13s (est 40m, wr 8m29s igt)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube y4d_4K75P6U
+Review: I don't think this one will work standalone, since it builds on explanations of the White's Heaven Rush, but it's a nice dessert for those who want more Neon White. Some unique twists, and some serious challenge. Cutting down to two runners makes it much easier to follow.
 
 Tony Hawk's Pro Skater 4 (PC - Neversoft 2002)
 Any%
 by PARTY MAN X
 host fletchisafurry, couch Biglaw
 36m42s (est 36m, wr 26m47s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 2s3rH3IScIc
-Review: (not yet reviewed)
-NM: pb 32m56s igt
+Review: A brisker run than some THPS runs we've seen, and loaded with some new speed tricks. But not that much has changed, so unless this is your first skate-game run, or you really like skate-game runs, probably skippable.
 
 Xenoblade Chronicles: Future Connected (Switch - Monolith 2010, 2020)
 Any% (Casual Mode)
@@ -1266,11 +1272,11 @@ Beat the Game (1P2C)
 by swordsmankirby [WRH]
 host SatanHerself, couch Bbforky
 11m59s (est 15m, wr 11m18s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube efkoLEBzlmg
-Review: (not yet reviewed)
+Review: Probably one of the easier games to play with one player, two controllers, but still neat. Very clean run, there's not that much to it but a game this short, doesn't need to be.
 
 Rockin' Kats (NES - Atlus 1991)
 Any%
@@ -1288,11 +1294,11 @@ Any%
 by BugDoctor [WRH]
 host SatanHerself, couch Vainx, ZeroCounts
 19m25s (est 20m, wr 13m37s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube QV8KKgDftr0
-Review: (not yet reviewed)
+Review: The gameplay is incredibly decent, but the most excellent part of this run was the righteously acted-out cutscenes. Like, just watch it, or something.
 
 Teenage Mutant Ninja Turtles II: The Arcade Game (NES - Konami 1990)
 Any%
@@ -1367,12 +1373,11 @@ Any%
 by Headbob [WRH]
 host Xenadir, couch Swiftalu, Etchy, zypotic
 3h55m13s (est 3h55m, wr 3h38m41s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube 5xjT6zGi1Nw
-Review: (not yet reviewed)
-NM: assumed ENG
+Review: Four hours is a long run, but it never felt like too much of a slog. It hit a happy medium compared to other Pokemon runs - the couch banter never devolved into madness, the strategy primers never dominated, the silly incentives never hijacked the conversation. It didn't do any one thing amazingly well, but it did everything well enough.
 
 Metroid: Zero Mission (GBA - Nintendo R&D1 2004)
 100%
@@ -1448,13 +1453,24 @@ Review: A bit of a blowout, but an interesting bit of bingo. Very complicated ga
 Monster Hunter Wilds (PC - Capcom 2025)
 4-Player Apex Showcase
 coop by Xenadir, Jaypeg, Gondor, happybythree
-host klinkit, couch COUCH
-24m16s (est 35m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host klinkit, no couch
+24m16s (est 35m, no wr - showcase) [PB]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube MHF_p8zfq40
-Review: (not yet reviewed)
+Review: The lack of a dedicated couch hurt this one. We just didn't hear enough to really follow, unless you're already pretty deep into Monster Hunter. There's still banter and reactions, but the gameplay just washed over my head.
+
+Monster Hunter Wilds (PC - Capcom 2025)
+4-Player Zoh Shia Showcase [BONUS]
+coop by Xenadir, Jaypeg, Gondor, happybythree
+host klinkit, no couch
+10m10s (est 12m, no wr - showcase)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube MHF_p8zfq40+1696
+Review: This one's just pure fanservice, it seems. From an outside view, this didn't look any different from the monsters of the previous showcase, but apparently this one's even harder. Something for the Monster Hunter afficionados, but skippable if you're just wandering in.
 
 Marvel's Spider-Man 2 (PS5 - Insomniac 2023)
 All Collectibles/Bosses Relay
@@ -1494,12 +1510,11 @@ NewGame+
 by MTGJoeD [2RH]
 host Asuka424, couch fragmented_humanity, amegpie
 46m15s (est 55m, wr 39m48s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube FaI-JaOlMFE
-Review: (not yet reviewed)
-NM: pb 44m06s
+Review: It's a pretty sparse run as far as speedrun stuff goes, only a few real tricks. But as a fast, cleanly-executed and sometimes-glitchy casual run, it's a good one - excellent narration, by someone who clearly loves the hell out of the game. Still a little long, considering, but that's more the game's fault.
 
 Red Alliance (PC - 2ndUp 2018)
 Any% No Water Glitch
