@@ -1259,14 +1259,13 @@ Review: Just a quick addon, showing the levels that weren't played in Any%, maki
 
 Undertale (PC - Toby Fox 2015)
 True Pacifist, Glitchless
-race Shayy [WRH] vs mrlink2k [2RH]
+race █████ vs mrlink2k [2RH]
 host ateatree, no couch
 1h48m43s, 1h49m37s (est 1h50m, wr 1h46m35s)
-Overall ★★★★☆
-Skill   ★★★☆☆
-Fun     ★★★★☆
 Youtube y_eyqO68coA
-Review: Blazing-fast menuing and some really good bullet-hell dodging make for a pretty good speedrun, but the runner ramblings are the cherry on top. Excellent chemistry and just a lot of fun.
+Review: This run has been expunged due to accusations of serious misconduct against a runner.
+Original Review: Blazing-fast menuing and some really good bullet-hell dodging make for a pretty good speedrun, but the runner ramblings are the cherry on top. Excellent chemistry and just a lot of fun.
+Original Scores: 4/5 3/5 4/5
 
 Luminescent (SNES - Nintendo EAD 1990; TheBourgyman 2021)
 Pride% [INCENTIVE]
