@@ -110,11 +110,11 @@ Perfect Ending (Blind Seeded)
 by SnowballSMB [WRH]
 host SatanHerself, no couch
 57m57s (est 1h00m, wr 42m19s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube Vmb9FwsDngM
-Review: (not yet reviewed)
+Review: Someone, get this girl a dang couch! This run's commentary really suffered from the need to both play the game and explain it. Snowball mostly chose the former, it wasn't a bad run, but major things got skipped over in the commentary. You can probably piece together enough to follow along, but I'm sure I missed some details. "2D Zelda-like with built-in randomizer and deliberate glitch-inspired gameplay" is not the most well-established genre.
 
 -------------------------------MONDAY--------------------------------
 
@@ -145,11 +145,11 @@ Birth
 by Drakodan [WRH]
 host Prolix, couch DukeFireBird, Nikoheart
 27m32s (est 30m, wr 25m35s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube qPx3yoPIsmY
-Review: (not yet reviewed)
+Review: On the one hand, the run is very reliant on using the same move to clear screens and bosses, and it's not super interesting. On the other hand, commentary just knocked it out of the park - informative, funny, just all-around charming. Definitely an unexpected gem.
 
 Voidwrought (PC - Powersnake 2024)
 Any% (v1.0.7)
@@ -168,23 +168,22 @@ New Game+ Glitchless
 by wafflesoup [2RH]
 host Prolix, couch LunarRayGames, TriumphantBass
 21m01s (est 21m, wr 20m12s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube X1uQFjH4efY
-Review: (not yet reviewed)
+Review: A neat little metroidvania, a bit more on the Vania side than the Metroid. NG+ means enemies and even bosses are just not a factor, it's all about smooth movement. This seems pretty smooth to me! A little simple, but if you're not feeling up to an explainer-heavy run, this is a good pick.
 
 UN Squadron (Arcade - Capcom 1989)
 1CC
 by MegaRetroMan [2RH]
 host Prolix, couch DBcade, Hybrid Drive, Lance Icarus
 20m41s (est 25m, wr 20m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 4k3r5DdFtbw
-Review: (not yet reviewed)
-NM: assumed Arcade Normal 1CC
+Review: This is a pretty straightforward shmup run. Lot of autoscrolling, some mashing through bosses. It's difficult enough that a one-credit clear is still impressive, but it's not a bullet-hell game. If that's what you want, this is actually a pretty good run, it's just not the most exciting genre to me. 
 
 Hello Kitty: Roller Rescue (Gamecube - XPEC 2005)
 Any%
@@ -259,11 +258,11 @@ Any%
 by ryederek [WRH]
 host zokubun, couch coeur_de_liqueur, selcouthmind
 24m39s (est 28m, wr 24m01s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube 9X6k8vo4CKg
-Review: (not yet reviewed)
+Review: A cute little platformer, played well, but nothing you haven't seen before. No completely broken glitches, mostly just cutting corners on the intended route, and good fundamentals. It's an easy recommend if you've played the game, or if you've watched every Celeste run and want something along those lines, but it's not outstanding.
 
 RollerCoaster Tycoon (PC - Chris Sawyer 1999)
 Looopy Landscapes FF%
@@ -419,12 +418,12 @@ Uncharted 3: Drake's Deception (PS3 via PS5 - Naughty Dog 2011)
 Any%
 by TheRollingGizmo [3RH]
 host sweetpeebs, couch adef
-1h41m08s (est 1h50m, wr 1h39m03s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h41m08s (est 1h50m, wr 1h39m03s) [PB]
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube iAnnFh6k160
-Review: (not yet reviewed)
+Review: I liked the way this run was mostly built on a few tricks, but how exactly they were used kept changing. Lots of out-of-bounds, lots of little skips, but as you can see by the runtime, nothing skips more than a good chunk of a chapter.
 
 Get to Work (PC - Isto 2024)
 Glitchless (Top Grabs)
@@ -754,60 +753,59 @@ Review: (not yet reviewed)
 NM: assumed No Alarms, No IMNCEs
 
 Pac-Man Championship Edition DX+ (PC - Mine Loader 2013)
-All Time Trials
-by jammitch! [2RH]
+All Time Trials + DLC [INCENTIVE]
+by jammitch! [WRH]
 host cartridgeblowers, couch Bedwablackburn
-33m24s (est 27m, wr 20m29s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+33m24s (est 35m, wr 29m23s igt)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube G4X3r7utMRo
-Review: (not yet reviewed)
-NM: is DX the same as DX+? assumed so, and assumed no DLC
+Review: It's just a straight half-hour of really clean Pac-Man movement. Tightly routed, precise, and alarmingly fast in places. It doesn't have the widest variety, but it executes on what it does have very well.
 
 Evoland (Xb1 via XbSX - Shiro 2013, 2019)
 Any%
 by IllegallySam
 host cartridgeblowers, couch CMM1215, KingJO444
 32m27s (est 38m, wr 29m15s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube q_ONKe6JbmI
-Review: (not yet reviewed)
+Review: A goofy little genre mashup, full of references to classic fantasy games. The speedrun is mostly play-game-good, with some menu glitches in the back half, but wonderful commentary keeps it engaging.
 
 Prison City (PC - Retroware 2023)
-Any% Modern
+100% Modern [INCENTIVE]
 by DanTheVP [2RH]
 host cartridgeblowers, couch Hank_Sinatra, Bobbeigh
-42m21s (est 42m, wr 36m16s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+42m21s (est 42m, wr 41m37s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube lG5yC-4z5lA
-Review: (not yet reviewed)
+Review: Just a really neat sort of run-and-gun Contra-like. Lots of passion for the game, pointing out all the little bits borrowed from across the NES/SNES roster, and not without its share of cool tricks and tech.
 
 Rayforce (PS4 - Taito 1994, ININ 2023)
 Hi-Score Showcase
 by ColonelFatso
 host cartridgeblowers, couch Eldra, Hafkie, PheynixIgnition
 26m00s (est 33m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube FlySh2x4jNI
-Review: (not yet reviewed)
+Review: Unfortunately, one of the weaker shmup showcases. There's some neat mechanics, and being from the transitional period between classic shmups and bullet hells makes for an interesting historical piece. But there was a really rough section of gameplay that dragged things down. It's still worth watching if you're a shmup fan, but it's not a stellar example.
 
 Star of Providence (PC - Bigmode 2025)
 Normal F6 Unseeded
 by Lilac Vrt Olligoci
-host cartridgeblowers, couch PureQuestion
+host cartridgeblowers, couch PureQuestion [DEV][REM]
 23m14s (est 25m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube wXAglNzW8y4
-Review: (not yet reviewed)
+Review: A pretty straightforward top-down roguelike, but clean execution and quality commentary. Not so many fun anecdotes from the dev, but some really good play-by-play and speedrun commentary, clearly actually pays attention to the speedrunning scene.
 NM: still not sure about category
 
 Backyard Baseball '97 (PC - Humongous 1997, Mega Cat 2024)
@@ -997,11 +995,11 @@ Gnat Attack 1-Loop
 by giygasblues
 host OhHeyItsKara, couch Buffalo_Boone, Starwin
 6m35s (est 9m, wr 3m47s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ☆☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ☆☆☆☆☆
 Youtube GNTF-y7Ovt0
-Review: (not yet reviewed)
+Review: Was there a speedrun here? It's hard to tell. All I heard was demands to read donations, and the recitation of donations, interspersed with wild hooting. Neither the start times nor end times were accurately called out, which just seems emblematic of the problems here. The wild antics completely stomped over any actual speedrun. The people talking didn't care about the run, so why should we? And look, I know it's Silly Block, I *want* people to get silly. But if the runner has to tell you "hey stop literally covering my eyes, I need to actually play the game", it starts to feel less silly, and more just disrespectful. Props to giygasblues for executing an okay run despite the best attempts to ruin it, but I can't say I enjoyed watching it. Shame - I was kind of excited when I saw this on the schedule.
 
 Hercules: The Legendary Journeys (N64 - Player 1 2000)
 Any%
@@ -1075,12 +1073,11 @@ Deathless
 by sharif
 host spef, couch DBcade, LRock617, brossentia
 31m32s (est 35m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
 Youtube Hi9NIwtiR8s
-Review: (not yet reviewed)
-NM: no Deathless, only "Clear Any%"; if that's same, then WRH, 17m51s
+Review: As an FMV game, the gameplay is pretty much a QTE. There is, somehow, routing and planning involved, the narrative is extremely branching, but that's not what we're here for. No, we're here for the bonkers story, schlocky acting, and ludicrous stunts. The run delivers pretty well on that front.
 
 Skate Horse (PC - AmateurBirdwatcher 2025)
 Story
@@ -1261,11 +1258,11 @@ Any% (Casual Mode)
 by NewAmber [3RH]
 host SatanHerself, couch NickPixels, GretaIceVixen
 34m01s (est 40m, wr 32m25s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube zAZmUckIYjY
-Review: (not yet reviewed)
+Review: I think there might have been a failure of explanation here. I followed what was going on just fine, I just don't know what in this run was supposed to be the cool bit. Most of it was just running around, skirting around enemies and tagging points on the map for progression or fast-travel, and the movement just isn't deep enough for that to not feel like filler. They went out of their way to get one summon attack, and did a character build around getting its meter charged up to use as fast as possible, but there were only a few fights, total. Maybe I just completely missed the point, and all the Xenoblade players are picking their jaws off the floor from some crazy stuff I had no idea about.
 
 Chip 'n' Dale: Rescue Rangers 2 (NES - Capcom 1993)
 Beat the Game (1P2C)
@@ -1317,23 +1314,23 @@ Any% 2P1C
 2p1c by Elipsis, LRock617
 host PippyInATopHat, couch chessjerk, MadMega
 12m13s (est 20m, wr 3m28s 1p1c)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube hwZ5VV8rG0o
-Review: (not yet reviewed)
+Review: This is neat and all, but a full half of the run is spent repeatedly trying and failing one trick. The 2P1C mostly served to make glitches dependent on exact frame timing, extremely inconsistent, then the run demanded several successive successes.
 
 Mega Man 3 (NES - Capcom 1990)
 Any% Co-op
 coop by ColonelFatso, fastatcc
-host PippyInATopHat, couch Ppotdot1, DarkTerrex, ColonelFatso
+host PippyInATopHat, couch Ppotdot1, DarkTerrex
 35m36s (est 37m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube ULA57icJ5ow
-Review: (not yet reviewed)
-NM: no coop category? also check couch, it changed a few times
+Review: "Coop" is not really what this is. It's using some leftover debug commands, accessed through the second controller. So the platforming is mostly risk-free, and many bosses are frozen in place. But this enables some new tricks, and it's just a fun watch. It doesn't last long enough for jumping right over a boss to stop being funny.
+NM: no coop category?
 
 Lumina Rush (PC - Battered Lute 2024)
 Full Run
@@ -1473,15 +1470,15 @@ Youtube MHF_p8zfq40+1696
 Review: This one's just pure fanservice, it seems. From an outside view, this didn't look any different from the monsters of the previous showcase, but apparently this one's even harder. Something for the Monster Hunter afficionados, but skippable if you're just wandering in.
 
 Marvel's Spider-Man 2 (PS5 - Insomniac 2023)
-All Collectibles/Bosses Relay
+All Collectibles/Bosses Relay - Ultimate [INCENTIVE]
 relay by Bdud5, Pessilist
 host Asuka424, couch SeaAverage, SatanHerself
-1h20m55s (est 1h20m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h20m55s (est 1h31m, no wr)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube n4knd4iafos
-Review: (not yet reviewed)
+Review: It's a two-for-one deal on categories - running All Collectibles, then All Bosses, handing off between runners. As you'd expect, the first is a collectathon, using lots of movement tricks (intended and unintended) to grab everything in about half an hour; the second is a replay of full missions that end with a boss fight, so mixing crowd fights and other gameplay with boss battles. I didn't find it all that interesting, since the game is just so scripted, even the All Collectibles portion was dealing with dialogue timers. It's well-executed but just not as interesting as other games. It doesn't help that I've rather soured on Spider-Man the character over the years - hardcore Marvel fans will likely enjoy this one far more than I did.
 
 Blasphemous (PC - The Game Kitchen 2019)
 Any% Glitched
@@ -1543,34 +1540,34 @@ Normal
 by Lizstar [2RH]
 host zokubun, couch MrGameAndShout, RUBIEHART
 8m53s (est 12m, wr 8m10s) [PB?]
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube JO_P7vewgvQ
-Review: (not yet reviewed)
-NM: pb 9m47s
+Review: Just a really smooth, fast-paced puzzle-game run. Good chemistry, good humor, good gameplay. The only game I can think to compare it to is Catherine, that sort of fast geometry puzzle but with a character. So add novelty to the pile of things this run does well.
+NM: listed pb 9m47s, but two years old
 
 Bo: Path of the Teal Lotus (PC - Squid Shock 2024)
 Any% NMG
 by Vysuals [WRH]
 host zokubun, couch MrSir71, Spilled OJ
 1h12m58s (est 1h12m, wr 1h05m35s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube 0gngIeZ3H6Q
-Review: (not yet reviewed)
+Review: A metroidvania clearly in the Hollow Knight / Ori subgenre, but it does it well. Lots of fluid movement, pogoing and dashing. It seems less grueling than those games, but if you like those runs, you'll probably still like this.
 
 Final Fantasy IX (PC - Square 2000)
 HD PC CutScene Remover
 by Sylleath
 host happybythree, couch Tyslata, Ayymart, moonblazewolf
 3h54m14s (est 3h45m, wr 3h23m59s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube 4uOtaWRQfRs
-Review: (not yet reviewed)
+Review: Even with cutscenes being skipped, this is just a long, long run. It takes great effort from all involved to make this not feel like a complete slog. It's quite enjoyable, actually, although that might be my MtG addiction talking (one of the recurring couch bits was cracking open a pack, hoping for some FF9 cards). It's a very even run - not many bad parts, but not many exceptional peaks, either. If you weren't scared off by the runtime, this review should be an endorsement, but I can't say that this didn't feel like a multi-hour run.
 
 Super Mario Bros. 3 (NES - Nintendo EAD 1988)
 All Fortresses
