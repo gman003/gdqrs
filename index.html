@@ -604,8 +604,8 @@ body {
 			<a class="sgdq" href="sgdq2024.txt" onclick="loadMarathon('sgdq2024')">SGDQ 2024<span>(99% - 150/152)</span></a>
 			<a class="agdq" href="agdq2025.txt" onclick="loadMarathon('agdq2025')">AGDQ 2025<span>(97% - 144/148)</span></a>
 			<a class="sgdq" href="sgdq2025.txt" onclick="loadMarathon('sgdq2025')">SGDQ 2025<span>(95% - 140/147)</span></a>
-			<a class="agdq" href="agdq2026.txt" onclick="loadMarathon('agdq2026')">AGDQ 2026<span>(Live Now!)</span></a>
-			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(past 7 years)</span></a>
+			<a class="agdq" href="agdq2026.txt" onclick="loadMarathon('agdq2026')">AGDQ 2026<span>(56% - 72/131)</span></a>
+			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(past 8 years)</span></a>
 		</div>
 		<script>
 			function loadMarathon(marathon, reset = true){
@@ -645,6 +645,7 @@ body {
 						fetch(`sgdq2024.txt`, { cache: 'reload' }).then(response => response.text()),
 						fetch(`agdq2025.txt`, { cache: 'reload' }).then(response => response.text()),
 						fetch(`sgdq2025.txt`, { cache: 'reload' }).then(response => response.text()),
+						fetch(`agdq2026.txt`, { cache: 'reload' }).then(response => response.text()),
 					])
 						.then(inputs => { var result = ""; for (input of inputs){ result += input + "\n\n"; } return result; })
 						.then(loadReviews);

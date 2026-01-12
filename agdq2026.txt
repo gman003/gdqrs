@@ -1,5 +1,5 @@
 ====================AWESOME GAMES DONE QUICK 2026====================
-===========Raising $1,043,421 for Doctors Without Borders============
+===========Raising $2,444,646 for Doctors Without Borders============
 =========================== January 4-10 ============================
 
 -------------------------------SUNDAY--------------------------------
@@ -375,11 +375,11 @@ All Bosses
 by Jaxler [WRH]
 host Bobby Blackwolf, couch ACrispyTaco, PT, CorundumCore
 58m29s (est 1h05m, wr 58m04s) [NV]
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube oN1Tm3FTaBo
-Review: (not yet reviewed)
+Review: They kept comparing this run to Zelda, and the speedrun certainly shares some DNA. Lots of busted movement, lots of major skips, even some complete game breaks (sadly including a run-invalidating hard crash). So fans of Zelda runs are also likely to enjoy, even without the shared lore.
 
 Path of Exile 2 (PC - Grinding Gear 2024)
 Act 4 — Any%
@@ -1034,7 +1034,7 @@ This Is No Cave (PC - monome.studio 2025)
 All Levels (Standard)
 by shredberg
 host selcouthmind, couch Fell
-19m47s (est MMm, no wr?)
+19m47s (est 22m, no wr?)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★☆☆☆
@@ -1082,47 +1082,46 @@ Clair Obscur: Expedition 33 (PC - Sandfall 2025)
 Any% (Glitchless, Expert)
 race, Bdud5 vs Z3R01337 [WRH]
 host JRisJunior, couch JHobz, eddaket
-MMmSSs (est 2h10m, wr 1h53m55s rta)
+1h59m38s, 2h04m31s (est 2h10m, wr 1h53m55s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube xpKTTh02Ejc
 Review: (not yet reviewed)
-NM: bdud pb 1h56m33s rta
 
 Call of Duty: Modern Warfare 2 (PC - Infinity Ward 2009)
 Any% (Recruit)
 by Ericg08
 host blast0rama, no couch?
-MMmSSs (est 1h33m, wr 1h20m44s lrt)
+1h23m29s (est 1h33m, wr 1h20m44s lrt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube dkic5rub45I
 Review: (not yet reviewed)
-NM: make sure it's not the rebootmake?
 NM: pb 1h24m02s
 
 Redout 2 (PC - 34BigThings 2022)
 All Boss Tracks (DLC, Forwards)
 by Etiketi
 host blast0rama, couch YaBoiSquanto, korsaat84, Cloakshire
-MMmSSs (est 55m, no wr?)
+51m35s (est 55m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube zc9iueY06EE
 Review: (not yet reviewed)
+NM: claimed WRH?
 
 MINDWAVE (PC - HoloHammer 2027)
 Speedrun Showcase
 by Anneurismz
 host blast0rama, couch Mr_Shasta, Star Anise
-MMmSSs (est 22m, no wr - showcase)
+19m09s (est 22m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube FT8Xk9R-iTo
 Review: (not yet reviewed)
 NM: unreleased, demo only. Update this if it gets postponed
 
@@ -1130,35 +1129,33 @@ Stellar Blade (PC - Shift Up 2024)
 Any% (NG+, Story)
 by Ashley93oBTW [2RH]
 host Jaypeg, couch squidly, halfwaytillbliss, BloodThunder
-MMmSSs (est 1h50m, wr 1h38m51s rta)
+1h47m47s (est 1h50m, wr 1h38m51s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube rPypw4hdRjA
 Review: (not yet reviewed)
-NM: pb 1h45m32s rta
 
 LEGO Star Wars: The Complete Saga (PC - Traveller's Tales 2007)
 Any% (Solo)
 by WiiSuper
 host maxscoolusername, couch chimkin, javster101, P53
-MMmSSs (est 2h30m, wr 2h17m07s)
+2h26m04s (est 2h30m, wr 2h17m07s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube W66qxVkOaPA
 Review: (not yet reviewed)
-NM: pb 2h19m45s
 
 Croc 2 (GBC - Natsume 2001)
 Any%
 by whit_send [3RH]
 host maxscoolusername, couch nardandas
-MMmSSs (est 23m, wr 18m59s)
+21m11s (est 23m, wr 18m59s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 6zw9Oc7T-EM
 Review: (not yet reviewed)
 NM: pb 19m42s
 
@@ -1166,178 +1163,195 @@ Sly 2: Band of Thieves (PS3 - Sucker Punch 2004)
 Episode 2 - Any%
 by Nave357
 host fletchisafurry, couch Zic3, ItzBytez
-MMmSSs (est 33m, wr 29m35s)
+32m23s (est 33m, wr 29m35s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 7DtPhbO93eI
 Review: (not yet reviewed)
-NM: pb 30m55s
 
 Minit (PC - Minit Devs 2018)
 110%
 by shovelclaws [2RH]
-host fletchisafurry, couch jwaaaap
-MMmSSs (est 25m, wr 22m19s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host fletchisafurry, couch jw aka Jan Willem Nijman [DEV][REM]
+20m13s (est 25m, wr 22m19s rta) [PB]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube 5_TsodQdDzk
+Review: Neat little indie game, almost a natural fit for speedrunning thanks to the life timer mechanic. Very informative commentary, both on the run and on the game, without ever getting too dry.
 NM: game credits are just four devs, no team name
-NM: pb 16m58s igt, wr 16m26s igt
+
+Minit (PC - Minit Devs 2018)
+Second Run Any% [BONUS]
+by shovelclaws
+host fletchisafurry, couch jw aka Jan Willem Nijman [DEV][REM]
+4m27s (est 7m, wr 4m14s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube YOUTUBE_ID
+Review: Short little bonus run, doesn't really do much new, but I'm not going to complain about a little more Minit.
 
 Jetrunner (PC - Riddlebit 2025)
 Super Jetrunner
 by Xyphles
-host fletchisafurry, couch ItzBytez, Oliver M. B. Nakken
-MMmSSs (est 35m, wr 21m19s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host fletchisafurry, couch ItzBytez, Oliver M. B. Nakken [DEV][REM]
+20m56s (est 35m, wr 21m19s) [WR]
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube 88O4sH0m_PA
+Review: Easily the funniest dev commentary we've ever had. Just completely unafraid to joke about the messy process of sausage-making. And we simultaneously get some solid first-person parkour shooting.
 
 Ninja Gaiden Ragebound (PC - The Game Kitchen 2025)
 Any% (Restricted)
 by Woadyb
 host fletchisafurry, couch Queuety
-MMmSSs (est 1h20m, wr 1h05m56s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 1h15m23s
+1h18m25s (est 1h20m, wr 1h05m56s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube Jg6VBazKDwc
+Review: It's a hard game, and a new game, so execution wasn't as polished as I think it will be in years to come. But some very funny couch banter, excellent commentary.
 
 SMB2: Return to Subcon (NES - Nintendo R&D4 1998; GlitchCat7 2018)
 Any%
 by GlitchCat7 [DEV]
 host Queuety, couch Dan Salvato, carrarium
-MMmSSs (est 33m, wr 13m47s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+19m34s (est 33m, wr 13m47s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube HrkPI1hdxlI
+Review: We get a lot of kaizo, but it's almost all SMW. SMB2 kaizo is new ground. The game's skill ceiling isn't nearly as high, so this isn't the jaw-dropping displays of skill seen in traditional kaizo, but it's still hard, and still cool to see.
 
 Lies of P (PC - Neowiz Games 2023)
 Overture (Glitchless)
 by ColonelFats69
 host Queuety, couch Jaidlyn, danejerus
-MMmSSs (est 1h00m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+59m08s (est 1h00m, no wr?)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube 23_wSbEg7HY
+Review: It's an hour of smooth moderns soulslike. Lots of parries and boss strats, lots of careful routing around regular enemies. This run does one thing but does it well.
 NM: found leaderboard, no entries
 
 Dark Souls (PC - From 2014)
 Any%
 by QueueKyoo [WRH]
-host Queuety, no couch?
-MMmSSs (est 30m, wr 19m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host Queuety, couch Metallama
+28m25s (est 30m, wr 19m28s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube feUQGGskV9M
+Review: There's enough glitches to break this game pretty severely. It still takes some good old-fashioned skill to weave through mobs of enemies, and more to pull off some of the tight out-of-bounds. But later bosses get melted by some tricks, and doing the whole run wearing full armor is just excellent comedy.
+NM: timer was stopped a few seconds early
 
-Super Mario Galaxy (Switch via Switch2 - Nintendo EAD 2007)
+Super Mario Galaxy (Wii via Switch2 - Nintendo EAD 2007)
 Any% (Luigi)
 by Jhay [2RH]
-host chibicarrera, no couch?
-MMmSSs (est 2h15m, wr 2h10m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+host chibicarrera, couch spikevegeta
+2h16m53s (est 2h15m, wr 2h10m50s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube gKsLpuVlSdI
+Review: Two hours of just really, really fluid platforming. It's not the game being hard, it's going this fast. Playing this aggressively, this consistently, across such a long run, is genuinely impressive - and throughout, we're getting a smooth play-by-play from the king of the couch.
 
 Donkey Kong Bananza (Switch2 - Nintendo EPD 2025) [BONUS GAME 3]
 Any%
 by V0oid
 host chibicarrera, couch KeiperDontCare, spikevegeta
-MMmSSs (est 1h15m, wr 1h04m09s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 1h07m02s
+1h11m06s (est 1h15m, wr 1h04m09s)
+Overall ★★★★★
+Skill   ★★★★☆
+Fun     ★★★★★
+Youtube 4ItI2ZlWiO0
+Review: What. What? How is a game this new, *this* good? The speedrun is fucking relentless, it doesn't let up for a second, there's tricks everywhere letting them skip everything. The couch can barely keep up. Absolutely exhilirating - my only regret is that it did spoil what would've been a cool twist, but that's on me for not playing it yet.
 
-The Legend of Zelda: Ocarina of Time vs. Majora's Mask (N64 via Wii VC - Nintendo EAD 1998; 2000) [BIDWAR]
-Any% Blindfolded Game Choice
+The Legend of Zelda: Majora's Mask (N64 via Wii VC - Nintendo EAD 1998; 2000) [BIDWAR]
+Defeat Majora (Blindfolded)
 by Bubzia
 host Asuka424, couch Runnerguy2489, Vidya James
-MMmSSs (est 45m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: oot assume Defeat Ganon - No SRM, wr 24m23s blind, 10m22s sighted, pb 30m34s
-NM: bubzia not ranked for Majora, assume Defeat Majora, wr 57m15s blind, can't tell what category for sighted
+52m20s (est 45m, wr 57m15s blind, 16m15s sighted) [NV]
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube SIjhOlmF-DM
+Review: This was cooler in theory than it was in practice. Watching someone execute SRM setups is never really entertaining, the only fun bit is the crazy result. Stretching that over a long period of trying and failing quickly reaches the point of tedium. It's an easy recommend now that you're watching the VOD, and can fast-forward through the most repetitive bits.
+NM: pretty sure invalidated bc it skipped day zero?
 
 Chrono Trigger (PC - Square 1995, 2018)
 Magus% (RNG Manip)
 by Jerikandra
 host Asuka424, couch Onemus, OhHeyItsKara, Iceblue
-MMmSSs (est 1h50m, wr 1h45m57s)
+1h46m28s (est 1h50m, wr 1h45m57s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube MQLS-ud6gms
+Review: I was expecting maintaining the RNG manipulation to be the focus of the run, but that went remarkably unremarked on. Instead we get two-ish hours of gushing about the game, goofing off, and some routing behind-the-scenes tidbits.
+
+------------------------------SATURDAY-------------------------------
+
+Chrono Trigger (PC - Square 1995, 2018)
+NG+ [BONUS]
+by Jerikandra
+host Asuka424, couch Onemus, OhHeyItsKara, Iceblue
+5m05s (est 5m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube U5mz9NYHado
 Review: (not yet reviewed)
-
-------------------------------SATURDAY-------------------------------
 
 Sword of the Sea (PC - Giant Squid 2025)
 Any% NG+
 by Newt [WRH]
 host SporadicErratic, couch eyja_sm, Redman
-MMmSSs (est 43m, wr 37m24s lrt)
+39m00s (est 43m, wr 37m24s lrt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube tkZwI8-1E_0
 Review: (not yet reviewed)
 NM: assume "Defeat Tor Namun"
 
 Castlevania: Dawn of Sorrow (PC - Konami 2005)
-Julius vs. Soma Category Choice - All Bosses NMC
+Soma All Bosses NMC [BIDWAR]
 by Lonely [2RH]
 host SporadicErratic, couch Bobbeigh, Jaxler
-MMmSSs (est 45m, wr MMmSSs)
+38m01s (est 45m, wr 31m07s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube vUBQnaRehPU
 Review: (not yet reviewed)
-NM: wr julius 31m07s, soma 31m49s; 2rh in both
 
 Momodora: Moonlit Farewell (PC - Bombservice 2024)
 NMG Light
 by Zic3 [2RH]
 host SporadicErratic, couch FoxyJira, Ozmourn
-MMmSSs (est 1h15m, wr 1h04m27s)
+1h16m09s (est 1h15m, wr 1h04m27s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 8nUioTFwa9E
 Review: (not yet reviewed)
 NM: pb 1h11m49s
 
 EXECTOR (PS Vita via PSTV - Arc System 1995)
 Any% (HARD)
 by pmcTRILOGY [WRH][ORH]
-host KuritasKRT, no couch?
-MMmSSs (est 20m, wr 15m03s)
+host KuritasKRT, couch bbrosef, yelsraek
+16m29s (est 20m, wr 15m03s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 7wz-tLWkNOg
 Review: (not yet reviewed)
 NM: might also be the PS3 or PSP release?
 
@@ -1345,22 +1359,22 @@ Darius Gaiden (PC - Taito 1994, 1997)
 1CC Attempt (Route V)
 by LRock617
 host KuritasKRT, couch Jaidlyn, TomPocket, gigasturtz
-MMmSSs (est 20m, no wr - showcase)
+17m40s (est 20m, no wr - showcase)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube cLrE_s6Sr7k
 Review: (not yet reviewed)
 
 FLARE NUINUI QUEST (PC - sulpx 2024)
 Flare, All Bosses, True End
 by Mikan
-host KuritasKRT, no couch?
-MMmSSs (est 32m, wr MMmSSs)
+host KuritasKRT, no couch
+29m15s (est 32m, no wr?)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 6cFZsYsz1-k
 Review: (not yet reviewed)
 NM: watch the vid to make sense of the categories
 
@@ -1368,45 +1382,44 @@ James Bond 007: The Duel (Genesis - The Kremlin 1992)
 Any% (Normal)
 by MadMegaX381 [2RH]
 host KuritasKRT, couch sharif, yelsraek, Seirea
-MMmSSs (est 20m, wr 11m00s)
+15m15s (est 20m, wr 11m00s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube Ec90JAA_Ydw
 Review: (not yet reviewed)
 
 Mika and the Witch's Mountain (PC - Nukefist 2025)
 Any%
 by ToothBurglar [WRH]
 host KuritasKRT, couch Porman Glenn
-MMmSSs (est 35m, wr 29m46s)
+30m41s (est 35m, wr 29m46s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube CFrdXuW4elY
 Review: (not yet reviewed)
-NM: suspect dev on couch?
 
 Spider-Man (PS1 - Neversoft 2000)
 Any%
 by Sapy [WRH]
 host KuritasKRT, couch ChuckNicey, DapperFishMan, shadowofeden
-MMmSSs (est 33m, wr 28m26s)
+31m54s (est 33m, wr 28m26s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube JjOBN_B5wcs
 Review: (not yet reviewed)
 
 Ratchet: Deadlocked (PS3 - Insomniac 2005)
 Any%
 by The Sadge Bean [2RH]
 host tpat, couch chloe, MGSC, Syn
-MMmSSs (est 42m, wr 36m10s)
+43m03s (est 42m, wr 36m10s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube oakuA380xMM
 Review: (not yet reviewed)
 NM: if Syn also spells it Sin, WRH
 
@@ -1414,132 +1427,88 @@ Sonic Racing: CrossWorlds (PS5 - Sonic Team 2025)
 All CrossWorlds (Super Sonic Speed, No Wisps)
 by Peas
 host tpat, couch groundzero, PT, Nadia_
-MMmSSs (est 45m, wr MMmSSs)
+39m01s (est 45m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube A3xVxd-tFMc
 Review: (not yet reviewed)
 
 Final Fantasy Tactics: The Ivalice Chronicles (PC - Square 1997, Square Enix Studio III 2025)
 Any% (Squire)
 by chessjerk [WRH]
 host Seirea, couch Iceblue, moonblazewolf
-MMmSSs (est 2h10m, wr 1h29m54s)
+1h48m53s (est 2h10m, wr 1h29m54s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE_ID
+Youtube 90-lzYBN2bE
 Review: (not yet reviewed)
 
 Super Mario 64 (N64 - Nintendo EAD 1996)
 70 Star, 70 Person Relay
 relay by KingJO444 and many other nice people
 host sweetpeebs, couch spikevegeta, Bird650
-MMmSSs (est 1h40m, wr 46m26s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
+1h55m53s (est 1h40m, wr 46m26s solo)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
+Youtube r-VFPEh59k4
+Review: A massive relay of 70+ people, playing through SM64. Most of them are *not* SM64 runners, just runners of other games at the event who volunteered to learn one star, and it kind of shows. They're trying to do speed strats, mostly, but they're very sloppy and inconsistent. Which I actually enjoyed - it shows just how much practice it takes to be *good* at a speedrun, not just able to pull off a flashy trick one time in ten. Plus, all the ways different runners put their own flair on things.
 
 The Legend of Zelda: The Wind Waker (Gamecube - Nintendo EAD 2002)
 Any% - ACE
 by EJ125
-host sweetpeebs, couch minimini352, TrogWW
-MMmSSs (est 30m, wr 15m12s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 18m45s
+host sweetpeebs, couch minimini352, TrogWW, Coco
+28m12s (est 30m, wr 15m12s)
+Overall ★★★☆☆
+Skill   ★☆★☆★
+Fun     ★☆☆☆☆
+Youtube aG7_bypp1So
+Review: It's ACE. Of course it goes like this - some obligatory vanilla stuff to start off, then some weird stuff with moving boxes around and getting into pixel-perfect positions, then suddenly the credits are rolling. It's slow and the explanations are extremely dry - as a boring computer nerd, this was 100% my jam, but I have to admit, this is not a riviteing watch.
 
 Elden Ring Nightreign (PC - From 2025)
 Defeat Nightlord (Trio)
 coop by Mitchriz, YoJosherino, star0chris
-host sweetpeebs, no couch?
-MMmSSs (est 35m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: figure out which nightlord?
+host sweetpeebs, no couch
+36m14s (est 35m, no wr?)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube IXqnbXgPnKM
+Review: This run actually reminded me more of Monster Hunter showcases than Elden Ring. The team coordinating abilities and cooldowns while ganging up on a single giant foe, the low cost of dying, all felt more like that than any soulslikes. Add in roguelike buildcrafting on the fly, and you get a run that's kind of hard to understand, but I expect you'll enjoy if you know the game well enough to follow along.
+NM: Dreglord not on leaderboards?
 
 Hades II (PC - Supergiant 2025)
 All Weapons (Alternating Routes)
 by BehemothSteve
-host Quacksilver, couch frozenflygone, Moip, bd_phdx
-MMmSSs (est 2h00m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: seems like they have LB only for each route, not mixing
+host Quacksilver, couch frozenflygone, webs2d, bd_phdx
+1h50m34s (est 2h00m, no wr) [NV]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube Ne9x3y_W7pE
+Review: Playing through the game not just once, but six times, with every weapon? Kind of crazy. I couldn't really follow along with the build explanations, but seeing the game get crushed needs little explanation. Although losing to the final boss in one run did temper it a bit.
 
 Hollow Knight: Silksong (PC - Team Cherry 2025) [BONUS GAME 4]
 Any% NMG
 by Ceen [3RH]
 host Quacksilver, couch MyPetCactus, Vysuals
-MMmSSs (est 1h03m, wr 51m42s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 51m07s lrt
+54m55s (est 1h03m, wr 51m42s rta)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube M9Li3gm4JCI
+Review: Another very new, very hard game just gets absolutely crushed. The route cuts things very close, but Ceen didn't even seem to sweat it. Nice in-depth commentary, and not many spoilers if you're on the fence about watching.
 
 Pokemon Emerald (GBA - Game Freak 2004)
 Pick-My-Main
 by adef
-host OhHeyItsKara, couch star0chris
-MMmSSs (est 2h30m, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: get WR info after main is picked
-
-
-
-
-GAME (PLATFORM - DEV YEAR)
-CATEGORY
-by RUNNER
-host HOST, couch COUCH
-MMmSSs (est MMm, wr MMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-
-
-
-Super Smash Bros. Brawl (Wii - Sora 2008)
-Subspace Emissary Any%
-by Techstrobe [WRH]
-host TheBeckaSketch, couch swooce, HexSpeedruns
-MMmSSs (est 2h00m, wr 1h52m12s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: assumed "Tech" is an alias
-
-
-Wizards & Warriors (NES - Rare 1987)
-Any%
-by PGHGuitarGuy [3RH]
-host Threach, couch yelsraek
-MMmSSs (est 13m, wr 10m38s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE_ID
-Review: (not yet reviewed)
-NM: pb 11m08s
+host OhHeyItsKara, couch star0chris, PartyArlie
+~3h30m (est 2h30m, no wr)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
+Youtube mxV-3XJy2WI
+Review: This is more of a challenge run than a speedrun - donors forcing adef to play through the game with the worst pokemon imagineable. There were a few concessions made to make sure the run was completeable, and it did lean a bit on spamming X-items. But the banter was excellent, and seeing a master pick apart each battle like a puzzle was peak.
+NM: when you add skip times, there was a long segment here due to fire alarm
