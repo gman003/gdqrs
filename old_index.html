@@ -1,62 +1,39 @@
-<!DOCTYPE html>
 <html>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Games Done Quick: Reviewed Slow</title>
 <style>
 * {
 	box-sizing: border-box;
 }
-
-@font-face {
-	font-family: gdqpixel;
-	src: url('fonts/gdqpixel.woff2') format('woff2');
-	/* taken from https://github.com/GamesDoneQuick/gdq-break-channels/ */
-	/* used under Apache v2 license (https://www.apache.org/licenses/LICENSE-2.0) */
-}
-@font-face {
-	font-family: osd;
-	src: url('fonts/UAV-OSD-Sans-Mono.ttf') format('truetype');
-	/* by Nicholas Kruse (https://nicholaskruse.com) */
-	/* Font is free to use for personal or commercial use. */
-}
-@font-face {
-	font-family: Liberation Mono;
-	src: url('fonts/LiberationMono-Regular.ttf') format('truetype');
-	/* taken from https://github.com/liberationfonts/liberation-fonts */
-	/* licensed under SIL Open Font License */
-}
-
 .agdq {
-	--color-panel-bg:		#161A22;
-	--color-panel-border:	#070D15;
-	--color-panel-top:		#242B30;
-	--color-panel-hover:	#1F3451;
-
-	/* old stuff */
+	--color-fg-main: #2d6665;
+	--color-fg-h1:   #FFF;
+	--color-fg-h2:   #FFF;
+	--color-bg-main: #000;
 	--color-bg-h1:   #339999;
 	--color-bg-h2:   #003232;
 }
 .sgdq {
-	--color-panel-bg:		#131115;
-	--color-panel-border:	#19161E;
-	--color-panel-top:		#716C74;
-	--color-panel-hover:	#4F1E36;
-
-	/* old stuff */
+	--color-fg-main: #2d6665;
+	--color-fg-h1:   #FFF;
+	--color-fg-h2:   #FFF;
+	--color-bg-main: #000;
 	--color-bg-h1:   #e10189;
 	--color-bg-h2:   #34002c;
 }
 .spec {
+	--color-fg-main: #2d6665;
+	--color-fg-h1:   #FFF;
+	--color-fg-h2:   #FFF;
+	--color-bg-main: #000;
 	--color-bg-h1:   #ffb900;
 	--color-bg-h2:   #403200;
 }
-
 body {
 	box-sizing: border-box;
-	background: #000;
+	background: var(--color-bg-main);
+	color: var(--color-fg-main);
 }
-
 #runs {
 	position: absolute;
 	top: 0;
@@ -65,39 +42,26 @@ body {
 	height: 100%;
 	overflow-y: scroll;
 	scrollbar-width: thin;
-	direction: rtl;
 }
-
-#runs gdq-run {
-	direction: ltr;
-}
-
 #runs h1, #runs h2 {
 	width: 100%;
 	padding: 4px 24px;
-	font-family: gdqpixel;
-	font-size: var(--header-font-size);
+	font-size: 24px;
+	font-weight: bold;
 	text-align: center;
 	margin: 0 0 24px 0;
 }
-
 #runs h1 {
-	background: #58E7D6;
-	color: #000;
-	font-weight: bold;
+	background: var(--color-bg-h1);
+	color: var(--color-fg-h1);
 }
 #runs h1 span {
 	display: block;
-	font-size: calc(var(--header-font-size)/2);
-	font-weight: normal;
+	font-size: 12px;
 }
 #runs h2 {
-	background: #D9DD48;
-	color: #000;
-	position: sticky;
-	bottom: 0;
-	top: 0;
-	cursor: pointer;
+	background: var(--color-bg-h2);
+	color: var(--color-fg-h2);
 }
 #runs::-webkit-scrollbar {
 	width: 8px;
@@ -123,22 +87,16 @@ body {
 #main h1 {
 	font-size: var(--header-size);
 	font-weight: bold;
-	font-family: gdqpixel, sans-serif;
+	font-family: sans-serif;
 	margin: 0;
 	padding: calc(var(--header-size)/2) 0 var(--header-size) 0;
-	
-	border-width: 2px;
-	border-style: solid;
-	border-color: var(--color-panel-border);
-	border-top-color: var(--color-panel-top);
-	background: var(--color-panel-bg);
 }
 #main #player {
 	width: 100%;
 	height: 100%;
 }
 #main .container {
-	height: calc(var(--player-height) - var(--header-size) * 3);
+	height: calc(var(--player-height) - var(--header-size) * 2.5);
 }
 #main .container::-webkit-scrollbar {
 	width: 8px;
@@ -147,7 +105,7 @@ body {
 	background: #424242;
 }
 
-#footer {
+#navbar {
 	position: absolute;
 	bottom: 0;
 	left: calc(100% - var(--player-width));
@@ -157,62 +115,53 @@ body {
 	overflow: hidden;
 	background: black;
 }
-
-#footer div {
+#navbar #days {
 	width: 100%;
+	bottom: 0;
 	position: absolute;
-}
-
-#footer #navbar {
-	top: 0;
-	padding: 0 2px;
+	padding: 0 24px;
 	display: flex;
-	column-gap: 2px;
+	column-gap: 24px;
+	overflow-x: scroll;
+	scrollbar-width: thin;
 }
-#footer #navbar a {
+#navbar #days a {
 	flex: 1;
-	border-width: 2px;
+	border-width: 4px 4px 0 4px;
+	border-color: var(--color-bg-h2);
 	border-style: solid;
-	border-color: var(--color-panel-border);
-	border-top-color: var(--color-panel-top);
-	color: white;
-	background: var(--color-panel-bg);
-	padding: 9px 24px;
-	font-size: 16px;
-	font-family: osd;
+	color: var(--color-fg-h2);
+	padding: 4px 24px;
 	font-weight: bold;
 	text-decoration: none;
 	text-align: center;
 	cursor: pointer;
 }
-#footer #navbar a:hover {
-	background: var(--color-panel-hover);
+#navbar #days a:hover {
+	background: var(--color-bg-h2);
 }
-
-#footer #details {
-	top: 40px;
-	height: calc(100% - 40px);
-	margin: 2px;
-	padding: 8px;
-	
-	border-width: 2px;
+#navbar #content {
+	width: 100%;
+	top: 0;
+	position: absolute;
+	padding: 0 24px;
+	display: flex;
+	column-gap: 24px;
+}
+#navbar #content a {
+	flex: 1;
+	border-width: 0 4px 4px 4px;
+	border-color: var(--color-bg-h2);
 	border-style: solid;
-	border-color: var(--color-panel-border);
-	border-top-color: var(--color-panel-top);
-	color: white;
-	background: var(--color-panel-bg);
-	
-	font-family: Liberation Mono;
-	font-size: 18px;
-	line-height: 18px;
-}
-#footer #details p {
-	margin-top: 0;
-	margin-bottom: 12px;
-}
-#footer #details a {
-	text-decoration: underline;
+	color: var(--color-fg-h2);
+	padding: 4px 24px;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
 	cursor: pointer;
+}
+#navbar #content a:hover {
+	background: var(--color-bg-h2);
 }
 
 #raw {
@@ -228,13 +177,6 @@ body {
 		--player-width: 1920px;
 		--player-height: 1080px;
 	}
-	#runs {
-		--header-font-size: 24px;
-		--detail-font-size: 18px;
-	}
-	#runs gdq-run {
-		scroll-margin-top: calc(42px * 2 + 24px);
-	}
 	#main {
 		--header-size: 48px;
 	}
@@ -244,21 +186,14 @@ body {
 	#main #info .container {
 		columns: 3 auto;
 	}
-	#footer #navbar a {
-		font-size: 18px;
+	#navbar a {
+		font-size: 24px;
 	}
 }
 @media (min-width: 1600px) and (max-width: 2400px) {
 	body {
 		--player-width: 1280px;
 		--player-height: 720px;
-	}
-	#runs {
-		--header-font-size: 18px;
-		--detail-font-size: 12px;
-	}
-	#runs gdq-run {
-		scroll-margin-top: calc(34px * 2 + 24px);
 	}
 	#main {
 		--header-size: 40px;
@@ -268,9 +203,8 @@ body {
 	}
 	#main #info .container {
 		columns: 2 auto;
-		overflow-y: scroll;
 	}
-	#footer #navbar a {
+	#navbar  a {
 		font-size: 16px;
 	}
 }
@@ -278,13 +212,6 @@ body {
 	body {
 		--player-width: 854px;
 		--player-height: 480px;
-	}
-	#runs {
-		--header-font-size: 18px;
-		--detail-font-size: 12px;
-	}
-	#runs gdq-run {
-		scroll-margin-top: calc(34px * 2 + 24px);
 	}
 	#main {
 		--header-size: 27px;
@@ -298,8 +225,16 @@ body {
 	#main #info .container div {
 		height: auto;
 	}
-	#footer #navbar a {
-		font-size: 14px;
+	#navbar #days {
+		column-gap: 32px;
+	}
+	#navbar a {
+		font-size: 18px;
+		padding: 4px;
+	}
+	#navbar #days a {
+		padding: 12px;
+		vertical-align: top;
 	}
 }
 @media (max-width: 1200px) {
@@ -307,18 +242,11 @@ body {
 		--player-width: 640px;
 		--player-height: 360px;
 	}
-	#runs {
-		--header-font-size: 18px;
-		--detail-font-size: 12px;
-	}
-	#runs gdq-run {
-		scroll-margin-top: calc(34px * 2 + 24px);
-	}
 	#main {
 		--header-size: 24px;
 	}
 	#main #browser {
-		--eventlist-size: 20px;
+		--eventlist-size: 24px;
 	}
 	#main #browser a {
 		font-size: 18px !important;
@@ -329,11 +257,17 @@ body {
 	#main #info .container div {
 		height: auto;
 	}
-	#footer #content {
+	#navbar #content {
 		column-gap: 2px;
 	}
-	#footer #navbar a {
+	#navbar #days {
+		column-gap: 18px;
+	}
+	#navbar a {
 		font-size: 12px;
+		padding: 2px;
+	}
+	#navbar #days a {
 	}
 }
 </style>
@@ -343,18 +277,21 @@ body {
 }
 #runs {
 	position: absolute;
-	top: calc(var(--player-height) + 36px);
+	top: calc(var(--player-height) + 72px);
 	width: 100%;
-	height: calc(100% - var(--player-height) - 36px);
+	height: calc(100% - var(--player-height) - 72px);
 }
-#footer {
+#navbar {
 	width: 100%;
-	height: 36px;
+	height: 72px;
 	top: var(--player-height);
 	left: 0;
 }
-#footer div {
-	height: 100%;
+#navbar div {
+	height: 50%;
+}
+#navbar #days a {
+	border-width: 0 4px 4px 4px;
 }
 
 @media (min-width: 2560px){
@@ -362,17 +299,15 @@ body {
 		--player-width: 2560px;
 		--player-height: 1440px;
 	}
-	#runs gdq-run {
-		scroll-margin-top: calc(30px * 2 + 24px);
-	}
 	#main #browser {
 		--eventlist-size: 48px;
 	}
 	#main #info .container {
 		columns: 2 auto;
 	}
-	#footer #navbar a {
-		font-size: 18px;
+	#navbar a {
+		font-size: 24px;
+		padding: 8px;
 	}
 }
 @media (min-width: 1920px) and (max-width: 2560px){
@@ -380,17 +315,15 @@ body {
 		--player-width: 1920px;
 		--player-height: 1080px;
 	}
-	#runs gdq-run {
-		scroll-margin-top: calc(30px * 2 + 24px);
-	}
 	#main #browser {
 		--eventlist-size: 48px;
 	}
 	#main #info .container {
 		columns: 2 auto;
 	}
-	#footer #navbar a {
-		font-size: 16px;
+	#navbar a {
+		font-size: 24px;
+		padding: 8px;
 	}
 }
 @media (min-width: 1280px) and (max-width: 1920px){
@@ -398,26 +331,21 @@ body {
 		--player-width: 1280px;
 		--player-height: 720px;
 	}
-	#runs gdq-run {
-		scroll-margin-top: calc(30px * 2 + 24px);
-	}
 	#main #browser {
 		--eventlist-size: 42px;
 	}
 	#main #info .container {
 		columns: 2 auto;
 	}
-	#footer #navbar a {
-		font-size: 14px;
+	#navbar a {
+		font-size: 20px;
+		padding: 8px;
 	}
 }
 @media (min-width: 854px) and (max-width: 1280px){
 	body {
 		--player-width: 854px;
 		--player-height: 480px;
-	}
-	#runs gdq-run {
-		scroll-margin-top: calc(30px * 2 + 24px);
 	}
 	#main #browser {
 		--eventlist-size: 30px;
@@ -428,8 +356,9 @@ body {
 	#main #info .container div {
 		height: auto;
 	}
-	#footer #navbar a {
+	#navbar a {
 		font-size: 14px;
+		padding: 4px;
 	}
 }
 @media (max-width: 854px) {
@@ -437,11 +366,8 @@ body {
 		--player-width: 640px;
 		--player-height: 360px;
 	}
-	#runs gdq-run {
-		scroll-margin-top: calc(30px * 2 + 24px);
-	}
 	#main #browser {
-		--eventlist-size: 20px;
+		--eventlist-size: 21px;
 	}
 	#main #browser .container a {
 		
@@ -452,8 +378,9 @@ body {
 	#main #info .container div {
 		height: auto;
 	}
-	#footer #navbar a {
+	#navbar a {
 		font-size: 12px;
+		padding: 4px;
 	}
 }
 </style>
@@ -463,68 +390,120 @@ body {
 		* {
 			box-sizing: border-box;
 		}
-		
-		/* variant styles */
-		
+
 		:host(.agdq) {
-			--color-header-title:	#fff;
-			--color-header-desc:	#65662f; /* was an old value, check this */
-			--color-header-bg1:		#12273D;
-			--color-header-bg2:		#1F3451;
-			--color-box-text:		#fff;
-			--color-box-stars:		#FEDB08;
-			--color-box-bg:			#161A22;
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #65662f;
+			--color-fg-cont: #e10189;
+			--color-bg-head: #424242;
+			--color-bg-cont: #2c2c2c;
 		}
 		:host(.sgdq) {
-			--color-header-title:	#fff;
-			--color-header-desc:	#65662f; /* was an old value, check this */
-			--color-header-bg1:		#3A1126;
-			--color-header-bg2:		#4F1E36;
-			--color-box-text:		#fff;
-			--color-box-stars:		#FEDB08; /* not an actual GDQ color? */
-			--color-box-bg:			#131115;
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #65662f;
+			--color-fg-cont: #5dc2c0;
+			--color-bg-head: #424242;
+			--color-bg-cont: #2c2c2c;
 		}
 		
-		:host([rating="5"]) .run-title {
-			background:
-				linear-gradient(var(--color-header-bg1), color-mix(in srgb, var(--color-header-bg2) 75%, transparent)),
-				repeating-linear-gradient(45deg, red, green, blue, red 100px);
+		:host([rating="5"]) .run {
+			border: 1px solid var(--color-fg-fade);
 		}
+		
 		
 		:host(.awful_block) {
-			--color-header-bg1:		#c00177;
-			--color-header-bg2:		#c00177;
-			--color-header-title:	#1fff77;
-			--color-header-desc:	#1fff77;
-			--color-box-bg:			#660133;
+			--color-fg-head: #1fff77;
+			--color-fg-fade: #1fff77;
+			--color-fg-cont: #1fff77;
+			--color-bg-head: #c00177;
+			--color-bg-cont: #660133;
+			font-family: "Comic Sans MS", sans; /* because I am a monster and I cannot be stopped */
 		}
-		
-		:host(.awful_block) .title-main {
-			font-family: "Comic Sans MS", sans;
-			font-size: 24px;
+		:host(.silly_block) {
+			/* TODO: find some silly colors */
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #55afa7;
+			--color-fg-cont: #66e4e0;
+			--color-bg-head: #5f005f;
+			--color-bg-cont: #3f003f;
 		}
-		
-		/* actual functional style stuff */
+		:host(.spooky_block) {
+			--color-fg-head: #ffffff;
+			--color-fg-fade: #aaaaaa;
+			--color-fg-cont: #ff0000;
+			--color-bg-head: #550000;
+			--color-bg-cont: #110000;
+		}
+		:host(.sonic_block) {
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #65662f;
+			--color-fg-cont: #5dc2c0;
+			--color-bg-head: #222266;
+			--color-bg-cont: #111155;
+		}
+		:host(.castlevania_block) {
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #ffffff;
+			--color-fg-cont: #ffb999;
+			--color-bg-head: #502000;
+			--color-bg-cont: #301000;
+		}
+		:host(.megaman_block) {
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #ffb900;
+			--color-fg-cont: #5dc2c0;
+			--color-bg-head: #4da2a0;
+			--color-bg-cont: #111155;
+		}
+		:host(.myst_block) {
+			--color-fg-head: #ffb900;
+			--color-fg-fade: #ffd9a9;
+			--color-fg-cont: #201000;
+			--color-bg-head: #503000;
+			--color-bg-cont: #ffe9b9;
+			font-family: "MagicMedieval", "Papyrus", "Segoe Print", cursive;
+		}
+		:host(.myst_block) .run .score-stars {
+			color: var(--color-fg-cont);
+		}
+		:host(.remote_block) {
+			--color-fg-head: #00b900;
+			--color-fg-fade: #2e662f;
+			--color-fg-cont: #5dc25b;
+			--color-bg-head: #2a2a2a;
+			--color-bg-cont: #070707;
+			font-family: monospace;
+		}
+		:host(.metroid_block) {
+			--color-fg-head: #00f870; /* light green */
+			--color-fg-fade: #00f870; /* light green */
+			--color-fg-cont: #c01800; /* dark orange */
+			--color-bg-head: #006800; /* dark green */
+			--color-bg-cont: #f8c000; /* light orange */
+			font-family: monospace;
+		}
+		:host(.metroid_block) .run .score-stars {
+			color: var(--color-bg-head);
+		}
 		
 		.run {
 			width: 100%;
-			color: var(--color-box-text);
-			background: var(--color-box-bg);
+			color: var(--color-fg-cont);
+			background: var(--color-bg-cont);
 			margin-bottom: 16px;
 			padding-bottom: 16px;
 			cursor: pointer;
 		}
 		.run-title {
-			font-family: osd;
 			width: 100%;
-			color: var(--color-header-title);
-			background: linear-gradient(var(--color-header-bg1), var(--color-header-bg2));
+			color: var(--color-fg-head);
+			background: var(--color-bg-head);
 			padding: 4px 16px;
 			display: flex;
 			vertical-align: bottom;
 		}
 		.title-main {
-			font-size: 16px;
+			font-size: 24px;
 			font-weight: bold;
 			min-height: 28px;
 			line-height: 28px;
@@ -534,10 +513,10 @@ body {
 			vertical-align: bottom;
 		}
 		.title-details {
-			font-size: 12px;
+			font-size: 18px;
 			min-height: 28px;
 			line-height: 28px;
-			color: var(--color-header-desc);
+			color: var(--color-fg-fade);
 			display: inline-block;
 			margin-right: 0px;
 			flex: auto;
@@ -545,9 +524,8 @@ body {
 			vertical-align: bottom;
 		}
 		.run-item {
-			font-family: Liberation Mono;
 			font-size: 18px;
-			line-height: 28px;
+			line-height: 24px;
 			margin: 0 16px;
 		}
 		.score-header {
@@ -557,13 +535,12 @@ body {
 		.score-stars {
 			display: inline-block;
 			width: 80%;
-			color: var(--color-box-stars);
+			color: var(--color-fg-head);
 		}
 		abbr {
 			cursor: help;
 		}
 	</style>
-
 	<div class="run">
 		<div class="run-title">
 			<span class="title-main"><slot name="game">GAME</slot></span>
@@ -587,9 +564,7 @@ body {
 	<div id="browser">
 		<h1>Select Marathon</h1>
 		<div class="container">
-			<a                                                                    >...<span>Coming Eventually</span></a>
-			<a class="agdq" href="agdq2018.txt" onclick="loadMarathon('agdq2018')">AGDQ 2018<span>(18% - 28/158)</span></a>
-			<a class="sgdq" href="sgdq2018.txt" onclick="loadMarathon('sgdq2018')">SGDQ 2018<span>(99% - 156/157)</span></a>
+			<a class="sgdq" href="sgdq2018.txt" onclick="loadMarathon('sgdq2018')">SGDQ 2018<span>(87% - 136/156)</span></a>
 			<a class="agdq" href="agdq2019.txt" onclick="loadMarathon('agdq2019')">AGDQ 2019<span>(99% - 139/140)</span></a>
 			<a class="sgdq" href="sgdq2019.txt" onclick="loadMarathon('sgdq2019')">SGDQ 2019<span>(99% - 147/148)</span></a>
 			<a class="agdq" href="agdq2020.txt" onclick="loadMarathon('agdq2020')">AGDQ 2020<span>(100% - 146/146)</span></a>
@@ -600,12 +575,9 @@ body {
 			<a class="sgdq" href="sgdq2022.txt" onclick="loadMarathon('sgdq2022')">SGDQ 2022<span>(98% - 124/126)</span></a>
 			<a class="agdq" href="agdq2023.txt" onclick="loadMarathon('agdq2023')">AGDQ 2023<span>(100% - 151/151)</span></a>
 			<a class="sgdq" href="sgdq2023.txt" onclick="loadMarathon('sgdq2023')">SGDQ 2023<span>(99% - 137/138)</span></a>
-			<a class="agdq" href="agdq2024.txt" onclick="loadMarathon('agdq2024')">AGDQ 2024<span>(100% - 141/141)</span></a>
-			<a class="sgdq" href="sgdq2024.txt" onclick="loadMarathon('sgdq2024')">SGDQ 2024<span>(99% - 150/152)</span></a>
-			<a class="agdq" href="agdq2025.txt" onclick="loadMarathon('agdq2025')">AGDQ 2025<span>(97% - 144/148)</span></a>
-			<a class="sgdq" href="sgdq2025.txt" onclick="loadMarathon('sgdq2025')">SGDQ 2025<span>(95% - 140/147)</span></a>
-			<a class="agdq" href="agdq2026.txt" onclick="loadMarathon('agdq2026')">AGDQ 2026<span>(63% - 84/133)</span></a>
-			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(past 8 years)</span></a>
+			<a class="agdq" href="agdq2024.txt" onclick="loadMarathon('agdq2024')">AGDQ 2024<span>(99% - 140/141)</span></a>
+			<a class="sgdq" href="sgdq2024.txt" onclick="loadMarathon('sgdq2024')">SGDQ 2024<span>(98% - 149/152)</span></a>
+			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(past 6 years)</span></a>
 		</div>
 		<script>
 			function loadMarathon(marathon, reset = true){
@@ -643,9 +615,6 @@ body {
 						fetch(`sgdq2023.txt`, { cache: 'reload' }).then(response => response.text()),
 						fetch(`agdq2024.txt`, { cache: 'reload' }).then(response => response.text()),
 						fetch(`sgdq2024.txt`, { cache: 'reload' }).then(response => response.text()),
-						fetch(`agdq2025.txt`, { cache: 'reload' }).then(response => response.text()),
-						fetch(`sgdq2025.txt`, { cache: 'reload' }).then(response => response.text()),
-						fetch(`agdq2026.txt`, { cache: 'reload' }).then(response => response.text()),
 					])
 						.then(inputs => { var result = ""; for (input of inputs){ result += input + "\n\n"; } return result; })
 						.then(loadReviews);
@@ -668,53 +637,28 @@ body {
 		</script>
 		<style>
 			#main #browser .container {
-				--baseline-color-panel-border: var(--color-panel-border);
-				--baseline-color-panel-top: var(--color-panel-top);
-				--baseline-color-panel-bg: var(--color-panel-bg);
-				--baseline-color-panel-hover: var(--color-panel-hover);
 				--eventlist-button-width: calc(var(--eventlist-size) * 21 / 3);
 				--eventlist-button-height: calc(var(--eventlist-size) * 5 / 2);
 				display: grid;
 				grid-template-columns: repeat(auto-fill, minmax(var(--eventlist-button-width), 1fr));
-				column-gap: 2px;
-				row-gap: 2px;
+				padding: var(--eventlist-size);
 			}
 			#main #browser a {
-				font-size: calc(var(--eventlist-size)*2/3);
+				font-size: var(--eventlist-size);
 				font-weight: bold;
-				font-family: osd, sans-serif;
+				font-family: sans-serif;
 				text-align: center;
-				width: 100%;
-				height: 100%;
+				width: var(--eventlist-button-width);
+				height: var(--eventlist-button-height);
+				padding: calc(var(--eventlist-size)/2);
+				margin: auto;
+				border: 2px solid var(--color-bg-h1);
+				background: var(--color-bg-h2);
 				cursor: pointer;
-				
-				flex: 1;
-				border-width: 2px;
-				border-style: solid;
-				border-color: var(--baseline-color-panel-border);
-				border-top-color: var(--baseline-color-panel-top);
-				background: var(--baseline-color-panel-bg);
-				padding: calc(30% - var(--eventlist-size)) 24px 0 24px;
-				text-decoration: none;
-			}
-			#main #browser a:hover {
-				background: var(--baseline-color-panel-hover);
-			}
-			#main #browser a.agdq {
-				color: #339999;
-			}
-			#main #browser a.sgdq {
-				color: #e10189;
-			}
-			#main #browser a.spec {
-				color: #ffb900;
 			}
 			#main #browser a span {
 				display: block;
 				font-size: calc(var(--eventlist-size)/3);
-				font-weight: normal;
-				padding-top: 8px;
-				color: #fff;
 			}
 		</style>
 	</div>
@@ -775,41 +719,28 @@ body {
 				<label><input type="checkbox" name="duration-wr" checked"/>Only World Records</label>
 			</div>
 		</div>
+		
 		<style>
-			#filters .container {
-				columns: 3 auto;
-				gap: 8px;
-				overflow-y: scroll;
-			}
-			#filters .container div {
-				display: inline-block;
-				margin-bottom: 24px;
-			}
-			#filters h3 {
-				width: 100%;
-				background: #D9DD48;
-				color: #000;
-				padding: 4px 24px;
-				font-family: gdqpixel;
-				font-size: var(--header-font-size);
-				text-align: center;
-				margin: 0 0 8px 0;
-			}
-			#filters label, #filters p {
-				display: block;
-				text-align: left;
-				font-family: Liberation Mono;
-				margin-bottom: 0;
-			}
-			#filters input {
-				margin: 8px 8px 8px 24px;
-				background-color: black;
-				color: white;
-				padding: 4px;
-			}
-			#filters input[name^=duration][type=text] {
-				width: 75px;
-			}
+		#filters .container {
+			columns: 3 auto;
+			gap: 8px;
+			overflow-y: scroll;
+		}
+		#filters .container div {
+			display: inline-block;
+		}
+		#filters h3 {
+			width: 100%;
+			background: var(--color-fg-main);
+			color: black;
+		}
+		#filters label {
+			display: block;
+			text-align: left;
+		}
+		#filters input {
+			margin: 8px 8px 8px 24px;
+		}
 		</style>
 	</div>
 	<div id="info" hidden="true">
@@ -826,10 +757,10 @@ body {
 				<p>I am in the habit of using the full range of ratings, which may seem harsh to those used to seeing nothing lower than a 7/10. For reference, I expect to give only a few five-star ratings in each event, and even a single-star run is worth watching if it's a game or runner you particularly enjoy.</p>
 				<table>
 				<tr><th>☆☆☆☆☆</th><td>Don't bother watching</td></tr>
-				<tr><th>★☆☆☆☆</th><td>A weak run, but still fun for fans of the game</td></tr>
-				<tr><th>★★☆☆☆</th><td>A solid but unremarkable run, or a flawed gem</td></tr>
-				<tr><th>★★★☆☆</th><td>A good run, but not a must-watch</td></tr>
-				<tr><th>★★★★☆</th><td>A great run, probably a highlight of the marathon</td></tr>
+				<tr><th>★☆☆☆☆</th><td>A weak run, can still be fun if it's a game you love but otherwise skippable</td></tr>
+				<tr><th>★★☆☆☆</th><td>A solid but unremarkable run</td></tr>
+				<tr><th>★★★☆☆</th><td>A good run, not a highlight but worth watching eventually</td></tr>
+				<tr><th>★★★★☆</th><td>A great run, only avoid if it's a game or runner you just can't stand</td></tr>
 				<tr><th>★★★★★</th><td>One of the best runs of all time</td></tr>
 				</table>
 			</div>
@@ -856,19 +787,11 @@ body {
 			}
 			#main #info h3 {
 				width: 100%;
-				background: #D9DD48;
-				color: #000;
-				padding: 4px 24px;
-				font-family: gdqpixel;
-				font-size: var(--header-font-size);
-				text-align: center;
-				margin: 0 0 24px 0;
+				background: var(--color-fg-main);
+				color: black;
 			}
-			#main #info p, #main #info table {
+			#main #info p {
 				text-align: left;
-				font-family: Liberation Mono;
-				font-size: 18px;
-				line-height: 28px;
 			}
 
 			#main #info table {
@@ -876,29 +799,31 @@ body {
 			}
 			#main #info table th {
 				color: #ffb900;
-				padding: 4px;
+				padding: 2px;
+			}
+			#main #info table tr td {
+				color: var(--color-fg-h1);
 			}
 		</style>
 	</div>
 </div>
 
-<div id="footer">
-	<div id="navbar">
+<div id="navbar">
+	<div id="days"></div>
+	<div id="content">
 		<a onclick="hideAllContentBut('player')">Video</a>
 		<a onclick="hideAllContentBut('filters')">Filters</a>
-		<a onclick="hideAllContentBut('info')">About</a>
-		<a onclick="hideAllContentBut('browser')">Marathons</a>
-		<script>
-			function hideAllContentBut(exception){
-				console.log(`hiding all but ${exception}`);
-				for (var element of ['browser', 'player', 'filters', 'info']){
-					document.getElementById(element).hidden = element != exception;
-				}
+		<a onclick="hideAllContentBut('info')">About / Ratings Guide</a>
+		<a onclick="hideAllContentBut('browser')">Event Browser</a>
+	</div>
+	<script>
+		function hideAllContentBut(exception){
+			console.log(`hiding all but ${exception}`);
+			for (var element of ['browser', 'player', 'filters', 'info']){
+				document.getElementById(element).hidden = element != exception;
 			}
-		</script>
-	</div>
-	<div id="details">
-	</div>
+		}
+	</script>
 </div>
 
 <script>
@@ -1005,16 +930,18 @@ function makeMarathonStringSortable(input){ // turns "SUMMER GAMES DONE QUICK 20
 }
 
 function clearMarathons(){
-	// clear out runs table
+	// clear out runs table and daily navbar
 	document.getElementById("runs").replaceChildren();
+	document.getElementById("days").replaceChildren();
 }
 
 function loadReviews(input){
 	console.log("Loading reviews");
 	var run_container = document.getElementById("runs");
+	var navbar_container = document.getElementById("days");
 	var marathon_header_container = document.getElementById("marathon-headers");
 	
-	var current_block = null, current_marathon = null, current_day = null, current_count = 0, current_header_count = 0;
+	var current_block = null, current_marathon = null, current_day = null, current_count = 0;
 	
 	for (run of input.trim().split("\n\n")){
 		var lines = run.split("\n");
@@ -1040,14 +967,16 @@ function loadReviews(input){
 			// looks like a section header
 			var name = lines[0].replaceAll('-', '');
 			
-			var header2_element = document.createElement('h2');
-			header2_element.innerHTML = header2_element.id = name;
-			header2_element.setAttribute("data-header-number", current_header_count);
-			header2_element.style = "top: " + (44 * current_header_count) + "px;"; // calc(100px + 66px * attr(--data-header-number integer));"
-			run_container.appendChild(header2_element);
+			var header_element = document.createElement('h2');
+			header_element.innerHTML = header_element.id = name;
+			run_container.appendChild(header_element);
+			
+			var link_element = document.createElement('a');
+			link_element.innerHTML = name;
+			link_element.href = "#" + name;
+			navbar_container.appendChild(link_element);
 			
 			current_day = name;
-			current_header_count++;
 			
 			continue;
 		} else if (lines.length == 1 && lines[0].startsWith('[[[')){
@@ -1173,82 +1102,22 @@ function loadReviews(input){
 
 	for (element of document.getElementsByTagName("gdq-run")){
 		element.onclick = function(ev){
-			// set the current video
-			console.log("Setting player to " + this.getAttribute("yt-url") + " +" + this.getAttribute("yt-offset"));
-			if (player.getPlayerState() == 1){
-				// currently playing, start instantly
-				player.loadVideoById(this.getAttribute("yt-url"), this.getAttribute("yt-offset"));
+			if (ev.target.slot == "overall" || ev.target.slot == "skill" || ev.target.slot == "fun") {
+				// clicked on a rating, pop up the ratings guide
+				var key = document.getElementById("ratings-key");
+				key.hidden = !key.hidden;
 			} else {
-				// currently cued/paused/buffering/stopped, just cue it up
-				player.cueVideoById(this.getAttribute("yt-url"), this.getAttribute("yt-offset"));
-			}
-			hideAllContentBut('player');
-			
-			function createLink(text, type){
-				if (text.includes(" "))
-					return '<a class="addsearch" term="'+type+':\''+text+'\'">' + text + '</a>';
-				else
-					return '<a class="addsearch" term="'+type+':'+text+'">' + text + '</a>';
-			}
-			
-			// populate the description area
-			var links = [];
-			links.push(createLink(this.getAttribute("game"), "game"));
-			
-			// runners, separate logic for races vs solo/coop
-			if (this.getAttribute("runner").startsWith("race") || this.getAttribute("runner").startsWith("relay race")){
-				for (var runner of this.getAttribute("runner").split("vs")){
-					if (runner.startsWith("relay ")){
-						runner = runner.substring(6);
-					}
-					if (runner.startsWith("race, ")){
-						runner = runner.substring(6);
-					}
-					if (runner.startsWith("race ")){
-						runner = runner.substring(5);
-					}
-					if (runner.startsWith("Team ")){
-						continue; // TODO: deal with THIS nonsense
-					}
-					runner = runner.replaceAll(/\[[A-Z0-9]+\]/gi, "");
-					runner = runner.trim();
-					
-					links.push(createLink(runner, 'runner'));
+				// clicked on something else, set the current video
+				console.log("Setting player to " + this.getAttribute("yt-url") + " +" + this.getAttribute("yt-offset"));
+				if (player.getPlayerState() == 1){
+					// currently playing, start instantly
+					player.loadVideoById(this.getAttribute("yt-url"), this.getAttribute("yt-offset"));
+				} else {
+					// currently cued/paused/buffering/stopped, just cue it up
+					player.cueVideoById(this.getAttribute("yt-url"), this.getAttribute("yt-offset"));
 				}
-			} else {
-				for (var runner of this.getAttribute("runner").split(",")){
-					if (runner.startsWith("relay ")){
-						runner = runner.substring(6);
-					}
-					if (runner.startsWith("coop ")){
-						runner = runner.substring(5);
-					}
-					if (runner.startsWith("by ")){
-						runner = runner.substring(3);
-					}
-					runner = runner.replaceAll(/\[[A-Z0-9]+\]/gi, "");
-					runner = runner.trim();
-					
-					links.push(createLink(runner, 'runner'));
-				}
+				hideAllContentBut('player');
 			}
-			
-			// platforms
-			for (var plat of this.getAttribute("platform").split(" via ")){
-				links.push(createLink(plat, "plat"));
-			}
-			
-			var details = document.getElementById("details");
-			details.innerHTML = "";
-			var title = details.appendChild(document.createElement("p"));
-			title.appendChild(this.querySelector("span[slot=game]").firstChild.cloneNode(true));
-			title.appendChild(document.createTextNode(" - "));
-			title.appendChild(this.querySelector("span[slot=category]").firstChild.cloneNode(true));
-			title.appendChild(document.createTextNode(" "));
-			title.appendChild(this.querySelector("span[slot=runner]").firstChild.cloneNode(true));
-			details.appendChild(document.createElement("p")).appendChild(this.querySelector("span[slot=review]").cloneNode(true));
-			// details.appendChild(document.createElement("p")).innerHTML = "Find more: " + links.join(", ");
-			
 		}
 	}
 	
@@ -1256,51 +1125,35 @@ function loadReviews(input){
 }
 
 function refreshFilters(){
-	var sort_mode = "when";
 	var allowedRatings = [];
-	var allowedDurations = [];
-	var allowedProximity = [];
-	var durationMinimum = null;
-	var durationMaximum = null;
-	var requireWR = false;
-	var allowedRunner = null;
-	var allowedCrew = null;
-	var allowedGame = null;
-	var allowedCategory = null;
-	var allowedPlatform = null;
-	var allowedDev = null;
-	var allowedBlock = null;
-	
-	sort_mode = document.querySelector("input[name=sort]:checked").value;
-
 	for (element of document.querySelectorAll("input[rating]").values()){
 		if (element.checked){
 			allowedRatings.push(element.attributes.rating.value);
 		}
 	}
+	var allowedDurations = [];
 	for (element of document.querySelectorAll("input[name=duration]").values()){
 		if (element.checked){
 			allowedDurations.push([parseInt(element.attributes.min.value), parseInt(element.attributes.max.value)]);
 		}
 	}
+	var allowedProximity = [];
 	for (element of document.querySelectorAll("input[name=proximity]").values()){
 		if (element.checked){
 			allowedProximity.push(element.value);
 		}
 	}
 	
-	durationMinimum = document.getElementsByName("duration-min")[0].value;
-	durationMaximum = document.getElementsByName("duration-max")[0].value;
-	requireWR = document.getElementsByName("duration-wr")[0].checked;
-	allowedRunner = document.getElementsByName("runner")[0].value.toLowerCase();
-	allowedCrew = document.getElementsByName("crew")[0].value.toLowerCase();
-	allowedGame = document.getElementsByName("game")[0].value.toLowerCase();
-	allowedCategory = document.getElementsByName("category")[0].value.toLowerCase();
-	allowedPlatform = document.getElementsByName("platform")[0].value.toLowerCase();
-	allowedDev = document.getElementsByName("developer")[0].value.toLowerCase();
-	allowedBlock = document.getElementsByName("block")[0].value.toLowerCase();
-
-	// actually apply filters
+	var durationMinimum = document.getElementsByName("duration-min")[0].value;
+	var durationMaximum = document.getElementsByName("duration-max")[0].value;
+	var requireWR = document.getElementsByName("duration-wr")[0].checked;
+	var allowedRunner = document.getElementsByName("runner")[0].value.toLowerCase();
+	var allowedCrew = document.getElementsByName("crew")[0].value.toLowerCase();
+	var allowedGame = document.getElementsByName("game")[0].value.toLowerCase();
+	var allowedCategory = document.getElementsByName("category")[0].value.toLowerCase();
+	var allowedPlatform = document.getElementsByName("platform")[0].value.toLowerCase();
+	var allowedDev = document.getElementsByName("developer")[0].value.toLowerCase();
+	var allowedBlock = document.getElementsByName("block")[0].value.toLowerCase();
 	
 	for (element of document.getElementsByTagName("gdq-run")){
 		var passed = true;
@@ -1339,7 +1192,7 @@ function refreshFilters(){
 			passed = passed && element.attributes.category.value.includes(allowedCategory);
 		}
 		if (allowedPlatform){
-			passed = passed && element.attributes.platform.value.includes(allowedPlatform);
+			passed = passed && element.attributes.platform.value.split(" ").includes(allowedPlatform);
 		}
 		if (allowedDev){
 			passed = passed && element.attributes.dev.value.includes(allowedDev);
@@ -1354,14 +1207,14 @@ function refreshFilters(){
 		element.hidden = !passed;
 	}
 	
-	// sort
-	refreshSort(sort_mode);
+	refreshSort();
 	
 	// do another pass to hide section headers
 	var section_has_content = false;
 	for (element of Array.from(document.getElementById('runs').children).reverse()){
 		if (element.tagName == "H2"){
 			element.hidden = !section_has_content;
+			document.querySelector("a[href='#"+element.id+"']").hidden = !section_has_content;
 			section_has_content = false;
 		} else if (element.tagName == "GDQ-RUN"){
 			if (!element.hidden){ section_has_content = true; }
@@ -1369,8 +1222,9 @@ function refreshFilters(){
 	}
 }
 
-function refreshSort(mode){ // mode is one of: when game platform rating duration
+function refreshSort(){
 	var multi_marathon = (document.getElementById("marathon-headers").childNodes.length > 1);
+	var mode = document.querySelector("input[name=sort]:checked").value;
 	if (mode == "when"){
 		// figure out if we should be when-single (just one marathon) or when-all (every marathon loaded)
 		if (multi_marathon){
@@ -1379,7 +1233,7 @@ function refreshSort(mode){ // mode is one of: when game platform rating duratio
 			mode = "when-single";
 		}
 	}
-	
+
 	var runs = [].slice.call(document.getElementsByTagName("gdq-run"));
 	switch (mode){
 		case "when-single":
@@ -1407,6 +1261,7 @@ function refreshSort(mode){ // mode is one of: when game platform rating duratio
 	clearMarathons();
 	
 	var run_container = document.getElementById("runs");
+	var navbar_container = document.getElementById("days");
 	var current_marathon = null, current_category = null;
 	
 	if (!multi_marathon){
@@ -1425,26 +1280,16 @@ function refreshSort(mode){ // mode is one of: when game platform rating duratio
 			// create a category header
 			var header_element = document.createElement('h2');
 			header_element.innerHTML = header_element.id = run_category;
-			header_element.onclick = function(ev){
-				var target = ev.target.nextSibling;
-				while (target.hidden){
-					target = target.nextSibling;
-				}
-				target.scrollIntoView({ behavior: "smooth" });
-			}
-	
 			run_container.appendChild(header_element);
+			
+			var link_element = document.createElement('a');
+			link_element.innerHTML = run_category;
+			link_element.href = "#" + run_category;
+			navbar_container.appendChild(link_element);
 		}
 		current_category = run_category;
 	
 		run_container.append(run);
-	}
-	
-	var categories = document.querySelectorAll("#runs h2");
-	var n = 0;
-	for (category of categories){
-		category.style = "top: 0px; z-index: " + (categories.length - n); // "top: " + (44 * n) + "px; bottom: " + (44 * (categories.length - n - 1)) + "px;";
-		n++;
 	}
 	
 	
@@ -1541,22 +1386,6 @@ customElements.define('gdq-run',
 	}
 );
 
-document.getElementById("runs").onscrollend = function(ev){
-	var n = 0;
-	const l = document.querySelectorAll("#runs h2").length;
-	var upperLimit = document.getElementById("runs").getBoundingClientRect().top + 40; // close enough to top of the screen
-	var landscape = window.screen.availHeight < window.screen.availWidth;
-	for (element of document.querySelectorAll("#runs h2")){
-		if (element.getBoundingClientRect().top < upperLimit){ // sticking to top
-			element.style = "z-index: " + n;
-		} else {
-			// sticking to bottom, or in the middle
-			element.style = "z-index: " + (l - n);
-		}
-		n++;
-	}
-}
-
 // load a Youtube player
 var tag = document.createElement('script');
 tag.src = "https://www.youtube.com/iframe_api";
@@ -1573,9 +1402,6 @@ function onYouTubeIframeAPIReady() {
 		},
 		events: {}
 	});
-	if (!document.getElementById("browser").hidden || !document.getElementById("filters").hidden || !document.getElementById("info").hidden){
-		document.getElementById("player").hidden = true;
-	}
 }
 
 // check URL params, see if we should shortcut into a marathon
