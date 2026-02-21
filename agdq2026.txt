@@ -385,12 +385,12 @@ Path of Exile 2 (PC - Grinding Gear 2024)
 Act 4 — Any%
 by Angormus
 host blast0rama, couch CrimsonCasts
-2h55m32s (est 3h00m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+2h55m32s (est 3h00m, no wr)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
 Youtube LSxijR13aZ8
-Review: (not yet reviewed)
+Review: This is a long, dry, technical speedrun. I imagine that's exactly what PoE players want. The explanations are top-notch, very informative, just not very exciting.
 
 Metroid Prime 3: Corruption (Wii - Retro 2007)
 Any%
@@ -591,11 +591,11 @@ Any%
 by Maxylobes [WRH]
 host HockeyBabbler, couch tomatoanus as tomatoangus, BloodThunder, bryonato
 1h13m36s (est M1h15m, wr 58m55s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube GHU_cM8tem8
-Review: (not yet reviewed)
+Review: When this run is good, it's quite good. The basic movement's got a little depth to it, there's lots of shortcuts and skips, and the couch is great when they're firing on all cylinders. But sometimes this run stalls out, when there's long cutscenes or a struggle with a recently-found trick, and that drags the overall experience down.
 
 Kiosk (PC - Vivi 2025)
 Any%
@@ -638,11 +638,11 @@ Golden Net Race
 race, Bluekandy [2RH] vs DrewPag [WRH]
 host TheBeckaSketch, no couch
 2h06m59s, 2h11m14s (est 2h00m, wr 1h36m12s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube QvO1UypxxGc
-Review: (not yet reviewed)
+Review: This was never going to be a pulse-pounding, high-octane run. But if you want something chill that isn't just boring, this is a good one. There's a surprising amount of strategy put into it, and with two routes, there's always something to explain. The commentary understood the assignment - not trying to hype things up, but just vibing, explaining what needs to be explained, joking around, matching the mood of the run itself. And it feels like a closer race than those times would show.
 
 Mighty Gunvolt (Switch via Switch2 - Inti Creates 2014, 2024)
 All Levels (Gunvolt)
@@ -783,16 +783,14 @@ NM: todo check time?
 
 Disney's 102 Dalmatians: Puppies to the Rescue (PS1 - Toys for Bob 2000)
 All Levels (OoB)
-tas showcase by passere [3RH]
-host theValiantSun, couch Jaxler
+tas by passere [3RH], avouca
+presenter passere, host theValiantSun, couch Jaxler, KylieKyubi
 16m16s (est 20m, human wr 17m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆★☆★
+Skill   ☆★☆★☆
+Fun     ★☆★☆★
 Youtube Wyk1CAwnxSk
-Review: (not yet reviewed)
-NM: check who did the TAS vs who presented
-NM: TAS authored by "Avouca" i think
+Review: This is just a good old-fashioned TAS. No ACE shenanigans, no "gotcha!" twists, just playing the game in a way that can exploit every trick and glitch. Still impressive, and honestly more fun IMO.
 
 [[[AWFUL BLOCK]]]
 
@@ -834,11 +832,11 @@ Any%
 by zzrules21 [WRH]
 host theValiantSun, couch Porkchop44, amyrlinn, Shockwve
 17m08s (est 25m, wr 18m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube u1ZzDqgh1BU
-Review: (not yet reviewed)
+Review: Another case of an absurd but competently-made game getting shoveled into Awful Block. It's a boomer shooter vaguely in the Serious Sam vein, lots of bosses, lots of mook waves, with very "sketched in the margins of a teen boy's math homework" vibe. So it's also a decent speedrun on its own merits, even before the silliness happens.
 NM: they did a gagwith couch+host being zzrules22 to 25, copy?
 
 Egg (PC - Terry Cavanagh 2025)
@@ -869,12 +867,11 @@ Story Any%
 by Kaspi [2RH]
 host SporadicErratic, couch DylCat, shovelclaws, Jaxler
 16m12s (est 20m, wr 16m52s) [WR]
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ☆☆☆☆☆
+Fun     ★★☆☆☆
 Youtube UJILN5zNhlo
-Review: (not yet reviewed)
-NM: pb 17m40s - possible wr?
+Review: This run kind of just whiffed for me. It's not a good speedrun - it's a minigame anthology, and the fastest way to beat most of them is to just do nothing. So we're left with commentary about the minigames and about the absurd manga characters, but we kind of don't get much of that, either. A few names get dropped, but no context, and half the minigames were just the runner saying "I don't know how this works".
 
 Skull Island: Rise of Kong (PC - Iguanabee 2023)
 All Bosses
@@ -914,26 +911,25 @@ NM: pb 7m52s
 The Running Man (Amiga - Emerald 1989)
 Any%
 by Mechalink [WRH][ORH]
-host SporadicErratic, no couch?
+host SporadicErratic, couch Brossentia
 12m38s (est 15m, wr 10m42s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
 Youtube zG8fNjZBpM8
-Review: (not yet reviewed)
+Review: This is an actual bad game, which feels like a rarity this year. But it's not a very fun sort of bad, just clunky controls and enemies that can just do whatever they want to you. And it seems to expect a weirdly high amount of knowledge of the movie. If you really want to see a bad Amiga game, or really like late-80s action movies, sure, give it a shot.
 
 Garbage Pail Kids: Mad Mike and the Quest for Stale Gum (NES - iam8bit 2022)
 Any% (Tourist)
 by Konception [3RH]
 host Threach, couch ogNdrahciR, buffalo_boone, swooce
 26m57s (est 32m, wr 24m48s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube dN_oLhkEkjw
-Review: (not yet reviewed)
+Review: Another Awful Block game that's more gross than bad, but it's at least *really* gross. Infinite-health mode does open up a lot of damage boosting, and the banter and humor is pretty on point. It might not really belong in Awful Block, but it was still a highlight of it.
 NM: todo find credit for dev, not just the publisher
-NM: pb 25m35s
 
 That's A Cow (Switch2 - Reddeer 2022)
 30 Levels
@@ -1186,11 +1182,11 @@ Episode 2 - Any%
 by Nave357
 host fletchisafurry, couch Zic3, ItzBytez
 32m23s (est 33m, wr 29m35s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 7DtPhbO93eI
-Review: (not yet reviewed)
+Review: There's just a lot of autoscroller in this run. It felt like it, at least. There were plenty of cool bits but also lots of down time, and the cool bits just weren't cool enough to really grab me. One for the Sly fans, perhaps.
 
 Minit (PC - Minit Devs 2018)
 110%
@@ -1437,11 +1433,11 @@ Any%
 by The Sadge Bean [2RH]
 host tpat, couch chloe, MGSC, Syn
 43m03s (est 42m, wr 36m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube oakuA380xMM
-Review: (not yet reviewed)
+Review: This is the sort of busted, game-breaking run that usually only takes ten minutes or so. There's glitches that let you count finishing one stage as completing another, so the run is kind of just checking off a list of needed levels... by replaying the same couple levels over again. There's some restrictions that make it not completely repetitive, and there's cool tech put into beating them, but there's a lot of the same thing. The fact that this is possible is neat, and both runner and couch tried their hardest to make this interesting, but I can't really recommend the result.
 NM: if Syn also spells it Sin, WRH
 
 Sonic Racing: CrossWorlds (PS5 - Sonic Team 2025)
