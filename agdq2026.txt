@@ -408,11 +408,11 @@ Any%
 by Queuety [WRH]
 host JRisJunior, couch moonblazewolf
 1h39m55s (est 1h50m, wr 1h41m53s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube bHaU0jUaqo8
-Review: (not yet reviewed)
+Review: It's a charming little RPG, though the speedrun is somewhat limited. There's not a huge amount of battles, and the same general build is used for most of them. So it's more of a briskly-paced Let's Play, but you know what? That's still fun to watch.
 
 Mushroom Men: The Spore Wars (Wii - Red Fly 2008)
 Any%
@@ -613,11 +613,11 @@ Any% (Normal)
 by Cloudmark27
 host sweetpeebs, couch Maxylobes
 1h34m34s (est 1h40m, wr 1h26m36s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 4MIclLJrdFM
-Review: (not yet reviewed)
+Review: There's not a tremendous amount of variety to this run, but we get a great running explanation of the plot and all the little optimizations that go into the run. Not sure if they skipped explaining some basics like "what is a fatal frame?" or I just missed it, but that didn't hurt my enjoyment too much.
 NM: runner not ranked?
 
 [[[/SPOOKY BLOCK]]]
@@ -810,11 +810,11 @@ Any%
 by Uncle Slam [WRH]
 host theValiantSun, couch Asuka424, Joester98
 26m29s (est 30m, wr 26m00s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube 0UTZeh1QM5I
-Review: (not yet reviewed)
+Review: If you enjoyed the Give Me Toilet Paper! run a few years back, here's a game from the same dev. Some weird control gimmick, which sadly goes under-explained, but the levels are neat, there's some fun tricks, and the humor is absolutely on point.
 
 I'll Invaligate Your Aid (PC - Waldorf 2023)
 Main Story
@@ -878,11 +878,11 @@ All Bosses
 by SweedOla [2RH]
 host SporadicErratic, no couch?
 35m37s (est 35m, wr 28m05s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube lgLXaaAEd_4
-Review: (not yet reviewed)
+Review: Now this is what an Awful Block run should be. Game is actually bad? Check. Game is bad in ways that make it easy to get out of bounds and break things open? Check. It's a little one-note, but it plays that note well.
 
 Bug Blasters: The Exterminators (SegaCD - Digital Pictures 2000)
 Easy Difficulty
@@ -932,15 +932,15 @@ Review: Another Awful Block game that's more gross than bad, but it's at least *
 NM: todo find credit for dev, not just the publisher
 
 That's A Cow (Switch2 - Reddeer 2022)
-30 Levels
+40 Levels [INCENTIVE]
 by Tomomodachi
 host Threach, couch CrainWWR, PippyInATopHat
-17m38s (est 15m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+17m38s (est 19m, no wr)
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★★
 Youtube ZtHZdjhmhI8
-Review: (not yet reviewed)
+Review: It's a game as simple as it is silly, but nicely made and well-executed. Costumes, puns, running gags, the works. That's a run!
 NM: could not find good dev credits, used publisher
 NM: no "30 levels" category, only any% which is twice as long as estimate
 
@@ -962,11 +962,11 @@ Any%
 by TheRetroRunner [2RH]
 host Threach, couch yelsraek
 19m02s (est 20m, wr 17m13s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube 70i15EL-9BQ
-Review: (not yet reviewed)
+Review: It's a quick little NES action-platformer run, but a clean one. The movement is unexpectedly fluid, so even without much in the way of unintended mechanics, the basic speedrun is still cool to watch, and the commentary keeps up a brisk pace.
 
 Monster in My Pocket (NES - Konami 1992)
 Any% Co-Op
@@ -984,13 +984,12 @@ Deja Vu (NES - ICOM 1985, Kemco 1988)
 Any%
 by CeCe
 host Threach, couch HockeyBabbler, Lizstar
-17m47s (est 18m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+17m47s (est 18m, wr 11m19s) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube XA_WD9M5ERw
-Review: (not yet reviewed)
-NM: might be able to find game on SRC with more digging
+Review: There's not a lot of point-and-click adventure games on the NES, so this definitely has novelty going for it. There's a bonkers noir-detective adventure-game story to run through, and some busted glitches to exploit. Invalidated by failing an RNG manip and loading a safety save.
 
 The Legend of Zelda: Twilight Princess (Gamecube via Wii - Nintendo EAD 2006)
 All Dungeons
@@ -1159,11 +1158,11 @@ Any% (Solo)
 by WiiSuper
 host maxscoolusername, couch chimkin, javster101, P53
 2h26m04s (est 2h30m, wr 2h17m07s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube W66qxVkOaPA
-Review: (not yet reviewed)
+Review: Spread out over two and a half hours, there's not *that* much dead time, spent in cutscenes or autoscrollers. But there's also just not that much variety. There's little tricks and skips everywhere, from cutting corners to skipping entire rooms with out-of-bounds, but by the time Episode I is done, you've seen most of what's to come. The final episode feels very similar to the five that came before, and it's just not interesting enough for me to recommend to any but the most die-hard LEGO gamers.
 
 Croc 2 (GBC - Natsume 2001)
 Any%
@@ -1342,11 +1341,11 @@ Soma All Bosses NMC [BIDWAR]
 by Lonely [2RH]
 host SporadicErratic, couch Bobbeigh, Jaxler
 38m01s (est 45m, wr 31m07s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube vUBQnaRehPU
-Review: (not yet reviewed)
+Review: Look, Castlevania runs are consistently excellent. This is no exception. Some glitches to do things completely out of sequence, some tricky movement, some boss fights done ridiculously underleveled. If you've not seen one before, this is as fine as any to start with; if you've seen plenty and enjoyed, this still does enough different to be worth a gander.
 
 Momodora: Moonlit Farewell (PC - Bombservice 2024)
 NMG Light
@@ -1400,11 +1399,11 @@ Any% (Normal)
 by MadMegaX381 [2RH]
 host KuritasKRT, couch sharif, yelsraek, Seirea
 15m15s (est 20m, wr 11m00s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube Ec90JAA_Ydw
-Review: (not yet reviewed)
+Review: A nice, fast run, but surprisingly tech-dense. The movement is a little jank but in a way that skill can get through, and there's a lot of tricks to cut out little sections or do things more cleanly. Plus a couch firing on all cylinders.
 
 Mika and the Witch's Mountain (PC - Nukefist 2025)
 Any%
