@@ -159,36 +159,34 @@ Nuclear Throne (PC - Vlambeer 2015)
 Any% (4 Characters)
 by fishmcmuffins
 host HockeyBabbler, couch fimbz
-27m22s (est 40m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+27m22s (est 40m, no wr)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube yH0FvK6o8eI
-Review: (not yet reviewed)
-NM: only see cats for 1 and 12 char
+Review: A very rapid-fire sort of showcase. Showing off every character would be too long by far, doing just one would be over before they finished introductions, this really did hit a good sweet spot for bullet-hell-ish roguelike speedrun. The builds aren't super deep and the gameplay's not the flashiest, but it's fun enough to keep you watching, and changes often enough to avoid getting stale.
 
 Mega Man Battle Network (GBA - Capcom Studio 2 2001)
 Single Segment
 by Phantom5800
 host HockeyBabbler, couch Iceblue, morpheus080
 1h42m05s (est 1h50m, wr 1h25m41s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube zjGc6dYg92Y
-Review: (not yet reviewed)
-NM: pb 1h34m54s
+Review: The series fans seemed very happy with this run, so don't let this review stop you if you were already hype for it. But it didn't seem like anything special to me, as an outsider. Lots of RNG, no complex builds or strategies to explain, lots of basic dungeon movement, capping off with an abrupt, glitch-induced end. Far from a bad run, just run-of-the-mill.
 
 Misc: A Tiny Tale (PC - Tinyware 2025)
 Any%
 by Jaxler [WRH]
 host TheBeckaSketch, couch CorundumCore, Lazlo
-48m35s (est 1h00m, wr 56m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+48m35s (est 1h00m, wr 56m28s) [NV]
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube yFUvP3xiOLc
-Review: (not yet reviewed)
+Review: I think this is the first time the game itself has joined in on the sleep-deprivation madness. Never-before-seen softlocks marred this run, but the runner just rolled with every punch. Have to skip an entire level due to that being the closest safety save? Screw it, do some extra collectibles just to show off. Improvise a new route. Despite the self-deprecation, it actually did come off as a decent showcase of skill. A must-watch for any Chibi Robo fans, and a strong recommend for anyone that just likes to watch goofballs spiral into insanity at 5am in a hotel in Pittsburgh.
 
 Wolfenstein: The Old Blood (PC - MachineGames 2015)
 Any%
@@ -413,16 +411,16 @@ Fun     ★★☆☆☆
 Youtube bHaU0jUaqo8
 Review: It's a charming little RPG, though the speedrun is somewhat limited. There's not a huge amount of battles, and the same general build is used for most of them. So it's more of a briskly-paced Let's Play, but you know what? That's still fun to watch.
 
-Mushroom Men: The Spore Wars (Wii - Red Fly 2008)
+Mushroom Men: The Spore Wars (Wii via Wii U - Red Fly 2008)
 Any%
 by DarkTerrex [WRH]
 host JRisJunior, couch Jaxler, Forrest
 47m15s (est 51m, wr 45m18s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube PtJRy-5LOpE
-Review: (not yet reviewed)
+Review: I don't want to detract from the run itself, which seemed really clean and well-executed, but wow, the commentary was impressive. I was not expecting a Wii game of this sort to have this much tech and this many skips to explain. It does lean on the dry side - not boring, just aimed at people who like to hear speedruns explained, and the story asides make up for it. Definitely a hidden gem of the marathon.
 
 SEUM: Speedrunners from Hell (PC - Pine 2016)
 Speedrun Mode — All Levels
@@ -600,11 +598,11 @@ Any%
 by marphoria [WRH][ORH]
 host HockeyBabbler, couch KatLink
 28m06s (est 36m, wr 24m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube C6NxNDp7knw
-Review: (not yet reviewed)
+Review: Not the spookiest of games, nor the most technical of speedruns, but it's good fun. It's a food service game, so the speed tech comes down to memorizing orders, multitasking, and ignoring food safety regulations. Commentary is solid but it's banter where this really shines.
 
 Fatal Frame II: Crimson Butterfly (XbC - Tecmo 2003, 2004)
 Any% (Normal)
@@ -969,12 +967,11 @@ Any% Co-Op
 coop by Starwin, giygasblues
 host Threach, couch buffalo_boone, Ultrauberness
 19m24s (est 23m, wr 15m50s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★☆☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★☆☆☆☆
 Youtube ua-MT5BsPmw
-Review: (not yet reviewed)
-NM: pb 17m45s
+Review: This run was about 40% donation reading, 40% laughing at their own jokes, 30% talking over each other, and 10% kissy noises. That might add up to more than 100%, because these often overlapped. I can't tell you a single interesting thing about the gameplay, because they basically ignored it. It's sleep-deprived madness of the type I find unwatchable, but apparently there's some fans of it out there. More power to you if you enjoy it, but I did not.
 
 Deja Vu (NES - ICOM 1985, Kemco 1988)
 Any%
@@ -1104,15 +1101,14 @@ Review: (not yet reviewed)
 
 Call of Duty: Modern Warfare 2 (PC - Infinity Ward 2009)
 Any% (Recruit)
-by Ericg08
-host blast0rama, no couch?
-1h23m29s (est 1h33m, wr 1h20m44s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+by Ericg08 [WRH]
+host blast0rama, no couch
+1h23m29s (est 1h33m, wr 1h20m40s lrt)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube dkic5rub45I
-Review: (not yet reviewed)
-NM: pb 1h24m02s
+Review: Way more energetic than you'd expect a 3AM solo run to be. Lots of sequence breaking and out-of-bounds to save pretty minimal amounts of time, plus mad dashes through enemies and some lightning-fast twitch shooting. I did experience some motion sickness watching this, thanks to the FOV and the incredibly fast snap-aiming, but that's really the only thing I can think to complain about.
 
 Redout 2 (PC - 34BigThings 2022)
 All Boss Tracks (DLC, Forwards)
@@ -1165,12 +1161,11 @@ Any%
 by whit_send [3RH]
 host maxscoolusername, couch nardandas
 21m11s (est 23m, wr 18m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 6zw9Oc7T-EM
-Review: (not yet reviewed)
-NM: pb 19m42s
+Review: It's a perfectly fine run, just a perfectly ordinary one. Some neat skips, some tight execution, but also a lot of slowly pushing boxes around. If you have any attachment to the game, it's a run worth watching, but I don't see it making any new Croc fans.
 
 Sly 2: Band of Thieves (PS3 - Sucker Punch 2004)
 Episode 2 - Any%
@@ -1370,11 +1365,11 @@ Darius Gaiden (PC - Taito 1994, 1997)
 by LRock617
 host KuritasKRT, couch Jaidlyn, TomPocket, gigasturtz
 17m40s (est 20m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube cLrE_s6Sr7k
-Review: (not yet reviewed)
+Review: The draw here is the live singing. If hearing the game's opera sections sung live sounds cool to you, absolutely check this out. If you're hoping for some deep shmup gameplay, you'll probably be disappointed - it speaks fine for itself, so the light commentary we get is enough, but supreme bullet-hell challenge, this is not.
 
 FLARE NUINUI QUEST (PC - sulpx 2024)
 Flare, All Bosses, True End
@@ -1448,12 +1443,12 @@ Final Fantasy Tactics: The Ivalice Chronicles (PC - Square 1997, Square Enix Stu
 Any% (Squire)
 by chessjerk [WRH]
 host Seirea, couch Iceblue, moonblazewolf
-1h48m53s (est 2h10m, wr 1h29m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube 90-lzYBN2bE
-Review: (not yet reviewed)
+1h48m53s (est 2h10m, wr 1h29m54s) [NV]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube ALWCf7GJQbU
+Review: An unfortunately overstretched run. There's a decently long grind near the start, to enable single-round wins on most subsequent battles - but the strategies to get those wins don't vary all that much, and it gets repetitive. The vaunted story gets hyped up but left unexplored, and the couch banter that started strong, falls off by the halfway mark.
 
 Super Mario 64 (N64 - Nintendo EAD 1996)
 70 Star, 70 Person Relay
