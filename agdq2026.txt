@@ -215,11 +215,11 @@ Any%
 race, yoshipro [3RH] vs DThaiPome [2RH] vs PsiOnyxSR [WRH]
 host Threach, couch Uncle Slam
 26m11s, 27m33s, 29m15s (est 35m, wr 24m58s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube 2wl0fD-h9mM
-Review: (not yet reviewed)
+Review: I watched this run live, but didn't review it then because I kept zoning out or getting distracted, didn't feel I'd paid proper attention to do a good review. Well, I re-watched it, and yeah, it's the sort of run you can easily zone out while watching, something that will never get an iron grip on your attention. It's perfectly fine, there's some neat skips (the first trick skips 2/3rds of the game!) and the costume gimmick sets an appropriately silly tone. I can't point at anything it really did wrong, besides the number of autoscrollers to sit through. But it also doesn't do much special. A run for people with fond memories of the game, and that's about it.
 
 Dragon Ball Z: Budokai (PS2 - Dimps 2002)
 Any%
@@ -471,11 +471,11 @@ Co-op All Quests
 coop by zzrules21, Deceptix_, UnjustAction [WRHs]
 host KeiperDontCare, no couch
 2h35m19s (est 2h30m, wr 2h22m16s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube S-FNyxxkiqk
-Review: (not yet reviewed)
+Review: This is, unfortunately, a time-filler run. It's got a lot of cool stuff going on. There's plenty of glitches, and multitasking, some out-of-bounds, some funny banter. But it's hard to follow three separate runners going through samey environments, ticking off quests that don't even get mentioned, using the same few glitches, and there's just so much dead time. It's a run where there's always things going on but somehow none of it is interesting, half the time, and that makes it hard to recommend.
 
 Star Wars Battlefront II (PC - Pandemic 2005)
 Rise of the Empire — Any% (w/ Awards)
@@ -573,14 +573,25 @@ Review: The run is so clean that you can easily forget it's being played on a Ro
 Amnesia: The Bunker (PC - Frictional 2023)
 Glitchless (Shellshock Difficulty)
 by BloodThunder
-host HockeyBabbler, no couch?
-26m56s (est 30m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host HockeyBabbler, no couch
+26m56s (est 30m, no wr)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube z_CugU3uz7M
-Review: (not yet reviewed)
-NM: Glitchless Any% is <12m, but allows any difficulty, no leaderboard for Shellshock I could see
+Review: Probably the tensest run of Horror Block this year. It's tight enough to keep you on the edge of your seat, even as BloodThunder adapts to everything it throws at him. Self-commentary is excellent, keeps you informed without overwhelming with details and jargon.
+NM: no leaderboard for Shellshock I could find, Glitchless is ~50% this estimate
+
+Amnesia: The Bunker (PC - Frictional 2023)
+Any% [BONUS]
+by BloodThunder
+host HockeyBabbler, no couch
+1m59s (est 3m, wr 1m34s rta)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube z_CugU3uz7M+1870
+Review: Just a quick addon, showing what "glitchless" didn't. It's like two out of bounds to skip the entire game. Neat party trick, a fitting dessert after a more filling main course, but not worth watching separately.
 
 F.E.A.R. 2: Project Origin (PC - Monolith 2009)
 Any%
@@ -618,16 +629,16 @@ NM: runner not ranked?
 
 [[[/SPOOKY BLOCK]]]
 
-Bloons Tower Defense 6 (PC - Ninja Kiwi 2018)
+Bloons TD 6 (PC - Ninja Kiwi 2018)
 All True Expert Chimps
 by oneeyeddeacon [WRH][ORH]
 host sweetpeebs, couch 1davidj
-1h08m18s (est 1h25m, wr 1h08m33s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+1h08m18s (est 1h25m, wr 1h08m33s) [WR]
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube txE7DO4C1Xo
-Review: (not yet reviewed)
+Review: I was not expecting this run to be this fast-paced or this dense. There's very little downtime and always something to explain. This makes for quite a technical run, but one that went by faster than I thought.
 
 Animal Crossing: City Folk (Wii - Nintendo EAD 2008)
 Golden Net Race
@@ -815,12 +826,12 @@ I'll Invaligate Your Aid (PC - Waldorf 2023)
 Main Story
 by Sushi Kishi
 host theValiantSun, no couch
-14m32s (est 12m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+14m32s (est 12m, no wr)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube Fl9hjQjJ-VU
-Review: (not yet reviewed)
+Review: Imagine if someone tried to make I Wanna Be The Guy, but all they had was RPGMaker. That's more or less how the game goes - trolly deaths, a low-stakes story inexplicably played as high drama, very meta writing. It's funny and clever, and Sushi does great self-commentary.
 
 Super Buff HD (PC - Buffcorp 2023)
 Any%
@@ -883,12 +894,12 @@ Bug Blasters: The Exterminators (SegaCD - Digital Pictures 2000)
 Easy Difficulty
 by sharif
 host SporadicErratic, couch burst_error, MadMegaX381, DanTheVP
-37m52s (est 40m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+37m52s (est 40m, no wr)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube qHs3s6u3Lwc
-Review: (not yet reviewed)
+Review: It's another of those oddball Sega CD games, making full use of FMV by making a low-budget movie and then slapping some rail shooter with awful controls into it. It's deliberate B-grade schlock, so bad the game actually got shelved until someone else bought up the rights. The audio mix made it a little hard to hear the actual game, over the sound of everyone laughing at it - but maybe that's just me, or maybe you don't care. Either way, fun little FMV goofiness.
 NM: credit is weird, game was canceled but rights later bought up and released
 
 Rock 'n' Roll Adventures (Wii - Data Design 2007)
@@ -1112,26 +1123,25 @@ Review: Way more energetic than you'd expect a 3AM solo run to be. Lots of seque
 
 Redout 2 (PC - 34BigThings 2022)
 All Boss Tracks (DLC, Forwards)
-by Etiketi
+by Etiketi [WRH]
 host blast0rama, couch YaBoiSquanto, korsaat84, Cloakshire
-51m35s (est 55m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+51m35s (est 55m, wr 48m03s igt)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube zc9iueY06EE
-Review: (not yet reviewed)
-NM: claimed WRH?
+Review: If there's one thing you want from an F-Zero clone, it's a sense of speed - and this delivers. I suspect the game would not look nearly this blindingly fast if I were playing - some of the longer off-track sections are nuts. The track gimmicks keep it from dragging too hard, but it does get a bit of a blur by the end. Well, it was always a blur, but you know what I mean. Give it a whirl, and if you start getting bored, you won't miss anything if you stop, there's no big twist waiting at the 45-minute mark.
 
 MINDWAVE (PC - HoloHammer 2027)
 Speedrun Showcase
 by Anneurismz
 host blast0rama, couch Mr_Shasta, Star Anise
 19m09s (est 22m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube FT8Xk9R-iTo
-Review: (not yet reviewed)
+Review: A neat sneak-peek sort of run, an in-development spiritual successor to WarioWare. There's not so many microgames yet for 20 minutes to go by without a lot of repeats, but the escalating pace and different twists let it hold your interest, the repeats offer a chance to see it again but with more understanding. Plus, some good couch chemistry.
 NM: unreleased, demo only. Update this if it gets postponed
 
 Stellar Blade (PC - Shift Up 2024)
@@ -1375,13 +1385,12 @@ FLARE NUINUI QUEST (PC - sulpx 2024)
 Flare, All Bosses, True End
 by Mikan
 host KuritasKRT, no couch
-29m15s (est 32m, no wr?)
-Overall N/R
-Skill   N/R
-Fun     N/R
+29m15s (est 32m, no wr)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube 6cFZsYsz1-k
-Review: (not yet reviewed)
-NM: watch the vid to make sense of the categories
+Review: For a Hololive spinoff where half the fun is seeing your fave vtubers, this was a surprisingly good speedrun on its own merits. Fluid movement, some varied boss strats, not too many autoscrollers. Even if you don't know any of these characters, the constant "hi gura! bye gura! hi calli! bye calli!" joy was infectious.
 
 James Bond 007: The Duel (Genesis - The Kremlin 1992)
 Any% (Normal)

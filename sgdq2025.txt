@@ -156,12 +156,11 @@ Any% (v1.0.7)
 by allison8bit [3RH]
 host Prolix, couch Quacksilver, ProfessorBurtch
 47m09s (est 45m, wr 42m32s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube oOezjAzgL-o
-Review: (not yet reviewed)
-NM: pb 43m18s
+Review: A neat metroidvania run, nothing really stands out as unique but it had solid execution, solid commentary, very little dead time, sometimes that's all you need. 
 
 Timespinner (PC - Lunar Ray 2018)
 New Game+ Glitchless
@@ -200,14 +199,12 @@ CODE Bunny (PC - Seventh Star 2024)
 Axel%
 by Star Anise
 host Jaidlyn, couch myserval
-10m31s (est 15m, wr 7m59s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+10m31s (est 15m, wr 7m59s) [PB]
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube F2M0hTTM998
-Review: (not yet reviewed)
-NM: Assumed v1.2.0
-NM: pb 10m56s
+Review: A short, sweet, somewhat silly little run. There's a great couch bit, and some neat platforming, though sloppy in a few places.
 
 LEGO Star Wars: The Video Game (GBA via DS - Griptonite 2005)
 All Episodes
@@ -493,15 +490,14 @@ Review: It's a pretty neat modern brawler, but the skill involved isn't the easi
 
 We Love Katamari REROLL+ Royal Reverie (PC - Namco 2005, Monkey Craft 2023)
 Roll Up the Sun
-by Harutomo [2RH]
-host Lanaruse, couch Enzor_AU
+by Harutomo [2RH][REM]
+host Lanaruse, couch Enzor_AU [REM]
 46m08s (est 48m, wr 39m52s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube GBXigDcrNiQ
-Review: (not yet reviewed)
-NM: pb 44m49s
+Review: This was a weird one to watch, because the vibes of the runner and commentator are just so different. Harutomo is all (virtual) smiles and silly catchphrases, while Enzor plays the commentary completely straight and serious. Both of these are entirely valid ways to approach a run, but they don't seem to mesh well together. On the whole, I think a goofy, joking mood works better for Katamari - yes, it's a real speedrun, the routing is tight and the execution is nontrivial, but it isn't an excessively technical run.
 
 OneShot (PC - Future Cat 2016)
 Any%
@@ -701,11 +697,11 @@ Any%
 by sharkhat87 [WRH]
 host Jaidlyn, couch CaptainEzekiel, Nerd_Squared
 1h01m21s (est 1h10m, wr 49m17s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube gSYhRAeHzyg
-Review: (not yet reviewed)
+Review: For such a recent game, it sure has a lot of tech. It's a lot of-of-bounds shenanigans, sure, but always in different ways, and there's some other tricks involved too. Great commentary that avoids going too deep into the story - I'm not sure it's spoiler-free, but it's close to it.
 
 Control (PC - Remedy 2019)
 Any%
