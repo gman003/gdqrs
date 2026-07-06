@@ -1,5 +1,5 @@
 ====================SUMMER GAMES DONE QUICK 2026=====================
-===========Raising $0,000,000 for Doctors Without Borders============
+===========Raising $0,151,879 for Doctors Without Borders============
 ===========================July 5-12, 2026===========================
 
 -------------------------------SUNDAY--------------------------------
@@ -7,124 +7,114 @@
 Donkey Kong Country 2: Diddy's Kong-Quest (SNES - Rare 1995)
 102%
 by Ryan Ford
-host JRisJunior, couch COUCH
-HhMMmSSs (est 1h38m, wr 1h24m21s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: pb 1h29m23s
+host JRisJunior, no couch
+1h36m54s (est 1h38m, wr 1h24m21s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube YeR1Laks_Y4
+Review: A game with this much history, the route is tight and jam-packed with tiny optimizations. There's a few struggle points, but it doesn't much detract from the smooth execution of most of the game. I think all it really needed was a couch to fill in during serious time.
 
 The Talos Principle (PC - Croteam 2014)
 All Sigils
 by Gelly [WRH]
 host JRisJunior, couch Exto, BobbyBurm, Zem
-HhMMmSSs (est 42m, wr 35m52s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: if Reawakened, also 2025
-NM: assumed no FPS cap
+41m22s (est 42m, wr 35m52s rta)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube zNRD4q91Udc
+Review: This is the sort of run where instead of pointing out the objectives they do unintended, they call out the handful where they do it the way the game expects. The puzzle the run solves is "how can I parkour my way to the sigils", and it's just nonstop with it, a very high-octane run.
 
 Fire Emblem: Three Houses (Switch via Switch 2 - Intelligent Systems 2019)
 Blue Lions NG+ (Azure Moon)
 by GretaIceVixen [2RH]
 host JRisJunior, couch Corvimae, Yogcavey
-HhMMmSSs (est 1h22m, wr 1h06m54s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: assumed Normal; pb 1h09m31s
+1h20m15s (est 1h22m, wr 1h06m54s) [NV]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube eaSrhSRfVPQ
+Review: Both Azure Moon and NG+ are new to GDQ. It's my least favorite house, so I'm not going to pretend to be unbiased on the former, but the latter adds some interesting twists. It actually ends up making *more* characters useful in the speedrun, instead of hard-focusing on one character to solo everything, and it makes some absolutely busted one-turn strategies possible. Execution was pretty solid (RNG did force a safety save) and commentary was clear and fun.
 
 I Am Your Beast (PC - Strange Scaffold 2024)
 All Story Levels (100%)
-by Flyingludicolo
-host TheKingsPride, couch aco, Hallow, Xalavier Nelson Jr.
-HhMMmSSs (est 1h06m, wr 11m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: pb 15m06s
-NM: possible dev on couch?
+by Flyingludicolo [2RH]
+host TheKingsPride, couch aco, Hallow, Xalavier Nelson Jr. [REM][DEV]
+1h02m24s (est 1h06m, wr 43m10s)
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★★
+Youtube JKQoepm1cmI
+Review: An arcadey FPS with a speed focus, this would already have been a solid run. Then add some of the best dev commentary I can recall, stuffed with anecdotes that range from insightful to hilarious - and then have a couch able to riff on that? *chef's kiss*
 
 Devil May Cry 5: Special Edition (PS5 - Capcom 2019, 2020)
 NG (Human)
 by DECosmic [WRH]
 host TheKingsPride, couch bryonato, Bobbeigh, Maxylobes
-HhMMmSSs (est 1h20m, wr 1h04m19s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: assumed Nero/Dante/V
+1h07m15s (est 1h20m, wr 1h04m19s)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★★★☆
+Youtube zC4l_Wp4weI
+Review: This might be the most hype couch we've ever seen, just absolutely popping off for everything. And I can't say the run didn't deserve it, because it absolutely melted through bosses. The out-of-bounds was not nearly as splashy, but made for good variety. Really just an all-around excellent run.
 
 Castlevania: Symphony of the Night (Xb360 - KCE Tokyo 1997, 2007)
-Any% (Luck Mode)
-by Dr4gonBlitz
-host Quacksilver, couch COUCH
-HhMMmSSs (est 20m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: no idea what this category is, current Any% NSC is 15m29s and WRH
+Any% No Save Corruption (Luck Mode)
+by Dr4gonBlitz [WRH]
+host Quacksilver, no couch
+16m44s (est 20m, wr 15m29s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
+Youtube QBGBBRH2_ZY
+Review: A very technical run, dense with explanations, with a lot of focus on trying to make an extremely tight cycle in the first third. By coincidence, I'd watched a 2018 run by Dr4gonBlitz just a week before, and the improvement of an already-good runner was easily evident. It's a dry run, but it doesn't waste time.
 
 Kirby Air Riders (Switch 2 - Sora 2025)
-Air Ride - All Tracks
+Air Ride - No Dupes [INCENTIVE]
 by Bluekandy [2RH]
-host Quacksilver, couch COUCH
-HhMMmSSs (est 40m, wr 37m13s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: pb 28m57s igt
+host Quacksilver, couch SgtAimBlaze
+37m54s (est 40m, wr 29m41s igt) [WR?]
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube oAFHR5Yjpbc
+Review: It's one of the newest games on the schedule, so don't expect a perfect level of polish. It's actually pretty impressive, considering how new it is. The category is somewhat arbitrary but forces a lot of variety, though the route for it is still pretty vibes-based. I think the biggest problem is just that the series is unintuitive compared to other racers - though this run's better at explaining itself than past KAR runs. Maybe one for the players, more than the watchers?
+NM: ranked by IGT, runner expects WR, TODO check later when they count up IL totals
 
 Crypt of the NecroDancer: Synchrony (PC - Brace Yourself 2015, 2022)
-Story Mode
+Story Mode - Double Time
 by Spooty
 host Quacksilver, couch ehseezed
-HhMMmSSs (est 40m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: no SRC?
+41m33s (est 40m, no wr) [NV]
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube n4go0Bi4LFo
+Review: A ridiculously hard modifier of a really hard mode in a game that I still haven't been able to beat once. Rhythm-game roguelike, in the "like Rogue" sense of the word, and now Spooty tries to beat it four times in a row, with increasingly hard characters, at 200+ bpm. Yeah, it's pretty crazy.
+NM: no SRC, leaderboards moved in-game; Necrolab.com doesn't allow Double Tempo with Story Mode
 
 Spyro: Year of the Dragon & Spyro Reignited Trilogy (PC + PS2 - Insomniac 2000, Toys for Bob 2018)
-Spyro 3
+100 Egg vs Any%
 race, Toronite vs Dereklander
 host Quacksilver, couch 8vaLuigi, Wed
-HhMMmSSs (est 1h00m, wr 50m01s, 49m33s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: assumed 100 Egg for YotD, any% for Reign
+54m18s, 56m51s (est 1h00m, wr 50m01s, 49m33s rta)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
+Youtube Pj87jNaBfOo
+Review: This is probably my new favorite Spyro run. Yes, the OG and remake having different routes makes it a little harder to see who's in the lead, but that also means twice as many tricks and strats, and that gives a much better pacing IMO. And the few times things do line up and they're doing the same levels at the same time, the side-by-side comparison is just great.
 
 No More Heroes (Switch - Grasshopper 2007, Engine 2020)
 Any% NG+ (Bitter)
-by Matty Ice
+by Matty Ice aka yungbuttcoin [WRH]
 host ateatree, couch Sonic9jct
-HhMMmSSs (est 1h40m, wr 1h29m02s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: not ranked?
+1h31m02s (est 1h40m, wr 1h29m02s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube au1S7EOHuCs
+Review: Just too stretched a run to rise above the average. There weren't many cool tricks or special tech, just a max-stats character playing through the game relatively normally. And without cutscenes, we don't even get much of the Suda51 experience.
 
 -------------------------------MONDAY--------------------------------
 
@@ -132,11 +122,11 @@ Supraland (PC - Supra 2019)
 Any% (Glitchless)
 by Delphi [3RH]
 host ateatree, couch Marco C
-HhMMmSSs (est 50m, wr 37m27s)
+43m47s (est 50m, wr 37m27s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube QjzmXpw7D90
 Review: (not yet reviewed)
 NM: pb 38m51s
 
@@ -144,11 +134,11 @@ Thirsty Suitors (PC - Outerloop 2023)
 Any%
 by Mochajones10 [3RH]
 host ateatree, couch PleasantlyTwstd, blackheartwings
-HhMMmSSs (est 1h25mm, wr 1h14m45s)
+1h18m19s (est 1h25mm, wr 1h14m45s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube ZbSyN8fxkyM
 Review: (not yet reviewed)
 NM: pb 1h15m36s
 
@@ -156,22 +146,23 @@ Snowboard Kids (N64 - Racdym 1997)
 Copper Pass
 race, McGyna [WRH] vs Arianafan420 [2RH]
 host WildCherryMeteor, couch KingJO444, Jaybongz
-HhMMmSSs (est 40m, wr 34m52s)
+37m29s (est 40m, wr 34m52s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube XgOztm17qiQ
 Review: (not yet reviewed)
+NM: TODO both runner times
 
 Death's Door (PC - Acid Nerve 2021)
 True Ending (Restricted)
 by TFT [WRH]
 host WildCherryMeteor, couch Quacksilver, happybythree, velociroger [2RH]
-HhMMmSSs (est 1h36m, wr 1h25m27s rta)
+1h35m17s (est 1h36m, wr 1h25m27s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube MfcLBHsUQLo
 Review: (not yet reviewed)
 NM: assumed latest patch
 
@@ -179,11 +170,11 @@ Absolum (PC - Guard Crush 2025)
 Co-Op (Warpless)
 coop by threepup, ProfessorBurtch
 host WildCherryMeteor, couch PleasantlyTwstd, Metroid Crime
-HhMMmSSs (est 40m, wr HhMMmSSs)
+29m37s (est 40m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube z2-diB5KvWw
 Review: (not yet reviewed)
 NM: wr depends on heroes and ordeals, too many to list here
 
@@ -191,11 +182,11 @@ Blue Fire (PC - Robi 2021)
 Any% (NMG)
 by Lunisara [3RH]
 host thefrencharmenian, couch allison8bit, cass heptagonsun, cyanphibian
-HhMMmSSs (est 55m, wr 46m43s rta)
+54m06s (est 55m, wr 46m43s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube DeJLAkwz0dE
 Review: (not yet reviewed)
 NM: couch credit was "*cass heptagonsun" but p sure the asterisk will fuck things up
 NM: pb 34m50s igt
@@ -204,11 +195,11 @@ Dragon Quest XI (PC - Square Enix 2017, 2020)
 Sword of Light%
 by Jerikandra [2RH]
 host thefrencharmenian, couch Xytoriak
-HhMMmSSs (est 2h00m, wr 1h42m15s rta)
+1h53m50s (est 2h00m, wr 1h42m15s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube uu1RIqOqJT4
 Review: (not yet reviewed)
 NM: pb 1h37m55s lrt
 
@@ -216,11 +207,11 @@ Constance (PC - btf Games 2025)
 Any%
 by eightbitm0nster
 host chibicarrera, couch CovertMuffin, DECosmic
-HhMMmSSs (est 55m, wr 42m21s rta)
+47m18s (est 55m, wr 42m21s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube BuBOWo2rkRM
 Review: (not yet reviewed)
 NM: assumed NMG, classic, normal; pb 42m35s igt
 
@@ -228,11 +219,11 @@ SSX Tricky vs. SSX3 (PS2 - EA Canada 2001; EA Canada 2003) [BIDWAR]
 All Races (No Wormholes)
 by Jr
 host chibicarrera, couch Ozmourn, Helix
-HhMMmSSs (est 28m, wr HhMMmSSs)
+24m21s (est 28m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube sEo5kqjnh8o
 Review: (not yet reviewed)
 NM: Tricky WR 16m58s, SSX3 WR 15m57s assuming default categories
 
@@ -240,17 +231,17 @@ Don’t Stop, Girlypop! (PC - Funny Fintan 2026)
 Any% (Inbounds)
 by sapphire_in_pink
 host chibicarrera, couch anarchy, bryonato, happybythree
-HhMMmSSs (est 1h05m, wr 50m56s)
+59m17s (est 1h05m, wr 50m56s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube RtN3-WWtDeA
 Review: (not yet reviewed)
 NM: assume GWASAAT difficulty, runner not ranked?
 
 Super Monkey Ball: Stardust (Wii - Nambo 2023; Amusement Vision 2002)
 All Stunt Goals
-by Nambo [DEV][2RH]
+by Nambo [2RH][DEV]
 host frozenflygone, couch Dmt Goobz, Helix
 HhMMmSSs (est 50m, wr 34m47s)
 Overall N/R
