@@ -57,6 +57,10 @@ body {
 	background: #000;
 }
 
+a:link, a:visited {
+	color: #fff;
+}
+
 #runs {
 	position: absolute;
 	top: 0;
@@ -609,6 +613,47 @@ body {
 			<a class="spec"                     onclick="loadMarathon('everything')">Everything<span>(past 8 years)</span></a>
 		</div>
 		<script>
+			var db_game = null;
+			function loadDBs(){
+				if (db_game !== null) return; // early out
+				fetch("gamedb.txt", { cache: 'reload' })
+					.then(response => response.text())
+					.then(loadGameDB);
+			}
+			function loadGameDB(input){
+				db_game = {};
+				for (run of input.trim().split("\n\n")){
+					var lines = run.split("\n");
+					
+					var game = lines.shift().toLowerCase();
+					if (game.startsWith("#")){ continue; } // if game is a comment, skip
+					
+					var links = {};
+					for (line of lines){
+						if (line.startsWith("#")){ continue; }
+						var sep_pos = line.indexOf(": ");
+						if (sep_pos == -1){
+							console.log(`Could not parse link: ${line}`);
+							continue;
+						}
+						var link_type = line.substring(0, sep_pos).toLowerCase();
+						var content = line.substring(sep_pos + 2);
+						switch (link_type){
+							// lazy way to whitelist
+							case "link":
+							case "src":
+							case "steam":
+							case "nint":
+							case "itch":
+							case "ps":
+							case "xbox":
+								links[link_type] = content;
+						}
+						db_game[game] = links;
+					}
+					
+				}
+			}
 			function loadMarathon(marathon, reset = true){
 				var title = marathon.substring(0, 4).toUpperCase() + ' ' + marathon.substring(4);
 				
@@ -1195,7 +1240,7 @@ function loadReviews(input){
 			
 			// populate the description area
 			var links = [];
-			links.push(createLink(this.getAttribute("game"), "game"));
+			//links.push(createLink(this.getAttribute("game"), "game"));
 			
 			// runners, separate logic for races vs solo/coop
 			if (this.getAttribute("runner").startsWith("race") || this.getAttribute("runner").startsWith("relay race")){
@@ -1215,7 +1260,7 @@ function loadReviews(input){
 					runner = runner.replaceAll(/\[[A-Z0-9]+\]/gi, "");
 					runner = runner.trim();
 					
-					links.push(createLink(runner, 'runner'));
+					//links.push(createLink(runner, 'runner'));
 				}
 			} else {
 				for (var runner of this.getAttribute("runner").split(",")){
@@ -1231,13 +1276,49 @@ function loadReviews(input){
 					runner = runner.replaceAll(/\[[A-Z0-9]+\]/gi, "");
 					runner = runner.trim();
 					
-					links.push(createLink(runner, 'runner'));
+					//links.push(createLink(runner, 'runner'));
 				}
 			}
 			
 			// platforms
 			for (var plat of this.getAttribute("platform").split(" via ")){
-				links.push(createLink(plat, "plat"));
+				//links.push(createLink(plat, "plat"));
+			}
+			
+			// game links
+				console.log("TEST1");
+				console.log(this.getAttribute("game"));
+			if (db_game !== null && db_game.hasOwnProperty(this.getAttribute("game"))){
+				console.log("TEST2");
+				for (game_link_type in db_game[this.getAttribute("game")]){
+					var content = db_game[this.getAttribute("game").toLowerCase()][game_link_type];
+					switch (game_link_type){
+						case "link":
+							links.push(`<a target="_blank" href="${content}">Link</a>`);
+							break;
+						case "src":
+							links.push(`<a target="_blank" href="https://www.speedrun.com/${content}">Speedrun.com</a>`);
+							break;
+						case "steam":
+							links.push(`<a target="_blank" href="https://store.steampowered.com/app/${content}">Steam Web</a>`);
+							links.push(`<a href="steam://advertise/${content}">Steam App</a>`);
+							//links.push(`<a href="steam://run/${content}">Play on Steam</a>`);
+							break;
+						case "itch":
+							links.push(`<a target="_blank" href="https://${content}">Itch.io</a>`);
+							break;
+						case "nint":
+							links.push(`<a target="_blank" href="https://www.nintendo.com/us/store/products/${content}">Nintendo e-Shop</a>`);
+							break;
+						case "ps":
+							links.push(`<a target="_blank" href="https://store.playstation.com/en-us/product/${content}">PlayStation Store</a>`);
+							break;
+						case "xbox":
+							links.push(`<a target="_blank" href="https://www.xbox.com/en-US/games/store/${content}">Xbox Store</a>`);
+							break;
+					}
+				}
+				
 			}
 			
 			var details = document.getElementById("details");
@@ -1249,7 +1330,9 @@ function loadReviews(input){
 			title.appendChild(document.createTextNode(" "));
 			title.appendChild(this.querySelector("span[slot=runner]").firstChild.cloneNode(true));
 			details.appendChild(document.createElement("p")).appendChild(this.querySelector("span[slot=review]").cloneNode(true));
-			// details.appendChild(document.createElement("p")).innerHTML = "Find more: " + links.join(", ");
+			if (links.length > 0){
+				details.appendChild(document.createElement("p")).innerHTML = "Find more: " + links.join(", ");
+			}
 			
 		}
 	}
@@ -1558,6 +1641,9 @@ document.getElementById("runs").onscrollend = function(ev){
 		n++;
 	}
 }
+
+// preload game DB
+loadDBs();
 
 // load a Youtube player
 var tag = document.createElement('script');

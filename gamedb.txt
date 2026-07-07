@@ -1,0 +1,985 @@
+# Documentation
+# Start a block with the game title alone
+# Link: an arbitrary URL, unstyled
+# Steam: AppID, https://store.steampowered.com/app/<AppID>/<name>/ or steam://advertise/<appid> or steam://run/<appid>
+# SRC: Speedrun.com slug, https://www.speedrun.com/<game>
+# Itch: full URL minus protocol, usually <dev>.itch.io/<game>
+# Nint: Nintendo eShop product id slug, https://www.nintendo.com/us/store/products/<product>
+# PS: Sony PS product id, https://store.playstation.com/en-us/product/<product>
+# Xbox: Xbox store name+id+version combined with slashes, https://www.xbox.com/en-US/games/store/<name-slug>/<id>/<version?>
+
+# current status:
+# only games from AGDQ+SGDQ2026 entered
+# steam: only checked for PC runs
+# itch: only checked if steam was missing
+# ps: only checked for PS runs
+# xbox: only checked for xbox runs
+
+12 Bananas
+SRC: 12_bananas
+Steam: 1393270
+
+20XX
+SRC: 20xx
+Steam: 322110
+Nint: 20xx-switch
+
+A Hat in Time
+SRC: ahit
+Steam: 253230
+Nint: a-hat-in-time-switch
+
+Absolum
+SRC: Absolum
+Steam: 1904480
+
+Abyssus
+SRC: Abyssus_
+Steam: 1721110
+
+Adventures of Yogi Bear
+# SNES
+SRC: adventures_of_yogi_bear
+
+American Idol
+# GBA
+SRC: american_idol
+
+American Truck Simulator
+SRC: ats
+Steam: 270880
+
+Amnesia: The Bunker
+SRC: atb
+Steam: 1944430
+
+Animal Crossing: City Folk
+SRC: accf
+# Wii
+
+Armored Core VI: Fires of Rubicon
+SRC: acvi
+Steam: 1888160
+
+Bait & Tackle
+SRC: BaitAndTackle
+Steam: 3529390
+
+Balatro
+SRC: Balatro
+Steam: 2379780
+Nint: balatro-switch
+
+Banjo-Tooie
+SRC: bt
+# N64
+
+Bat to the Heavens
+SRC: Bat_to_the_Heavens
+Steam: 3044100
+
+Batman Beyond: Return of the Joker
+SRC: bbrotj
+# N64
+
+Bill Nye: The Science Guy – Stop the Rock!
+# PC, nonsteam
+# no SRC page
+
+BioShock Infinite
+SRC: bsi
+Steam: 8870
+
+Bloons TD 6
+SRC: btd6
+Steam: 960090
+
+Blue Fire
+SRC: bf
+Steam: 1220150
+
+Bomberman Fantasy Race
+SRC: bfr
+
+Borderlands 2
+SRC: bl2
+Steam: 49520
+
+Bug Blasters: The Exterminators
+# no SRC even
+
+Call of Duty: Modern Warfare 2
+SRC: mw2
+Steam: 10180
+
+Castlevania
+SRC: cv1
+
+Castlevania: Dawn of Sorrow
+SRC: cvdos
+Steam: 2369900
+# steam link is Dominus Collection, think this is what was played?
+
+Castlevania: Symphony of the Night
+# many ports, usually run on xb360
+SRC: sotn
+
+Cavern of Dreams
+SRC: cavern_of_dreams
+Steam: 2059660
+
+Chrono Trigger
+SRC: ct
+Steam: 613830
+
+Clair Obscur: Expedition 33
+SRC: coe33
+Steam: 1903340
+
+Clash at Demonhead
+SRC: clash_at_demonhead
+
+ConsTance
+SRC: Constance
+Steam: 3351070
+
+Contra: Operation Galuga
+SRC: Contra_Operation_Galuga
+Steam: 2235020
+
+Crash Bandicoot 3: Warped
+SRC: crash3
+
+Crash Bandicoot 4: It's About Time
+SRC: crash4
+Steam: 1378990
+
+Croc 2
+SRC: crocgbc
+# only one I remember being run is the GBC one, if the PS1 version ever gets run will need to split
+
+Cyberia
+SRC: cyberia1
+Steam: 624080
+
+Dai-chan's Great Adventure: World's End
+aka: Daichan no Daibouken ~Sekaihoukai~ End Of World
+SRC: daichan_end_of_world
+Steam: 3145560
+
+Darius Gaiden
+SRC: darius_gaiden
+Steam: 1638330
+# steam is Cozmic Collection
+
+Dark Souls
+SRC: darksouls
+Steam: 211420
+# old version, should I do remaster instead?
+
+Death's Door
+SRC: deaths_door
+Steam: 894020
+
+Deja Vu
+SRC: dejavu
+
+Devil May Cry 5: Special Edition
+SRC: dmc5se
+Steam: 601150
+PS: UP0102-PPSA01442_00-DMC5SE0000000001
+
+Die Hard: Nakatomi Plaza
+SRC: die_hard_nakatomi_plaza
+# PC, not on steam
+
+Disney's 102 Dalmatians: Puppies to the Rescue
+SRC: 102dalmatians
+
+Disney's Magical Quest 3 Starring Mickey and Donald
+SRC: magical_quest_3_starring_mickey_and_donald
+
+Dizzy Hero
+SRC: Dizzy_Hero
+Nint: dizzy-hero-switch
+
+dlroW oiraM repuS
+SRC: wms
+# potential link at https://isofrieze.com/romhacks/wms/ need to check officialness
+
+Don’t Stop, Girlypop!
+SRC: Dont_Stop_Girlypop
+Steam: 2610650
+
+Donkey Kong 64
+SRC: dk64
+
+Donkey Kong Bananza
+SRC: dkb
+Nint: donkey-kong-bananza-switch-2
+
+Donkey Kong Country 2: Diddy's Kong-Quest
+SRC: dkc2
+
+DOOM Eternal
+SRC: doom_eternal
+Steam: 782330
+
+Dragon Ball Z: Budokai
+SRC: dbzb1
+
+Dragon Quest XI
+SRC: dqxi
+Steam: 1295510
+
+Drywall Eating Simulator
+SRC: Drywall_Eating_Simulator
+Steam: 3749110
+
+Dunkadillo
+SRC: dunkadillo
+Steam: 3946070
+
+DUSK
+SRC: dusk
+Steam: 519860
+
+Dying Light
+SRC: dyinglight
+Steam: 239140
+
+Earthbound Beginnings
+SRC: mother1
+
+Ed, Edd n Eddy: The Mis-Edventures
+SRC: eeetme
+
+Egg
+SRC: Egg_itchio
+Itch: terrycavanagh.itch.io/egg
+
+Elden Ring
+SRC: eldenring
+Steam: 1245620
+
+Elden Ring Nightreign
+SRC: Elden_Ring_Nightreign
+Steam: 2622380
+
+Environmental Station Alpha
+SRC: esalpha
+Steam: 350070
+
+Epic Battle Fantasy Collection
+Link: https://www.speedrun.com/series/epic_battle_fantasy
+Steam: 1469620
+# no SRC for Collection yet, or category for multigame runs
+
+EXECTOR
+SRC: exector
+
+F-Zero GX Unleashed
+SRC: FZero_GX_Unleashed
+Link: https://gamebanana.com/mods/40471
+
+F.E.A.R. 2: Project Origin
+SRC: fear2
+Steam: 16450
+
+Fatal Frame II: Crimson Butterfly
+SRC: fatal_frame_ii_crimson_butterfly
+
+Final Fantasy Tactics: The Ivalice Chronicles
+SRC: Final_Fantasy_Tactics_The_Ivalice_Chronicles
+Steam: 1004640
+
+Final Fantasy X
+SRC: ffx
+Steam: 359870
+# hd remaster, was there an older one on PC?
+
+Fire Emblem: Three Houses
+SRC: fe3h
+Nint: fire-emblem-three-houses-switch
+
+Fitness Boxing feat. HATSUNE MIKU
+SRC: Fitness_Boxing_featHATSUNE_MIKU
+Nint: fitness-boxing-feat-hatsune-miku-switch
+
+FLARE NUINUI QUEST
+SRC: flare_nuinui_quest
+Steam: 3081830
+
+Fragrance Point
+SRC: fragrancepoint
+Steam: 2303610
+
+Fubuki: Zero in on Holoearth
+aka: FUBUKI ～zero in on Holoearth～ HOLOLIVE ALTERNATIVE
+SRC: FUBUKI_zero_in_on_Holoearth_HOLOLIVE_ALTERNATIVE
+Steam: 3446990
+
+Garbage Pail Kids: Mad Mike and the Quest for Stale Gum
+SRC: gpk
+
+Gauntlet
+SRC: gauntlet_nes
+
+Gex: Enter the Gecko
+SRC: gex2
+
+Ghosts 'n Goblins
+SRC: ghosts_n_goblins
+
+Gordon & Daxter
+SRC: Gordon_and_Daxter
+Link: https://github.com/mfOliveira19/GordonAndDaxter-Mod
+
+Grandma, No!
+SRC: Grandma_No
+Steam: 2362680
+
+Hades II
+SRC: hades2
+Steam: 1145350
+
+Hey You, Pikachu!
+SRC: hey_you_pikachu
+
+Hollow Knight: Silksong
+SRC: silksong
+Steam: 1030300
+
+Hypogea
+SRC: hypogea
+Steam: 2980260
+
+I'll Invaligate Your Aid
+Itch: waldorf.itch.io/invaligate
+# steam version coming soon?
+# no SRC
+
+I Am Your Beast
+SRC: iayb
+Steam: 1876590
+
+In Stars and Time
+SRC: isat
+Steam: 1677310
+
+Isopod: A Webbed Spin-off
+SRC: Isopod
+Steam: 2053910
+
+Jak 3
+SRC: jak3
+
+James Bond 007: The Duel
+SRC: james_bond_the_duel
+
+Jazzpunk
+SRC: jazzpunk
+Steam: 250260
+# "director's cut"?
+
+Jet Set Radio
+SRC: jsr
+# pc, not on steam
+
+Jetrunner
+SRC: JETRUNNER
+Steam: 2865670
+
+JokerShellOK
+SRC: jokershellok
+Link: https://www.smwcentral.net/?p=section&a=details&id=41192
+
+Kaiketsu Zorori Mezase! Itazura King
+SRC: Kaiketsu_Zorori_Mezase_Itazura_King
+
+Kao the Kangaroo: Mystery of the Volcano
+SRC: kao3
+Steam: 2360030
+
+Kingdom Hearts II: Final Mix
+SRC: kh2fm
+Steam: 2552430
+
+Kiosk
+SRC: Kiosk
+Steam: 3126330
+
+Kirby Air Riders
+SRC: kars
+Nint: kirby-air-riders-switch-2
+
+Kirby and the Forgotten Land
+SRC: kfl
+Nint: kirby-and-the-forgotten-land-switch
+
+Kirby's Dream Land 2
+SRC: kdl2
+
+Kirby: Nightmare in Dream Land
+SRC: knidl
+
+Knuckle Bash
+SRC: knuckle_bash
+
+Kuon
+SRC: kuon
+
+Legacy of Kain: Soul Reaver
+SRC: lok_sr
+# original not on steam, is remaster ok?
+
+LEGO Star Wars: The Complete Saga
+SRC: lswtcs
+Steam: 32440
+
+Lies of P
+SRC: lies_of_p
+Steam: 1627720
+
+Luigi's Mansion
+SRC: lm
+
+Maiden & Spell
+SRC: Maiden_Spell
+Steam: 1004770
+
+maimai DX PRiSM PLUS
+SRC: maimai_dx
+
+Manual Samuel
+SRC: manual_samuel
+Xbox: manual-samuel-last-tuesday-edition/C1N8NK80CLXV/0001
+
+Mario Kart 64
+SRC: mk64
+
+Mario Kart World
+SRC: mkworld
+Nint: mario-kart-world-switch-2
+
+Mary Shelley's Frankenstein
+SRC: mary_shelleys_frankenstein
+
+Mass Effect 3
+SRC: me3
+Steam: 1238020
+
+Mega Man
+SRC: mega_man_dos
+# DOS "version"
+
+Mega Man Battle Network
+SRC: mmbn1
+
+Memoirs of Magic
+SRC: memoirs_of_magic
+Itch: strawberryoctii.itch.io/memoirs-of-magic
+
+Metal Gear Solid Δ: Snake Eater
+SRC: mgsdse
+Steam: 2417610
+
+Metroid Dread
+SRC: mdread
+Nint: metroid-dread-switch
+
+Metroid Prime 3: Corruption
+SRC: mp3
+
+Mighty Gunvolt
+SRC: mg
+# not on eshop?
+
+Mighty Gunvolt Burst
+SRC: mighty_gunvolt_burst
+Nint: mighty-gunvolt-burst-switch
+
+Mika and the Witch's Mountain
+SRC: Mika_and_the_Witchs_Mountain
+Steam: 1819460
+
+MINDWAVE
+SRC: mindwave_demo
+Steam: 2701030
+# only demo rn?
+
+Minit
+SRC: minit
+Steam: 609490
+
+Misc: A Tiny Tale
+SRC: Misc_A_Tiny_Tale
+Steam: 1308940
+
+Missland 2
+SRC: Missland_2
+
+Momodora: Moonlit Farewell
+SRC: Momodora_Moonlit_Farewell
+Steam: 1747760
+
+Monster Hunter Wilds
+SRC: mhwilds
+Steam: 2246340
+
+Monster in My Pocket
+SRC: monster_in_my_pocket
+
+Mouse: P.I. For Hire
+SRC: Mouse_PI_For_Hire
+Steam: 2416450
+
+Mr. Bones
+SRC: mr._bones
+
+Mushroom Men: The Spore Wars
+SRC: mushroom_men_the_spore_wars
+
+Ninja Gaiden Ragebound
+SRC: NGR
+Steam: 2542120
+
+No More Heroes
+SRC: nmh
+Nint: no-more-heroes-switch
+
+Nuclear Throne
+SRC: nuclear_throne
+Steam: 242680
+
+Octopath Traveler II
+SRC: octopath2
+Steam: 1971650
+
+Ogre Battle: The March of the Black Queen
+SRC: obmotbq
+
+Once Upon A KATAMARI
+SRC: Once_Upon_A_Katamari
+Steam: 1880620
+
+Pac-Man World 2 Re-Pac
+SRC: pmw2repac
+Steam: 2324290
+
+Paper Mario: The Thousand-Year Door
+SRC: ttyd
+
+Path of Exile 2
+SRC: poe2
+Steam: 2694490
+
+Peak
+SRC: PEAK
+Steam: 3527290
+
+Pipistrello and the Cursed Yoyo
+SRC: pipistrello
+Steam: 2870350
+
+Pizza Tower
+SRC: pizza_tower
+Steam: 2231450
+
+Pokemon Emerald
+SRC: pkmnemerald
+
+Pokemon FireRed
+SRC: pkmnfrlg
+
+Pokemon HeartGold/SoulSilver
+SRC: pkmnhgss
+
+Pokemon Legends: Z-A
+SRC: pkmnlza
+Nint: pokemon-legends-z-a-switch
+
+Power Shovel
+SRC: power_shovel
+
+Pragmata
+SRC: PRAGMATA
+Steam: 3357650
+
+Psychonauts 2
+SRC: psychonauts_2
+Steam: 607080
+
+Randall The Grape Jelly Cube Goes to Soda Valley for Some Reason
+SRC: Randall_the_Grape_Jelly_Cube_goes_to_Soda_Valley_for_some_reason
+Steam: 3196110
+
+Ratchet: Deadlocked
+SRC: rac4
+
+Ratchet & Clank: Rift Apart
+SRC: rac_ra
+PS: UP9000-PPSA01473_00-RATCHETCLANKRIFT
+
+Redout 2
+SRC: redout_2
+Steam: 1799930
+
+Resident Evil 2 Remake
+SRC: re2remake
+Steam: 883710
+
+Resident Evil 3: Nemesis
+SRC: re3
+Steam: 4249120
+
+Resident Evil: Requiem
+SRC: RE9
+Steam: 3764200
+
+Richard Burns Rally
+SRC: rbr
+
+Rise of the Triad: Ludicrous Edition
+SRC: rottle
+Steam: 1421490
+
+Rock 'n' Roll Adventures
+SRC: rocknrolladventures
+
+Sabor
+SRC: sabor
+# DOS
+
+Sanabi
+SRC: sanabi
+Steam: 1562700
+
+Saros
+SRC: SAROS
+PS: UP9000-PPSA07632_00-SAROS00000000000
+
+Scooby-Doo! Night of 100 Frights
+SRC: n100f
+
+SEGA AGES Puyo Puyo
+SRC: ppsa
+Nint: sega-ages-puyo-puyo-switch
+
+SEUM: Speedrunners from Hell
+SRC: seum
+Steam: 457210
+
+Sheepy: A Short Adventure
+SRC: sheepy_a_short_adventure
+Steam: 1568400
+
+Shovel Knight: King of Cards
+SRC: shovelknight
+Steam: 1116780
+
+Silent Hill f
+SRC: shf
+Steam: 2947440
+
+Skull Island: Rise of Kong
+SRC: Skull_Island_Rise_of_Kong
+Steam: 2097890
+
+Slay the Spire II
+SRC: Slay_the_Spire_2
+Steam: 2868840
+
+Sly 2: Band of Thieves
+SRC: sly2
+PS: UP9000-PPSA22287_00-SCUS973160000000
+
+Small Saga
+SRC: small_saga
+Steam: 1320140
+
+SMB2: Return to Subcon
+SRC: return_to_subcon
+
+Snoopy
+SRC: snoopy_c64
+# C64
+
+Snowboard Kids
+SRC: sbk
+
+Sonic 3 & Knuckles
+SRC: s3k
+
+Sonic Adventure
+SRC: sa1
+
+Sonic Dream Team
+SRC: sdt
+
+Sonic Schoolhouse
+SRC: sonics_schoolhouse
+# PC, not on Steam
+
+Sonic Racing: CrossWorlds
+SRC: srcw
+PS: JP0177-PPSA08804_00-SONICRACINGCW000
+
+Sonic Rush
+SRC: sonicrush
+
+Sparkster
+SRC: sparkstersnes
+
+Spider-Man
+SRC: sm2000
+
+Splatoon
+SRC: Splatoon1
+
+Splatterhouse Wanpaku Graffiti
+SRC: splatterhouse_wanpaku_graffiti
+
+Split Fiction
+SRC: splitfiction
+Steam: 2001120
+
+SpongeBob SquarePants: Titans of the Tide
+SRC: titans
+Steam: 2479650
+
+Spyro: Year of the Dragon
+SRC: spyro3
+# PS2
+
+Spyro 2: Ripto's Rage!
+SRC: spyro2
+
+Spyro Reignited Trilogy
+SRC: spyrortpc
+Steam: 996580
+
+SSX Tricky
+SRC: ssxtricky
+
+SSX3
+SRC: ssx3
+
+Star Fox 64: Lylat Wars
+SRC: sf64
+
+Star Wars Battlefront II
+SRC: swbf2
+Steam: 6060
+
+Star Wars Jedi: Fallen Order
+SRC: jfo
+PS: UP0006-PPSA02198_00-RESPAWNSWBIRDDOG
+Steam: 1172380
+
+Star Wars: Jedi Knight - Dark Forces II
+SRC: jkdf2
+Steam: 32380
+
+Stardew Valley
+SRC: stardew_valley
+Steam: 413150
+
+Stellar Blade
+SRC: STELLAR_BLADE
+Steam: 3489700
+
+Streets of Rage 2: New Era
+SRC: sor2newera
+Link: https://www.sor2newera.com/
+
+Super Buff HD
+SRC: Super_Buff_HD
+Steam: 1295220
+
+Super Dram World 3
+SRC: Super_Dram_World_3
+Link: https://www.smwcentral.net/?p=section&a=details&id=41022
+
+Super Mario 64
+SRC: sm64
+
+Super Mario and Luigi World: Brotherhood
+SRC: TODO
+# unreleased?
+
+Super Mario Maker 2
+SRC: smm2
+Nint: super-mario-maker-2-switch
+
+Super Mario Galaxy
+SRC: smg1
+Nint: super-mario-galaxy-switch
+
+Super Mario Odyssey
+SRC: smo
+Nint: super-mario-odyssey-switch
+
+Super Mario Sunshine
+SRC: sms
+
+Super Mario World
+SRC: smw
+
+Super Meat Boy 3D
+SRC: SMB_3D
+Steam: 3288210
+
+Super Metroid
+SRC: supermetroid
+
+Super Monkey Ball: Stardust
+SRC: smbstardust
+# would be nice to link to some site for it
+
+Super Princess Peach
+SRC: spp_
+
+Supraland
+SRC: supraland
+Steam: 813630
+
+Sword of the Sea
+SRC: Sword_of_the_Sea
+Steam: 2453160
+
+Sworn
+SRC: Sworn
+Steam: 1763250
+
+System Shock 2
+SRC: systemshock2
+Steam: 238210
+# this is original, not remake
+
+TMNT IV: Turtles in Time
+SRC: teenage_mutant_ninja_turtles_iv_turtles_in_time
+
+Tetris
+# NES
+SRC: tetrisnes
+
+That's A Cow
+SRC: thats_a_cow
+Nint: thats-a-cow-switch
+
+The Chaos Engine
+SRC: the_chaos_engine_soldiers_of_fortune
+Steam: 242530
+
+The Evil Within 2
+SRC: the_evil_within_2
+Steam: 601430
+
+The Gunk
+SRC: the_gunk
+Steam: 1087760
+
+The Land Before Time: Return to the Great Valley
+SRC: the_land_before_time_return_to_the_great_valley
+
+The Legend of Zelda: A Link to the Past
+SRC: alttp
+
+The Legend of Zelda: Majora's Mask
+SRC: mm
+
+The Legend of Zelda: Tears of the Kingdom
+SRC: totk
+Nint: the-legend-of-zelda-tears-of-the-kingdom-switch
+
+The Legend of Zelda: The Wind Waker
+SRC: tww
+
+The Legend of Zelda: Twilight Princess
+SRC: tp
+
+The Nightmare Before Christmas: Oogie's Revenge
+SRC: nbc
+
+The Peanuts Movie: Snoopy's Grand Adventure
+SRC: snoopygrandadventure
+
+The Rocketeer
+SRC: the_rocketeer
+
+The Running Man
+SRC: The_Running_Man
+
+The Talos Principle
+SRC: talos_principle
+Steam: 257510
+
+Thirsty Suitors
+SRC: Thirsty_Suitors
+Steam: 1617220
+
+This Is No Cave
+Steam: 2852760
+# TODO: no SRC I could find
+
+Total Nuclear Annihilation
+Link: https://tnapinball.com/
+# no SRC, it's a pinball table
+
+Towerbolt
+SRC: Towerbolt
+Steam: 2559220
+
+Transformers: War For Cybertron
+# PC?
+SRC: tfwfc
+
+TUNIC
+SRC: tunic
+Steam: 553420
+
+UFO 50
+SRC: UFO_50
+Steam: 1147860
+
+Unbeatable
+SRC: UNBEATABLE
+Steam: 2240620
+
+VS. Super Mario Bros
+SRC: vssmb
+Nint: arcade-archives-vs-super-mario-bros-switch
+
+VVVVVV
+SRC: vvvvvv
+Steam: 70300
+
+Wario World
+SRC: ww
+
+What the Golf?
+SRC: whatthegolf
+Steam: 785790
+
+Wii Sports
+SRC: wiisports
+
+Windswept
+SRC: windswept
+Steam: 1660960
+
+Wolfenstein: The Old Blood
+SRC: tob
+Steam: 350080
+
+Wuchang: Fallen Feathers
+SRC: WUCHANGFallen_Feathers
+Steam: 2277560
+
+Yooka-Laylee and the Impossible Lair
+SRC: ylil
+Steam: 846870
+
+Zelda: The Wand of Gamelon
+SRC: wandofgamelon
