@@ -1,5 +1,5 @@
 ====================SUMMER GAMES DONE QUICK 2026=====================
-===========Raising $0,151,879 for Doctors Without Borders============
+===========Raising $0,280,511 for Doctors Without Borders============
 ===========================July 5-12, 2026===========================
 
 -------------------------------SUNDAY--------------------------------
@@ -215,11 +215,11 @@ Youtube BuBOWo2rkRM
 Review: (not yet reviewed)
 NM: assumed NMG, classic, normal; pb 42m35s igt
 
-SSX Tricky vs. SSX3 (PS2 - EA Canada 2001; EA Canada 2003) [BIDWAR]
+SSX Tricky (PS2 - EA Canada 2001; EA Canada 2003) [BIDWAR]
 All Races (No Wormholes)
 by Jr
 host chibicarrera, couch Ozmourn, Helix
-24m21s (est 28m, wr HhMMmSSs)
+24m21s (est 28m, wr 16m58s)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -228,118 +228,152 @@ Review: (not yet reviewed)
 NM: Tricky WR 16m58s, SSX3 WR 15m57s assuming default categories
 
 Don’t Stop, Girlypop! (PC - Funny Fintan 2026)
-Any% (Inbounds)
+Any% (Inbounds, GWASAAT)
 by sapphire_in_pink
 host chibicarrera, couch anarchy, bryonato, happybythree
 59m17s (est 1h05m, wr 50m56s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube RtN3-WWtDeA
-Review: (not yet reviewed)
-NM: assume GWASAAT difficulty, runner not ranked?
+Review: A movement shooter with so much aesthetic. It's mostly a play-game-good run, but the runner and couch have such charisma together that it's a blast to watch.
+NM: runner not ranked?
 
 Super Monkey Ball: Stardust (Wii - Nambo 2023; Amusement Vision 2002)
 All Stunt Goals
 by Nambo [2RH][DEV]
 host frozenflygone, couch Dmt Goobz, Helix
-HhMMmSSs (est 50m, wr 34m47s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+45m36s (est 50m, wr 34m47s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
+Youtube nSHX9l7UAOY
+Review: An incredibly difficult custom level set. In contrast to previous Monkey Ball runs, this avoids pause strats, which forces a lot more adaptation. We don't get much in the way of dev commentary, Nambo acts much more like a runner than a dev, but it's still quite a fun super-hard Monkey Ball run.
 NM: assumed game is mod of SMB2; pb 35m05s
 
 UFO 50 (PC - Mossmouth 2024)
 Rail Heist - Gold
 by Keeny [3RH]
 host frozenflygone, couch Spooty, Azurillkirby, Uncle Slam
-HhMMmSSs (est 20m, wr 11m28s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: pb 12m16s rta
+15m42s (est 20m, wr 11m28s rta)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube S_wcLslgPK8
+Review: It's a short game, but a surprising amount of tech. Very easy to follow along, this might be a great candidate for showing someone what speedrunning's about.
 
 UFO 50 (PC - Mossmouth 2024)
 Vainger - Cherry
 by Uncle Slam [WRH]
 host frozenflygone, couch Spooty [2RH], Hewhoamareismyself, Keeny
-HhMMmSSs (est 30m, wr 25m50s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+25m37s (est 30m, wr 25m50s rta) [WR]
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube Y548Ker1cmE
+Review: It's like Super Metroid and VVVVVV had a baby. Short but innovative little metroidvania, there's not really any big skips but there's like no downtime, it's all go, and some interesting routing decisions. Good commentary and great execution.
+
+UFO 50 (PC - Mossmouth 2024)
+Mortol II [BONUS]
+coop by Uncle Slam, Keeny
+host frozenflygone, couch Spooty, Hewhoamareismyself
+2m24s (est 3m, wr 2m24s rta)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube Y548Ker1cmE+1798
+Review: Super-short bonus run, at this length there's no reason *not* to watch it.
+NM: TODO triple-check runners, they didn't adjust
+NM: was a few milliseconds behind WR
 
 VVVVVV (PC - Terry Cavanagh 2010)
 100%
 by Elomavi [WRH]
 host frozenflygone, couch Metroid Crime, Metallama [2RH]
-HhMMmSSs (est 20m, wr 14m39s igt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+15m38s (est 20m, wr 14m39s igt)
+Overall ★★★★☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
+Youtube jY-sZ4gkZ5c
+Review: It's a classic speed game, and by this point it's well figured out. Clean execution on all the as-intended parts, including first-try Veni Vidi Vici, and then a pile of glitches on top of that to just annihilate the game.
 
 TUNIC (PC - Andrew Shouldice 2022)
 100% (NMG)
 by SilentSR [WRH]
-host fletchisafurry, couch Andrew Shouldice [DEV], RadRingtail [3RH]
-HhMMmSSs (est 1h05m, wr 51m45s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+host fletchisafurry, couch Andrew Shouldice [DEV], RadRingtail [3RH], fletchisafurry
+57m25s (est 1h05m, wr 51m45s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube kkDskxbTz3M
+Review: This is a bit of a long run, for the amount of tech it actually has. Not that there's a lack of it - very little of what you see is intended - but it does feel a little thin. It makes up for it with some *fascinating* commentary from the dev side, plus hitting many secrets I had no idea myself from a casual playthrough. Do be warned that it spoils a decent amount, so I'd suggest you at least finished the game before watching this.
+
+TUNIC (PC - Andrew Shouldice 2022)
+Gun% Unrestricted [BONUS]
+by SilentSR [WRH]
+host fletchisafurry, couch Andrew Shouldice [DEV], RadRingtail, fletchisafurry
+2m30s (est 5m, wr 2m03s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube kkDskxbTz3M+3768
+Review: It's the shortest category on the leaderboards, mostly just a way to show what the Major Glitches were, that No Major Glitches excluded. As a coda to that run, it works great, but probably not that interesting standalone.
 
 Super Mario Odyssey (Switch via Switch 2 - Nintendo EPD 2017)
 All Story Moons
 by CheeseJay
 host fletchisafurry, couch Phillie, Karateman
-HhMMmSSs (est 1h25m, wr 1h15m40s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+1h25m56s (est 1h25m, wr 1h15m40s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube E-hAWQGRtik
+Review: A staple of the GDQ scene, with a new category that more resembles a casual non-completionist run. I think the appeal here is a run that you can watch, and then go "I can do that", and actually do it. If you just want to see someone demolish the game, other runs have done it better.
 
 Hey You, Pikachu! (N64 - Ambrella 1998) [BONUS GAME 1]
 Discovery Days
 race, Burnt_Bowser vs Bird650
 host mintswirl, couch 360chrism, spikevegeta
-HhMMmSSs (est 35m, wr 29m49s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+30m46s, 31m21s (est 35m, wr 29m49s)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★☆☆
+Youtube C2kAqCWJm8E
+Review: This is basically a Silly Block run, a few days early. It's entirely a struggle to make the flaky voice recognition do what the runners wanted. Entertaining, easily, but speedy, not so much.
 NM: neither runner ranked
+
+Hey You, Pikachu! (N64 - Ambrella 1998)
+Pinata Party [BONUS]
+race, Burnt_Bowser vs Bird650
+host mintswirl, couch 360chrism, spikevegeta
+4m45s, 5m09s (est 6m, no wr)
+Overall ★★☆☆☆
+Skill   ★☆☆☆☆
+Fun     ★★☆☆☆
+Youtube C2kAqCWJm8E+1997
+Review: An addon to the Discovery Days run that ramps up the frustration even higher. Felt a little superfluous, honestly, but maybe if you like streamer-rages-at-game it'd be more your thing.
 
 Ratchet & Clank: Rift Apart (PS5 - Insomniac 2021)
 All Gold Bolts
 by Bdud5 [WRH]
 host mintswirl, couch JHobz, Syn
-HhMMmSSs (est 1h42m, wr 1h36m56s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+1h36m15s (est 1h42m, wr 1h36m56s lrt) [WR]
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube e9_BcwI4PSk
+Review: This run starts off slow, but it does unlock some better movement tech a half-hour in. Unfortunately, that movement tech dominates the remainder, and as cool as it is, it's just very repetitive. This might be one of the better Ratchet runs, in both execution and entertainment, but I'm just still unenthused by it all.
 
 Gordon & Daxter (PC - mfOliveira19 2023; Naughty Dog 2001)
 No LTS
 by Xyphles
 host mintswirl, couch KongMan21
-HhMMmSSs (est 30m, wr 25m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+26m09s (est 30m, wr 25m58s)
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube YOUTUBE
-Review: (not yet reviewed)
+Review: What is it with Jak runs and late-night madness? Even with Jak swapped for Gordon Freeman, this was infected by the silliness. It's a unique run, classic Half-Life movement in a collectathon setting, with some extra comedy from all the tasks that are immensely simplified by "using a gun".
 NM: assumed pre-1.0; pb 39m20s
 
 BioShock Infinite (PC - Irrational 2013)
