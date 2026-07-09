@@ -610,6 +610,10 @@ Psychonauts 2
 SRC: psychonauts_2
 Steam: 607080
 
+Quickie World
+SRC: quickie_world
+Link: https://www.smwcentral.net/?p=section&a=details&id=17441
+
 Randall The Grape Jelly Cube Goes to Soda Valley for Some Reason
 SRC: Randall_the_Grape_Jelly_Cube_goes_to_Soda_Valley_for_some_reason
 Steam: 3196110
