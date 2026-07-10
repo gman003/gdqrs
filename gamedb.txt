@@ -720,6 +720,7 @@ SRC: sa1
 
 Sonic Dream Team
 SRC: sdt
+Link: https://apps.apple.com/us/app/sonic-dream-team/id1609094795
 
 Sonic Schoolhouse
 SRC: sonics_schoolhouse

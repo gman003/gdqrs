@@ -839,7 +839,7 @@ host KuritasKRT, couch Tacoz
 Overall ★★☆☆☆
 Skill   ★★★☆☆
 Fun     ★★☆☆☆
-Youtube YOUTUBE
+Youtube Ux75QLnoMhw
 Review: There's just a few too many autoscrollers and rail-grind sections for me to recommend this without reservation. When it's firing, yeah, it's some tight, input-heavy 3D platforming, and some sections were quite impressive. Keeping it in-bounds keeps the focus on execution, good, but if there were ways to skip some of that dead time, I'd have welcomed it.
 NM: probably not PB, unless GDQ computers loaded slower than her usual
 
@@ -847,11 +847,11 @@ Banjo-Tooie (N64 - Rare 2000)
 Any% (No Bitclips)
 by TSR Stormed
 host KuritasKRT, couch Ad129, Connor75, Brandino59
-HhMMmSSs (est 46m, wr 41m53s)
+42m20s (est 46m, wr 41m53s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 64yj6yukXWc
 Review: (not yet reviewed)
 NM: pb 44m45s
 
@@ -861,22 +861,22 @@ Yooka-Laylee and the Impossible Lair (PC - Playtonic 2019)
 Any%
 by theshadedmaster [2RH]
 host KuritasKRT, couch spikevegeta, TSR Stormed
-HhMMmSSs (est 27m, wr 14m17s rta)
+16m38s (est 27m, wr 14m17s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube EMKfnVHUA6Q
 Review: (not yet reviewed)
 
 Sheepy: A Short Adventure (PC - MrSuicideSheep 2024)
 Glitchless%
 by Perk
-host HOST, couch COUCH
-HhMMmSSs (est 20m, wr 17m04s)
+host HOST, couch SeaAverage, happybythree
+19m22s (est 20m, wr 17m04s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube m_1WHN9x0u8
 Review: (not yet reviewed)
 NM: added to schedule a week before, missing host+couch
 NM: pb 17m58s
@@ -885,11 +885,11 @@ Dai-chan's Great Adventure: World's End (PC - Frustration 2024)
 Good Ending
 by Sean_A [WRH]
 host KuritasKRT, couch killingpepsi
-HhMMmSSs (est 55m, wr 19m40s)
+18m57s (est 55m, wr 19m40s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube CePiIKa7V4Q
 Review: (not yet reviewed)
 NM: assumed remake version
 
@@ -897,11 +897,11 @@ Memoirs of Magic (PC - StrawberryOctii 2019)
 Any%
 by teddyras [WRH][ORH]
 host HockeyBabbler, couch Mr_Shasta, authorblues
-HhMMmSSs (est 1h40m, wr 1h28m10s)
+1h48m50s (est 1h40m, wr 1h28m10s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 4dr1C-Vyn6I
 Review: (not yet reviewed)
 NM: not 100% sure on release year
 
@@ -909,22 +909,22 @@ The Nightmare Before Christmas: Oogie's Revenge (XbC - Capcom PS3 2005)
 All Bosses
 by TheProfesser [2RH]
 host HockeyBabbler, couch PunchSh0t, EpicCrossover
-HhMMmSSs (est 35m, wr 31m20s)
+32m51s (est 35m, wr 31m20s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube JsiWcRDhD84
 Review: (not yet reviewed)
 
 Die Hard: Nakatomi Plaza (PC - Piranha Games 2002)
 Any%
 by pmcTRILOGY
-host HockeyBabbler, couch COUCH
-HhMMmSSs (est 30m, wr 19m40s rta)
+host HockeyBabbler, couch amyrlinn, DECosmic
+25m22s (est 30m, wr 19m40s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube wmVa5H0D1uE
 Review: (not yet reviewed)
 NM: pb 18m54s lrt
 
@@ -932,22 +932,22 @@ The Peanuts Movie: Snoopy's Grand Adventure (Xb360 - Behaviour Santiago 2015)
 All Friends (NG+)
 by seldomseenkid [WRH][ORH]
 host HockeyBabbler, couch Kobazco, Jaxler, Helix
-HhMMmSSs (est 16m, wr 13m39s)
+13m56s (est 16m, wr 13m39s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube i0KmQ4VM20M
 Review: (not yet reviewed)
 
 Snoopy (C64 - Radarsoft 1984)
 9 Loops
 by Msushi [WRH]
 host HockeyBabbler, couch fishmcmuffins, Spirialis
-HhMMmSSs (est 20m, wr 11m36s)
+12m48s (est 20m, wr 11m36s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube HaNZEnloy_U
 Review: (not yet reviewed)
 NM: not 100% sure on dev credit
 
@@ -955,11 +955,11 @@ Knuckle Bash (Arcade - Toaplan 1993)
 Cutscene%
 by LRock617
 host JRisJunior, couch Starwin, Cypherin
-HhMMmSSs (est 15m, wr HhMMmSSs)
+12m02s (est 15m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube VMrgz9Pfl1I
 Review: (not yet reviewed)
 NM: no cutscene% category
 
@@ -967,11 +967,11 @@ American Idol (GBA - Mobius 2003)
 Low%
 by Metroid Crime
 host JRisJunior, couch zokubun, Lazlotus, myserval
-HhMMmSSs (est 20m, wr HhMMmSSs)
+21m15s (est 20m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube RawxnJ-hSfU
 Review: (not yet reviewed)
 NM: no low% on leaderboard? no categories at all
 
@@ -979,11 +979,11 @@ Drywall Eating Simulator (PC - Peripheral Playbox 2025)
 Any%
 by chibicarrera
 host JRisJunior, couch ProfessorBurtch
-HhMMmSSs (est 20m, no wr)
+16m11s (est 20m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 4WS4eUIko-Q
 Review: (not yet reviewed)
 NM: no categories exist as of 7/1
 
@@ -991,66 +991,67 @@ Grandma, No! (PC - Wallride 2025)
 All Main Tasks
 by Asuka424 [WRH][ORH]
 host JRisJunior, couch danejerus, Cubsrule21
-HhMMmSSs (est 23m, wr 19m02s)
+18m52s (est 23m, wr 19m02s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube rlR7fLqV70Q
 Review: (not yet reviewed)
 
 Power Shovel (PS1 - Taito 2001)
 All Minigames
 by PARTY MAN X [WRH]
 host JRisJunior, couch Alara, Seckswrecks
-HhMMmSSs (est 12m, wr 9m32s)
+10m23s (est 12m, wr 9m32s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube lZBrqh7x-OQ
 Review: (not yet reviewed)
 
 Manual Samuel (XbSX - Perfectly Paranormal 2016)
 Any%
 by IllegallySam [WRH]
 host JRisJunior, couch Ozmourn, KingJO444, Jaxler
-HhMMmSSs (est 38m, wr 33m34s)
+35m29s (est 38m, wr 33m34s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube jD5MaMUaCaU
 Review: (not yet reviewed)
 
 What the Golf? (PC - Triband 2019)
 Slime Time! Any%
 by seldomseenkid [WRH]
 host JRisJunior, couch Mr_Shasta, Kobazco, Helix
-HhMMmSSs (est 16m, wr 12m53s)
+14m06s (est 16m, wr 12m53s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube kVPxRH85m8Y
 Review: (not yet reviewed)
 
 Sabor (DOS - Gamos 1991)
 Any%
 by Ritzblues [WRH][ORH]
 host TahliahtheFox, couch amyrlinn
-HhMMmSSs (est 20m, wr 21m32s)
+18m03s (est 20m, wr 21m32s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube bxFjU2aRSxM
 Review: (not yet reviewed)
+NM: wtf is this wr? est?
 
 Cyberia (DOS - Xatrix 1994)
 All Unique Deaths (No Turret, No TF22)
 by LifeL1ke [WRH][ORH]
 host TahliahtheFox, couch Bobbeigh, CovertMuffin
-HhMMmSSs (est 42m, wr 36m28s)
+42m33s (est 42m, wr 36m28s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube NK9FhhUO9Z0
 Review: (not yet reviewed)
 NM: gdq just says "PC" but no win32 release, only dos
 
@@ -1058,118 +1059,126 @@ Randall The Grape Jelly Cube Goes to Soda Valley for Some Reason (PC - Ethan Smi
 Any%
 by MatosMachine [WRH]
 host TahliahtheFox, couch ZeroCounts, davidtki
-HhMMmSSs (est 17m, wr 11m27s)
+12m33s (est 17m, wr 11m27s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube TdJlNnYtxio
 Review: (not yet reviewed)
 
 Mr. Bones (Saturn - Zono 1996)
 Any%
 race, shmumbler [2RH] vs Spectral [WRH]
 host TahliahtheFox, couch Lizstar
-HhMMmSSs (est 40m, wr 33m06s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: assumed JP
+34m42s, 36m09s (est 40m, wr 33m06s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
+Youtube 1W5MaSkqrrI
+Review: Without the cutscenes, this is - well, still a pretty weird game, but you miss out on too much, and it's got too many autoscrollers and too floaty platforming to really work as a competitive speed game. It's still fine, just probably not as good as the last Mr. Bones run.
 
 Bait & Tackle (PC - Bad Bass 2025)
 Any%
 by teddyras [WRH][ORH]
 host TahliahtheFox, couch shredberg
-HhMMmSSs (est 15m, wr 12m02s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+14m53s (est 15m, wr 12m02s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube PUP5xasXEH4
+Review: Truly the Dark Souls of fishing games. There's platforming and dodge-rolls and giant enemy crabs and a fishing minigame somewhere.
 
 Sonic Schoolhouse (PC - BAP 1996)
 All Subjects
 by Katie4
 host klinkit, couch Hib, Spectral, DylCat
-HhMMmSSs (est 21m, wr 5m31s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+18m12s (est 21m, wr 5m31s)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
+Youtube 2-xlq4cF9J4
+Review: Imagine trying to solve math problems in the Doom engine. Yeah that's basically the game. It's an edutainment title, from the era where that was popular but not remotely good. Some good running gags, too.
 NM: runner not ranked
 
 Mega Man (DOS - Hi-Tech Expressions 1990)
 Buster Only
 by davidtki
 host klinkit, couch Lizstar, authorblues
-HhMMmSSs (est 15m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+11m20s (est 15m, wr HhMMmSSs)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube W1-PxuybZaw
+Review: The infamously bad "port" returns. It's a weird mix of a runner approaching it as a serious speedrun, and a couch making fun of how nonsensical it is as a Mega Man game. I think it works though?
 NM: no buster only category?
 
 Zelda: The Wand of Gamelon (CD-i - Animation Magic 1993)
-Any%
+All Cutscenes [INCENTIVE]
 by Brandino59
 host klinkit, couch Glubbers
-HhMMmSSs (est 58m, wr 28m53s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: assumed original hardware, not emu or remaster
+57m36s (est 1h05m, wr 47m25s)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
+Youtube NDdufY2ttKs
+Review: It's a staple of Silly/Awful Block, but it's a staple for a reason. Absurd cutscenes? Terrible platforming? They're yours, my friend, as long as you - oh, wait, that's the other one. Well, this one's just as funny and terrible, with a solid performance by runner and couch. The run is, as the princess would say, "good!"
 
 The Legend of Zelda: Tears of the Kingdom (Switch2 - Nintendo EPD 2023)
 Any% (Glitchless)
 by Player5 [WRH]
 host klinkit, couch cloudd, moistgoolash, gymnast86
-HhMMmSSs (est 1h05m, wr 56m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+1h01m11s (est 1h05m, wr 56m58s)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
+Youtube 64kkmokdyKQ
+Review: This game's well-known for its glitches, so I was surprised to see it can be beaten without them, in still quite a short time. There's still plenty of tech to go over, and it's intuitive enough to be impressive to watch.
 
 Unbeatable (PC - D-Cell 2025)
 Arcade Mode
-by Punchy
-host cartridgeblowers, couch COUCH
-HhMMmSSs (est 50m, no wr - showcase)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+by Punchy [REM]
+host cartridgeblowers, couch Chi Xu [REM][DEV]
+~1h15m (est 50m, no wr - showcase)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★☆☆☆☆
+Youtube jAJBIZGXIKo
+Review: I commonly complain, when these rhythm-game showcases come around, that the tracks turn into just an indistinguishable blur. Normally there's at least discussion of what each one does to elevate it beyond the last, but here, I don't even remember that. It was just "yeah this level's really hard" and then go into another track that I could not distinguish from the last, and they were visual noise from just about the start. Maybe if you've played more games like this, you can be properly entertained, but I was on the edge of falling asleep by the halfway mark.
 NM: leaderboard exists, but no arcade mode section
 
 Total Nuclear Annihilation (Pinball - Scott Danesi 2017)
 9 Reactors
-by Ryan McSquid
-host chibicarrera, couch COUCH
-HhMMmSSs (est 25m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+by Ryan McSquid [WRH]
+host chibicarrera, couch Scott Danesi [DEV], pbreandjelly
+18m45s (est 25m, no wr)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube 4FHv0KH94ys
+Review: This is, actually, a speedrun, even if I couldn't find where *pinball* leaderboards are kept. It's a little under-explained, but I was able to pick it up over time, and the physicality of it makes the basic skills involved very obvious. I'd call this a must-watch simply for the novelty of it, but it's still a solid speedrun even discounting that.
 
 Sonic Dream Team (iOS - Hardlight 2023)
 Adventure - Any%
 race, huds601 [2RH] vs Argick [WRH]
-host chibicarrera, couch COUCH
-HhMMmSSs (est 1h10m, wr 1h07m07s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+host chibicarrera, couch TinyTim78, skenmy
+1h02m15s, 1h06m25s (est 1h10m, wr 1h07m07s rta) [PB]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube 4b5JT33N8r8
+Review: A Sonic game most of us have never heard of, let alone played. The game's mostly in the style of Unleashed or Forces, full 3D but with lots of rail-grinding or coin-trails, some very big spaces to allow for higher speed. The run isn't super technical or anything, an hour was a little on the long side, but top bants between the runners keep it cruising along.
 NM: Apple Arcade, on tvOS and macOS too
-NM: pbs 54m18s 54m15s igt
+
+Sonic Dream Team (iOS - Hardlight 2023)
+Bittersweet Way [BONUS]
+race, huds601 vs Argick [WRH]
+host chibicarrera, couch TinyTim78, skenmy
+3m10s, 4m59s (est 10m, wr 2m43s igt)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
+Youtube 4b5JT33N8r8+4159
+Review: Just a quick bonus run, it's the hardest extra level of the game. It did pick things back up, served as a good coda, though I'll not blame you if an hour of the game was enough to sate your appetite.
 
 Elden Ring (PC - From 2022)
 All Bosses (4 Players)
