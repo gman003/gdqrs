@@ -1184,11 +1184,11 @@ Elden Ring (PC - From 2022)
 All Bosses (4 Players)
 coop by Mitchriz, LilAggy, YoJosherino, star0chris
 host KeiperDontCare, couch COUCH
-HhMMmSSs (est 3h15mm, wr HhMMmSSs)
+3h13m32s (est 3h15mm, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube S0kR-n2q6mg
 Review: (not yet reviewed)
 nm: no coop wr?
 
@@ -1197,12 +1197,12 @@ nm: no coop wr?
 Metroid Dread (Switch2 - MercurySteam 2021)
 All Bosses (Unrestricted)
 by Hobbit [2RH]
-host VexxnBexxn, couch COUCH
-HhMMmSSs (est 1h15m, wr 1h03m01s)
+host VexxnBexxn, couch jay, Arcanox
+1h09m58s (est 1h15m, wr 1h03m01s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube y4xygz_zcU0
 Review: (not yet reviewed)
 NM: assumed rookie, pb 1h03m58s
 
@@ -1210,11 +1210,11 @@ SEGA AGES Puyo Puyo (Switch2 - Compile 1991, M2 2019)
 Endurance Mode (Puyo Puyo 2)
 by Peas
 host VexxnBexxn, couch gz, jr
-HhMMmSSs (est 40m, wr HhMMmSSs)
+31m44s (est 40m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 4Q68As2JOhY
 Review: (not yet reviewed)
 NM: arcade port, add "Arcade via" if leaderboards the same (it's not)
 NM: no category?
@@ -1223,11 +1223,11 @@ Hypogea (PC - Charlie Wagner 2025)
 All Chapters
 by Pr0tal [2RH]
 host VexxnBexxn, couch BobbyBurm, Gelly
-HhMMmSSs (est 24m, wr 18m45s)
+19m53s (est 24m, wr 18m45s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube lJH6uIpg-V4
 Review: (not yet reviewed)
 NM: pb 18m58s
 
@@ -1235,11 +1235,11 @@ The Chaos Engine (PC - The Bitmap Brothers 1993, 2013)
 Preacher/Mercenary 
 coop by tbcr, Slyton
 host VexxnBexxn, couch COUCH
-HhMMmSSs (est 32m, wr HhMMmSSs)
+31m35s (est 32m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube c7lzomYKtZY
 Review: (not yet reviewed)
 NM: remaster doesn't have leaderboards
 
@@ -1247,11 +1247,11 @@ Abyssus (PC - DoubleMoose 2025)
 All Bosses
 by B0TFR4NK
 host JD Puppy, couch Bird650
-HhMMmSSs (est 26m, wr 17m58s igt)
+19m16s (est 26m, wr 17m58s igt)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube e5MyqrNKYBA
 Review: (not yet reviewed)
 NM: runner not ranked
 
@@ -1259,34 +1259,35 @@ TMNT IV: Turtles in Time (SNES - Konami 1992)
 Any% (1P1C)
 by darkalexandr
 host JD Puppy, couch Boyo003, LRock617
-HhMMmSSs (est 21m, wr 18m41s)
+20m00s (est 21m, wr 18m41s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube vIaPTIghV-Q
 Review: (not yet reviewed)
 NM: pb 19m59s, assumed Hard
+NM: check time, seems sus
 
 Towerbolt (PC - bordenary 2026)
 Any%
 by Valefor_M [WRH]
 host JD Puppy, couch COUCH
-HhMMmSSs (est 30m, wr 27m30s rta)
+26m11s (est 30m, wr 27m30s rta)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube XRVzt9AqFCg
 Review: (not yet reviewed)
 
 Epic Battle Fantasy Collection (PC - Matt Roszak 2009)
 Epic Battle Fantasy 1&2 Biathalon
 by Mathcat [WRH]
 host JD Puppy, couch COUCH
-HhMMmSSs (est 30m, no wr)
+22m46s (est 30m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube ROP0-Mae70A
 Review: (not yet reviewed)
 NM: SRC doesn't have multigame runs, but Mathcat has WR in both games so fuck it
 
@@ -1294,11 +1295,11 @@ Sworn (PC - Windwalk 2025)
 Any% (Sovereign)
 by KuritasKRT [3RH]
 host JD Puppy, couch selcouthmind
-HhMMmSSs (est 35m, wr 7m29s)
+34m34s (est 35m, wr 7m29s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube qTTJXSH2SbQ
 Review: (not yet reviewed)
 NM: pb 9m04s... this est seems fucky
 
@@ -1306,11 +1307,11 @@ Kirby: Nightmare in Dream Land (GBA - HAL Labs 1993)
 Any%
 race, Moxieclaws vs Luka (MusiQuil)
 host JD Puppy, couch Mr_Shasta
-HhMMmSSs (est 45m, wr 36m45s)
+44m04s (est 45m, wr 36m45s)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube ck7zzg99f3w
 Review: (not yet reviewed)
 NM: pbs 38m27s 37m10s
 
@@ -1318,106 +1319,114 @@ Kirby's Dream Land 2 (GB via Switch VC - HAL Labs 1995)
 Rick%
 by ProbablyGeo
 host TheKingsPride, couch Moxieclaws
-HhMMmSSs (est 47m, wr HhMMmSSs)
+41m29s (est 47m, wr HhMMmSSs)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube 35Vwil7Rwvs
 Review: (not yet reviewed)
 NM: is Rick% "Best Ending"? if so, 3rh, wr 41m37s pb 42m27s
 
-The Legend of Zelda: The Wind Waker (Gamecube - DEV YEAR; Nintendo EAD 2002)
+The Legend of Zelda: The Wind Waker (Gamecube - LagoLunatic et al 2023; Nintendo EAD 2002)
 Randomizer
 coop by Tomomodachi, gymnast86
 host TheKingsPride, couch PippyInATopHat
-HhMMmSSs (est 2h35m, no wr - randomizer)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: todo rando dev
+2h31m46s (est 2h35m, no wr - randomizer)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube zA6-lU6P_nc
+Review: Zelda randomizers are always a lot of fun to watch. There's no single big splashy trick, but instead dozens, maybe hundreds of little tiny tricks all over the place - and then a high level of knowledge of both the game and the randomizer, to properly make use of it. This run's a little on the dry side, both runners take it seriously instead of as a background to joke over for 2.5 hours, but that's my personal preference for these things.
 
 Saros (PS5 - Housemarque 2026)
-NG+ (All Bosses)
+NG+ All Bosses (Modifiers, Glitched, Set Seed)
 by cavecavecave [WRH]
 host KuritasKRT, couch Bdud5
-HhMMmSSs (est 1h00m, wr 35m42s)
+33m20s (est 1h00m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube YOUTUBE
+Youtube MevXnOqHPqI
 Review: (not yet reviewed)
 
 Slay the Spire II (PC - Mega Crit 2026)
 Skeleton War (4 Player, Glitchless, Unseeded)
 coop by frozenflygone, HeptagonSun, mintswirl, aco
-host KuritasKRT, couch COUCH
-HhMMmSSs (est 50m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: no idea what this cat is
+host KuritasKRT, no couch
+51m48s (est 50m, no wr)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube 5WgKJpKFk9A
+Review: This was pretty hard to follow, as a Spire outsider. Showing only a single screen could have been the right call, but the one player we followed seemed to not have any of the crucial cards they were talking about. I expect those even casually familiar with the game will fare much better - and hey, I *did* enjoy it.
+NM: no current runs for A10 Any% Co-op Unseeded, which is I think what they ran
 
 Balatro (PC - LocalThunk 2024)
 naneinf
 by adef
-host KuritasKRT, couch 44m06s
-HhMMmSSs (est 1h15m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+host KuritasKRT, couch nblundgren, Roffle
+1h04m49s (est 1h15m, wr 44m06s)
+Overall ★★★★★
+Skill   ★★★☆☆
+Fun     ★★★★★
+Youtube A7Go7IXlYLg
+Review: This run was just absolute cinema. The tension, the drama, you couldn't ask for better. It's a speedrun where the end goal is to *break the game* with numbers too big for it to handle, that's already audacious, and you couldn't have scripted a more exciting run of it.
 NM: assume random seed + skips + legendaryless, most popular naneinf category, runner not ranked in any
+
+Balatro (PC - LocalThunk 2024)
+naneinf set seed [BONUS]
+by adef
+host KuritasKRT, couch nblundgren, Roffle
+6m08s (est 6m, wr 4m39s)
+Overall ★★★☆☆
+Skill   ☆★☆★☆
+Fun     ★★★☆☆
+Youtube A7Go7IXlYLg+4096
+Review: A quick bonus run, showing how it goes when you get exactly the right cards and know exactly where they are. It's a party-trick run, but still a cool trick.
 
 Tetris (NES via PC - Tengen 1989)
 Tournament Finals Match
-by toast, Chronos, BeastinShen
-host blast0rama, couch COUCH
-HhMMmSSs (est 55m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
+meme vs huff
+host blast0rama, couch toast, Chronos
+~45m (est 55m, no wr)
+Overall ★★★★★
+Skill   ★★★★★
+Fun     ★★★★☆
+Youtube Iuq2uZ5sr5s
+Review: Top-level Tetris play is just amazing to watch. Even the starting speed is just barely within your ability to process, and it only goes up from there. This is the final match of an on-site tournament, so not strictly a speedrun - though the hundred-line sprint afterwards is. Watch both, it's all great.
 
-Super Mario Maker 2 (Switch - Nintendo EPD 2019)
+Super Mario Maker 2 (Switch - Marble 2026; Nintendo EPD 2019)
 Troll Race
-race, juzcook vs Marble vs CarlSagan42
-host blast0rama, couch Marble
-HhMMmSSs (est 1h05m, no wr)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: add level devs if able
+coop, juzcook vs CarlSagan42
+host blast0rama, couch Marble [DEV], WilfredTheBoss
+1h14m38s (est 1h05m, no wr)
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
+Youtube hkIwSRSIRGU
+Review: This was nominally co-op levels, but juzcook and CarlSagan were trolling each other as much as the levels themselves were. Watching them fail the same segments over and over because they can't resist dunking on each other does get a little grating, but fortunately the clever level design makes up for it. I'm certainly looking forward to the long version of the making-of video.
 
 Resident Evil: Requiem (PC - Capcom 2026)
-New Game (Casual, No Intro)
+New Game (Insanity, No Intro) [INCENTIVE]
 by CaptainEzekiel
 host HockeyBabbler, couch Bobbeigh, Maxylobes, nyiddle
-HhMMmSSs (est 1h40m, wr 1h32m10s)
-Overall N/R
-Skill   N/R
-Fun     N/R
-Youtube YOUTUBE
-Review: (not yet reviewed)
-NM: assumed Standard = Casual
+1h52m37s (est 1h50m, wr 1h24m45s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
+Youtube 3KaxHiGka5s
+Review: It gets off to a rough start, but once it finds its groove, we get a nice, carefully-routed Rezzy run. Particularly for one this new. It's lacking in major skips, there's a few OoBs that shave minutes off the run, but there's tight preplanned paths through every room to deal with the absurd difficulty as quickly and consistently as possible.
 
 Resident Evil 3: Nemesis (PC - Capcom 1999, 2000) [BONUS GAME 3]
 Crkd Guitar Controller - Nemesis% (Heavy, REbirth)
 by Crazygamingdayz
 host HockeyBabbler, couch Maxylobes
-HhMMmSSs (est 55m, wr 45m53s normal controller)
-Overall N/R
-Skill   N/R
-Fun     N/R
+53m28s (est 55m, wr 45m53s normal controller)
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★★☆☆
 Youtube YOUTUBE
-Review: (not yet reviewed)
+Review: This run would have been an impressive accomplishment on a regular controller. Doing it on a plastic guitar? That's just nuts. It's not a joke run in the slightest, they're locked in on a fast, efficient speedrun, though it's not without its levity.
 
 Dying Light (PC - Techland 2015)
 Any% HSG
