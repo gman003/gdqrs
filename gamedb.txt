@@ -644,6 +644,11 @@ Steam: 3764200
 Richard Burns Rally
 SRC: rbr
 
+Rift of the NecroDancer
+Steam: 2073250
+Nint: rift-of-the-necrodancer-switch
+# no SRC
+
 Rise of the Triad: Ludicrous Edition
 SRC: rottle
 Steam: 1421490
