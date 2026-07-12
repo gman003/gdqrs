@@ -10,8 +10,9 @@
 
 # current status:
 # only games from AGDQ+SGDQ2026 entered
-# steam: only checked for PC runs
+# steam: checked everything entered that it could reasonably have
 # itch: only checked if steam was missing
+# nint: checked all games entered
 # ps: only checked for PS runs
 # xbox: only checked for xbox runs
 
@@ -32,6 +33,7 @@ Nint: a-hat-in-time-switch
 Absolum
 SRC: Absolum
 Steam: 1904480
+Nint: absolum-switch
 
 Abyssus
 SRC: Abyssus_
@@ -89,14 +91,17 @@ Bill Nye: The Science Guy – Stop the Rock!
 BioShock Infinite
 SRC: bsi
 Steam: 8870
+Nint: bioshock-infinite-the-complete-edition-switch
 
 Bloons TD 6
 SRC: btd6
 Steam: 960090
+Nint: bloons-td-6-switch
 
 Blue Fire
 SRC: bf
 Steam: 1220150
+Nint: blue-fire-switch
 
 Bomberman Fantasy Race
 SRC: bfr
@@ -104,6 +109,8 @@ SRC: bfr
 Borderlands 2
 SRC: bl2
 Steam: 49520
+Nint: borderlands-the-handsome-collection-switch
+# Nint is BL2 + Pre-Sequel
 
 Bug Blasters: The Exterminators
 # no SRC even
@@ -114,6 +121,8 @@ Steam: 10180
 
 Castlevania
 SRC: cv1
+Steam: 1018010
+# steam is Anniversary collection
 
 Castlevania: Dawn of Sorrow
 SRC: cvdos
@@ -127,6 +136,7 @@ SRC: sotn
 Cavern of Dreams
 SRC: cavern_of_dreams
 Steam: 2059660
+Nint: cavern-of-dreams-switch
 
 Chrono Trigger
 SRC: ct
@@ -142,10 +152,12 @@ SRC: clash_at_demonhead
 ConsTance
 SRC: Constance
 Steam: 3351070
+Nint: constance-switch
 
 Contra: Operation Galuga
 SRC: Contra_Operation_Galuga
 Steam: 2235020
+Nint: contra-operation-galuga-switch
 
 Crash Bandicoot 3: Warped
 SRC: crash3
@@ -153,6 +165,7 @@ SRC: crash3
 Crash Bandicoot 4: It's About Time
 SRC: crash4
 Steam: 1378990
+Nint: crash-bandicoot-4-its-about-time-switch
 
 Croc 2
 SRC: crocgbc
@@ -180,6 +193,7 @@ Steam: 211420
 Death's Door
 SRC: deaths_door
 Steam: 894020
+Nint: deaths-door-switch
 
 Deja Vu
 SRC: dejavu
@@ -188,6 +202,8 @@ Devil May Cry 5: Special Edition
 SRC: dmc5se
 Steam: 601150
 PS: UP0102-PPSA01442_00-DMC5SE0000000001
+Nint: devil-may-cry-5-devil-hunter-edition-switch-2
+# is Devil Hunter edition different from Special?
 
 Die Hard: Nakatomi Plaza
 SRC: die_hard_nakatomi_plaza
@@ -224,6 +240,7 @@ SRC: dkc2
 DOOM Eternal
 SRC: doom_eternal
 Steam: 782330
+Nint: doom-eternal-70010000018023-switch
 
 Dragon Ball Z: Budokai
 SRC: dbzb1
@@ -231,6 +248,7 @@ SRC: dbzb1
 Dragon Quest XI
 SRC: dqxi
 Steam: 1295510
+Nint: dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch
 
 Drywall Eating Simulator
 SRC: Drywall_Eating_Simulator
@@ -239,14 +257,17 @@ Steam: 3749110
 Dunkadillo
 SRC: dunkadillo
 Steam: 3946070
+Nint: dunkadillo-switch
 
 DUSK
 SRC: dusk
 Steam: 519860
+Nint: dusk-switch
 
 Dying Light
 SRC: dyinglight
 Steam: 239140
+Nint: dying-light-definitive-edition-switch
 
 Earthbound Beginnings
 SRC: mother1
@@ -261,6 +282,7 @@ Itch: terrycavanagh.itch.io/egg
 Elden Ring
 SRC: eldenring
 Steam: 1245620
+Nint: elden-ring-tarnished-edition-switch-2
 
 Elden Ring Nightreign
 SRC: Elden_Ring_Nightreign
@@ -292,11 +314,13 @@ SRC: fatal_frame_ii_crimson_butterfly
 Final Fantasy Tactics: The Ivalice Chronicles
 SRC: Final_Fantasy_Tactics_The_Ivalice_Chronicles
 Steam: 1004640
+Nint: final-fantasy-tactics-the-ivalice-chronicles-switch
 
 Final Fantasy X
 SRC: ffx
 Steam: 359870
 # hd remaster, was there an older one on PC?
+Nint: final-fantasy-x-x-2-hd-remaster-switch
 
 Fire Emblem: Three Houses
 SRC: fe3h
@@ -327,6 +351,8 @@ SRC: gauntlet_nes
 
 Gex: Enter the Gecko
 SRC: gex2
+Steam: 3183970
+# Steam is trilogy collection
 
 Ghosts 'n Goblins
 SRC: ghosts_n_goblins
@@ -342,6 +368,7 @@ Steam: 2362680
 Hades II
 SRC: hades2
 Steam: 1145350
+Nint: hades-ii-switch
 
 Hey You, Pikachu!
 SRC: hey_you_pikachu
@@ -349,6 +376,7 @@ SRC: hey_you_pikachu
 Hollow Knight: Silksong
 SRC: silksong
 Steam: 1030300
+Nint: hollow-knight-silksong-switch
 
 Hypogea
 SRC: hypogea
@@ -366,6 +394,7 @@ Steam: 1876590
 In Stars and Time
 SRC: isat
 Steam: 1677310
+Nint: in-stars-and-time-switch
 
 Isopod: A Webbed Spin-off
 SRC: Isopod
@@ -404,10 +433,12 @@ Steam: 2360030
 Kingdom Hearts II: Final Mix
 SRC: kh2fm
 Steam: 2552430
+Nint: kingdom-hearts-hd-1-5-plus-2-5-remix-switch-2
 
 Kiosk
 SRC: Kiosk
 Steam: 3126330
+Nint: kiosk-switch
 
 Kirby Air Riders
 SRC: kars
@@ -440,6 +471,7 @@ Steam: 32440
 Lies of P
 SRC: lies_of_p
 Steam: 1627720
+Nint: lies-of-p-complete-edition-switch-2
 
 Luigi's Mansion
 SRC: lm
@@ -447,12 +479,15 @@ SRC: lm
 Maiden & Spell
 SRC: Maiden_Spell
 Steam: 1004770
+Nint: maiden-and-spell-switch
 
 maimai DX PRiSM PLUS
 SRC: maimai_dx
 
 Manual Samuel
 SRC: manual_samuel
+Steam: 504130
+Nint: manual-samuel-switch
 Xbox: manual-samuel-last-tuesday-edition/C1N8NK80CLXV/0001
 
 Mario Kart 64
@@ -475,6 +510,8 @@ SRC: mega_man_dos
 
 Mega Man Battle Network
 SRC: mmbn1
+Steam: 1798010
+# steam is Legacy Collection vol 1, has MMBN1-3
 
 Memoirs of Magic
 SRC: memoirs_of_magic
@@ -493,15 +530,18 @@ SRC: mp3
 
 Mighty Gunvolt
 SRC: mg
+Steam: 394600
 # not on eshop?
 
 Mighty Gunvolt Burst
 SRC: mighty_gunvolt_burst
+Steam: 774651
 Nint: mighty-gunvolt-burst-switch
 
 Mika and the Witch's Mountain
 SRC: Mika_and_the_Witchs_Mountain
 Steam: 1819460
+Nint: mika-and-the-witchs-mountain-switch
 
 MINDWAVE
 SRC: mindwave_demo
@@ -511,10 +551,12 @@ Steam: 2701030
 Minit
 SRC: minit
 Steam: 609490
+Nint: minit-switch
 
 Misc: A Tiny Tale
 SRC: Misc_A_Tiny_Tale
 Steam: 1308940
+Nint: misc-a-tiny-tale-switch
 
 Missland 2
 SRC: Missland_2
@@ -522,6 +564,7 @@ SRC: Missland_2
 Momodora: Moonlit Farewell
 SRC: Momodora_Moonlit_Farewell
 Steam: 1747760
+Nint: momodora-moonlit-farewell-switch
 
 Monster Hunter Wilds
 SRC: mhwilds
@@ -533,6 +576,7 @@ SRC: monster_in_my_pocket
 Mouse: P.I. For Hire
 SRC: Mouse_PI_For_Hire
 Steam: 2416450
+Nint: mouse-p-i-for-hire-switch-2
 
 Mr. Bones
 SRC: mr._bones
@@ -543,18 +587,22 @@ SRC: mushroom_men_the_spore_wars
 Ninja Gaiden Ragebound
 SRC: NGR
 Steam: 2542120
+Nint: ninja-gaiden-ragebound-switch
 
 No More Heroes
 SRC: nmh
+Steam: 1420290
 Nint: no-more-heroes-switch
 
 Nuclear Throne
 SRC: nuclear_throne
 Steam: 242680
+Nint: nuclear-throne-switch
 
 Octopath Traveler II
 SRC: octopath2
 Steam: 1971650
+Nint: octopath-traveler-ii-switch
 
 Ogre Battle: The March of the Black Queen
 SRC: obmotbq
@@ -562,13 +610,16 @@ SRC: obmotbq
 Once Upon A KATAMARI
 SRC: Once_Upon_A_Katamari
 Steam: 1880620
+Nint: once-upon-a-katamari-switch
 
 Pac-Man World 2 Re-Pac
 SRC: pmw2repac
 Steam: 2324290
+Nint: pac-man-world-2-re-pac-switch
 
 Paper Mario: The Thousand-Year Door
 SRC: ttyd
+# Nint remake: paper-mario-the-thousand-year-door-switch
 
 Path of Exile 2
 SRC: poe2
@@ -581,10 +632,12 @@ Steam: 3527290
 Pipistrello and the Cursed Yoyo
 SRC: pipistrello
 Steam: 2870350
+Nint: pipistrello-and-the-cursed-yoyo-switch
 
 Pizza Tower
 SRC: pizza_tower
 Steam: 2231450
+Nint: pizza-tower-switch
 
 Pokemon Emerald
 SRC: pkmnemerald
@@ -605,6 +658,7 @@ SRC: power_shovel
 Pragmata
 SRC: PRAGMATA
 Steam: 3357650
+Nint: pragmata-switch-2
 
 Psychonauts 2
 SRC: psychonauts_2
@@ -623,15 +677,18 @@ SRC: rac4
 
 Ratchet & Clank: Rift Apart
 SRC: rac_ra
+Steam: 1895880
 PS: UP9000-PPSA01473_00-RATCHETCLANKRIFT
 
 Redout 2
 SRC: redout_2
 Steam: 1799930
+Nint: redout-2-switch
 
 Resident Evil 2 Remake
 SRC: re2remake
 Steam: 883710
+# not doing the Cloud version on Nint E-Shop
 
 Resident Evil 3: Nemesis
 SRC: re3
@@ -652,6 +709,7 @@ Nint: rift-of-the-necrodancer-switch
 Rise of the Triad: Ludicrous Edition
 SRC: rottle
 Steam: 1421490
+Nint: rise-of-the-triad-ludicrous-edition-switch
 
 Rock 'n' Roll Adventures
 SRC: rocknrolladventures
@@ -663,6 +721,7 @@ SRC: sabor
 Sanabi
 SRC: sanabi
 Steam: 1562700
+Nint: sanabi-switch
 
 Saros
 SRC: SAROS
@@ -682,10 +741,12 @@ Steam: 457210
 Sheepy: A Short Adventure
 SRC: sheepy_a_short_adventure
 Steam: 1568400
+Nint: sheepy-a-short-adventure-switch
 
 Shovel Knight: King of Cards
 SRC: shovelknight
 Steam: 1116780
+Nint: shovel-knight-treasure-trove-switch
 
 Silent Hill f
 SRC: shf
@@ -694,6 +755,7 @@ Steam: 2947440
 Skull Island: Rise of Kong
 SRC: Skull_Island_Rise_of_Kong
 Steam: 2097890
+Nint: skull-island-rise-of-kong-switch
 
 Slay the Spire II
 SRC: Slay_the_Spire_2
@@ -733,6 +795,8 @@ SRC: sonics_schoolhouse
 
 Sonic Racing: CrossWorlds
 SRC: srcw
+Steam: 2486820
+Nint: sonic-racing-crossworlds-switch
 PS: JP0177-PPSA08804_00-SONICRACINGCW000
 
 Sonic Rush
@@ -753,10 +817,12 @@ SRC: splatterhouse_wanpaku_graffiti
 Split Fiction
 SRC: splitfiction
 Steam: 2001120
+Nint: split-fiction-switch-2
 
 SpongeBob SquarePants: Titans of the Tide
 SRC: titans
 Steam: 2479650
+Nint: spongebob-squarepants-titans-of-the-tide-switch-2
 
 Spyro: Year of the Dragon
 SRC: spyro3
@@ -768,6 +834,7 @@ SRC: spyro2
 Spyro Reignited Trilogy
 SRC: spyrortpc
 Steam: 996580
+Nint: spyro-reignited-trilogy-switch
 
 SSX Tricky
 SRC: ssxtricky
@@ -794,6 +861,7 @@ Steam: 32380
 Stardew Valley
 SRC: stardew_valley
 Steam: 413150
+Nint: stardew-valley-switch
 
 Stellar Blade
 SRC: STELLAR_BLADE
@@ -839,6 +907,7 @@ SRC: smw
 Super Meat Boy 3D
 SRC: SMB_3D
 Steam: 3288210
+Nint: super-meat-boy-3d-switch-2
 
 Super Metroid
 SRC: supermetroid
@@ -853,6 +922,7 @@ SRC: spp_
 Supraland
 SRC: supraland
 Steam: 813630
+Nint: supraland-switch
 
 Sword of the Sea
 SRC: Sword_of_the_Sea
@@ -861,6 +931,7 @@ Steam: 2453160
 Sworn
 SRC: Sworn
 Steam: 1763250
+Nint: sworn-switch
 
 System Shock 2
 SRC: systemshock2
@@ -924,10 +995,12 @@ SRC: The_Running_Man
 The Talos Principle
 SRC: talos_principle
 Steam: 257510
+Nint: the-talos-principle-deluxe-edition-switch
 
 Thirsty Suitors
 SRC: Thirsty_Suitors
 Steam: 1617220
+Nint: thirsty-suitors-switch
 
 This Is No Cave
 Steam: 2852760
@@ -942,16 +1015,18 @@ SRC: Towerbolt
 Steam: 2559220
 
 Transformers: War For Cybertron
-# PC?
+# PC, not on steam
 SRC: tfwfc
 
 TUNIC
 SRC: tunic
 Steam: 553420
+Nint: tunic-switch
 
 UFO 50
 SRC: UFO_50
 Steam: 1147860
+Nint: ufo-50-switch
 
 Unbeatable
 SRC: UNBEATABLE
@@ -964,6 +1039,7 @@ Nint: arcade-archives-vs-super-mario-bros-switch
 VVVVVV
 SRC: vvvvvv
 Steam: 70300
+Nint: vvvvvv-switch
 
 Wario World
 SRC: ww
@@ -971,6 +1047,7 @@ SRC: ww
 What the Golf?
 SRC: whatthegolf
 Steam: 785790
+Nint: what-the-golf-switch
 
 Wii Sports
 SRC: wiisports
@@ -978,6 +1055,7 @@ SRC: wiisports
 Windswept
 SRC: windswept
 Steam: 1660960
+Nint: windswept-switch
 
 Wolfenstein: The Old Blood
 SRC: tob
@@ -990,6 +1068,7 @@ Steam: 2277560
 Yooka-Laylee and the Impossible Lair
 SRC: ylil
 Steam: 846870
+Nint: yooka-laylee-and-the-impossible-lair-switch
 
 Zelda: The Wand of Gamelon
 SRC: wandofgamelon
