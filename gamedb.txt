@@ -9,12 +9,12 @@
 # Xbox: Xbox store name+id+version combined with slashes, https://www.xbox.com/en-US/games/store/<name-slug>/<id>/<version?>
 
 # current status:
-# only games from AGDQ+SGDQ2026 entered
+# games entered: AGDQ26, SGDQ26, except for Halo CE Cursed Again
 # steam: checked everything entered that it could reasonably have
 # itch: only checked if steam was missing
 # nint: checked all games entered
-# ps: only checked for PS runs
-# xbox: only checked for xbox runs
+# ps: checked all games entered
+# xbox: checked all games entered
 
 12 Bananas
 SRC: 12_bananas
@@ -24,20 +24,27 @@ Steam: 1393270
 SRC: 20xx
 Steam: 322110
 Nint: 20xx-switch
+PS: UP0259-CUSA11056_00-20XX000000000000
+Xbox: 20xx/9p9h0rgll29w
 
 A Hat in Time
 SRC: ahit
 Steam: 253230
 Nint: a-hat-in-time-switch
+PS: UP3864-CUSA09267_00-AHATINTIMEPS4000
+Xbox: a-hat-in-time/bx91dhsr4c5t
 
 Absolum
 SRC: Absolum
 Steam: 1904480
 Nint: absolum-switch
+PS: EP1470-PPSA28311_00-ABSOLUMDOTEMUPS5
 
 Abyssus
 SRC: Abyssus_
 Steam: 1721110
+PS: EP1470-PPSA32559_00-0311398312658520
+Xbox: absolum/9nr6nj401nbs
 
 Adventures of Yogi Bear
 # SNES
@@ -50,10 +57,14 @@ SRC: american_idol
 American Truck Simulator
 SRC: ats
 Steam: 270880
+# PS port announced, https://store.playstation.com/en-us/concept/10008808
+Xbox: american-truck-simulator/9nwwkck9kd5f
 
 Amnesia: The Bunker
 SRC: atb
 Steam: 1944430
+PS: UP1192-CUSA40994_00-AMNESIATHEBUNKER
+Xbox: amnesia-the-bunker/9pc15h56ngjk
 
 Animal Crossing: City Folk
 SRC: accf
@@ -62,6 +73,8 @@ SRC: accf
 Armored Core VI: Fires of Rubicon
 SRC: acvi
 Steam: 1888160
+PS: UP0700-PPSA06774_00-ARMOREDCORE60000
+Xbox: armored-core-vi-fires-of-rubicon/9p4sv7r7n3hw
 
 Bait & Tackle
 SRC: BaitAndTackle
@@ -71,9 +84,12 @@ Balatro
 SRC: Balatro
 Steam: 2379780
 Nint: balatro-switch
+PS: UP3639-PPSA21401_00-0767712965312971
+Xbox: balatro/9pk087lngjc5
 
 Banjo-Tooie
 SRC: bt
+Xbox: banjo-tooie/br8c26fgq9qq
 # N64
 
 Bat to the Heavens
@@ -92,16 +108,23 @@ BioShock Infinite
 SRC: bsi
 Steam: 8870
 Nint: bioshock-infinite-the-complete-edition-switch
+PS: UP1001-CUSA03980_00-BIOSHOCKCOMPLETE
+Xbox: bioshock-infinite-the-complete-edition/btc8br7v276x
+# original Xb360 release (currently more expensive) at bioshock-infinite/c4xx6jl0n0dm
 
 Bloons TD 6
 SRC: btd6
 Steam: 960090
 Nint: bloons-td-6-switch
+PS: UP2712-CUSA29953_00-9367204981826190
+Xbox: bloons-td-6/9phkz9xt6f85
 
 Blue Fire
 SRC: bf
 Steam: 1220150
 Nint: blue-fire-switch
+PS: UP4780-CUSA19549_00-BLUEFIREPS400001
+Xbox: blue-fire/9p19v385gm8t
 
 Bomberman Fantasy Race
 SRC: bfr
@@ -111,27 +134,40 @@ SRC: bl2
 Steam: 49520
 Nint: borderlands-the-handsome-collection-switch
 # Nint is BL2 + Pre-Sequel
+PS: UP1001-CUSA01401_00-BLLEGENDARY00000
+# PS is BL1 + BL2 + BLTPS
+Xbox: borderlands-2/bv5scj9jm8v0
+# xbox has xb360 version at borderlands-2/brc33x34h2c9
 
 Bug Blasters: The Exterminators
 # no SRC even
 
 Call of Duty: Modern Warfare 2
+# original, not remaster
 SRC: mw2
 Steam: 10180
+Xbox: call-of-duty-modern-warfare-2/c2nngcpr2xp8
 
 Castlevania
 SRC: cv1
 Steam: 1018010
-# steam is Anniversary collection
+PS: UP0101-CUSA15109_00-CASTLEVANIAGAMES
+Xbox: castlevania-anniversary-collection/9phm9kwzc44f
+# steam + PS + Xb are Anniversary collection
 
 Castlevania: Dawn of Sorrow
 SRC: cvdos
 Steam: 2369900
-# steam link is Dominus Collection, think this is what was played?
+PS: JP0101-PPSA15645_00-DOMINUSCOLLECTIO
+Xbox: castlevania-dominus-collection/9p07h5jq4r5q
+# steam+PS+Xb links are Dominus Collection, which is what was played in AGDQ26
 
 Castlevania: Symphony of the Night
 # many ports, usually run on xb360
 SRC: sotn
+Xbox: castlevania-sotn/bstm3283756m
+PS: UP0101-CUSA13434_00-CASTLEVANIA00001
+# PS is Requiem, SotN + Rondo of Blood
 
 Cavern of Dreams
 SRC: cavern_of_dreams
@@ -145,6 +181,8 @@ Steam: 613830
 Clair Obscur: Expedition 33
 SRC: coe33
 Steam: 1903340
+PS: EP7579-PPSA17599_00-EXP33000000PS5EU
+Xbox: clair-obscur-expedition-33/9PPT8K6GQHRZ/0010
 
 Clash at Demonhead
 SRC: clash_at_demonhead
@@ -153,11 +191,15 @@ ConsTance
 SRC: Constance
 Steam: 3351070
 Nint: constance-switch
+PS: UB0202-PPSA29415_00-0084472210136540
+Xbox: constance/9mw6hcg5vqxr
 
 Contra: Operation Galuga
 SRC: Contra_Operation_Galuga
 Steam: 2235020
 Nint: contra-operation-galuga-switch
+PS: UP0101-PPSA15367_00-GALUGA00PS5NA000
+Xbox: contra-operation-galuga/9mvjw818qtfl
 
 Crash Bandicoot 3: Warped
 SRC: crash3
@@ -166,6 +208,14 @@ Crash Bandicoot 4: It's About Time
 SRC: crash4
 Steam: 1378990
 Nint: crash-bandicoot-4-its-about-time-switch
+PS: UP0002-PPSA02432_00-CB4THEGAME000001
+Xbox: crash-bandicoot-4-its-about-time/9pl64t7lzdn9
+
+Crypt of the NecroDancer: Synchrony
+# no SRC? only base game
+Steam: 2094810
+Nint: crypt-of-the-necrodancer-synchrony-70050000046281-switch
+PS: UP1162-CUSA03610_00-SYNCHRONY0000000
 
 Croc 2
 SRC: crocgbc
@@ -183,17 +233,21 @@ Steam: 3145560
 Darius Gaiden
 SRC: darius_gaiden
 Steam: 1638330
-# steam is Cozmic Collection
+PS: UP8012-CUSA18662_00-DARIUSCCARCADE00
+# steam+PS are Cozmic Collection
 
 Dark Souls
 SRC: darksouls
 Steam: 211420
+Xbox: dark-souls/C010V77JZ9J7/0001
 # old version, should I do remaster instead?
 
 Death's Door
 SRC: deaths_door
 Steam: 894020
 Nint: deaths-door-switch
+PS: UP3643-PPSA05303_00-2564955967631989
+Xbox: deaths-door/9ndz7nxff622
 
 Deja Vu
 SRC: dejavu
@@ -202,6 +256,7 @@ Devil May Cry 5: Special Edition
 SRC: dmc5se
 Steam: 601150
 PS: UP0102-PPSA01442_00-DMC5SE0000000001
+Xbox: devil-may-cry-5-special-edition/9mz11kt5klp6
 Nint: devil-may-cry-5-devil-hunter-edition-switch-2
 # is Devil Hunter edition different from Special?
 
@@ -221,7 +276,7 @@ Nint: dizzy-hero-switch
 
 dlroW oiraM repuS
 SRC: wms
-# potential link at https://isofrieze.com/romhacks/wms/ need to check officialness
+Link: https://isofrieze.com/romhacks/wms/
 
 Don’t Stop, Girlypop!
 SRC: Dont_Stop_Girlypop
@@ -241,6 +296,8 @@ DOOM Eternal
 SRC: doom_eternal
 Steam: 782330
 Nint: doom-eternal-70010000018023-switch
+PS: UP1003-PPSA01981_00-DOOMETERNALBUNDL
+Xbox: doom-eternal-standard-edition/9p5s26314hwq
 
 Dragon Ball Z: Budokai
 SRC: dbzb1
@@ -249,6 +306,8 @@ Dragon Quest XI
 SRC: dqxi
 Steam: 1295510
 Nint: dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch
+PS: UP0082-CUSA18600_00-0000000000000000
+Xbox: dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition/9pbdc0xz8txk
 
 Drywall Eating Simulator
 SRC: Drywall_Eating_Simulator
@@ -263,11 +322,16 @@ DUSK
 SRC: dusk
 Steam: 519860
 Nint: dusk-switch
+PS: UP3590-CUSA32304_00-0553340182798423
+Xbox: dusk/9pc06gv6frnh
 
 Dying Light
 SRC: dyinglight
 Steam: 239140
 Nint: dying-light-definitive-edition-switch
+PS: UP1018-CUSA00078_00-DLCLASSICEDITION
+# PS is "essentials edition", seems to be current baseline
+Xbox: dying-light/bxn9lb6r3zpg
 
 Earthbound Beginnings
 SRC: mother1
@@ -283,10 +347,14 @@ Elden Ring
 SRC: eldenring
 Steam: 1245620
 Nint: elden-ring-tarnished-edition-switch-2
+PS: UP0700-PPSA04610_00-ELDENRING0000000
+Xbox: store/elden-ring/9p3j32ctxlrz
 
 Elden Ring Nightreign
 SRC: Elden_Ring_Nightreign
 Steam: 2622380
+PS: UP0700-PPSA25380_00-ERSL000000000000
+Xbox: elden-ring-nightreign/9pj22qnvcz3g
 
 Environmental Station Alpha
 SRC: esalpha
@@ -307,20 +375,26 @@ Link: https://gamebanana.com/mods/40471
 F.E.A.R. 2: Project Origin
 SRC: fear2
 Steam: 16450
+Xbox: fear-2/9n36fd821rj5
 
 Fatal Frame II: Crimson Butterfly
 SRC: fatal_frame_ii_crimson_butterfly
+# even Xbox market only has the remake :(
 
 Final Fantasy Tactics: The Ivalice Chronicles
 SRC: Final_Fantasy_Tactics_The_Ivalice_Chronicles
 Steam: 1004640
 Nint: final-fantasy-tactics-the-ivalice-chronicles-switch
+PS: JP0082-PPSA21783_00-FFTACTICS0000000
+Xbox: final-fantasy-tactics-the-ivalice-chronicles/9mz2mc7t85t5
 
 Final Fantasy X
 SRC: ffx
 Steam: 359870
 # hd remaster, was there an older one on PC?
 Nint: final-fantasy-x-x-2-hd-remaster-switch
+PS: UP0082-CUSA01227_00-FFX0FFX20USA0PS4
+Xbox: final-fantasy-x-x-2-hd-remaster/c0ksn20brp7z
 
 Fire Emblem: Three Houses
 SRC: fe3h
@@ -352,7 +426,9 @@ SRC: gauntlet_nes
 Gex: Enter the Gecko
 SRC: gex2
 Steam: 3183970
-# Steam is trilogy collection
+PS: UP6893-PPSA28542_00-0572321408712748
+Xbox: gex-trilogy/9nj3sksbw8ww
+# Steam+PS+Xb are trilogy collection
 
 Ghosts 'n Goblins
 SRC: ghosts_n_goblins
@@ -369,6 +445,10 @@ Hades II
 SRC: hades2
 Steam: 1145350
 Nint: hades-ii-switch
+PS: EP4484-PPSA36082_00-0912328937643383
+Xbox: hades-ii/9pcr3z2msm4t
+
+
 
 Hey You, Pikachu!
 SRC: hey_you_pikachu
@@ -377,6 +457,8 @@ Hollow Knight: Silksong
 SRC: silksong
 Steam: 1030300
 Nint: hollow-knight-silksong-switch
+PS: EP1805-PPSA12544_00-HKSILKSONGPS5000
+Xbox: hollow-knight-silksong/9n116v0599hb
 
 Hypogea
 SRC: hypogea
@@ -390,11 +472,15 @@ Itch: waldorf.itch.io/invaligate
 I Am Your Beast
 SRC: iayb
 Steam: 1876590
+PS: EP6458-PPSA28515_00-0190748005263575
+Xbox: i-am-your-beast/9pf9fqgh89wm
 
 In Stars and Time
 SRC: isat
 Steam: 1677310
 Nint: in-stars-and-time-switch
+PS: UP2775-PPSA13938_00-0466294767641317
+# PS lists PS4/PS5 versions separately?
 
 Isopod: A Webbed Spin-off
 SRC: Isopod
@@ -402,6 +488,7 @@ Steam: 2053910
 
 Jak 3
 SRC: jak3
+PS: UP9000-CUSA07841_00-SCUS973300000001
 
 James Bond 007: The Duel
 SRC: james_bond_the_duel
@@ -409,11 +496,14 @@ SRC: james_bond_the_duel
 Jazzpunk
 SRC: jazzpunk
 Steam: 250260
+Itch: necrophone.itch.io/jazzpunk
+PS: UP0462-CUSA05252_00-JAZZPUNK00000001
 # "director's cut"?
 
 Jet Set Radio
 SRC: jsr
 # pc, not on steam
+Xbox: jet-set-radio/bvql7v5txbhb
 
 Jetrunner
 SRC: JETRUNNER
@@ -434,11 +524,15 @@ Kingdom Hearts II: Final Mix
 SRC: kh2fm
 Steam: 2552430
 Nint: kingdom-hearts-hd-1-5-plus-2-5-remix-switch-2
+PS: UP0082-CUSA05933_00-KINGDOMHEART1525
+Xbox: kingdom-hearts-hd-1525-remix/9NHDF1Q6HGMH/0010
 
 Kiosk
 SRC: Kiosk
 Steam: 3126330
 Nint: kiosk-switch
+PS: UP3528-CUSA56577_00-0299577617891265
+Xbox: kiosk/9n03r8k2vplb
 
 Kirby Air Riders
 SRC: kars
@@ -467,11 +561,15 @@ SRC: lok_sr
 LEGO Star Wars: The Complete Saga
 SRC: lswtcs
 Steam: 32440
+Xbox: lego-star-wars-tcs/BTT25GGLG6KD/0001
+# no Complete Saga on Nint/PS, only Skywalker Saga
 
 Lies of P
 SRC: lies_of_p
 Steam: 1627720
 Nint: lies-of-p-complete-edition-switch-2
+PS: UP1685-PPSA10261_00-4396566144501976
+Xbox: lies-of-p/9pcm4cmtppgc
 
 Luigi's Mansion
 SRC: lm
@@ -488,6 +586,7 @@ Manual Samuel
 SRC: manual_samuel
 Steam: 504130
 Nint: manual-samuel-switch
+PS: UP4395-PPSA28144_00-0MANUALSAMUELPS5
 Xbox: manual-samuel-last-tuesday-edition/C1N8NK80CLXV/0001
 
 Mario Kart 64
@@ -503,6 +602,7 @@ SRC: mary_shelleys_frankenstein
 Mass Effect 3
 SRC: me3
 Steam: 1238020
+Xbox: mass-effect-3/c040h652pd98
 
 Mega Man
 SRC: mega_man_dos
@@ -511,7 +611,8 @@ SRC: mega_man_dos
 Mega Man Battle Network
 SRC: mmbn1
 Steam: 1798010
-# steam is Legacy Collection vol 1, has MMBN1-3
+PS: UP0102-CUSA31426_00-MMBNC10000000000
+# steam+ps are Legacy Collection vol 1, has MMBN1-3
 
 Memoirs of Magic
 SRC: memoirs_of_magic
@@ -520,6 +621,8 @@ Itch: strawberryoctii.itch.io/memoirs-of-magic
 Metal Gear Solid Δ: Snake Eater
 SRC: mgsdse
 Steam: 2417610
+PS: JP0101-PPSA15304_00-MGSDELTAMAINGAME
+Xbox: metal-gear-solid-δ-snake-eater/9pjln214rtkq
 
 Metroid Dread
 SRC: mdread
@@ -542,6 +645,9 @@ Mika and the Witch's Mountain
 SRC: Mika_and_the_Witchs_Mountain
 Steam: 1819460
 Nint: mika-and-the-witchs-mountain-switch
+PS: UP3868-PPSA21771_00-0471114794143761
+# PS splits PS4/5 versions?
+Xbox: mika-and-the-witchs-mountain/9pgmx16mx35x
 
 MINDWAVE
 SRC: mindwave_demo
@@ -552,6 +658,8 @@ Minit
 SRC: minit
 Steam: 609490
 Nint: minit-switch
+PS: UP3643-CUSA09747_00-0000000MINITGAME
+Xbox: minit/c120v2wgrmch
 
 Misc: A Tiny Tale
 SRC: Misc_A_Tiny_Tale
@@ -565,10 +673,14 @@ Momodora: Moonlit Farewell
 SRC: Momodora_Moonlit_Farewell
 Steam: 1747760
 Nint: momodora-moonlit-farewell-switch
+PS: JP0122-PPSA25804_00-000000MOMODORAMF
+Xbox: momodora-moonlit-farewell/9ntn26mgx0mk
 
 Monster Hunter Wilds
 SRC: mhwilds
 Steam: 2246340
+PS: UP0102-PPSA07862_00-MHWILDSSTANDARD0
+Xbox: monster-hunter-wilds/9nmt6xfn0lvd
 
 Monster in My Pocket
 SRC: monster_in_my_pocket
@@ -577,6 +689,8 @@ Mouse: P.I. For Hire
 SRC: Mouse_PI_For_Hire
 Steam: 2416450
 Nint: mouse-p-i-for-hire-switch-2
+PS: UP2430-PPSA26578_00-PLYXFUMIMOUSEPS5
+Xbox: mouse-pi-for-hire/9p7522hwd0nh
 
 Mr. Bones
 SRC: mr._bones
@@ -588,6 +702,8 @@ Ninja Gaiden Ragebound
 SRC: NGR
 Steam: 2542120
 Nint: ninja-gaiden-ragebound-switch
+PS: EP1470-PPSA28002_00-NINJAGAIDENRBPS5
+Xbox: ninja-gaiden-ragebound/9pgfslp8gwqk
 
 No More Heroes
 SRC: nmh
@@ -598,11 +714,15 @@ Nuclear Throne
 SRC: nuclear_throne
 Steam: 242680
 Nint: nuclear-throne-switch
+PS: UP1491-CUSA03902_00-PS4NUCLEARTHRONE
+Xbox: nuclear-throne/9pccfdh6lmqj
 
 Octopath Traveler II
 SRC: octopath2
 Steam: 1971650
 Nint: octopath-traveler-ii-switch
+PS: UP0082-PPSA09797_00-OCTOPATH2PS5N000
+Xbox: octopath-traveler-ii/9n2x3vzw8qnn
 
 Ogre Battle: The March of the Black Queen
 SRC: obmotbq
@@ -611,11 +731,15 @@ Once Upon A KATAMARI
 SRC: Once_Upon_A_Katamari
 Steam: 1880620
 Nint: once-upon-a-katamari-switch
+PS: UP0700-PPSA21906_00-MAINGAME00000000
+Xbox: once-upon-a-katamari/9n78w63w9w9r
 
 Pac-Man World 2 Re-Pac
 SRC: pmw2repac
 Steam: 2324290
 Nint: pac-man-world-2-re-pac-switch
+PS: UP0700-PPSA18189_00-PACMANWORLD2RPAC
+Xbox: pac-man-world-2-re-pac/9mz28fzzrff2
 
 Paper Mario: The Thousand-Year Door
 SRC: ttyd
@@ -624,6 +748,9 @@ SRC: ttyd
 Path of Exile 2
 SRC: poe2
 Steam: 2694490
+PS: UP4781-PPSA21416_00-SP00710000000001
+Xbox: path-of-exile-2-game-preview/9nd8n4rw5ghx
+# PS is early-access "Founder's Pack"? xbox is "Game Preview"?
 
 Peak
 SRC: PEAK
@@ -633,6 +760,8 @@ Pipistrello and the Cursed Yoyo
 SRC: pipistrello
 Steam: 2870350
 Nint: pipistrello-and-the-cursed-yoyo-switch
+PS: UP2011-PPSA25769_00-0244902112206471
+Xbox: pipistrello-and-the-cursed-yoyo/9n9lk61ws2ch
 
 Pizza Tower
 SRC: pizza_tower
@@ -659,10 +788,14 @@ Pragmata
 SRC: PRAGMATA
 Steam: 3357650
 Nint: pragmata-switch-2
+PS: UP0102-PPSA02530_00-PRAGMATA00000000
+Xbox: pragmata/9p5wngbtl9x6
 
 Psychonauts 2
 SRC: psychonauts_2
 Steam: 607080
+PS: UP6312-CUSA27145_00-PSYCHONAUTS2SIEA
+Xbox: psychonauts-2/9nbr2vxt87sj
 
 Quickie World
 SRC: quickie_world
@@ -674,6 +807,7 @@ Steam: 3196110
 
 Ratchet: Deadlocked
 SRC: rac4
+# not on PS store?
 
 Ratchet & Clank: Rift Apart
 SRC: rac_ra
@@ -684,19 +818,26 @@ Redout 2
 SRC: redout_2
 Steam: 1799930
 Nint: redout-2-switch
+PS: UP6856-PPSA05849_00-8009578235641746
+Xbox: redout-2/9n1jsm763wzg
 
 Resident Evil 2 Remake
 SRC: re2remake
 Steam: 883710
 # not doing the Cloud version on Nint E-Shop
+PS: UP0102-PPSA04288_00-BH2R000000000001
+Xbox: resident-evil-2/bwmh951m3g3p
 
 Resident Evil 3: Nemesis
 SRC: re3
 Steam: 4249120
+PS: UP0102-PPSA07815_00-CLASSICRE3000001
 
 Resident Evil: Requiem
 SRC: RE9
 Steam: 3764200
+PS: UP0102-PPSA30803_00-REREQUIEM0000000
+Xbox: resident-evil-requiem/9nmfwr0nrlzs
 
 Richard Burns Rally
 SRC: rbr
@@ -710,6 +851,8 @@ Rise of the Triad: Ludicrous Edition
 SRC: rottle
 Steam: 1421490
 Nint: rise-of-the-triad-ludicrous-edition-switch
+PS: UP0913-CUSA33926_00-2213124071231913
+Xbox: rise-of-the-triad-ludicrous-edition/9p17wwmqvp91
 
 Rock 'n' Roll Adventures
 SRC: rocknrolladventures
@@ -737,6 +880,8 @@ Nint: sega-ages-puyo-puyo-switch
 SEUM: Speedrunners from Hell
 SRC: seum
 Steam: 457210
+PS: UP0825-CUSA08828_00-SEUMSRHPS4SIEA00
+Xbox: seum-speedrunners-from-hell/bq9dnrmzz5xc
 
 Sheepy: A Short Adventure
 SRC: sheepy_a_short_adventure
@@ -747,15 +892,21 @@ Shovel Knight: King of Cards
 SRC: shovelknight
 Steam: 1116780
 Nint: shovel-knight-treasure-trove-switch
+PS: UP2200-CUSA01867_00-SHOVELKNIGHT0001
+Xbox: shovel-knight-treasure-trove/bpfvsms2mn7l
 
 Silent Hill f
 SRC: shf
 Steam: 2947440
+PS: JP0101-PPSA21159_00-MAINGAME00000000
+Xbox: silent-hill-f/9n5nfrqv2hqq
 
 Skull Island: Rise of Kong
 SRC: Skull_Island_Rise_of_Kong
 Steam: 2097890
 Nint: skull-island-rise-of-kong-switch
+PS: UP0283-PPSA15536_00-0610992683510571
+Xbox: skull-island-rise-of-kong/9n8ndgt7w3m5
 
 Slay the Spire II
 SRC: Slay_the_Spire_2
@@ -784,6 +935,8 @@ SRC: s3k
 
 Sonic Adventure
 SRC: sa1
+Xbox: sonic-adventure/C1S8X55L9SS1/0001
+# other plats have SADX, is that ok here?
 
 Sonic Dream Team
 SRC: sdt
@@ -798,6 +951,7 @@ SRC: srcw
 Steam: 2486820
 Nint: sonic-racing-crossworlds-switch
 PS: JP0177-PPSA08804_00-SONICRACINGCW000
+Xbox: sonic-racing-crossworlds/9njzsfp2znvk
 
 Sonic Rush
 SRC: sonicrush
@@ -818,11 +972,17 @@ Split Fiction
 SRC: splitfiction
 Steam: 2001120
 Nint: split-fiction-switch-2
+PS: UP0006-PPSA08560_00-SPLITSTANDARDED0
+Xbox: split-fiction/9n1wxxd1rl8d
 
 SpongeBob SquarePants: Titans of the Tide
 SRC: titans
 Steam: 2479650
 Nint: spongebob-squarepants-titans-of-the-tide-switch-2
+PS: EP4389-PPSA26893_00-SPONGEBOBGOO00WW
+Xbox: spongebob-squarepants-titans-of-the-tide/9msntxx00xml
+
+# TODO: figure out how to get links for both Spyro3 and Reignited3 for that both-versions race
 
 Spyro: Year of the Dragon
 SRC: spyro3
@@ -835,12 +995,15 @@ Spyro Reignited Trilogy
 SRC: spyrortpc
 Steam: 996580
 Nint: spyro-reignited-trilogy-switch
+PS: UP0002-CUSA12125_00-SPYROTRILOGY0001
+Xbox: spyro-reignited-trilogy/BWHFZNSL0PB5/0001
 
 SSX Tricky
 SRC: ssxtricky
 
 SSX3
 SRC: ssx3
+Xbox: ssx-3/BSRKCPSS0QTD/0001
 
 Star Fox 64: Lylat Wars
 SRC: sf64
@@ -848,24 +1011,31 @@ SRC: sf64
 Star Wars Battlefront II
 SRC: swbf2
 Steam: 6060
+Xbox: star-wars-battlefront-ii/BPV56ZX2B8PJ/0001
+# original, not the new one
 
 Star Wars Jedi: Fallen Order
 SRC: jfo
-PS: UP0006-PPSA02198_00-RESPAWNSWBIRDDOG
 Steam: 1172380
+PS: UP0006-PPSA02198_00-RESPAWNSWBIRDDOG
+Xbox: star-wars-jedi-fallen-order/C2CSDTSCBZ0C/0001
 
 Star Wars: Jedi Knight - Dark Forces II
 SRC: jkdf2
 Steam: 32380
+# several others are on PS store but not this one
 
 Stardew Valley
 SRC: stardew_valley
 Steam: 413150
 Nint: stardew-valley-switch
+PS: UP2456-CUSA06840_00-STARDEW00000SIEA
+Xbox: stardew-valley/9mwr1nc6vq6l
 
 Stellar Blade
 SRC: STELLAR_BLADE
 Steam: 3489700
+PS: UP9000-PPSA13196_00-STELLARBLADE0000
 
 Streets of Rage 2: New Era
 SRC: sor2newera
@@ -883,8 +1053,8 @@ Super Mario 64
 SRC: sm64
 
 Super Mario and Luigi World: Brotherhood
-SRC: TODO
-# unreleased?
+# no SRC yet, check again later, it was released like yesterday
+Link: https://www.smwcentral.net/?p=section&a=details&id=42669
 
 Super Mario Maker 2
 SRC: smm2
@@ -908,13 +1078,16 @@ Super Meat Boy 3D
 SRC: SMB_3D
 Steam: 3288210
 Nint: super-meat-boy-3d-switch-2
+PS: EP0822-PPSA31162_00-SUPERMEATBOY3D05
+Xbox: super-meat-boy-3d/9nj67tqq51z0
 
 Super Metroid
 SRC: supermetroid
 
 Super Monkey Ball: Stardust
 SRC: smbstardust
-# would be nice to link to some site for it
+Link: https://smbelite.net/games/stardust
+# best link I could find for downloading
 
 Super Princess Peach
 SRC: spp_
@@ -923,15 +1096,20 @@ Supraland
 SRC: supraland
 Steam: 813630
 Nint: supraland-switch
+PS: UP3864-CUSA23228_00-SUPRALAND000000A
+Xbox: supraland/9pn6mtjx8lzd
 
 Sword of the Sea
 SRC: Sword_of_the_Sea
 Steam: 2453160
+PS: EP0292-PPSA25344_00-0946238103518617
 
 Sworn
 SRC: Sworn
 Steam: 1763250
 Nint: sworn-switch
+PS: EP4064-PPSA21617_00-SWORN00000000000
+Xbox: sworn/9mwdjrq1bxtc
 
 System Shock 2
 SRC: systemshock2
@@ -940,6 +1118,11 @@ Steam: 238210
 
 TMNT IV: Turtles in Time
 SRC: teenage_mutant_ninja_turtles_iv_turtles_in_time
+# it's in the Cowabunga Collection, seems to be only option
+Steam: 1659600
+Nint: teenage-mutant-ninja-turtles-the-cowabunga-collection-switch
+PS: UP0101-PPSA04489_00-TMNTCOWABUNGAXXX
+Xbox: teenage-mutant-ninja-turtles-the-cowabunga-collection/9P7K3S4RT762/0010
 
 Tetris
 # NES
@@ -956,10 +1139,13 @@ Steam: 242530
 The Evil Within 2
 SRC: the_evil_within_2
 Steam: 601430
+PS: UP1003-CUSA06166_00-PRJGDN0000000000
+Xbox: the-evil-within-2/c40860j5r2mp
 
 The Gunk
 SRC: the_gunk
 Steam: 1087760
+Xbox: the-gunk/9p008l2ls87f
 
 The Land Before Time: Return to the Great Valley
 SRC: the_land_before_time_return_to_the_great_valley
@@ -996,11 +1182,15 @@ The Talos Principle
 SRC: talos_principle
 Steam: 257510
 Nint: the-talos-principle-deluxe-edition-switch
+PS: UP3643-CUSA00910_00-00000000000TALOS
+Xbox: the-talos-principle/C1TJ5KT8LT9J/0001
 
 Thirsty Suitors
 SRC: Thirsty_Suitors
 Steam: 1617220
 Nint: thirsty-suitors-switch
+PS: Thirsty Suitors
+Xbox: thirsty-suitors/9pls01jrjcwb
 
 This Is No Cave
 Steam: 2852760
@@ -1022,6 +1212,8 @@ TUNIC
 SRC: tunic
 Steam: 553420
 Nint: tunic-switch
+PS: UP0406-PPSA03054_00-3390974934506823
+Xbox: tunic/9nlrt31z4rwm
 
 UFO 50
 SRC: UFO_50
@@ -1031,8 +1223,10 @@ Nint: ufo-50-switch
 Unbeatable
 SRC: UNBEATABLE
 Steam: 2240620
+PS: UP3639-PPSA21262_00-0702192039072195
+Xbox: unbeatable/9pght174fzlq
 
-VS. Super Mario Bros
+VS. Super Mario Bros.
 SRC: vssmb
 Nint: arcade-archives-vs-super-mario-bros-switch
 
@@ -1040,6 +1234,7 @@ VVVVVV
 SRC: vvvvvv
 Steam: 70300
 Nint: vvvvvv-switch
+PS: UP2103-CUSA00826_00-VVVVVVGAMEAPPPS4
 
 Wario World
 SRC: ww
@@ -1048,6 +1243,7 @@ What the Golf?
 SRC: whatthegolf
 Steam: 785790
 Nint: what-the-golf-switch
+PS: UP5577-PPSA08452_00-WHATTHEGOLF00001
 
 Wii Sports
 SRC: wiisports
@@ -1056,19 +1252,27 @@ Windswept
 SRC: windswept
 Steam: 1660960
 Nint: windswept-switch
+PS: UP5155-PPSA31581_00-WINDSWEPT0000000
+Xbox: windswept/9nbgdtc9w9q7
 
 Wolfenstein: The Old Blood
 SRC: tob
 Steam: 350080
+PS: UP1003-CUSA01540_00-WOLFENSTEINBLOOD
+Xbox: wolfenstein-the-old-blood/bpv4gxtdcnsh
 
 Wuchang: Fallen Feathers
 SRC: WUCHANGFallen_Feathers
 Steam: 2277560
+PS: UP4040-PPSA09518_00-WUCHANGPS5000000
+Xbox: wuchang-fallen-feathers/9nprhd8gqkqs
 
 Yooka-Laylee and the Impossible Lair
 SRC: ylil
 Steam: 846870
 Nint: yooka-laylee-and-the-impossible-lair-switch
+PS: UP4064-CUSA16148_00-YOOKALAYLEEIL000
+Xbox: yooka-laylee-and-the-impossible-lair/9pgppzw59jb8
 
 Zelda: The Wand of Gamelon
 SRC: wandofgamelon
