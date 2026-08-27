@@ -10,15 +10,38 @@
 
 # current status:
 # games entered: AGDQ26, SGDQ26, except for Halo CE Cursed Again
-# steam: checked everything entered that it could reasonably have
+# steam: checked everything 2026 that it could reasonably have
 # itch: only checked if steam was missing
-# nint: checked all games entered
-# ps: checked all games entered
-# xbox: checked all games entered
+# nint: checked all 2026
+# ps: checked all 2026
+# xbox: checked all 2026
+# starting to add other games, currently: 0-D complete
+
+007: Agent Under Fire
+SRC: auf
+# GC, PS2, XbC
+
+007: Nightfire
+SRC: 007nf
+# GC, PS2, XbC
+
+10 Second Ninja X
+SRC: 10snx
+Steam: 435790
+Nint: 10-second-ninja-x-switch
+PS: UP4395-CUSA04748_00-10SECNINJAPS4US0
+Xbox: 10-second-ninja-x/bvk0vm761v51
 
 12 Bananas
 SRC: 12_bananas
 Steam: 1393270
+
+140
+SRC: 140
+Steam: 242820
+Nint: 30xx-switch
+PS: UP2154-CUSA05444_00-0000000000140PS4
+Xbox: 140/BZLN1W2ML7MG/0001
 
 20XX
 SRC: 20xx
@@ -27,12 +50,35 @@ Nint: 20xx-switch
 PS: UP0259-CUSA11056_00-20XX000000000000
 Xbox: 20xx/9p9h0rgll29w
 
+30XX
+SRC: 30XX
+Nint: 30xx-switch
+
+A Bug's Life
+SRC: abl
+# PS1, also PC, N64
+
 A Hat in Time
 SRC: ahit
 Steam: 253230
 Nint: a-hat-in-time-switch
 PS: UP3864-CUSA09267_00-AHATINTIMEPS4000
 Xbox: a-hat-in-time/bx91dhsr4c5t
+
+A Short Hike
+SRC: ash
+Steam: 1055540
+Nint: a-short-hike-switch
+PS: UP7124-CUSA29611_00-5721900664542776
+Xbox: a-short-hike/9nk78df207sd
+
+A Story About My Uncle
+SRC: asamu
+Steam: 278360
+
+A.R.E.S.: Extinction Agenda EX
+SRC: aresex
+Steam: 315340
 
 Absolum
 SRC: Absolum
@@ -46,9 +92,139 @@ Steam: 1721110
 PS: EP1470-PPSA32559_00-0311398312658520
 Xbox: absolum/9nr6nj401nbs
 
+ActRaiser
+SRC: actraiser1
+# snes, there's Renaissance remake but no ports since WiiVC
+
+ActRaiser 2
+SRC: actraiser2
+
+Action Henk
+SRC: henk
+Steam: 285820
+PS: UP4395-CUSA02892_00-ACTIONHENKPS4US0
+Xbox: action-henk/bs6hbzbj1tws
+
+Advance Wars
+SRC: advancewars1
+
+Adventure Island II
+SRC: ai2
+# nes, gba
+
+Adventures of Lolo
+SRC: lolo1
+# src lists Switch port but not found on eShop?
+
+Adventures of Lolo 2
+SRC: lolo2
+
 Adventures of Yogi Bear
 # SNES
 SRC: adventures_of_yogi_bear
+
+Aero the Acro-Bat 2
+SRC: aero2
+Nint: aero-the-acro-bat-2-switch
+
+Afterimage
+SRC: afterimage
+Steam: 1701520
+Nint: afterimage-switch
+PS: UP4735-PPSA14052_00-AFTERIMAGEBASE00
+Xbox: afterimage/9n26vc8f7mzt
+
+Aladdin
+SRC: aladdin_genesis
+Steam: 1126190
+Nint: disney-classic-games-aladdin-and-the-lion-king-switch
+PS: UP1082-CUSA16968_00-ALADDIN000000000
+Xbox: disney-classic-games-aladdin-and-the-lion-king/9php9dzgp2h2
+# genesis, only re-release was a bundle with Aladdin+Lion King, used that for all
+
+# TODO: series numbering inconsistent
+Alan Wake 2
+SRC: Alan_Wake_2
+PS: UP1477-PPSA02571_00-ALANWAKE20000000
+Xbox: alan-wake-2/9pnzh065x7pv
+Link: https://store.epicgames.com/p/alan-wake-2
+
+Alan Wake II: Night Springs
+SRC: Alan_Wake_2_Night_Springs
+PS: UP1477-PPSA02571_00-DELUXEUPGRADE000
+Xbox: alan-wake-2-deluxe-upgrade/9MTH1ZT0GK9H/0010
+Link: https://store.epicgames.com/p/alan-wake-2--deluxe-upgrade
+
+Alan Wake II: The Lake House
+SRC: Alan_Wake_2_The_Lake_House
+PS: UP1477-PPSA02571_00-DELUXEUPGRADE000
+Xbox: alan-wake-2-deluxe-upgrade/9MTH1ZT0GK9H/0010
+Link: https://store.epicgames.com/p/alan-wake-2--deluxe-upgrade
+
+Alcatraz: Prison Escape
+SRC: alcatraz_prison_escape
+# pc, not on steam
+
+ALF
+SRC: alf
+# SMS
+
+Alien Cabal
+SRC: Alien Cabal
+# pc, not on steam
+
+Alien Soldier
+SRC: alien_soldier
+# genesis, several ports but none still available
+
+Alien Swarm
+SRC: alienswarm
+Steam: 630
+
+Alien: Isolation
+SRC: ai
+Steam: 214490
+Nint: alien-isolation-switch
+PS: UP0177-CUSA00363_00-ALIENISOLATIONP4
+Xbox: alien-isolation/c1h9v6slk2k5
+
+Alisa
+SRC: alisa
+Steam: 1335530
+# is "developer's cut" any different?
+Nint: alisa-developers-cut-switch
+PS: UP5155-PPSA14735_00-ALISA00000000000
+Xbox: alisa-developers-cut/9p3gwk7cbwmq
+
+Alone in the Dark
+# og dos version
+SRC: aitd1
+Steam: 548090
+
+Alpha Prime
+SRC: alpha_prime
+Steam: 2590
+
+ALTF4
+SRC: altf4
+Steam: 1137460
+Nint: altf4-switch
+
+Altered Beast
+SRC: altered_beast
+# genesis, how is this the only store available? lol
+Xbox: altered-beast/C12853ZXS6PF/0001
+
+Alwa's Legacy
+SRC: alwas_legacy
+Steam: 1205900
+Nint: alwas-legacy-switch
+PS: UP4907-CUSA27022_00-ALWASLEGACY00001
+# src says Xb1 port, not on MS store?
+
+Amagon
+SRC: amagon
+# nes
 
 American Idol
 # GBA
@@ -60,21 +236,209 @@ Steam: 270880
 # PS port announced, https://store.playstation.com/en-us/concept/10008808
 Xbox: american-truck-simulator/9nwwkck9kd5f
 
+# TODO: decapitalize
+AMID EVIL
+SRC: amid_evil
+Steam: 673130
+
+Amnesia: Rebirth
+SRC: rebirth
+Steam: 999220
+Nint: amnesia-rebirth-switch-2
+PS: UP1192-CUSA19254_00-AMNESIAREBIRTH20
+Xbox: amnesia-rebirth/9pmm21kvrd72
+
 Amnesia: The Bunker
 SRC: atb
 Steam: 1944430
 PS: UP1192-CUSA40994_00-AMNESIATHEBUNKER
 Xbox: amnesia-the-bunker/9pc15h56ngjk
 
+Amnesia: The Dark Descent
+SRC: tdd
+Steam: 57300
+# released on console as Collection, with Dark Descent, Machine For Pigs, Justine
+Nint: amnesia-collection-switch
+PS: UP1192-CUSA05882_00-AMNESIACOLECTION
+Xbox: amnesia-collection/BV02TBL15DX3/0001
+
+Amy
+SRC: amy
+# ps3/Xb360, not on either store :(
+
+ane-san
+SRC: ane-san
+# TG-16
+
 Animal Crossing: City Folk
 SRC: accf
 # Wii
+
+Animal Well
+SRC: animalwell
+Steam: 813230
+Nint: animal-well-switch
+PS: UP7425-PPSA06799_00-9351926314516028
+Xbox: animal-well/9nfcmc3s42nv
+
+Animaniacs
+SRC: animaniacs_snes
+# snes
+
+Animorphs
+SRC: animorphs
+# gbc
+
+Anodyne
+SRC: anodyne
+Steam: 234900
+Nint: anodyne-switch
+PS: UP4352-CUSA05869_00-NNANODYNEGAME0US
+Xbox: anodyne/bq52cp76239l
+
+Another Crab's Treasure
+SRC: Another_Crabs_Treasure
+Steam: 1887840
+Nint: another-crabs-treasure-switch
+PS: UP7131-PPSA20422_00-ANOTHERCRABS4US5
+Xbox: another-crabs-treasure/9p97ztrth25w
+
+Another World: 20th Anniversary Edition
+SRC: another_world
+Steam: 233550
+Nint: another-world-switch
+PS: UP4489-CUSA00748_00-ANOTHERWORLD0000
+Xbox: another-world-20th-anniversary-edition/bnzdgm7wjwgj
+
+Antichamber
+SRC: antichamber
+Steam: 219890
+
+Ape Escape
+SRC: ae1
+PS: UP9000-PPSA06319_00-SCUS944230000000
+
+Ape Escape 2
+SRC: ae2
+PS: UP9000-CUSA02194_00-SCES508850000001
+
+Arabian Nights
+SRC: arabian_nights
+# PC, not on steam
+
+Aragami
+SRC: aragami
+Steam: 280160
+Nint: aragami-shadow-edition-switch
+PS: UP1578-CUSA06168_00-0000000000000001
+Xbox: aragami-shadow-edition/c4ffztswhx91
+# switch and xbox are "shadow edition", inc some DLC
+
+Ardy Lightfoot
+SRC: ardy_lightfoot
+# snes
+
+Arkanoid
+SRC: arkanoid
+# there's an Arcade Archives on Switch/PS4, but the NES version was what was played
+
+Armored Core: Project Phantasma
+SRC: armored_core_project_phantasma
+PS: UP0506-PPSA21308_00-ARMOREDCOREPP000
 
 Armored Core VI: Fires of Rubicon
 SRC: acvi
 Steam: 1888160
 PS: UP0700-PPSA06774_00-ARMOREDCORE60000
 Xbox: armored-core-vi-fires-of-rubicon/9p4sv7r7n3hw
+
+Arzette: The Jewel of Faramore
+SRC: Arzette_The_Jewel_of_Faramore
+Steam: 1924780
+Nint: arzette-the-jewel-of-faramore-switch
+PS: UP6893-CUSA44605_00-0914485293643901
+Xbox: arzette-the-jewel-of-faramore/9plrq4mtp93z
+
+Asghan: The Dragon Slayer
+SRC: asghan
+# pc, not on steam
+
+Astalon: Tears of the Earth
+SRC: astalon_tears_of_the_earth
+Steam: 1046400
+Nint: astalon-tears-of-the-earth-switch
+PS: UP4127-CUSA25970_00-ASTALONUS0000000
+Xbox: astalon-tears-of-the-earth/9n5gxv5mcnh4
+
+Astral Chain
+SRC: astral_chain
+Nint: astral-chain-switch
+
+Astro Bot
+SRC: Astro_Bot
+PS: UP9000-PPSA21564_00-0000000000000000
+
+Astro's Playroom
+SRC: astros_playroom
+PS: IP9100-PPSA01325_00-PREINMASTER00000
+
+Ato
+SRC: ato
+Steam: 1096180
+Nint: ato-switch
+PS: UP6547-CUSA28048_00-2705751867065666
+Xbox: ato-xbox/9N5RHLTFFS4R/0010
+
+Attack on Titan 2: Final Battle
+SRC: attack_on_titan_2
+# DLC mission, linking to just DLC in all
+Steam: 1001060
+Nint: attack-on-titan-2-final-battle-upgrade-pack-70050000012682-switch
+PS: UP4108-CUSA08956_00-AT2EDEN000000000
+Xbox: attack-on-titan-2-final-battle-upgrade-pack/C3SG3VWMR88W/0001
+
+Avoid the Noid
+SRC: Avoid_the_Noid
+# DOS, not on steam
+
+Ax Battler: A Legend of Golden Axe
+SRC: ax_battler_a_legend_of_golden_axe
+# game gear
+
+Axiom Verge
+SRC: axiomverge
+Steam: 332200
+Nint: axiom-verge-switch
+PS: UP2149-CUSA01230_00-AXIOMVERGE001PS4
+Xbox: axiom-verge/bxsgs7t2crh1
+
+Axiom Verge 2
+SRC: axiomverge2
+Steam: 946030
+Nint: axiom-verge-2-switch
+PS: UP2149-PPSA05172_00-8610758557647620
+Xbox: axiom-verge-2/9njbr829kqp2
+
+Baba Is You
+SRC: baba
+Steam: 736260
+Nint: baba-is-you-switch
+
+Backyard Skateboarding
+SRC: bysb
+# pc, nonsteam
+
+Bad Dudes
+SRC: bad_dudes_nes
+# nes, also arcade?
+
+Bad Guys At School
+SRC: bad_guys_at_school
+Steam: 1218280
+
+Bad Way
+SRC: bad_way
+Steam: 1497330
 
 Bait & Tackle
 SRC: BaitAndTackle
@@ -87,10 +451,52 @@ Nint: balatro-switch
 PS: UP3639-PPSA21401_00-0767712965312971
 Xbox: balatro/9pk087lngjc5
 
+Baldur's Gate 3
+SRC: baldurs_gate_3
+Steam: 1086940
+PS: UP3526-PPSA14001_00-0507384846053057
+Xbox: baldurs-gate-3/9nd58lqtg09t
+
+Baldur's Gate Enhanced Edition
+SRC: baldurs_gate_enhanced_edition
+Steam: 228280
+# consoles package 1+2 Enhanced
+Nint: baldurs-gate-and-baldurs-gate-ii-enhanced-editions-switch
+PS: UP0346-CUSA15671_00-BGANDBGIICONSOLE
+Xbox: baldurs-gate-and-baldurs-gate-ii-enhanced-editions/9ncnbwzshzr5
+
+Banana Prince
+SRC: banana_prince
+# nes
+
+Bangai-O!
+SRC: bangai-o
+# Dreamcast, SRC lists xb360 port but not on ms store
+
+Banjo-Kazooie
+SRC: bk
+Xbox: banjo-kazooie/bsjg7ttswvj2
+# N64
+
 Banjo-Tooie
 SRC: bt
 Xbox: banjo-tooie/br8c26fgq9qq
 # N64
+
+Barbie
+SRC: barbienes
+# NES
+
+Baron Of Shell
+SRC: baron_of_shell
+Link: https://www.smwcentral.net/?p=viewthread&t=118610
+
+Bastion
+SRC: bastion
+Steam: 107100
+Nint: bastion-switch
+PS: UP2125-CUSA02052_00-BASTIONGAME00000
+Xbox: bastion/bvvp3lxmlp85
 
 Bat to the Heavens
 SRC: Bat_to_the_Heavens
@@ -100,9 +506,137 @@ Batman Beyond: Return of the Joker
 SRC: bbrotj
 # N64
 
+Batman Forever
+SRC: batman_forever
+# Genesis was run, also SNES, GB
+
+Batman Forever: The Arcade Game
+SRC: bfa
+
+Batman Returns
+SRC: batman_returns
+# snes
+
+Batman: Arkham Asylum
+SRC: arkhamasylum
+Steam: 35140
+Nint: batman-arkham-asylum-switch
+# PS+Xb are Collection, Asylum+City+Knight
+PS: UP1018-CUSA00133_00-ARKHAMBUNDLE0000
+Xbox: batman-arkham-collection/C4H36B87SVL1/0001
+
+Batman: Arkham City
+SRC: arkhamcity
+Steam: 200260
+Nint: batman-arkham-city-switch
+# PS+Xb are Collection, Asylum+City+Knight
+PS: UP1018-CUSA00133_00-ARKHAMBUNDLE0000
+Xbox: batman-arkham-collection/C4H36B87SVL1/0001
+
+Batman: The Video Game
+SRC: batman_the_video_game_nes
+# NES
+
+Battle Axe
+SRC: battleaxe
+Steam: 1167300
+Nint: battle-axe-switch
+PS: UP5756-CUSA19633_00-BATTLEAXE1234567
+Xbox: battle-axe/9PHC3LHFWQ3V/0010
+
+Battle of the Eras
+SRC: battle_of_the_eras
+# dos
+Link: https://archive.org/details/msdos_Battle_of_the_Eras_1995
+
+BattleBlock Theater
+SRC: battleblock_theater
+Steam: 238460
+Xbox: battleblock-theater/bq30j3n2lpzx
+
+# TODO: split the GB run and NES runs, NES info below
+Battletoads
+SRC: battletoads_nes
+
+Battletoads & Double Dragon
+SRC: battletoads_and_double_dragon_snes
+
+Bayonetta
+SRC: bayonetta
+Steam: 460790
+Nint: bayonetta-switch
+PS: UP0177-CUSA16113_00-BAYONETTAPS4GAME
+Xbox: bayonetta/9pcr9q61r2h1
+
+Bayonetta 2
+SRC: bayonetta2
+Nint: bayonetta-2-switch
+
+Beard Blade
+SRC: beard_blade
+Steam: 1546940
+
+Beast Wars: Transformers
+SRC: bwtf
+# PS1, src says others but not on Sony or Steam stores
+
+Beat Saber
+SRC: BeatSaber
+Steam: 620980
+PS: UP4882-PPSA14734_00-BEATSABERFULLPS5
+
+Beat Slayer
+SRC: BeatSlayer
+Steam: 2089830
+
+Beautiful Katamari
+SRC: bkd
+Xbox: beautiful-katamari/9MVKRBF05BN4/0010
+
+Beetlejuice
+SRC: beetlejuice
+# NES
+
+Beyond Oasis
+SRC: beyond_oasis
+# played on PC, can't find on Steam
+# SRC also lists Genesis, PS3, Xb360, and Switch, can't find there either
+
+Big Rigs: Over the Road Racing
+SRC: bigrigs
+Steam: 3598130
+
 Bill Nye: The Science Guy – Stop the Rock!
 # PC, nonsteam
 # no SRC page
+
+Billy Hatcher and the Giant Egg
+SRC: bh
+# never left the gamecube
+
+Bio Miracle Bokutte Upa
+SRC: biomiracle
+# NES, on all the virtual consoles but no Switch release
+
+Bionic Commando
+# the 2009 reboot is the only one played?
+SRC: bc09
+Steam: 21670
+
+Bionic Commando Rearmed 2
+SRC: bcr2
+Xbox: bc-rearmed-2/C34MG6M35D3S/0001
+
+BioShock
+SRC: bs1
+Steam: 7670
+Xbox: bioshock/BTBMZQ3FM2V8/0001
+# switch/ps4/xb1 port is remaster
+
+BioShock 2
+SRC: bs2
+Steam: 8850
+Xbox: bioshock-2/BVXR4C8LTHS1/0001
 
 BioShock Infinite
 SRC: bsi
@@ -111,6 +645,101 @@ Nint: bioshock-infinite-the-complete-edition-switch
 PS: UP1001-CUSA03980_00-BIOSHOCKCOMPLETE
 Xbox: bioshock-infinite-the-complete-edition/btc8br7v276x
 # original Xb360 release (currently more expensive) at bioshock-infinite/c4xx6jl0n0dm
+
+Birds Aren't Real: The Game
+# not on SRC, Birds_Arent_Real is a different game, somehow
+Steam: 2553710
+
+Bishoujo Senshi Sailor Moon R
+SRC: bssmr
+# snes
+
+Bite Night
+SRC: Bite_Night
+Steam: 2951520
+
+Black Mesa
+SRC: bms
+Steam: 362890
+
+Blade II
+SRC: blade_2
+# PS2, XbC
+
+Blasphemous
+SRC: blasphemous
+Steam: 774361
+Nint: blasphemous-switch
+PS: UP4064-CUSA16275_00-BLASPHEMOUS00000
+Xbox: blasphemous/9p0478ztxlz4
+
+Blast Corps
+SRC: blast_corps
+# N64, supposedly on Xb1 and Switch, not on either store
+
+Blaster Master
+SRC: blaster_master
+# NES, also VC
+
+Blaster Master Zero
+SRC: blaster_master_zero
+Steam: 1034900
+Nint: blaster-master-zero-switch
+PS: UP1104-CUSA19643_00-BLASTERMASTER001
+Xbox: blaster-master-zero/9pmn2bnx3h62
+
+Blazing Chrome
+SRC: blazing_chrome
+Steam: 609110
+Nint: blazing-chrome-switch
+PS: UP5358-CUSA14656_00-BLAZINGCHROMEPS4
+Xbox: blazing-chrome/9N5P2152RBPM/0010
+
+Blinx the Time Sweeper
+SRC: blinx1
+Xbox: blinx-the-time-sweeper/brg51c5mwfsg
+
+Block Dude
+SRC: block_dude
+Link: https://www.ticalc.org/archives/files/fileinfo/109/10990.html
+# maybe also the recomp at https://github.com/sp00nznet/blockdude-ti-recomp
+
+Blood
+SRC: blood
+# PC, if it's on Steam it's buried under five thousand other games with Blood in their title
+
+Bloodborne
+SRC: bloodborne
+PS: UP9000-CUSA00900_00-BLOODBORNE000000
+
+Bloodstained: Curse of the Moon
+SRC: bscotm
+Steam: 838310
+Nint: bloodstained-curse-of-the-moon-switch
+PS: UP1104-CUSA12562_00-COTMPS4APPUS0000
+Xbox: bloodstained-curse-of-the-moon/btg951rgx7qd
+
+Bloodstained: Curse of the Moon 2
+SRC: bscotm2
+Steam: 1257360
+Nint: bloodstained-curse-of-the-moon-2-switch
+PS: UP1104-CUSA23490_00-COTM2PS4APP00000
+Xbox: bloodstained-curse-of-the-moon-2/9pp77q60x2wq
+
+Bloodstained: Ritual of the Night
+SRC: bsrotn
+Steam: 692850
+Nint: bloodstained-ritual-of-the-night-switch
+PS: UP4040-CUSA07953_00-BLOODSTAINED0000
+Xbox: bloodstained-ritual-of-the-night/9p9k78101lcw
+
+Bloody Hell
+SRC: bloody_hell
+Store: 2056220
+
+Bloody Wolf
+SRC: bloody_wolf
+# TG16, also on WiiVC
 
 Bloons TD 6
 SRC: btd6
@@ -126,21 +755,166 @@ Nint: blue-fire-switch
 PS: UP4780-CUSA19549_00-BLUEFIREPS400001
 Xbox: blue-fire/9p19v385gm8t
 
+Bluey: The Videogame
+SRC: Bluey_The_Videogame
+Steam: 2078350
+Nint: bluey-the-videogame-switch
+PS: UP3824-PPSA09955_00-BUEYBASEGAME0001
+Xbox: bluey-the-videogame/9n2j0fgv30dx
+
+Bomb Rush Cyberfunk
+SRC: brc
+Steam: 1353230
+Nint: bomb-rush-cyberfunk-switch
+PS: UP2557-PPSA11326_00-3935354892661937
+Xbox: bomb-rush-cyberfunk/9pn0wrt1zfj2
+
+Bomberman 64
+SRC: bm64
+
+# TODO: standardize on exclamation point
+Bomberman 64: The Second Attack!
+SRC: b642
+
 Bomberman Fantasy Race
 SRC: bfr
+
+Bomberman Hero
+SRC: bhero
+# N64
+
+Bonk's Adventure
+SRC: bonksadventure
+# TG16
+
+Bonk's Revenge
+SRC: bonksrevenge
+# TG16
+
+Boogerman: A Pick and Flick Adventure
+SRC: Boogerman_Genesis
+
+Boomerang X
+SRC: boomerang_x
+Steam: 1170060
+Nint: boomerang-x-switch
+
+Borderlands: Game of the Year Enhanced
+SRC: bl1e
+Steam: 729040
+Nint: borderlands-game-of-the-year-edition-switch
+PS: UP1001-CUSA10455_00-BORDERLANDSHD001
+Xbox: borderlands-game-of-the-year-edition/BVMMV3Q3ZB1F/0001
+# not 100% sure Xbox version is "Enhanced", but seems to be
+
+Borderlands: The Pre-Sequel!
+SRC: tps
+Steam: 261640
+Nint: borderlands-the-handsome-collection-switch
+# Nint is BL2 + BLTPS
+PS: UP1001-CUSA01401_00-BORDERLANDSHDCOL
+# PS is BL2 + BLTPS
+Xbox: borderlands-the-pre-sequel/BT056K0FLWHT/0001
 
 Borderlands 2
 SRC: bl2
 Steam: 49520
 Nint: borderlands-the-handsome-collection-switch
-# Nint is BL2 + Pre-Sequel
-PS: UP1001-CUSA01401_00-BLLEGENDARY00000
-# PS is BL1 + BL2 + BLTPS
+# Nint is BL2 + BLTPS
+PS: UP1001-CUSA01401_00-BORDERLANDSHDCOL
+# PS is BL2 + BLTPS
 Xbox: borderlands-2/bv5scj9jm8v0
 # xbox has xb360 version at borderlands-2/brc33x34h2c9
 
+Bound
+SRC: bound
+PS: UP9000-CUSA04193_00-BOUNDGAMEUS00001
+
+# TODO: maybe reclass as SM3DW+BF?
+Bowser's Fury
+SRC: sm3dw_bf
+Nint: super-mario-3d-world-plus-bowsers-fury-switch
+
+BPM: Bullets Per Minute
+SRC: bpm_bullets_per_minute
+Steam: 1286350
+Nint: bpm-bullets-per-minute-switch
+PS: UP1057-CUSA28294_00-BPMPS4GAMESIEA01
+Xbox: bpm-bullets-per-minute/9nvr7gxmntv4
+
+Braid
+SRC: braid
+Steam: 26800
+Xbox: braid/BZGPBRQ3LZ7G/0001
+# Nint+PS have Anniversary Edition
+
+Brave New World
+SRC: brave_new_world
+Link: https://www.smwcentral.net/?p=section&a=details&id=30248
+
+Brilliant Bob
+SRC: brilliant_bob
+# PC, nonsteam... but it's 2015, so should be around somewhere? not on Itch either
+
+BS Legend of Zelda
+SRC: bs_legend_of_zelda
+
+Bubble Bobble Part 2
+SRC: bubblebobblepart2
+# NES
+
+Bucky O'Hare
+SRC: bucky
+# NES
+
 Bug Blasters: The Exterminators
 # no SRC even
+
+Bugsnax
+SRC: bugsnax
+Steam: 674140
+Nint: bugsnax-switch
+PS: UP2104-PPSA01502_00-BSNAX92769600533
+Xbox: bugsnax/9p0fq0xcv0lb
+
+Bulk Slash
+SRC: bulk_slash
+# Saturn
+
+Burnout Paradise
+SRC: bparadise
+Xbox: burnout-paradise/C0T2LWMM6NSQ/0001
+
+Burnout Paradise Remastered
+SRC: bpr
+Steam: 1238080
+Nint: burnout-paradise-remastered-switch
+PS: UP0006-CUSA10866_00-STELLARPARADISE0
+Xbox: burnout-paradise-remastered/BQMQ3K1BLV1T/0001
+
+Bust-A-Move 4
+SRC: bam4
+# played on PS1, also on many others
+
+BZZZT
+SRC: bzzzt
+Steam: 1293170
+Nint: bzzzt-switch
+
+C.B.T.
+SRC: CBT
+Steam: 2407660
+
+Cadence of Hyrule
+SRC: coh
+Nint: cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-switch
+
+Call of Duty 4: Modern Warfare
+# original, not remaster
+SRC: cod4
+Steam: 7940
+Xbox: call-of-duty-4-modern-warfare/C1K9426124PR/0001
+# xb360 version, also has PC version
 
 Call of Duty: Modern Warfare 2
 # original, not remaster
@@ -148,19 +922,159 @@ SRC: mw2
 Steam: 10180
 Xbox: call-of-duty-modern-warfare-2/c2nngcpr2xp8
 
+Cannon Spike
+SRC: cannon_spike
+# dreamcast+arcade
+
+Captain Novolin
+SRC: captain_novolin
+# SNES
+
+Carrion
+SRC: carrion
+Steam: 953490
+Nint: carrion-switch
+PS: UP3643-PPSA13286_00-0968960074916920
+Xbox: carrion/9npkknbj258v
+
+Casio Mario World
+SRC: casio_mario_world
+Link: https://www.smwcentral.net/?p=section&a=details&id=24990
+
+Cassette Beasts
+SRC: cassette_beasts
+Steam: 1321440
+Nint: cassette-beasts-switch
+Xbox: cassette-beasts/9n82snqtzvmq
+
+Castle of Dragon
+SRC: castle_of_dragon
+# NES
+# Switch has a port of the arcade version: https://www.nintendo.com/us/store/products/arcade-archives-castle-of-dragon-switch/
+
+Castle of Illusion Starring Mickey Mouse
+SRC: castle_of_illusion_genesis
+
+# quick Castlevania collection notes:
+# Anniversary Collection has: Castlevania, CV2 Simon's Quest, CV3 Dracula's Curse, Super Castlevania IV, Castlevania: The Adventure, CV2 Belmont's Revenge, Castlevania: Bloodlines, Kid Dracula
+# Advance Collection has: Circle of the Moon, Harmony of Dissonance, Aria of Sorrow, Dracula X
+# Dominus Collection has: Dawn of Sorrow, Portrait of Ruin, Order of Ecclesia, Haunted Castle
+
 Castlevania
 SRC: cv1
+# Anniversary collection
 Steam: 1018010
 PS: UP0101-CUSA15109_00-CASTLEVANIAGAMES
 Xbox: castlevania-anniversary-collection/9phm9kwzc44f
-# steam + PS + Xb are Anniversary collection
+
+Castlevania 64
+SRC: cv64
+
+Castlevania Chronicles
+SRC: castlevania_chronicles
+# PS1, doesn't seem to be in any collections?
+
+# TODO: standardize on roman numerals
+
+Castlevania 2: Belmont's Revenge
+SRC: cvbr
+# Anniversary collection
+Steam: 1018010
+PS: UP0101-CUSA15109_00-CASTLEVANIAGAMES
+Xbox: castlevania-anniversary-collection/9phm9kwzc44f
+
+Castlevania II: Simon's Quest
+SRC: cv2sq
+# Anniversary collection
+Steam: 1018010
+PS: UP0101-CUSA15109_00-CASTLEVANIAGAMES
+Xbox: castlevania-anniversary-collection/9phm9kwzc44f
+
+# TODO: there's some runs that didn't have "Dracula's Curse" in title, fix
+
+Castlevania III: Dracula's Curse
+SRC: cv3dc
+# Anniversary collection
+Steam: 1018010
+PS: UP0101-CUSA15109_00-CASTLEVANIAGAMES
+Xbox: castlevania-anniversary-collection/9phm9kwzc44f
+
+Castlevania Legends
+SRC: castlevania_legends
+# GB
+
+Castlevania: Aria of Sorrow
+SRC: aos
+# Advance collection
+Steam: 1552550
+Nint: castlevania-advance-collection-switch
+PS: UP0101-CUSA28029_00-CASTLEVANIAGAMES
+Xbox: castlevania-advance-collection/9mxw6jmgncxw
+
+Castlevania: Bloodlines
+SRC: castlevania_bloodlines
+# Anniversary collection
+Steam: 1018010
+PS: UP0101-CUSA15109_00-CASTLEVANIAGAMES
+Xbox: castlevania-anniversary-collection/9phm9kwzc44f
+
+Castlevania: Circle of the Moon
+SRC: ccotm
+# Advance collection
+Steam: 1552550
+Nint: castlevania-advance-collection-switch
+PS: UP0101-CUSA28029_00-CASTLEVANIAGAMES
+Xbox: castlevania-advance-collection/9mxw6jmgncxw
 
 Castlevania: Dawn of Sorrow
 SRC: cvdos
+# Dominus Collection (was played in AGDQ26)
 Steam: 2369900
 PS: JP0101-PPSA15645_00-DOMINUSCOLLECTIO
 Xbox: castlevania-dominus-collection/9p07h5jq4r5q
-# steam+PS+Xb links are Dominus Collection, which is what was played in AGDQ26
+
+Castlevania: Dracula X
+SRC: dracx
+# Advance collection
+Steam: 1552550
+Nint: castlevania-advance-collection-switch
+PS: UP0101-CUSA28029_00-CASTLEVANIAGAMES
+Xbox: castlevania-advance-collection/9mxw6jmgncxw
+
+Castlevania: Harmony of Despair
+SRC: castlevaniahd
+Xbox: castlevania-harmony-of-despair/bzs1294v9fq3
+
+Castlevania: Harmony of Dissonance
+SRC: cvhod
+# Advance collection
+Steam: 1552550
+Nint: castlevania-advance-collection-switch
+PS: UP0101-CUSA28029_00-CASTLEVANIAGAMES
+Xbox: castlevania-advance-collection/9mxw6jmgncxw
+
+Castlevania: Lament of Innocence
+SRC: loi
+# PS2
+
+Castlevania: Order of Ecclesia
+SRC: ooe
+# Dominus Collection
+Steam: 2369900
+PS: JP0101-PPSA15645_00-DOMINUSCOLLECTIO
+Xbox: castlevania-dominus-collection/9p07h5jq4r5q
+
+Castlevania: Portrait of Ruin
+SRC: por
+# Dominus Collection
+Steam: 2369900
+PS: JP0101-PPSA15645_00-DOMINUSCOLLECTIO
+Xbox: castlevania-dominus-collection/9p07h5jq4r5q
+
+Castlevania: Rondo of Blood
+SRC: rondo
+PS: UP0101-CUSA13434_00-CASTLEVANIA00001
+# PS combined SotN + Rondo of Blood
 
 Castlevania: Symphony of the Night
 # many ports, usually run on xb360
@@ -169,14 +1083,148 @@ Xbox: castlevania-sotn/bstm3283756m
 PS: UP0101-CUSA13434_00-CASTLEVANIA00001
 # PS is Requiem, SotN + Rondo of Blood
 
+Castlevania: The Dracula X Chronicles
+SRC: dracxc
+# SRC says PSP+PSN, can't find
+
+Cat Bird
+SRC: cb
+Link: https://raiyumi.com/games/cat-bird/
+# TODO: iOS + Android specific links
+
+Catherine
+SRC: catherine
+Steam: 893180
+Xbox: catherine/c4gsvxgf65tt
+# Nint + PS have remaster
+
+Catlateral Damage
+SRC: catlateral_damage
+Steam: 329860
+PS: UP0259-CUSA04521_00-0000000000000001
+# Nint + Xb have remaster
+
+Cave Story
+SRC: cave_story
+# everything has Cave Story+ :(
+
+Cave Story 3D
+SRC: cs3d
+# 3DS
+
 Cavern of Dreams
 SRC: cavern_of_dreams
 Steam: 2059660
 Nint: cavern-of-dreams-switch
 
+Celeste
+SRC: celeste
+Steam: 504230
+Nint: celeste-switch
+PS: UP2120-CUSA11302_00-CELESTEXXCELESTE
+Xbox: celeste/bwmql2rpwbhb
+
+Celeste 64: Fragments of the Mountain
+SRC: celeste64
+Itch: maddymakesgamesinc.itch.io/celeste64
+
+Celeste Custom Maps: Monika's D-Sides
+SRC: monikas_d_sides
+Link: https://gamebanana.com/mods/150759
+
+Celeste Strawberry Jam Collab
+SRC: sj_collab
+Link: https://gamebanana.com/mods/424541
+
+Celeste.SMC
+SRC: celestesmc
+Link: https://www.smwcentral.net/?p=section&a=details&id=29613
+
+Chained Echoes
+SRC: chained_echoes
+Steam: 1229240
+Nint: chained-echoes-switch
+PS: UP0895-CUSA29546_00-2504169688645730
+Xbox: chained-echoes/9n1wwrpj12fk
+
+Chameleon Twist
+SRC: ctwist1
+# N64
+
+Chameleon Twist 2
+SRC: ctwist2
+
+Charlie Murder
+SRC: charlie_murder
+Steam: 405290
+# also had Xb360 version but not on MS store
+
+Chasm: The Rift
+SRC: ctrs
+# there's a Steam version at 2061230 but it has different SRC leaderboards
+
+Chex Quest
+SRC: chex_quest_
+Link: https://archive.org/details/ChexQuest12
+# TODO: better link?
+
+Chibi-Robo!
+SRC: cr
+# GC, on Switch2 NSO
+
+Chicken of the Farm
+SRC: chicken_of_the_farm
+Link: https://www.romhacking.net/homebrew/109/
+# NES homebrew
+
+Chicory: A Colorful Tale
+SRC: drawdog
+Steam: 1123450
+Nint: chicory-a-colorful-tale-switch
+PS: UP0406-PPSA03039_00-2395110143285364
+Xbox: chicory-a-colorful-tale/9pfgqgc0xwlv
+
+Children of the Sun
+SRC: childrenofthesun
+Store: 1309950
+
+Chip 'N Dale: Rescue Rangers
+SRC: chipndale
+# NES
+# TODO: replace an instance of "Chip 'n' Dale Rescue Rangers"
+
+Chip 'n Dale: Rescue Rangers 2
+SRC: chip_n_dale_rescue_rangers_2
+# NES
+
+Chippy
+SRC: chippy
+Steam: 602700
+Nint: chippy-switch
+
 Chrono Trigger
 SRC: ct
 Steam: 613830
+
+CHUNITHM LUMINOUS PLUS
+SRC: chunithm
+# arcade
+
+Chocobo GP
+SRC: chocobo_gp
+Nint: chocobo-gp-70010000069170-switch
+
+Choo-Choo Charles
+SRC: choo_choo_charles
+Steam: 1766740
+Nint: choo-choo-charles-switch
+PS: UB0022-PPSA17313_00-CHOOCHOOCHARLES0
+Xbox: choo-choo-charles/9P17KJLSCR59/0010
+
+City Bus Driver Simulator
+# PC, dev has steam page but no games, was it removed? seems so
+# can't find on itch either
+# found on https://steamdb.info/app/2124590/
 
 Clair Obscur: Expedition 33
 SRC: coe33
@@ -186,6 +1234,70 @@ Xbox: clair-obscur-expedition-33/9PPT8K6GQHRZ/0010
 
 Clash at Demonhead
 SRC: clash_at_demonhead
+# NES
+
+Clock Tower
+SRC: clocktower
+# SNES version was the one played
+# doesn't seem like Clock Tower: Rewind is same category
+
+Clone Hero
+Link: https://clonehero.net/
+
+Club Drive
+SRC: club_drive
+# Jaguar; linking to Atari 50 compilation
+Steam: 1919470
+Nint: atari-50-the-anniversary-celebration-switch
+PS: UP0182-CUSA34728_00-2519413700223400
+Xbox: atari-50-the-anniversary-celebration/9n3tfdsq531t
+
+Coca-Cola Kid
+SRC: cck
+# Game Gear
+
+COCOON
+# TODO: decapitalize
+SRC: cocoon
+Steam: 1497440
+Nint: cocoon-switch
+PS: UP2470-PPSA08765_00-COCOONSIEA000000
+Xbox: cocoon/9n3fps4ldhcr
+
+COGEN: SWORD OF REWIND
+# TODO: decapitalize
+# AKA: COGEN: 大鳥こはくと刻の剣
+SRC: cogen_sword_of_rewind
+Steam: 1514380
+Nint: cogen-sword-of-rewind-switch
+PS: UP1713-CUSA20572_00-COGEN00000000000
+Xbox: cogen-sword-of-rewind/9pfm07gkj9d4
+
+CometStriker
+SRC: cometstriker
+# assuming that DX is same for speedrun purposes, seem like it just adds coop
+Steam: 701040
+Nint: cometstriker-dx-switch
+PS: UP8654-PPSA17105_00-0727371736068839
+Xbox: cometstriker-dx/9nn20p7bxrg4
+
+Comfort Zone
+SRC: comfort_zone
+Link: https://www.smwcentral.net/?p=section&a=details&id=25095
+
+Command & Conquer: Red Alert 3
+SRC: cncra3
+Steam: 17480
+Xbox: command-conquer-red-alert-3/c2kf2l3vlrqt
+
+Condemned: Criminal Origins
+SRC: condemned
+# PC release missing from Steam, seems like Monolith stuff's mostly been pulled?
+Xbox: condemned/C4KCJBLFZ8V7/0001
+
+Conquests of the Longbow: The Legend of Robin Hood
+SRC: conquests_of_the_longbow_the_legend_of_robin_hood
+# DOS, too old for Steam apparently
 
 ConsTance
 SRC: Constance
@@ -194,12 +1306,73 @@ Nint: constance-switch
 PS: UB0202-PPSA29415_00-0084472210136540
 Xbox: constance/9mw6hcg5vqxr
 
+# Contra series note:
+# Anniversary Collection includes arcade/NES Contra, Super Contra, Super C, Contra III, Operation C, Contra Hard Corps, Probotector, Super Probotector Alien Rebels
+
+Contra
+SRC: contra
+# using Anniversary Collection 
+Steam: 1018020
+Nint: contra-anniversary-collection-switch
+PS: UP0101-CUSA15481_00-CONTRACOLLECTION
+Xbox: contra-anniversary-collection/9N3XQ7HX9RQ3/0010
+
+Contra III: The Alien Wars
+SRC: contra3
+# using Anniversary Collection 
+Steam: 1018020
+Nint: contra-anniversary-collection-switch
+PS: UP0101-CUSA15481_00-CONTRACOLLECTION
+Xbox: contra-anniversary-collection/9N3XQ7HX9RQ3/0010
+
+Contra ReBirth
+SRC: contra_rebirth
+# Wii
+
+Contra: Hard Corps
+SRC: contra_hard_corps
+# using Anniversary Collection 
+Steam: 1018020
+Nint: contra-anniversary-collection-switch
+PS: UP0101-CUSA15481_00-CONTRACOLLECTION
+Xbox: contra-anniversary-collection/9N3XQ7HX9RQ3/0010
+
 Contra: Operation Galuga
 SRC: Contra_Operation_Galuga
 Steam: 2235020
 Nint: contra-operation-galuga-switch
 PS: UP0101-PPSA15367_00-GALUGA00PS5NA000
 Xbox: contra-operation-galuga/9mvjw818qtfl
+
+Contra: Shattered Soldier
+SRC: contrass
+# PS2, supposed to be on PSN but can't find?
+
+Contrast
+SRC: contrast
+Steam: 224460
+PS: UP2092-CUSA00011_00-CONTRASTUS000001
+Xbox: contrast/bsltqt4l0rlv
+
+Control
+SRC: control
+Steam: 870780
+PS: UP4040-PPSA01949_00-CONTROLUEPS50000
+Xbox: control-ultimate-edition/9p7lvxnvq6k7
+# is Cloud Edition fine?
+Nint: Control
+
+Cool Spot
+SRC: cool_spot_snes
+# SNES version run, als GB + Genesis
+
+Cranked Up
+SRC: cranked_up
+Steam: 1074500
+
+Crash Bandicoot 2: Cortex Strikes Back
+SRC: crash2
+# NM: "Crash 2: N-Tranced" is a different game
 
 Crash Bandicoot 3: Warped
 SRC: crash3
@@ -210,6 +1383,86 @@ Steam: 1378990
 Nint: crash-bandicoot-4-its-about-time-switch
 PS: UP0002-PPSA02432_00-CB4THEGAME000001
 Xbox: crash-bandicoot-4-its-about-time/9pl64t7lzdn9
+# TODO: hunt down whichever one forgot the apostrophe in "It's"
+
+Crash Bandicoot N. Sane Trilogy
+# TODO: find any runs listed as "Crash Bandicoot: N. Sane Trilogy: Crash Bandicoot 1", move subgame into run category
+SRC: crashnst
+Steam: 731490
+Nint: crash-bandicoot-n-sane-trilogy-switch
+PS: UP0002-CUSA07402_00-CRASHNSANETRLOGY
+Xbox: crash-bandicoot-n-sane-trilogy/c27xpr5xdmft
+
+Crash Nitro Kart
+SRC: cnk
+# PS2/XbC/GC
+
+Crash Team Racing
+SRC: ctr
+# original, not remake
+
+Crazy Taxi
+SRC: crazy_taxi_1
+Xbox: crazy-taxi/btb16h9wg3jt
+# on many platforms, but Xb360 port is the only one still available :(
+
+Crimzon Clover: World EXplosion
+SRC: crimzon_clover_world_explosion_
+Steam: 1718160
+Nint: crimzon-clover-world-explosion-switch
+
+Crisis Core: Final Fantasy VII - Reunion
+SRC: crisis_core_final_fantasy_vii_reunion
+Steam: 1608070
+Nint: crisis-core-final-fantasy-vii-reunion-switch
+PS: UP0082-PPSA07809_00-CRISISCORE000000
+Xbox: crisis-core-final-fantasy-vii-reunion/9p6j9nfkgj68
+
+Croc 2
+SRC: crocgbc
+# only one I remember being run is the GBC one, if the PS1 version ever gets run will need to split
+
+crossbeats REV. Sunrise
+SRC: cbrev_sunrise
+# arcade
+
+CrossCode
+SRC: crosscode
+Steam: 368340
+Nint: crosscode-switch
+PS: UP0895-PPSA03235_00-3376510518243321
+Xbox: crosscode/9n04rqq64524
+
+Crossroad OS
+SRC: Crossroad_OS
+Steam: 1783800
+
+Crow Country
+SRC: Crow_Country
+Steam: 1996010
+Nint: crow-country-switch
+PS: UP6093-PPSA19067_00-0438761103283229
+Xbox: crow-country/9nl3807bgr12
+
+Crowtel Renovations
+SRC: crowtel_renovations
+Steam: 573520
+Itch: sink.itch.io/crowtel-renovations
+
+Cryostasis
+SRC: cryostasis
+# was on steam with appid 7850 but seems delisted
+
+Crypt Custodian
+SRC: Crypt_Custodian
+Steam: 2394650
+
+Crypt of the NecroDancer: AMPLIFIED
+SRC: crypt_of_the_necrodancer
+Steam: 554000
+PS: UP1162-CUSA03610_00-AMPLIFIED0000000
+Xbox: crypt-of-the-necrodancer-amplified/c34z106pr4fw
+# does Switch version just include Amplified?
 
 Crypt of the NecroDancer: Synchrony
 # no SRC? only base game
@@ -217,18 +1470,78 @@ Steam: 2094810
 Nint: crypt-of-the-necrodancer-synchrony-70050000046281-switch
 PS: UP1162-CUSA03610_00-SYNCHRONY0000000
 
-Croc 2
-SRC: crocgbc
-# only one I remember being run is the GBC one, if the PS1 version ever gets run will need to split
+Cult of the Lamb
+SRC: cult_of_the_lamb
+Steam: 1313140
+Nint: cult-of-the-lamb-switch
+PS: UP3643-PPSA06464_00-6576653892496327
+Xbox: cult-of-the-lamb/9pnlpmp1ggh5
+
+CULTIC
+# maybe decapitalize?
+SRC: cultic
+Steam: 1684930
+PS: UP0182-PPSA35094_00-CULTIC0000000000
+Xbox: cultic/9nnq1jq1fszl
+
+Cuphead
+SRC: cuphead
+Steam: 268910
+Nint: cuphead-switch
+PS: UP8062-CUSA20499_00-CUPHEAD000000000
+Xbox: cuphead/9njrx71m5x9p
+
+Curse Crackers: For Whom the Belle Toils
+SRC: curse_crackers
+Steam: 1726760
+Nint: curse-crackers-for-whom-the-belle-toils-switch
+
+Cyber Hook
+SRC: cyberhook
+Steam: 1130410
+Nint: cyber-hook-switch
+PS: UP4780-CUSA26223_00-2308713217674858
+
+Cybergenic Ranger: Secret of the Seventh Planet
+SRC: Cybergenic Ranger
+# DOS
 
 Cyberia
 SRC: cyberia1
 Steam: 624080
 
+Cybernator
+SRC: cybernator
+# SNES, SRC says also on WiiVC and PS2
+
+D/Generation
+SRC: dgen
+Steam: 389740
+Nint: d-generation-hd-switch
+PS: UP1640-CUSA04221_00-0000000000000001
+Xbox: d-generation-hd/c2tnxshx530h
+
 Dai-chan's Great Adventure: World's End
 aka: Daichan no Daibouken ~Sekaihoukai~ End Of World
 SRC: daichan_end_of_world
 Steam: 3145560
+
+DANCERUSH STARDOM
+SRC: drs
+# arcade, supposedly a PC version but not on steam
+# TODO: decapitalize
+
+Dandara: Trials of Fear
+SRC: dandara
+Steam: 612390
+Nint: dandara-trials-of-fear-edition-switch
+PS: UP2320-CUSA10749_00-DANDARALONGHATH1
+Xbox: dandara-trials-of-fear-edition/bqqd1khrwwl8
+
+Dangun Feveron
+# no SRC; primarily arcade
+PS: UP2789-CUSA06735_00-DANGUNFEVERONUSA
+Xbox: dangun-feveron/bzlxw6kx9935
 
 Darius Gaiden
 SRC: darius_gaiden
@@ -236,11 +1549,140 @@ Steam: 1638330
 PS: UP8012-CUSA18662_00-DARIUSCCARCADE00
 # steam+PS are Cozmic Collection
 
+Dark Messiah of Might and Magic
+SRC: dmomm
+Store: 2100
+
 Dark Souls
 SRC: darksouls
 Steam: 211420
 Xbox: dark-souls/C010V77JZ9J7/0001
 # old version, should I do remaster instead?
+
+Dark Souls II
+SRC: darksouls2
+Steam: 236430
+
+Dark Souls II: Scholar of the First Sin
+SRC: darksouls2sotfs
+Steam: 335300
+PS: UP0700-CUSA01760_00-DARKSOULS2000003
+Xbox: dark-souls-ii-scholar-of-the-first-sin/BVBQ72FDB4LK/0001
+
+Dark Souls III
+SRC: darksouls3
+Steam: 374320
+PS: UP0700-CUSA03388_00-DARKSOULS3000000
+Xbox: dark-souls-iii/bw2xdrnsccpz
+
+Dark Summit
+SRC: dark_summit
+# GC played, also PS2/XbC
+
+Darkened Skye
+SRC: darkenedskye
+# PC but not on Steam, also GC
+
+Darkest Dungeon
+SRC: darkest_dungeon
+Steam: 262060
+Nint: darkest-dungeon-switch
+PS: UP2619-CUSA05254_00-RHSDDPS400000001
+Xbox: darkest-dungeon/bxkvn6g9c5wj
+
+Darkman
+SRC: darkman
+# NES run, also GB
+
+Darksiders
+SRC: darksiders
+# NM: Warmastered Edition acceptable for SRC
+Steam: 50620
+Nint: darksiders-warmastered-edition-switch
+PS: EP4389-PPSA31977_00-DSWARMASTEREDPS5
+Xbox: darksiders-warmastered-edition/c2s06z61nj9j
+
+Darksiders Genesis
+SRC: darksiders_genesis
+Steam: 710920
+Nint: darksiders-genesis-switch
+PS: UP4389-CUSA12988_00-DARKSIDERSSSUS00
+Xbox: darksiders-genesis/brz9553vppbd
+
+Dead Cells
+SRC: deadcells
+Steam: 588650
+Nint: dead-cells-switch
+PS: UP4016-PPSA15552_00-DEADCELLSPS5SIEA
+Xbox: dead-cells/9nkvx66j0zsk
+
+Dead Rising
+SRC: dr1
+Steam: 427190
+PS: UP0102-CUSA04513_00-DEADRISING001PS4
+Xbox: dead-rising/bzv7w98b3xn4
+
+Dead Rising 2
+SRC: dr2
+Steam: 45740
+PS: UP0102-CUSA04313_00-DEADRISING002PS4
+Xbox: dead-rising-2/c3cspbfvq80k
+
+Dead Rising Deluxe Remaster
+SRC: DRDR
+Steam: 2527390
+PS: UP0102-PPSA18259_00-DEADRISING000001
+Xbox: dead-rising-deluxe-remaster/9p6bn1vhrrhn
+
+Dead Space
+SRC: ds1
+Steam: 17470
+Xbox: dead-space-2008/brjlj6rplqtj
+# also has PC variant on store
+
+Dead Space 2
+SRC: dsp2
+Steam: 47780
+Xbox: dead-space-2/c2pb7stljgs0
+# also has PC variant on store
+
+Dead Space 3
+SRC: ds3
+Steam: 1238060
+Xbox: dead-space-3/bp73lmgb1dfd
+
+Dead Space Remaster
+SRC: dead_space_2023
+Steam: 1693980
+PS: UP0006-PPSA03845_00-BEYONDPS5GAME000
+Xbox: dead-space/9nlb6v0gnc9p
+
+DeadCore
+SRC: deadcore
+Steam: 284460
+# supposedly on PS4/Xb1 as well, can't find
+
+DEATHLOOP
+# todo: decapitalize
+SRC: deathloop
+Steam: 1252330
+PS: UP1003-PPSA01302_00-DEATHLOOP0000000
+Xbox: deathloop/9p5z4530318l
+
+Deathsmiles
+SRC: deathsmiles
+Steam: 314180
+# console releases are 1+2 combined, which is also available on Steam
+Nint: deathsmiles-iii-switch
+PS: UP0794-CUSA30025_00-4058600052945049
+Xbox: deathsmiles-i-ii/9pd0n6m0qjt2
+
+DEEEER Simulator: Your Average Everyday Deer Game
+SRC: deeeer_simulator
+Steam: 1018800
+Nint: deeeer-simulator-your-average-everyday-deer-game-switch
+PS: UP0969-CUSA28368_00-9136974618081156
+Xbox: deeeer-simulator-your-average-everyday-deer-game/9nnbpbm2f60w
 
 Death's Door
 SRC: deaths_door
@@ -252,23 +1694,213 @@ Xbox: deaths-door/9ndz7nxff622
 Deja Vu
 SRC: dejavu
 
+Demolition Man
+SRC: demolition_man_snes
+# SNES version was run
+
+Demon's Crest
+SRC: demons_crest
+# SNES, supposedly on Switch?
+
+Demon's Souls
+SRC: demonssouls
+# PS3 only, not on PS store
+
+Demon's Souls Remake
+# TODO: retitle S21 run
+SRC: demonssouls2020
+PS: UP9000-PPSA01342_00-DEMONSSOULS00000
+
+Descent Maximum
+SRC: descent2?h=maximum-hotshot&x=xd1nlg82-6nj1m0vn.qvve3jrq
+# levelset from Descent II's PS1 port
+Steam: 273580
+# TODO: figure out where the Maximum levels come from? maybe link some source port?
+
+Destiny
+SRC: destiny
+# removed from Steam?
+PS: UP0002-CUSA00219_00-DSTCOLLECTION001
+Xbox: destiny/c2jqrc2c49b0
+
+Destiny 2
+SRC: destiny2
+Steam: 1085660
+PS: UP0002-PPSA02409_00-DESTINYTHEGAME02
+Xbox: destiny-2/bpq955fqfph6
+
+Deus Ex
+SRC: dx
+Steam: 6910
+
+Deus Ex: Human Revolution
+SRC: dxhr
+Steam: 238010
+Xbox: deus-ex-human-revolution/bzk0pf5lxpdv
+
+Deus Ex: Mankind Divided
+SRC: dxmd
+Steam: 337000
+PS: UP0082-CUSA01799_00-DXMANKINDIVIDED0
+Xbox: deus-ex-mankind-divided/bqksxqgjtn43
+
+# DMC note: "HD Collection" includes DMC1, DMC2, DMC3SE; "DMC: Devil May Cry" is a separate reboot from DMC1
+
+Devil May Cry
+SRC: dmc
+Nint: devil-may-cry-switch
+# HD Collection:
+Steam: 631510
+PS: UP0102-CUSA09407_00-DMCHDC0000000000
+Xbox: devil-may-cry-hd-collection/bvnrff9xj6km
+
+Devil May Cry 3: Special Edition
+SRC: dmc3se
+Nint: devil-may-cry-3-special-edition-switch
+# HD Collection:
+Steam: 631510
+PS: UP0102-CUSA09407_00-DMCHDC0000000000
+Xbox: devil-may-cry-hd-collection/bvnrff9xj6km
+
+Devil May Cry 4: Special Edition
+SRC: dmc4se
+Steam: 631510
+PS: UP0102-CUSA01671_00-MAINRDOBXXXX0000
+Xbox: devil-may-cry-4-special-edition/bpzt3cqccwkg
+
+Devil May Cry 5
+SRC: dmc5
+Steam: 601150
+Nint: devil-may-cry-5-devil-hunter-edition-switch-2
+Xbox: devil-may-cry-5/bnlg5j5kdvj3
+
 Devil May Cry 5: Special Edition
 SRC: dmc5se
-Steam: 601150
+# Special is not released on PC yet
 PS: UP0102-PPSA01442_00-DMC5SE0000000001
 Xbox: devil-may-cry-5-special-edition/9mz11kt5klp6
-Nint: devil-may-cry-5-devil-hunter-edition-switch-2
-# is Devil Hunter edition different from Special?
+
+Dharma Doujo
+SRC: dharma_dojo_arcade
+# also has SNES version
+
+Diablo
+SRC: diablo
+Xbox: diablo/9n16slb6fb96
+# actually PC version, but it's not on Steam
+
+# TODO: replace a "Diablo 2" in SGDQ2019
+
+Diablo II: Lord of Destruction
+SRC: d2lod
+# not on stores, only the remaster
+
+Diablo III
+SRC: d3_ros
+Nint: diablo-iii-eternal-collection-switch
+PS: UP0002-CUSA00242_00-D3ETERNALCOLL000
+Xbox: diablo-iii-eternal-collection/bz84xlqbrhtg
+
+Dick Tracy
+SRC: dick_tracy
+# NES version run
+
+Diddy Kong Racing
+SRC: dkr
+# not currently on Switch?
 
 Die Hard: Nakatomi Plaza
 SRC: die_hard_nakatomi_plaza
 # PC, not on steam
 
+Dino Crisis 2
+SRC: dino2
+# supposedly on PSN but can't find, only first game
+
+Dinobreak
+SRC: Dinobreak_
+Steam: 1932180
+Nint: dinobreak-switch
+PS: UP6088-CUSA45141_00-0903683843686790
+Xbox: dinobreak/9nwzgx09jmzh
+
+Dirge of Cerberus: Final Fantasy VII
+SRC: docff7
+# PS2, never re-released
+
+Discworld
+SRC: discworld
+# DOS, maybe check abandonware?
+
+Disgaea 5: Alliance of Vengeance
+SRC: disgaea_5_alliance_of_vengeance
+Steam: 803600
+Nint: disgaea-5-complete-switch
+PS: UP1063-CUSA02629_00-DISGAEA500000001
+# is "Complete" meaningfully different from AoV?
+
+Dishonored
+SRC: dishonored
+Steam: 205100
+PS: UP1003-CUSA02218_00-DISHONOREDGAMENA
+Xbox: dishonored-definitive-edition/c299qvc2bsjf
+
+Dishonored 2
+SRC: dishonored_2
+Steam: 403640
+PS: UP1003-CUSA03642_00-DISHONORED2NAMER
+Xbox: dishonored-2/bszm480tswgp
+
+Dishonored: Death of the Outsider
+SRC: dishonored_doto
+Steam: 614570
+PS: UP1003-CUSA08793_00-BLKHRT0000000000
+Xbox: dishonored-death-of-the-outsider/c5f2xdqppjkz
+
+Disney Gargoyles Remastered
+# no SRC? only has original game
+Steam: 1928020
+Nint: gargoyles-remastered-switch
+PS: UP1082-CUSA33789_00-5761929739804239
+Xbox: gargoyles-remastered/9n632462xws0
+
 Disney's 102 Dalmatians: Puppies to the Rescue
 SRC: 102dalmatians
 
+Disney's Aladdin
+SRC: aladdin_snes
+# SNES version played
+# using pack of Aladdin + Lion King
+Steam: 1126190
+Nint: disney-classic-games-aladdin-and-the-lion-king-switch
+PS: UP1082-CUSA16968_00-ALADDIN000000000
+
+Disney's Extreme Skate Adventure
+SRC: desa
+# GC version run, also PS2/XbC/GBA
+
 Disney's Magical Quest 3 Starring Mickey and Donald
 SRC: magical_quest_3_starring_mickey_and_donald
+
+Disruptor
+SRC: disruptor
+# PS1, not on PS store
+
+Divekick
+SRC: divekick
+Steam: 244730
+PS: UP4372-CUSA00204_00-DIVEKICKPS400001
+Xbox: divekick/bppqj0k402w8
+
+Divinity: Original Sin 2
+SRC: dos2
+Steam: 435150
+Nint: divinity-original-sin-2-definitive-edition-switch
+PS: UP3526-PPSA06865_00-ORIGINALSIN2XPS5
+Xbox: divinity-original-sin-2-definitive-edition/bw8pvl4cj2q6
+
+Divinity: Original Sin 2 Definitive Edition
+# TODO: merge into above, same game AFAICT
 
 Dizzy Hero
 SRC: Dizzy_Hero
@@ -277,6 +1909,29 @@ Nint: dizzy-hero-switch
 dlroW oiraM repuS
 SRC: wms
 Link: https://isofrieze.com/romhacks/wms/
+
+Doctor Hauzer
+SRC: doctor_hauzer
+# 3DO game 0_o
+
+Dodo Peak
+SRC: Dodo_Peak
+Steam: 2845610
+Nint: dodo-peak-switch
+
+Dodonpachi Saidaioujou
+SRC: dodonpachi_saidaioujou
+# Arcade/Xb360 release, not on Xb Store :(
+
+Dogurai
+SRC: dogurai
+Steam: 565180
+Nint: dogurai-switch
+PS: UP2158-CUSA18249_00-DOGURAIPS4191025
+Xbox: dogurai/9n841zc3qj16
+
+Dokkaebi-ga Ganda
+# DOS, not on SRC
 
 Don’t Stop, Girlypop!
 SRC: Dont_Stop_Girlypop
@@ -289,8 +1944,86 @@ Donkey Kong Bananza
 SRC: dkb
 Nint: donkey-kong-bananza-switch-2
 
+Donkey Kong Country
+SRC: dkc
+
+Donkey Kong Country 2
+# TODO: standardize, this is reserved for the GBA version (hasn't been run yet)
+
+Donkey Kong Country 2: Diddy's Kong Quest
+# TODO: standardize on this one
+SRC: dkc2
+
 Donkey Kong Country 2: Diddy's Kong-Quest
 SRC: dkc2
+# TODO: standardize on above, where tf did that hyphen come from?
+
+Donkey Kong Country 2 Unveiled
+SRC: dkc2unv
+Link: https://www.romhacking.net/hacks/9293/
+
+Donkey Kong Country 3
+# TODO: standardize, the subtitle-less version should ONLY be the GBA version
+SRC: dkc3gba
+
+Donkey Kong Country 3: Dixie Kong's Double Trouble
+SRC: dkc3
+
+Donkey Kong Country: Tropical Freeze
+SRC: dkctf
+Nint: donkey-kong-country-tropical-freeze-switch
+
+Donkey Kong Country Returns HD
+SRC: dkcrhd
+Nint: donkey-kong-country-returns-hd-switch
+
+Donut County
+SRC: donutcounty
+Steam: 702670
+Nint: donut-county-switch
+PS: UP2470-CUSA10062_00-DONUTSIEA0000000
+Xbox: donut-county/9n6v2181ghlm
+
+DOOM
+# exclusively the 2016 reboot, OG is run as "Ultimate Doom"
+SRC: d2016
+Steam: 379720
+Nint: doom-switch
+PS: UP1003-CUSA02085_00-DOOMNORTHAMERICA
+Xbox: doom/c3qh42wrgm3r
+
+Doom 3
+SRC: doom3
+Steam: 208200
+Nint: doom-3-switch
+PS: UP1003-CUSA16286_00-DOOM030000000000
+Xbox: doom-3/9nsl68d814gc
+
+DOOM 64
+# TODO: standardize
+
+Doom 64
+# the 2020 remaster was what was played, linking to that
+SRC: doom_64_2020
+Steam: 1148590
+Nint: doom-64-switch
+PS: UP1003-CUSA16287_00-DOOM64X199700000
+Xbox: doom-64/9mxnd4pqlk3w
+
+Doom II: Hell On Earth
+# classic Doom has own site, not on SRC
+Link: https://dsdarchive.com/wads/doom2
+# still linking the KEX engine remake, since it's most accessible
+Steam: 2280
+Nint: doom-plus-doom-ii-switch
+PS: UP1003-PPSA21444_00-OSIRIS2000000000
+Xbox: doom-doom-ii/9p46m5jq2ptf
+SRC: Doom_Kex_Port
+
+Doom: SIGIL
+Link: https://romero.com/sigil
+# leaderboards at https://dsdarchive.com/wads/sigil
+# can also link the 1+2 collection, it includes it now
 
 DOOM Eternal
 SRC: doom_eternal
@@ -298,6 +2031,36 @@ Steam: 782330
 Nint: doom-eternal-70010000018023-switch
 PS: UP1003-PPSA01981_00-DOOMETERNALBUNDL
 Xbox: doom-eternal-standard-edition/9p5s26314hwq
+
+Doronko Wanko
+SRC: DORONKO_WANKO
+Steam: 2512840
+Nint: doronko-wanko-switch
+
+Double Dragon
+# NES version only one played so far
+SRC: doubledragon
+Nint: double-dragon-switch
+
+Double Dragon II: The Revenge
+# NES version only one played so far
+SRC: doubledragon2
+Nint: double-dragon-the-revenge-switch
+
+Dracula II: Noroi no Fuuin [AKA Castlevania II: Simon's Quest]
+# TODO: point at Cv2, the JP version is classed as the same game, different category
+
+Dragon Age: Inquisition
+SRC: dainq
+Steam: 1222690
+# PS has "Deluxe" and "GOTY", seem to include disparate sets of DLC but based on Xbox versions, "Deluxe" is the closer to baseline
+PS: UP0006-CUSA00220_00-B000000000000438
+Xbox: dragon-age-inquisition/c47gzzbmr5wg
+
+Dragon Age: Origins
+SRC: daorigins
+Steam: 47810
+Xbox: dragon-age-origins/bs9sx4q6xjrf
 
 Dragon Ball Z: Budokai
 SRC: dbzb1
@@ -309,9 +2072,36 @@ Nint: dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch
 PS: UP0082-CUSA18600_00-0000000000000000
 Xbox: dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition/9pbdc0xz8txk
 
+Dragon Warrior III
+SRC: dw3
+# NES, aka Dragon Quest III
+
+Dragon's Lair: The Legend
+SRC: dragons_lair_the_legend
+# GB port
+
 Drywall Eating Simulator
 SRC: Drywall_Eating_Simulator
 Steam: 3749110
+
+DuckTales 2
+SRC: dt2
+# NES
+
+Ducktales: Remastered
+SRC: ducktales_remastered
+Steam: 237630
+# WiiU and PS3 versions lost on respective stores
+Xbox: ducktales-remastered/c07j3zjpgx6z
+
+Dumpy & Bumpy
+SRC: dumpy_and_bumpy
+Steam: 1631500
+Nint: dumpy-and-bumpy-switch
+
+Dungeon Magic
+SRC: Dungeon Magic
+# NES
 
 Dunkadillo
 SRC: dunkadillo
@@ -333,6 +2123,26 @@ PS: UP1018-CUSA00078_00-DLCLASSICEDITION
 # PS is "essentials edition", seems to be current baseline
 Xbox: dying-light/bxn9lb6r3zpg
 
+Dust: An Elysian Tail
+SRC: dust_aet
+Steam: 236090
+Nint: dust-an-elysian-tail-switch
+PS: UP4526-CUSA01326_00-DUSTAETPS4000000
+# Xb360 port missing from store
+
+Dustforce DX
+SRC: dustforce_dx
+Steam: 65300
+
+DYE
+SRC: dye
+Steam: 503550
+Xbox: dye/c0px97v7f5j3
+
+Dynamite Headdy
+SRC: dynamite_headdy
+# Genesis, SRC lists many ports but can't find on any supported store
+
 Earthbound Beginnings
 SRC: mother1
 
@@ -348,7 +2158,7 @@ SRC: eldenring
 Steam: 1245620
 Nint: elden-ring-tarnished-edition-switch-2
 PS: UP0700-PPSA04610_00-ELDENRING0000000
-Xbox: store/elden-ring/9p3j32ctxlrz
+Xbox: elden-ring/9p3j32ctxlrz
 
 Elden Ring Nightreign
 SRC: Elden_Ring_Nightreign
@@ -447,8 +2257,6 @@ Steam: 1145350
 Nint: hades-ii-switch
 PS: EP4484-PPSA36082_00-0912328937643383
 Xbox: hades-ii/9pcr3z2msm4t
-
-
 
 Hey You, Pikachu!
 SRC: hey_you_pikachu
@@ -876,6 +2684,11 @@ SRC: n100f
 SEGA AGES Puyo Puyo
 SRC: ppsa
 Nint: sega-ages-puyo-puyo-switch
+# might not be needed anymore, the run originally listed as PP1SA was actually PP2SA
+
+SEGA AGES Puyo Puyo 2
+SRC: puyo_puyo_2_sega_ages
+Nint: sega-ages-puyo-puyo-2-switch
 
 SEUM: Speedrunners from Hell
 SRC: seum
