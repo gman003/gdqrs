@@ -170,13 +170,13 @@ Absolum (PC - Guard Crush 2025)
 Co-Op (Warpless)
 coop by threepup, ProfessorBurtch
 host WildCherryMeteor, couch PleasantlyTwstd, Metroid Crime
-29m37s (est 40m, wr HhMMmSSs)
+29m37s (est 40m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube z2-diB5KvWw
 Review: (not yet reviewed)
-NM: wr depends on heroes and ordeals, too many to list here
+NM: leaderboard doesn't seem to exist for mixed character runs? also just seems terribly-run in general
 
 Blue Fire (PC - Robi 2021)
 Any% (NMG)
@@ -219,13 +219,12 @@ SSX Tricky (PS2 - EA Canada 2001; EA Canada 2003) [BIDWAR]
 All Races (No Wormholes)
 by Jr
 host chibicarrera, couch Ozmourn, Helix
-24m21s (est 28m, wr 16m58s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+24m21s (est 28m, no wr)
+Overall ★★☆☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube sEo5kqjnh8o
-Review: (not yet reviewed)
-NM: Tricky WR 16m58s, SSX3 WR 15m57s assuming default categories
+Review: It's a lot of shortcuts, a lot of respawn skips, some strategizing to get max boost quickly, and a little bit of violence. Neat enough if you're an outsider to the series, presumably the memes make more sense to insiders.
 
 Don’t Stop, Girlypop! (PC - Funny Fintan 2026)
 Any% (Inbounds, GWASAAT)
@@ -450,16 +449,15 @@ Review: (not yet reviewed)
 NM: pb 13m00s
 
 Streets of Rage 2: New Era (PC - Sega 1992, gsaurus 2022)
-Hardest%
+Hardest% (Blaze, v3.1.0)
 by Sonicman2005
 host TahliahtheFox, couch PleasantlyTwstd, MetroidMaster, Drakodan
-37m45s (est 35m, wr HhMMmSSs)
+37m45s (est 35m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
-Youtube https://youtu.be/i2483KQMqvA
+Youtube i2483KQMqvA
 Review: (not yet reviewed)
-NM: few runs on leaderboard, wr likely not set but depends on character + version
 
 The Gunk (PC - Thunderful 2021)
 Any%
@@ -477,12 +475,11 @@ Any%
 by Yoshipro [2RH]
 host thefrencharmenian, couch wonderj, Jaxler
 46m48s (est 1h00m, wr 38m45s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube W5rs1REpvkM
-Review: (not yet reviewed)
-NM: pb 45m39s
+Review: It's a pretty standard 3D platformer, but more polished and labbed out than most, if that's your genre this is not one to skip. Stellar couch work, Jaxler's going all-out on both explanation and hype mode.
 
 Isopod: A Webbed Spin-off (PC - Sbug 2025)
 Any% (NMG)
@@ -639,23 +636,22 @@ Any% (NG+, No Intro)
 by AvuKamu [2RH]
 host blast0rama, couch Bobbeigh, BloodThunder, Maxylobes
 1h24m04s (est 1h30m, wr 1h09m10s lrt)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube 5T0dJiceyhE
-Review: (not yet reviewed)
-NM: pb 1h12m03s
+Review: NG+ trivializes the combat, even bosses go down in a few shots. So this is very much a run of zips, clips, launches, and out-of-bounds. Not exceptionally consistent, and never explained in depth, but still fun to watch, and some good couch banter makes up for the time between.
 
 Mary Shelley's Frankenstein (SegaCD - Psygnosis 1994)
 Any%
 by sharif [WRH][ORH]
 host Baidol, couch ebloodycandy, Starwin, DanTheVP
 25m12s (est 30m, wr 22m27s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube QV37wjrS3QM
-Review: (not yet reviewed)
+Review: Silly Block containment has been breached. It's a game of dubious quality and baffling design choices. Not a lot of speed tech, besides knowing in advance the inscrutable logic the game expects you to follow, but the absurdity and the charisma make up for it. Despite being a Sega CD game, we're skipping cutscenes, so it's up to the runner and couch to help us follow along, a task they do hilariously, if not accurately.
 
 Kuon (PS2 - From 2004)
 Yin Phase
@@ -670,52 +666,48 @@ Review: (not yet reviewed)
 NM: assumed Insomnia difficulty
 
 In Stars and Time (PC - insertdisc5 2023)
-Any%
+Two Hats [INCENTIVE]
 by KyoshiCadre [WRH]
-host Baidol, couch ashmichda
-1h52m53s (est 1h55m, wr 1h46m39s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host Baidol, couch ashmichda, keucher
+1h52m53s (est 1h55m, wr 1h46m38s lrt)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube UaHv36S-6zM
-Review: (not yet reviewed)
-NM: is twohats separate category?
+Review: Reason #1 to not watch this run: if you are planning to play this game casually, and have not done so yet. This absolutely *will* spoil everything, and in a way that doesn't even give you the impact. But that aside, it's got some differences from the standard RPG speedrun. There's some tech to absolutely zoom through cutscenes, it's not free but it's hard to see the skill. Battles lack the complex strategies and setups you'll see in Pokemon or Final Fantasy. The speedrun is all about blazing-fast menuing and juking enemy encounters, which KC is ridiculous at. Add some couch antics as needed to fill time - dorky, a little awkward, but funny, and they're good at never getting in the way of the run.
 
 Maiden & Spell (PC - mino_dev 2020)
-Story — Single Character (Hard)
-by Raelcun
+Story — Single Character (Hard, Royal Arcanist)
+by Raelcun [WRH]
 host mintswirl, couch Mikan, PleasantlyTwstd
-16m25s (est 25m, wr HhMMmSSs)
+16m25s (est 25m, wr 16m16s)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube 1N9vdhTkE6o
 Review: (not yet reviewed)
-NM: guessing there'll be a character bidwar
 
 Kao the Kangaroo: Mystery of the Volcano (PC - Tate 2005)
 All Artifacts (Speedrun Mod)
 by peterafro [3RH]
-host mintswirl, couch COUCH
+host mintswirl, no couch
 32m14s (est 35m, wr 27m27s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★☆☆☆☆
 Youtube rCTIXMzBrY8
-Review: (not yet reviewed)
-NM: assumed NG, pb 28m34s lrt
+Review: There's just not much here. The most common thing the runner said was "this part's boring, we can read donations for a bit". There's not nothing here, that one out-of-bounds was actually really neat, but basic movement just doesn't have the depth to make grabbing 400 orbs all that interesting. There wasn't even much said about the game itself, the runner seemed to assume we all knew it already - I at least had never heard of this series, so that was a missed opportunity. Filler, easily skipped.
 
 Wario World (Gamecube - Treasure 2003)
 Any%
 race, meowmix_fan vs Dip92 [2RH]
 host mintswirl, couch Dangerless
-52m18s (est 50m, wr 43m16s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+47m27s, 52m18s (est 50m, wr 43m16s)
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube mVY3eCOQVvk
-Review: (not yet reviewed)
-NM: pbs 47m02s, 44m42s
+Review: This run just didn't seem to find its legs. The race angle fell apart, one runner having trouble adapting to the GDQ setup's better input latency and struggling with a common trick. The platforming is nothing special, the boss fights are basic stunlocks when they aren't autoscrollers, there's no interesting routing. It's never bad, it just doesn't have much going for it.
 
 Sanabi (PC - Wonder Potion 2023)
 Speedrun Mode
@@ -743,15 +735,14 @@ NM: assumed Random Seed, if Set Seed wr is 12m51s and pb is 19m45s
 
 VS. Super Mario Bros. (Arcade - Nintendo R&D4 1986)
 Warpless
-by Kosmic [2RH]
-host cartridgeblowers, couch COUCH
+by Kosmic [2RH][REM]
+host cartridgeblowers, couch JeremyMKW [REM]
 23m46s (est 30m, wr 19m43s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★☆☆☆
+Skill   ★★☆☆☆
+Fun     ★★☆☆☆
 Youtube Cb0YUb4wa8w
-Review: (not yet reviewed)
-NM: pb 19m45s
+Review: It's neat to see an obscure entry in the NES Super Mario Bros canon run, the arcade spinoff, but that's kind of all this run had going for it. Most of the levels are similar enough to SMB1 or SMB2J levels that a casual viewer can't tell them apart, and the main difficulty is the arcade joystick instead of a nice D-pad. It's also a fragile run, dependent on maintaining a consistent RNG, and once that breaks, Kosmic kind of flails. And both the video and audio quality are not up to par, it's a webcam-pointed-at-CRT capture and badly-gated audio. Something for SMB diehards looking for anything new, but otherwise skippable.
 
 Super Princess Peach (DS - Tose 2005)
 Any%
@@ -843,17 +834,16 @@ Youtube Ux75QLnoMhw
 Review: There's just a few too many autoscrollers and rail-grind sections for me to recommend this without reservation. When it's firing, yeah, it's some tight, input-heavy 3D platforming, and some sections were quite impressive. Keeping it in-bounds keeps the focus on execution, good, but if there were ways to skip some of that dead time, I'd have welcomed it.
 NM: probably not PB, unless GDQ computers loaded slower than her usual
 
-Banjo-Tooie (N64 - Rare 2000)
+Banjo-Tooie (N64 via Switch - Rare 2000)
 Any% (No Bitclips)
-by TSR Stormed
+by TSR Stormed [WRH]
 host KuritasKRT, couch Ad129, Connor75, Brandino59
-42m20s (est 46m, wr 41m53s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+42m18s (est 46m, wr 41m03s)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube 64yj6yukXWc
-Review: (not yet reviewed)
-NM: pb 44m45s
+Review: It doesn't do much of the collectathon aspect, getting only enough to get the bare minimum to beat the game, with many glitches. But there's some tricky platforming, some efficient movement, all well-explained by the couch. It's not a particularly thrilling run, but - well, it's exactly what you'd expect from the title, a run that breaks the game without being totally unrecognizable, executed cleanly and commentated well.
 
 ------------------------------THURSDAY-------------------------------
 
@@ -944,18 +934,18 @@ Snoopy (C64 - Radarsoft 1984)
 by Msushi [WRH]
 host HockeyBabbler, couch fishmcmuffins, Spirialis
 12m48s (est 20m, wr 11m36s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★★☆☆
+Fun     ★★★★☆
 Youtube HaNZEnloy_U
-Review: (not yet reviewed)
+Review: It's a brilliantly simple concept. Play the same twenty levels of simple platforming, only the game doubles in speed every loop, quickly spiraling into absurdity. Short and to the point, great comedic timing, just about as good as it can get.
 NM: not 100% sure on dev credit
 
 Knuckle Bash (Arcade - Toaplan 1993)
 Cutscene%
 by LRock617
 host JRisJunior, couch Starwin, Cypherin
-12m02s (est 15m, wr HhMMmSSs)
+12m02s (est 15m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -967,13 +957,12 @@ American Idol (GBA - Mobius 2003)
 Low%
 by Metroid Crime
 host JRisJunior, couch zokubun, Lazlotus, myserval
-21m15s (est 20m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+21m15s (est 20m, no wr)
+Overall ★★★☆☆
+Skill   ★☆☆☆☆
+Fun     ★★★★☆
 Youtube RawxnJ-hSfU
-Review: (not yet reviewed)
-NM: no low% on leaderboard? no categories at all
+Review: This run lives and dies by the bit. If you find the couch gag of acting like American Idol judges funny, or deliberately playing badly to get warbly, off-key notes, this is hilarious. If not, well, there's not much else to it - it's basically an autoscroller.
 
 Drywall Eating Simulator (PC - Peripheral Playbox 2025)
 Any%
@@ -1003,11 +992,11 @@ All Minigames
 by PARTY MAN X [WRH]
 host JRisJunior, couch Alara, Seckswrecks
 10m23s (est 12m, wr 9m32s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★★☆
 Youtube lZBrqh7x-OQ
-Review: (not yet reviewed)
+Review: It's a lightning-fast barrage of dubiously-excavator-based minigames. It's only ten minutes, but it's ten minutes of excellent Silly Block material.
 
 Manual Samuel (XbSX - Perfectly Paranormal 2016)
 Any%
@@ -1048,11 +1037,11 @@ All Unique Deaths (No Turret, No TF22)
 by LifeL1ke [WRH][ORH]
 host TahliahtheFox, couch Bobbeigh, CovertMuffin
 42m33s (est 42m, wr 36m28s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★★☆
+Skill   ★★☆☆☆
+Fun     ★★★★★
 Youtube NK9FhhUO9Z0
-Review: (not yet reviewed)
+Review: It's some peak adventure-game bullshit deaths, as an entire category. LifeL1ke has an *amazing* sense of comedic timing, here, genuinely one of the funniest runs I can remember.
 NM: gdq just says "PC" but no win32 release, only dos
 
 Randall The Grape Jelly Cube Goes to Soda Valley for Some Reason (PC - Ethan Smith 2024)
@@ -1104,13 +1093,13 @@ Mega Man (DOS - Hi-Tech Expressions 1990)
 Buster Only
 by davidtki
 host klinkit, couch Lizstar, authorblues
-11m20s (est 15m, wr HhMMmSSs)
+11m20s (est 15m, no wr)
 Overall ★★☆☆☆
 Skill   ★★☆☆☆
 Fun     ★★★☆☆
 Youtube W1-PxuybZaw
 Review: The infamously bad "port" returns. It's a weird mix of a runner approaching it as a serious speedrun, and a couch making fun of how nonsensical it is as a Mega Man game. I think it works though?
-NM: no buster only category?
+NM: no buster only category
 
 Zelda: The Wand of Gamelon (CD-i - Animation Magic 1993)
 All Cutscenes [INCENTIVE]
@@ -1183,14 +1172,14 @@ Review: Just a quick bonus run, it's the hardest extra level of the game. It did
 Elden Ring (PC - From 2022)
 All Bosses (4 Players)
 coop by Mitchriz, LilAggy, YoJosherino, star0chris
-host KeiperDontCare, couch COUCH
-3h13m32s (est 3h15mm, wr HhMMmSSs)
+host KeiperDontCare, no couch
+3h13m32s (est 3h15mm, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube S0kR-n2q6mg
 Review: (not yet reviewed)
-nm: no coop wr?
+nm: no coop wr? can't even find leaderboard now
 
 -------------------------------FRIDAY--------------------------------
 
@@ -1199,43 +1188,42 @@ All Bosses (Unrestricted)
 by Hobbit [2RH]
 host VexxnBexxn, couch jay, Arcanox
 1h09m58s (est 1h15m, wr 1h03m01s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube y4xygz_zcU0
-Review: (not yet reviewed)
-NM: assumed rookie, pb 1h03m58s
+Review: Expect a very glitchy run, that doesn't just skip the entire game. It ends up more out-of-order than majorly skipping things, and it does end up trivializing a lot of fights, but it's still a solid run.
 
-SEGA AGES Puyo Puyo (Switch2 - Compile 1991, M2 2019)
+SEGA AGES Puyo Puyo 2 (Switch2 - Compile 1991, M2 2019)
 Endurance Mode (Puyo Puyo 2)
 by Peas
-host VexxnBexxn, couch gz, jr
-31m44s (est 40m, wr HhMMmSSs)
+host VexxnBexxn, couch groundzero, jr
+31m44s (est 40m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
 Youtube 4Q68As2JOhY
 Review: (not yet reviewed)
-NM: arcade port, add "Arcade via" if leaderboards the same (it's not)
-NM: no category?
+NM: originally listed as Puyo Puyo 1, might be some shrapnel due to that
+NM: "Arcade Mode" clearly different, the WR there is 6m
 
 Hypogea (PC - Charlie Wagner 2025)
 All Chapters
 by Pr0tal [2RH]
 host VexxnBexxn, couch BobbyBurm, Gelly
 19m53s (est 24m, wr 18m45s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★☆☆☆
 Youtube lJH6uIpg-V4
-Review: (not yet reviewed)
+Review: It's got some movement mechanics that I don't think I've seen before, but make intuitive sense, so vanilla movement is easy to follow. Robust commentary keeps you there for all the broken movement. Short, but solid platformer run.
 NM: pb 18m58s
 
 The Chaos Engine (PC - The Bitmap Brothers 1993, 2013)
 Preacher/Mercenary 
 coop by tbcr, Slyton
-host VexxnBexxn, couch COUCH
-31m35s (est 32m, wr HhMMmSSs)
+host VexxnBexxn, no couch
+31m35s (est 32m, no wr)
 Overall N/R
 Skill   N/R
 Fun     N/R
@@ -1271,18 +1259,18 @@ NM: check time, seems sus
 Towerbolt (PC - bordenary 2026)
 Any%
 by Valefor_M [WRH]
-host JD Puppy, couch COUCH
-26m11s (est 30m, wr 27m30s rta)
-Overall N/R
-Skill   N/R
-Fun     N/R
+host JD Puppy, couch Bordenary [DEV], EhSeeZed, DanTheVP
+26m10s (est 30m, wr 27m30s rta) [WR]
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube XRVzt9AqFCg
-Review: (not yet reviewed)
+Review: It's a 2D platformer aimed straight for speedrunners. It's basically half an hour of schmovement, some levels completed in very unintended ways. It does drag on a little bit, but if you're a fan of this sort of thing, you probably won't notice, it's so clean.
 
 Epic Battle Fantasy Collection (PC - Matt Roszak 2009)
 Epic Battle Fantasy 1&2 Biathalon
 by Mathcat [WRH]
-host JD Puppy, couch COUCH
+host JD Puppy, no couch
 22m46s (est 30m, no wr)
 Overall N/R
 Skill   N/R
@@ -1319,13 +1307,12 @@ Kirby's Dream Land 2 (GB via Switch VC - HAL Labs 1995)
 Rick%
 by ProbablyGeo
 host TheKingsPride, couch Moxieclaws
-41m29s (est 47m, wr HhMMmSSs)
-Overall N/R
-Skill   N/R
-Fun     N/R
+41m29s (est 47m, no wr)
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube 35Vwil7Rwvs
-Review: (not yet reviewed)
-NM: is Rick% "Best Ending"? if so, 3rh, wr 41m37s pb 42m27s
+Review: What seems at first like a gimmick category turns out to make for a much better speedrun. Rick has no ability to trivially fly over levels, forcing the runner to actually do platforming. Bosses are made easier - but not free - by a strong attack move, and regular enemies push the run to use a variety of transformations. The end result is a Kirby run without many of the common flaws of Kirby runs, well-executed and with a fun gimmick that never gets too overbearing.
 
 The Legend of Zelda: The Wind Waker (Gamecube - LagoLunatic et al 2023; Nintendo EAD 2002)
 Randomizer
@@ -1520,16 +1507,15 @@ Youtube ncp3PNeJU8Q
 Review: (not yet reviewed)
 
 Clash at Demonhead (NES - Vic Tokai 1989)
-Single Suits
-by GrayGooGlitch
+Single Suits - Either Ending
+by GrayGooGlitch [WRH]
 host WildCherryMeteor, couch yelsraek
-28m11s (est 33m, wr 20m08s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+28m08s (est 33m, wr 28m31s) [WR]
+Overall ★★★☆☆
+Skill   ★★☆☆☆
+Fun     ★★★☆☆
 Youtube RhfJctD-3pw
-Review: (not yet reviewed)
-NM: assumed Good Ending? pb 26m52s
+Review: It's not the easiest run to follow, thanks to the confusing map, absurd plot, and frequent jumps to the shop. It's mostly an action-platformer run, but adding in some RPG menuing. Weird, but not in a bad way.
 
 The Rocketeer (NES - Realtime 1991)
 Any%
@@ -1583,11 +1569,11 @@ All Bosses
 by Coley [WRH]
 host spef, couch Mortal
 29m14s (est 32m, wr 26m31s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★☆☆
+Fun     ★★★☆☆
 Youtube HE-btHcPuPA
-Review: (not yet reviewed)
+Review: A run heavy on sequence breaks, out-of-bounds, and a few wrong-warps. It's not super polished, but it is super broken - and also weirdly dark, I struggled to see sometimes, but that might just be the game.
 
 Ed, Edd n Eddy: The Mis-Edventures (PC - Artificial Mind and Movement 2005)
 All Scams
@@ -1603,13 +1589,14 @@ Review: (not yet reviewed)
 Pizza Tower (PC - Tour de Pizza 2023)
 Any% (Swap Mode 2P, NMG)
 coop by impossablank, jade [WRHs]
-host SatanHerself, couch COUCH
+host SatanHerself, couch CrayFray, Mr. Sauceman [DEV][REM]
 59m47s (est 1h05m, wr 53m01s)
-Overall N/R
-Skill   N/R
-Fun     N/R
+Overall ★★★☆☆
+Skill   ★★★★☆
+Fun     ★★☆☆☆
 Youtube pW6Hbxjipf0
-Review: (not yet reviewed)
+Review: The gameplay here is so smooth that you almost can't tell how good it is. There's not a huge amount of specific tricks, few super-cool moments to point at, it's just an hour of straight, nonstop, clean platforming. That might be too much for some, but if you're a platforming fanatic - it's pizza time!
+NM: CrayFray was playtester for the game, do we count that as dev commentary?
 
 Mouse: P.I. For Hire (PC - Fumi 2026)
 Any% Unrestricted (No 20FPS)
